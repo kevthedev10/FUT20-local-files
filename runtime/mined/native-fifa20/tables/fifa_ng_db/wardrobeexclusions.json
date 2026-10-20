@@ -1,0 +1,27 @@
+[
+  {
+    "itemone": 258,
+    "exclusionid": 1,
+    "itemtwo": 100400
+  },
+  {
+    "itemone": 262,
+    "exclusionid": 2,
+    "itemtwo": 200086
+  },
+  {
+    "itemone": 262,
+    "exclusionid": 3,
+    "itemtwo": 200087
+  },
+  {
+    "itemone": 262,
+    "exclusionid": 4,
+    "itemtwo": 200097
+  },
+  {
+    "itemone": 262,
+    "exclusionid": 5,
+    "itemtwo": 200098
+  }
+]

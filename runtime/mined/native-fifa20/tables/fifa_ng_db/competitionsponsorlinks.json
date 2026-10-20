@@ -1,0 +1,3775 @@
+[
+  {
+    "competitionid": 1,
+    "artificialkey": 1,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 7
+  },
+  {
+    "competitionid": 7,
+    "artificialkey": 2,
+    "adsponserid": 40,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 7,
+    "artificialkey": 3,
+    "adsponserid": 102,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 7,
+    "artificialkey": 4,
+    "adsponserid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 7,
+    "artificialkey": 5,
+    "adsponserid": 5,
+    "isapproved": 1,
+    "dynamicimageid": 204
+  },
+  {
+    "competitionid": 7,
+    "artificialkey": 6,
+    "adsponserid": 37,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 7,
+    "artificialkey": 7,
+    "adsponserid": 29,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 7,
+    "artificialkey": 8,
+    "adsponserid": 49,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 7,
+    "artificialkey": 9,
+    "adsponserid": 36,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 7,
+    "artificialkey": 10,
+    "adsponserid": 39,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 7,
+    "artificialkey": 11,
+    "adsponserid": 68,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 10,
+    "artificialkey": 12,
+    "adsponserid": 24,
+    "isapproved": 1,
+    "dynamicimageid": 30
+  },
+  {
+    "competitionid": 10,
+    "artificialkey": 13,
+    "adsponserid": 40,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 10,
+    "artificialkey": 14,
+    "adsponserid": 102,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 10,
+    "artificialkey": 15,
+    "adsponserid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 10,
+    "artificialkey": 16,
+    "adsponserid": 24,
+    "isapproved": 1,
+    "dynamicimageid": 208
+  },
+  {
+    "competitionid": 10,
+    "artificialkey": 17,
+    "adsponserid": 24,
+    "isapproved": 1,
+    "dynamicimageid": 207
+  },
+  {
+    "competitionid": 10,
+    "artificialkey": 18,
+    "adsponserid": 29,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 10,
+    "artificialkey": 19,
+    "adsponserid": 36,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 10,
+    "artificialkey": 20,
+    "adsponserid": 39,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 10,
+    "artificialkey": 21,
+    "adsponserid": 68,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 13,
+    "artificialkey": 22,
+    "adsponserid": 50,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 13,
+    "artificialkey": 23,
+    "adsponserid": 40,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 13,
+    "artificialkey": 24,
+    "adsponserid": 102,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 13,
+    "artificialkey": 25,
+    "adsponserid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 13,
+    "artificialkey": 26,
+    "adsponserid": 39,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 13,
+    "artificialkey": 27,
+    "adsponserid": 37,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 13,
+    "artificialkey": 28,
+    "adsponserid": 68,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 13,
+    "artificialkey": 29,
+    "adsponserid": 29,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 13,
+    "artificialkey": 30,
+    "adsponserid": 50,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 13,
+    "artificialkey": 31,
+    "adsponserid": 40,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 13,
+    "artificialkey": 32,
+    "adsponserid": 102,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 14,
+    "artificialkey": 33,
+    "adsponserid": 4,
+    "isapproved": 1,
+    "dynamicimageid": 88
+  },
+  {
+    "competitionid": 14,
+    "artificialkey": 34,
+    "adsponserid": 4,
+    "isapproved": 1,
+    "dynamicimageid": 89
+  },
+  {
+    "competitionid": 14,
+    "artificialkey": 35,
+    "adsponserid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 14,
+    "artificialkey": 36,
+    "adsponserid": 4,
+    "isapproved": 1,
+    "dynamicimageid": 210
+  },
+  {
+    "competitionid": 14,
+    "artificialkey": 37,
+    "adsponserid": 37,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 14,
+    "artificialkey": 38,
+    "adsponserid": 29,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 14,
+    "artificialkey": 39,
+    "adsponserid": 49,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 14,
+    "artificialkey": 40,
+    "adsponserid": 36,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 14,
+    "artificialkey": 41,
+    "adsponserid": 39,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 14,
+    "artificialkey": 42,
+    "adsponserid": 68,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 16,
+    "artificialkey": 43,
+    "adsponserid": 40,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 16,
+    "artificialkey": 44,
+    "adsponserid": 102,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 16,
+    "artificialkey": 45,
+    "adsponserid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 16,
+    "artificialkey": 46,
+    "adsponserid": 4,
+    "isapproved": 1,
+    "dynamicimageid": 76
+  },
+  {
+    "competitionid": 16,
+    "artificialkey": 47,
+    "adsponserid": 4,
+    "isapproved": 1,
+    "dynamicimageid": 77
+  },
+  {
+    "competitionid": 16,
+    "artificialkey": 48,
+    "adsponserid": 37,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 16,
+    "artificialkey": 49,
+    "adsponserid": 29,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 16,
+    "artificialkey": 50,
+    "adsponserid": 36,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 16,
+    "artificialkey": 51,
+    "adsponserid": 39,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 16,
+    "artificialkey": 52,
+    "adsponserid": 68,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 16,
+    "artificialkey": 53,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 63
+  },
+  {
+    "competitionid": 17,
+    "artificialkey": 54,
+    "adsponserid": 40,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 17,
+    "artificialkey": 55,
+    "adsponserid": 102,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 17,
+    "artificialkey": 56,
+    "adsponserid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 17,
+    "artificialkey": 57,
+    "adsponserid": 4,
+    "isapproved": 1,
+    "dynamicimageid": 76
+  },
+  {
+    "competitionid": 17,
+    "artificialkey": 58,
+    "adsponserid": 4,
+    "isapproved": 1,
+    "dynamicimageid": 77
+  },
+  {
+    "competitionid": 17,
+    "artificialkey": 59,
+    "adsponserid": 37,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 17,
+    "artificialkey": 60,
+    "adsponserid": 29,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 17,
+    "artificialkey": 61,
+    "adsponserid": 36,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 17,
+    "artificialkey": 62,
+    "adsponserid": 39,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 17,
+    "artificialkey": 63,
+    "adsponserid": 68,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 17,
+    "artificialkey": 64,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 64
+  },
+  {
+    "competitionid": 19,
+    "artificialkey": 65,
+    "adsponserid": 16,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 19,
+    "artificialkey": 66,
+    "adsponserid": 8,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "competitionid": 19,
+    "artificialkey": 67,
+    "adsponserid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 19,
+    "artificialkey": 68,
+    "adsponserid": 16,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 19,
+    "artificialkey": 69,
+    "adsponserid": 8,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "competitionid": 19,
+    "artificialkey": 70,
+    "adsponserid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 19,
+    "artificialkey": 71,
+    "adsponserid": 16,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 19,
+    "artificialkey": 72,
+    "adsponserid": 8,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "competitionid": 19,
+    "artificialkey": 73,
+    "adsponserid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 19,
+    "artificialkey": 74,
+    "adsponserid": 16,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 19,
+    "artificialkey": 75,
+    "adsponserid": 8,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "competitionid": 20,
+    "artificialkey": 76,
+    "adsponserid": 24,
+    "isapproved": 1,
+    "dynamicimageid": 212
+  },
+  {
+    "competitionid": 20,
+    "artificialkey": 77,
+    "adsponserid": 8,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "competitionid": 20,
+    "artificialkey": 78,
+    "adsponserid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 20,
+    "artificialkey": 79,
+    "adsponserid": 24,
+    "isapproved": 1,
+    "dynamicimageid": 212
+  },
+  {
+    "competitionid": 20,
+    "artificialkey": 80,
+    "adsponserid": 8,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "competitionid": 20,
+    "artificialkey": 81,
+    "adsponserid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 20,
+    "artificialkey": 82,
+    "adsponserid": 24,
+    "isapproved": 1,
+    "dynamicimageid": 212
+  },
+  {
+    "competitionid": 20,
+    "artificialkey": 83,
+    "adsponserid": 8,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "competitionid": 20,
+    "artificialkey": 84,
+    "adsponserid": 24,
+    "isapproved": 1,
+    "dynamicimageid": 212
+  },
+  {
+    "competitionid": 20,
+    "artificialkey": 85,
+    "adsponserid": 8,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "competitionid": 20,
+    "artificialkey": 86,
+    "adsponserid": 8,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "competitionid": 21,
+    "artificialkey": 87,
+    "adsponserid": 4,
+    "isapproved": 1,
+    "dynamicimageid": 160
+  },
+  {
+    "competitionid": 21,
+    "artificialkey": 88,
+    "adsponserid": 8,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "competitionid": 21,
+    "artificialkey": 89,
+    "adsponserid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 21,
+    "artificialkey": 90,
+    "adsponserid": 4,
+    "isapproved": 1,
+    "dynamicimageid": 160
+  },
+  {
+    "competitionid": 21,
+    "artificialkey": 91,
+    "adsponserid": 8,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "competitionid": 21,
+    "artificialkey": 92,
+    "adsponserid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 21,
+    "artificialkey": 93,
+    "adsponserid": 4,
+    "isapproved": 1,
+    "dynamicimageid": 160
+  },
+  {
+    "competitionid": 21,
+    "artificialkey": 94,
+    "adsponserid": 8,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "competitionid": 21,
+    "artificialkey": 95,
+    "adsponserid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 21,
+    "artificialkey": 96,
+    "adsponserid": 4,
+    "isapproved": 1,
+    "dynamicimageid": 160
+  },
+  {
+    "competitionid": 21,
+    "artificialkey": 97,
+    "adsponserid": 8,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "competitionid": 21,
+    "artificialkey": 98,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 211
+  },
+  {
+    "competitionid": 31,
+    "artificialkey": 99,
+    "adsponserid": 40,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 31,
+    "artificialkey": 100,
+    "adsponserid": 102,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 31,
+    "artificialkey": 101,
+    "adsponserid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 31,
+    "artificialkey": 102,
+    "adsponserid": 24,
+    "isapproved": 1,
+    "dynamicimageid": 68
+  },
+  {
+    "competitionid": 31,
+    "artificialkey": 103,
+    "adsponserid": 5,
+    "isapproved": 1,
+    "dynamicimageid": 205
+  },
+  {
+    "competitionid": 31,
+    "artificialkey": 104,
+    "adsponserid": 37,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 31,
+    "artificialkey": 105,
+    "adsponserid": 29,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 31,
+    "artificialkey": 106,
+    "adsponserid": 36,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 31,
+    "artificialkey": 107,
+    "adsponserid": 39,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 31,
+    "artificialkey": 108,
+    "adsponserid": 68,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 32,
+    "artificialkey": 109,
+    "adsponserid": 40,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 32,
+    "artificialkey": 110,
+    "adsponserid": 102,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 32,
+    "artificialkey": 111,
+    "adsponserid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 32,
+    "artificialkey": 112,
+    "adsponserid": 24,
+    "isapproved": 1,
+    "dynamicimageid": 68
+  },
+  {
+    "competitionid": 32,
+    "artificialkey": 113,
+    "adsponserid": 5,
+    "isapproved": 1,
+    "dynamicimageid": 205
+  },
+  {
+    "competitionid": 32,
+    "artificialkey": 114,
+    "adsponserid": 37,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 32,
+    "artificialkey": 115,
+    "adsponserid": 29,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 32,
+    "artificialkey": 116,
+    "adsponserid": 36,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 32,
+    "artificialkey": 117,
+    "adsponserid": 39,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 32,
+    "artificialkey": 118,
+    "adsponserid": 68,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 39,
+    "artificialkey": 119,
+    "adsponserid": 54,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 39,
+    "artificialkey": 120,
+    "adsponserid": 40,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 39,
+    "artificialkey": 121,
+    "adsponserid": 102,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 39,
+    "artificialkey": 122,
+    "adsponserid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 39,
+    "artificialkey": 123,
+    "adsponserid": 5,
+    "isapproved": 1,
+    "dynamicimageid": 51
+  },
+  {
+    "competitionid": 39,
+    "artificialkey": 124,
+    "adsponserid": 49,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 39,
+    "artificialkey": 125,
+    "adsponserid": 37,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 39,
+    "artificialkey": 126,
+    "adsponserid": 29,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 39,
+    "artificialkey": 127,
+    "adsponserid": 39,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 39,
+    "artificialkey": 128,
+    "adsponserid": 68,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 53,
+    "artificialkey": 129,
+    "adsponserid": 24,
+    "isapproved": 1,
+    "dynamicimageid": 67
+  },
+  {
+    "competitionid": 53,
+    "artificialkey": 130,
+    "adsponserid": 40,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 53,
+    "artificialkey": 131,
+    "adsponserid": 102,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 53,
+    "artificialkey": 132,
+    "adsponserid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 53,
+    "artificialkey": 133,
+    "adsponserid": 5,
+    "isapproved": 1,
+    "dynamicimageid": 73
+  },
+  {
+    "competitionid": 53,
+    "artificialkey": 134,
+    "adsponserid": 5,
+    "isapproved": 1,
+    "dynamicimageid": 83
+  },
+  {
+    "competitionid": 53,
+    "artificialkey": 135,
+    "adsponserid": 4,
+    "isapproved": 1,
+    "dynamicimageid": 198
+  },
+  {
+    "competitionid": 53,
+    "artificialkey": 136,
+    "adsponserid": 7,
+    "isapproved": 1,
+    "dynamicimageid": 225
+  },
+  {
+    "competitionid": 53,
+    "artificialkey": 137,
+    "adsponserid": 6,
+    "isapproved": 1,
+    "dynamicimageid": 226
+  },
+  {
+    "competitionid": 53,
+    "artificialkey": 138,
+    "adsponserid": 39,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 53,
+    "artificialkey": 139,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 199
+  },
+  {
+    "competitionid": 54,
+    "artificialkey": 140,
+    "adsponserid": 24,
+    "isapproved": 1,
+    "dynamicimageid": 72
+  },
+  {
+    "competitionid": 54,
+    "artificialkey": 141,
+    "adsponserid": 40,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 54,
+    "artificialkey": 142,
+    "adsponserid": 102,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 54,
+    "artificialkey": 143,
+    "adsponserid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 54,
+    "artificialkey": 144,
+    "adsponserid": 5,
+    "isapproved": 1,
+    "dynamicimageid": 73
+  },
+  {
+    "competitionid": 54,
+    "artificialkey": 145,
+    "adsponserid": 5,
+    "isapproved": 1,
+    "dynamicimageid": 83
+  },
+  {
+    "competitionid": 54,
+    "artificialkey": 146,
+    "adsponserid": 4,
+    "isapproved": 1,
+    "dynamicimageid": 198
+  },
+  {
+    "competitionid": 54,
+    "artificialkey": 147,
+    "adsponserid": 7,
+    "isapproved": 1,
+    "dynamicimageid": 225
+  },
+  {
+    "competitionid": 54,
+    "artificialkey": 148,
+    "adsponserid": 6,
+    "isapproved": 1,
+    "dynamicimageid": 226
+  },
+  {
+    "competitionid": 54,
+    "artificialkey": 149,
+    "adsponserid": 39,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 54,
+    "artificialkey": 150,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 322
+  },
+  {
+    "competitionid": 56,
+    "artificialkey": 151,
+    "adsponserid": 40,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 56,
+    "artificialkey": 152,
+    "adsponserid": 102,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 56,
+    "artificialkey": 153,
+    "adsponserid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 56,
+    "artificialkey": 154,
+    "adsponserid": 15,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 56,
+    "artificialkey": 155,
+    "adsponserid": 37,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 56,
+    "artificialkey": 156,
+    "adsponserid": 29,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 56,
+    "artificialkey": 157,
+    "adsponserid": 49,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 56,
+    "artificialkey": 158,
+    "adsponserid": 36,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 56,
+    "artificialkey": 159,
+    "adsponserid": 39,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 56,
+    "artificialkey": 160,
+    "adsponserid": 68,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 57,
+    "artificialkey": 161,
+    "adsponserid": 24,
+    "isapproved": 1,
+    "dynamicimageid": 80
+  },
+  {
+    "competitionid": 57,
+    "artificialkey": 162,
+    "adsponserid": 40,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 57,
+    "artificialkey": 163,
+    "adsponserid": 102,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 57,
+    "artificialkey": 164,
+    "adsponserid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 57,
+    "artificialkey": 165,
+    "adsponserid": 5,
+    "isapproved": 1,
+    "dynamicimageid": 204
+  },
+  {
+    "competitionid": 57,
+    "artificialkey": 166,
+    "adsponserid": 37,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 57,
+    "artificialkey": 167,
+    "adsponserid": 29,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 57,
+    "artificialkey": 168,
+    "adsponserid": 36,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 57,
+    "artificialkey": 169,
+    "adsponserid": 39,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 57,
+    "artificialkey": 170,
+    "adsponserid": 68,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 58,
+    "artificialkey": 171,
+    "adsponserid": 24,
+    "isapproved": 1,
+    "dynamicimageid": 80
+  },
+  {
+    "competitionid": 58,
+    "artificialkey": 172,
+    "adsponserid": 40,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 58,
+    "artificialkey": 173,
+    "adsponserid": 102,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 58,
+    "artificialkey": 174,
+    "adsponserid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 58,
+    "artificialkey": 175,
+    "adsponserid": 5,
+    "isapproved": 1,
+    "dynamicimageid": 204
+  },
+  {
+    "competitionid": 58,
+    "artificialkey": 176,
+    "adsponserid": 37,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 58,
+    "artificialkey": 177,
+    "adsponserid": 29,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 58,
+    "artificialkey": 178,
+    "adsponserid": 36,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 58,
+    "artificialkey": 179,
+    "adsponserid": 39,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 58,
+    "artificialkey": 180,
+    "adsponserid": 68,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 60,
+    "artificialkey": 181,
+    "adsponserid": 4,
+    "isapproved": 1,
+    "dynamicimageid": 88
+  },
+  {
+    "competitionid": 60,
+    "artificialkey": 182,
+    "adsponserid": 4,
+    "isapproved": 1,
+    "dynamicimageid": 89
+  },
+  {
+    "competitionid": 60,
+    "artificialkey": 183,
+    "adsponserid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 60,
+    "artificialkey": 184,
+    "adsponserid": 4,
+    "isapproved": 1,
+    "dynamicimageid": 210
+  },
+  {
+    "competitionid": 60,
+    "artificialkey": 185,
+    "adsponserid": 37,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 60,
+    "artificialkey": 186,
+    "adsponserid": 29,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 60,
+    "artificialkey": 187,
+    "adsponserid": 49,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 60,
+    "artificialkey": 188,
+    "adsponserid": 36,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 60,
+    "artificialkey": 189,
+    "adsponserid": 39,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 60,
+    "artificialkey": 190,
+    "adsponserid": 68,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 61,
+    "artificialkey": 191,
+    "adsponserid": 4,
+    "isapproved": 1,
+    "dynamicimageid": 88
+  },
+  {
+    "competitionid": 61,
+    "artificialkey": 192,
+    "adsponserid": 4,
+    "isapproved": 1,
+    "dynamicimageid": 89
+  },
+  {
+    "competitionid": 61,
+    "artificialkey": 193,
+    "adsponserid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 61,
+    "artificialkey": 194,
+    "adsponserid": 4,
+    "isapproved": 1,
+    "dynamicimageid": 210
+  },
+  {
+    "competitionid": 61,
+    "artificialkey": 195,
+    "adsponserid": 37,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 61,
+    "artificialkey": 196,
+    "adsponserid": 29,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 61,
+    "artificialkey": 197,
+    "adsponserid": 49,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 61,
+    "artificialkey": 198,
+    "adsponserid": 36,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 61,
+    "artificialkey": 199,
+    "adsponserid": 39,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 61,
+    "artificialkey": 200,
+    "adsponserid": 68,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 66,
+    "artificialkey": 201,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 13
+  },
+  {
+    "competitionid": 84,
+    "artificialkey": 202,
+    "adsponserid": 24,
+    "isapproved": 1,
+    "dynamicimageid": 61
+  },
+  {
+    "competitionid": 84,
+    "artificialkey": 203,
+    "adsponserid": 40,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 84,
+    "artificialkey": 204,
+    "adsponserid": 102,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 84,
+    "artificialkey": 205,
+    "adsponserid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 84,
+    "artificialkey": 206,
+    "adsponserid": 4,
+    "isapproved": 1,
+    "dynamicimageid": 62
+  },
+  {
+    "competitionid": 84,
+    "artificialkey": 207,
+    "adsponserid": 5,
+    "isapproved": 1,
+    "dynamicimageid": 206
+  },
+  {
+    "competitionid": 84,
+    "artificialkey": 208,
+    "adsponserid": 4,
+    "isapproved": 1,
+    "dynamicimageid": 204
+  },
+  {
+    "competitionid": 84,
+    "artificialkey": 209,
+    "adsponserid": 37,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 84,
+    "artificialkey": 210,
+    "adsponserid": 39,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 84,
+    "artificialkey": 211,
+    "adsponserid": 68,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 85,
+    "artificialkey": 212,
+    "adsponserid": 24,
+    "isapproved": 1,
+    "dynamicimageid": 61
+  },
+  {
+    "competitionid": 85,
+    "artificialkey": 213,
+    "adsponserid": 40,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 85,
+    "artificialkey": 214,
+    "adsponserid": 102,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 85,
+    "artificialkey": 215,
+    "adsponserid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 85,
+    "artificialkey": 216,
+    "adsponserid": 4,
+    "isapproved": 1,
+    "dynamicimageid": 62
+  },
+  {
+    "competitionid": 85,
+    "artificialkey": 217,
+    "adsponserid": 5,
+    "isapproved": 1,
+    "dynamicimageid": 206
+  },
+  {
+    "competitionid": 85,
+    "artificialkey": 218,
+    "adsponserid": 4,
+    "isapproved": 1,
+    "dynamicimageid": 204
+  },
+  {
+    "competitionid": 85,
+    "artificialkey": 219,
+    "adsponserid": 37,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 85,
+    "artificialkey": 220,
+    "adsponserid": 39,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 85,
+    "artificialkey": 221,
+    "adsponserid": 68,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 201,
+    "artificialkey": 222,
+    "adsponserid": 35,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 201,
+    "artificialkey": 223,
+    "adsponserid": 40,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 201,
+    "artificialkey": 224,
+    "adsponserid": 102,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 201,
+    "artificialkey": 225,
+    "adsponserid": 5,
+    "isapproved": 1,
+    "dynamicimageid": 162
+  },
+  {
+    "competitionid": 201,
+    "artificialkey": 226,
+    "adsponserid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 201,
+    "artificialkey": 227,
+    "adsponserid": 37,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 201,
+    "artificialkey": 228,
+    "adsponserid": 35,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 201,
+    "artificialkey": 229,
+    "adsponserid": 29,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 201,
+    "artificialkey": 230,
+    "adsponserid": 5,
+    "isapproved": 1,
+    "dynamicimageid": 162
+  },
+  {
+    "competitionid": 201,
+    "artificialkey": 231,
+    "adsponserid": 68,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 205,
+    "artificialkey": 232,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 31
+  },
+  {
+    "competitionid": 206,
+    "artificialkey": 233,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 71
+  },
+  {
+    "competitionid": 207,
+    "artificialkey": 234,
+    "adsponserid": 6,
+    "isapproved": 1,
+    "dynamicimageid": 42
+  },
+  {
+    "competitionid": 207,
+    "artificialkey": 235,
+    "adsponserid": 8,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "competitionid": 207,
+    "artificialkey": 236,
+    "adsponserid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 207,
+    "artificialkey": 237,
+    "adsponserid": 6,
+    "isapproved": 1,
+    "dynamicimageid": 42
+  },
+  {
+    "competitionid": 207,
+    "artificialkey": 238,
+    "adsponserid": 8,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "competitionid": 207,
+    "artificialkey": 239,
+    "adsponserid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 207,
+    "artificialkey": 240,
+    "adsponserid": 6,
+    "isapproved": 1,
+    "dynamicimageid": 42
+  },
+  {
+    "competitionid": 207,
+    "artificialkey": 241,
+    "adsponserid": 8,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "competitionid": 207,
+    "artificialkey": 242,
+    "adsponserid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 207,
+    "artificialkey": 243,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 41
+  },
+  {
+    "competitionid": 217,
+    "artificialkey": 244,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 34
+  },
+  {
+    "competitionid": 223,
+    "artificialkey": 245,
+    "adsponserid": 47,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 223,
+    "artificialkey": 246,
+    "adsponserid": 94,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 223,
+    "artificialkey": 247,
+    "adsponserid": 97,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 223,
+    "artificialkey": 248,
+    "adsponserid": 72,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 223,
+    "artificialkey": 249,
+    "adsponserid": 95,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 223,
+    "artificialkey": 250,
+    "adsponserid": 92,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 223,
+    "artificialkey": 251,
+    "adsponserid": 46,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 223,
+    "artificialkey": 252,
+    "adsponserid": 86,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 223,
+    "artificialkey": 253,
+    "adsponserid": 111,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 223,
+    "artificialkey": 254,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 15
+  },
+  {
+    "competitionid": 224,
+    "artificialkey": 255,
+    "adsponserid": 76,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 224,
+    "artificialkey": 256,
+    "adsponserid": 89,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 224,
+    "artificialkey": 257,
+    "adsponserid": 100,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 224,
+    "artificialkey": 258,
+    "adsponserid": 73,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 224,
+    "artificialkey": 259,
+    "adsponserid": 97,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 224,
+    "artificialkey": 260,
+    "adsponserid": 76,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 224,
+    "artificialkey": 261,
+    "adsponserid": 89,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 224,
+    "artificialkey": 262,
+    "adsponserid": 100,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 224,
+    "artificialkey": 263,
+    "adsponserid": 73,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 224,
+    "artificialkey": 264,
+    "adsponserid": 46,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 224,
+    "artificialkey": 265,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 16
+  },
+  {
+    "competitionid": 232,
+    "artificialkey": 266,
+    "adsponserid": 47,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 232,
+    "artificialkey": 267,
+    "adsponserid": 94,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 232,
+    "artificialkey": 268,
+    "adsponserid": 97,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 232,
+    "artificialkey": 269,
+    "adsponserid": 72,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 232,
+    "artificialkey": 270,
+    "adsponserid": 95,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 232,
+    "artificialkey": 271,
+    "adsponserid": 92,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 232,
+    "artificialkey": 272,
+    "adsponserid": 46,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 232,
+    "artificialkey": 273,
+    "adsponserid": 86,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 232,
+    "artificialkey": 274,
+    "adsponserid": 111,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 232,
+    "artificialkey": 275,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 17
+  },
+  {
+    "competitionid": 233,
+    "artificialkey": 276,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 47
+  },
+  {
+    "competitionid": 308,
+    "artificialkey": 277,
+    "adsponserid": 24,
+    "isapproved": 1,
+    "dynamicimageid": 55
+  },
+  {
+    "competitionid": 308,
+    "artificialkey": 278,
+    "adsponserid": 40,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 308,
+    "artificialkey": 279,
+    "adsponserid": 102,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 308,
+    "artificialkey": 280,
+    "adsponserid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 308,
+    "artificialkey": 281,
+    "adsponserid": 37,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 308,
+    "artificialkey": 282,
+    "adsponserid": 29,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 308,
+    "artificialkey": 283,
+    "adsponserid": 49,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 308,
+    "artificialkey": 284,
+    "adsponserid": 36,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 308,
+    "artificialkey": 285,
+    "adsponserid": 39,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 308,
+    "artificialkey": 286,
+    "adsponserid": 68,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 335,
+    "artificialkey": 287,
+    "adsponserid": 24,
+    "isapproved": 1,
+    "dynamicimageid": 74
+  },
+  {
+    "competitionid": 335,
+    "artificialkey": 288,
+    "adsponserid": 40,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 335,
+    "artificialkey": 289,
+    "adsponserid": 102,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 335,
+    "artificialkey": 290,
+    "adsponserid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 335,
+    "artificialkey": 291,
+    "adsponserid": 5,
+    "isapproved": 1,
+    "dynamicimageid": 204
+  },
+  {
+    "competitionid": 335,
+    "artificialkey": 292,
+    "adsponserid": 37,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 335,
+    "artificialkey": 293,
+    "adsponserid": 29,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 335,
+    "artificialkey": 294,
+    "adsponserid": 36,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 335,
+    "artificialkey": 295,
+    "adsponserid": 39,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 335,
+    "artificialkey": 296,
+    "adsponserid": 68,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 335,
+    "artificialkey": 297,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 79
+  },
+  {
+    "competitionid": 336,
+    "artificialkey": 298,
+    "adsponserid": 24,
+    "isapproved": 1,
+    "dynamicimageid": 80
+  },
+  {
+    "competitionid": 336,
+    "artificialkey": 299,
+    "adsponserid": 40,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 336,
+    "artificialkey": 300,
+    "adsponserid": 102,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 336,
+    "artificialkey": 301,
+    "adsponserid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 336,
+    "artificialkey": 302,
+    "adsponserid": 5,
+    "isapproved": 1,
+    "dynamicimageid": 204
+  },
+  {
+    "competitionid": 336,
+    "artificialkey": 303,
+    "adsponserid": 37,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 336,
+    "artificialkey": 304,
+    "adsponserid": 29,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 336,
+    "artificialkey": 305,
+    "adsponserid": 36,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 336,
+    "artificialkey": 306,
+    "adsponserid": 39,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 336,
+    "artificialkey": 307,
+    "adsponserid": 68,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 341,
+    "artificialkey": 308,
+    "adsponserid": 24,
+    "isapproved": 1,
+    "dynamicimageid": 61
+  },
+  {
+    "competitionid": 341,
+    "artificialkey": 309,
+    "adsponserid": 40,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 341,
+    "artificialkey": 310,
+    "adsponserid": 102,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 341,
+    "artificialkey": 311,
+    "adsponserid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 341,
+    "artificialkey": 312,
+    "adsponserid": 4,
+    "isapproved": 1,
+    "dynamicimageid": 62
+  },
+  {
+    "competitionid": 341,
+    "artificialkey": 313,
+    "adsponserid": 5,
+    "isapproved": 1,
+    "dynamicimageid": 206
+  },
+  {
+    "competitionid": 341,
+    "artificialkey": 314,
+    "adsponserid": 4,
+    "isapproved": 1,
+    "dynamicimageid": 204
+  },
+  {
+    "competitionid": 341,
+    "artificialkey": 315,
+    "adsponserid": 37,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 341,
+    "artificialkey": 316,
+    "adsponserid": 39,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 341,
+    "artificialkey": 317,
+    "adsponserid": 68,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 349,
+    "artificialkey": 318,
+    "adsponserid": 24,
+    "isapproved": 1,
+    "dynamicimageid": 58
+  },
+  {
+    "competitionid": 349,
+    "artificialkey": 319,
+    "adsponserid": 40,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 349,
+    "artificialkey": 320,
+    "adsponserid": 102,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 349,
+    "artificialkey": 321,
+    "adsponserid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 349,
+    "artificialkey": 322,
+    "adsponserid": 5,
+    "isapproved": 1,
+    "dynamicimageid": 66
+  },
+  {
+    "competitionid": 349,
+    "artificialkey": 323,
+    "adsponserid": 5,
+    "isapproved": 1,
+    "dynamicimageid": 60
+  },
+  {
+    "competitionid": 349,
+    "artificialkey": 324,
+    "adsponserid": 37,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 349,
+    "artificialkey": 325,
+    "adsponserid": 29,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 349,
+    "artificialkey": 326,
+    "adsponserid": 39,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 349,
+    "artificialkey": 327,
+    "adsponserid": 68,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 349,
+    "artificialkey": 328,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 201
+  },
+  {
+    "competitionid": 350,
+    "artificialkey": 329,
+    "adsponserid": 40,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 350,
+    "artificialkey": 330,
+    "adsponserid": 102,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 350,
+    "artificialkey": 331,
+    "adsponserid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 350,
+    "artificialkey": 332,
+    "adsponserid": 15,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 350,
+    "artificialkey": 333,
+    "adsponserid": 37,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 350,
+    "artificialkey": 334,
+    "adsponserid": 29,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 350,
+    "artificialkey": 335,
+    "adsponserid": 49,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 350,
+    "artificialkey": 336,
+    "adsponserid": 36,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 350,
+    "artificialkey": 337,
+    "adsponserid": 39,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 350,
+    "artificialkey": 338,
+    "adsponserid": 68,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 353,
+    "artificialkey": 339,
+    "adsponserid": 24,
+    "isapproved": 1,
+    "dynamicimageid": 203
+  },
+  {
+    "competitionid": 353,
+    "artificialkey": 340,
+    "adsponserid": 40,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 353,
+    "artificialkey": 341,
+    "adsponserid": 102,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 353,
+    "artificialkey": 342,
+    "adsponserid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 353,
+    "artificialkey": 343,
+    "adsponserid": 24,
+    "isapproved": 1,
+    "dynamicimageid": 70
+  },
+  {
+    "competitionid": 353,
+    "artificialkey": 344,
+    "adsponserid": 5,
+    "isapproved": 1,
+    "dynamicimageid": 204
+  },
+  {
+    "competitionid": 353,
+    "artificialkey": 345,
+    "adsponserid": 37,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 353,
+    "artificialkey": 346,
+    "adsponserid": 29,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 353,
+    "artificialkey": 347,
+    "adsponserid": 36,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 353,
+    "artificialkey": 348,
+    "adsponserid": 39,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 360,
+    "artificialkey": 349,
+    "adsponserid": 4,
+    "isapproved": 1,
+    "dynamicimageid": 88
+  },
+  {
+    "competitionid": 360,
+    "artificialkey": 350,
+    "adsponserid": 4,
+    "isapproved": 1,
+    "dynamicimageid": 89
+  },
+  {
+    "competitionid": 360,
+    "artificialkey": 351,
+    "adsponserid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 360,
+    "artificialkey": 352,
+    "adsponserid": 4,
+    "isapproved": 1,
+    "dynamicimageid": 210
+  },
+  {
+    "competitionid": 360,
+    "artificialkey": 353,
+    "adsponserid": 37,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 360,
+    "artificialkey": 354,
+    "adsponserid": 29,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 360,
+    "artificialkey": 355,
+    "adsponserid": 49,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 360,
+    "artificialkey": 356,
+    "adsponserid": 36,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 360,
+    "artificialkey": 357,
+    "adsponserid": 39,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 360,
+    "artificialkey": 358,
+    "adsponserid": 68,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 361,
+    "artificialkey": 359,
+    "adsponserid": 4,
+    "isapproved": 1,
+    "dynamicimageid": 88
+  },
+  {
+    "competitionid": 361,
+    "artificialkey": 360,
+    "adsponserid": 4,
+    "isapproved": 1,
+    "dynamicimageid": 89
+  },
+  {
+    "competitionid": 361,
+    "artificialkey": 361,
+    "adsponserid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 361,
+    "artificialkey": 362,
+    "adsponserid": 4,
+    "isapproved": 1,
+    "dynamicimageid": 210
+  },
+  {
+    "competitionid": 361,
+    "artificialkey": 363,
+    "adsponserid": 37,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 361,
+    "artificialkey": 364,
+    "adsponserid": 29,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 361,
+    "artificialkey": 365,
+    "adsponserid": 49,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 361,
+    "artificialkey": 366,
+    "adsponserid": 36,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 361,
+    "artificialkey": 367,
+    "adsponserid": 39,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 361,
+    "artificialkey": 368,
+    "adsponserid": 68,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 390,
+    "artificialkey": 369,
+    "adsponserid": 54,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 390,
+    "artificialkey": 370,
+    "adsponserid": 40,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 390,
+    "artificialkey": 371,
+    "adsponserid": 102,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 390,
+    "artificialkey": 372,
+    "adsponserid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 390,
+    "artificialkey": 373,
+    "adsponserid": 5,
+    "isapproved": 1,
+    "dynamicimageid": 51
+  },
+  {
+    "competitionid": 390,
+    "artificialkey": 374,
+    "adsponserid": 49,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 390,
+    "artificialkey": 375,
+    "adsponserid": 37,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 390,
+    "artificialkey": 376,
+    "adsponserid": 29,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 390,
+    "artificialkey": 377,
+    "adsponserid": 39,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 390,
+    "artificialkey": 378,
+    "adsponserid": 68,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 414,
+    "artificialkey": 379,
+    "adsponserid": 4,
+    "isapproved": 1,
+    "dynamicimageid": 88
+  },
+  {
+    "competitionid": 414,
+    "artificialkey": 380,
+    "adsponserid": 4,
+    "isapproved": 1,
+    "dynamicimageid": 89
+  },
+  {
+    "competitionid": 414,
+    "artificialkey": 381,
+    "adsponserid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 414,
+    "artificialkey": 382,
+    "adsponserid": 4,
+    "isapproved": 1,
+    "dynamicimageid": 210
+  },
+  {
+    "competitionid": 414,
+    "artificialkey": 383,
+    "adsponserid": 37,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 414,
+    "artificialkey": 384,
+    "adsponserid": 29,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 414,
+    "artificialkey": 385,
+    "adsponserid": 49,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 414,
+    "artificialkey": 386,
+    "adsponserid": 36,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 414,
+    "artificialkey": 387,
+    "adsponserid": 39,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 414,
+    "artificialkey": 388,
+    "adsponserid": 68,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 820,
+    "artificialkey": 389,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 188
+  },
+  {
+    "competitionid": 821,
+    "artificialkey": 390,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 189
+  },
+  {
+    "competitionid": 822,
+    "artificialkey": 391,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 188
+  },
+  {
+    "competitionid": 840,
+    "artificialkey": 392,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 190
+  },
+  {
+    "competitionid": 841,
+    "artificialkey": 393,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 191
+  },
+  {
+    "competitionid": 842,
+    "artificialkey": 394,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 192
+  },
+  {
+    "competitionid": 843,
+    "artificialkey": 395,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 193
+  },
+  {
+    "competitionid": 844,
+    "artificialkey": 396,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 194
+  },
+  {
+    "competitionid": 845,
+    "artificialkey": 397,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 195
+  },
+  {
+    "competitionid": 846,
+    "artificialkey": 398,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 196
+  },
+  {
+    "competitionid": 847,
+    "artificialkey": 399,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 189
+  },
+  {
+    "competitionid": 848,
+    "artificialkey": 400,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 189
+  },
+  {
+    "competitionid": 849,
+    "artificialkey": 401,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 189
+  },
+  {
+    "competitionid": 850,
+    "artificialkey": 402,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 189
+  },
+  {
+    "competitionid": 851,
+    "artificialkey": 403,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 188
+  },
+  {
+    "competitionid": 860,
+    "artificialkey": 404,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 190
+  },
+  {
+    "competitionid": 861,
+    "artificialkey": 405,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 195
+  },
+  {
+    "competitionid": 862,
+    "artificialkey": 406,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 196
+  },
+  {
+    "competitionid": 863,
+    "artificialkey": 407,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 193
+  },
+  {
+    "competitionid": 864,
+    "artificialkey": 408,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 194
+  },
+  {
+    "competitionid": 865,
+    "artificialkey": 409,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 191
+  },
+  {
+    "competitionid": 866,
+    "artificialkey": 410,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 192
+  },
+  {
+    "competitionid": 867,
+    "artificialkey": 411,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 188
+  },
+  {
+    "competitionid": 868,
+    "artificialkey": 412,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 189
+  },
+  {
+    "competitionid": 869,
+    "artificialkey": 413,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 189
+  },
+  {
+    "competitionid": 870,
+    "artificialkey": 414,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 189
+  },
+  {
+    "competitionid": 871,
+    "artificialkey": 415,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 189
+  },
+  {
+    "competitionid": 970,
+    "artificialkey": 416,
+    "adsponserid": 24,
+    "isapproved": 1,
+    "dynamicimageid": 118
+  },
+  {
+    "competitionid": 970,
+    "artificialkey": 417,
+    "adsponserid": 40,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 970,
+    "artificialkey": 418,
+    "adsponserid": 102,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 970,
+    "artificialkey": 419,
+    "adsponserid": 24,
+    "isapproved": 1,
+    "dynamicimageid": 118
+  },
+  {
+    "competitionid": 970,
+    "artificialkey": 420,
+    "adsponserid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 970,
+    "artificialkey": 421,
+    "adsponserid": 37,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 970,
+    "artificialkey": 422,
+    "adsponserid": 29,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 970,
+    "artificialkey": 423,
+    "adsponserid": 24,
+    "isapproved": 1,
+    "dynamicimageid": 118
+  },
+  {
+    "competitionid": 970,
+    "artificialkey": 424,
+    "adsponserid": 39,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 970,
+    "artificialkey": 425,
+    "adsponserid": 68,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 980,
+    "artificialkey": 426,
+    "adsponserid": 24,
+    "isapproved": 1,
+    "dynamicimageid": 119
+  },
+  {
+    "competitionid": 980,
+    "artificialkey": 427,
+    "adsponserid": 40,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 980,
+    "artificialkey": 428,
+    "adsponserid": 102,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 980,
+    "artificialkey": 429,
+    "adsponserid": 24,
+    "isapproved": 1,
+    "dynamicimageid": 119
+  },
+  {
+    "competitionid": 980,
+    "artificialkey": 430,
+    "adsponserid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 980,
+    "artificialkey": 431,
+    "adsponserid": 37,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 980,
+    "artificialkey": 432,
+    "adsponserid": 29,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 980,
+    "artificialkey": 433,
+    "adsponserid": 24,
+    "isapproved": 1,
+    "dynamicimageid": 119
+  },
+  {
+    "competitionid": 980,
+    "artificialkey": 434,
+    "adsponserid": 39,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 980,
+    "artificialkey": 435,
+    "adsponserid": 68,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 990,
+    "artificialkey": 436,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 43
+  },
+  {
+    "competitionid": 999,
+    "artificialkey": 437,
+    "adsponserid": 24,
+    "isapproved": 1,
+    "dynamicimageid": 120
+  },
+  {
+    "competitionid": 999,
+    "artificialkey": 438,
+    "adsponserid": 40,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 999,
+    "artificialkey": 439,
+    "adsponserid": 102,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 999,
+    "artificialkey": 440,
+    "adsponserid": 24,
+    "isapproved": 1,
+    "dynamicimageid": 120
+  },
+  {
+    "competitionid": 999,
+    "artificialkey": 441,
+    "adsponserid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 999,
+    "artificialkey": 442,
+    "adsponserid": 37,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 999,
+    "artificialkey": 443,
+    "adsponserid": 29,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 999,
+    "artificialkey": 444,
+    "adsponserid": 24,
+    "isapproved": 1,
+    "dynamicimageid": 120
+  },
+  {
+    "competitionid": 999,
+    "artificialkey": 445,
+    "adsponserid": 39,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 999,
+    "artificialkey": 446,
+    "adsponserid": 68,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 1007,
+    "artificialkey": 447,
+    "adsponserid": 24,
+    "isapproved": 1,
+    "dynamicimageid": 59
+  },
+  {
+    "competitionid": 1007,
+    "artificialkey": 448,
+    "adsponserid": 40,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 1007,
+    "artificialkey": 449,
+    "adsponserid": 102,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 1007,
+    "artificialkey": 450,
+    "adsponserid": 24,
+    "isapproved": 1,
+    "dynamicimageid": 59
+  },
+  {
+    "competitionid": 1007,
+    "artificialkey": 451,
+    "adsponserid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 1007,
+    "artificialkey": 452,
+    "adsponserid": 37,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 1007,
+    "artificialkey": 453,
+    "adsponserid": 29,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 1007,
+    "artificialkey": 454,
+    "adsponserid": 24,
+    "isapproved": 1,
+    "dynamicimageid": 59
+  },
+  {
+    "competitionid": 1007,
+    "artificialkey": 455,
+    "adsponserid": 39,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 1007,
+    "artificialkey": 456,
+    "adsponserid": 68,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 1007,
+    "artificialkey": 457,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 200
+  },
+  {
+    "competitionid": 2076,
+    "artificialkey": 458,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 75
+  },
+  {
+    "competitionid": 2136,
+    "artificialkey": 459,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 221
+  },
+  {
+    "competitionid": 2138,
+    "artificialkey": 460,
+    "adsponserid": 54,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 2138,
+    "artificialkey": 461,
+    "adsponserid": 40,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 2138,
+    "artificialkey": 462,
+    "adsponserid": 102,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 2138,
+    "artificialkey": 463,
+    "adsponserid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 2138,
+    "artificialkey": 464,
+    "adsponserid": 5,
+    "isapproved": 1,
+    "dynamicimageid": 51
+  },
+  {
+    "competitionid": 2138,
+    "artificialkey": 465,
+    "adsponserid": 49,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 2138,
+    "artificialkey": 466,
+    "adsponserid": 37,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 2138,
+    "artificialkey": 467,
+    "adsponserid": 29,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 2138,
+    "artificialkey": 468,
+    "adsponserid": 39,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 2138,
+    "artificialkey": 469,
+    "adsponserid": 68,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 2140,
+    "artificialkey": 470,
+    "adsponserid": 40,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 2140,
+    "artificialkey": 471,
+    "adsponserid": 102,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 2140,
+    "artificialkey": 472,
+    "adsponserid": 23,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 2140,
+    "artificialkey": 473,
+    "adsponserid": 128,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 2140,
+    "artificialkey": 474,
+    "adsponserid": 129,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 2140,
+    "artificialkey": 475,
+    "adsponserid": 130,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 2140,
+    "artificialkey": 476,
+    "adsponserid": 131,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 2140,
+    "artificialkey": 477,
+    "adsponserid": 132,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 2140,
+    "artificialkey": 478,
+    "adsponserid": 40,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 2140,
+    "artificialkey": 479,
+    "adsponserid": 102,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 2140,
+    "artificialkey": 480,
+    "adsponserid": 23,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 2140,
+    "artificialkey": 481,
+    "adsponserid": 128,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 2140,
+    "artificialkey": 482,
+    "adsponserid": 129,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 2140,
+    "artificialkey": 483,
+    "adsponserid": 24,
+    "isapproved": 1,
+    "dynamicimageid": 44
+  },
+  {
+    "competitionid": 2140,
+    "artificialkey": 484,
+    "adsponserid": 131,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 2140,
+    "artificialkey": 485,
+    "adsponserid": 132,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 2140,
+    "artificialkey": 486,
+    "adsponserid": 133,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 2173,
+    "artificialkey": 487,
+    "adsponserid": 40,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 2173,
+    "artificialkey": 488,
+    "adsponserid": 102,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 2173,
+    "artificialkey": 489,
+    "adsponserid": 23,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 2173,
+    "artificialkey": 490,
+    "adsponserid": 128,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 2173,
+    "artificialkey": 491,
+    "adsponserid": 129,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 2173,
+    "artificialkey": 492,
+    "adsponserid": 82,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 2173,
+    "artificialkey": 493,
+    "adsponserid": 131,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 2173,
+    "artificialkey": 494,
+    "adsponserid": 132,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": 2173,
+    "artificialkey": 495,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 321
+  },
+  {
+    "competitionid": 3000,
+    "artificialkey": 496,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 3
+  },
+  {
+    "competitionid": 3001,
+    "artificialkey": 497,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 9
+  },
+  {
+    "competitionid": 3005,
+    "artificialkey": 498,
+    "adsponserid": 81,
+    "isapproved": 1,
+    "dynamicimageid": 202
+  },
+  {
+    "competitionid": -1,
+    "artificialkey": 499,
+    "adsponserid": 0,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": -1,
+    "artificialkey": 500,
+    "adsponserid": 0,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": -1,
+    "artificialkey": 501,
+    "adsponserid": 0,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": -1,
+    "artificialkey": 502,
+    "adsponserid": 0,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": -1,
+    "artificialkey": 503,
+    "adsponserid": 0,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": -1,
+    "artificialkey": 504,
+    "adsponserid": 0,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": -1,
+    "artificialkey": 505,
+    "adsponserid": 0,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": -1,
+    "artificialkey": 506,
+    "adsponserid": 0,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": -1,
+    "artificialkey": 507,
+    "adsponserid": 0,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": -1,
+    "artificialkey": 508,
+    "adsponserid": 0,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": -1,
+    "artificialkey": 509,
+    "adsponserid": 0,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": -1,
+    "artificialkey": 510,
+    "adsponserid": 0,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": -1,
+    "artificialkey": 511,
+    "adsponserid": 0,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": -1,
+    "artificialkey": 512,
+    "adsponserid": 0,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": -1,
+    "artificialkey": 513,
+    "adsponserid": 0,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": -1,
+    "artificialkey": 514,
+    "adsponserid": 0,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": -1,
+    "artificialkey": 515,
+    "adsponserid": 0,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": -1,
+    "artificialkey": 516,
+    "adsponserid": 0,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": -1,
+    "artificialkey": 517,
+    "adsponserid": 0,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": -1,
+    "artificialkey": 518,
+    "adsponserid": 0,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": -1,
+    "artificialkey": 519,
+    "adsponserid": 0,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": -1,
+    "artificialkey": 520,
+    "adsponserid": 0,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": -1,
+    "artificialkey": 521,
+    "adsponserid": 0,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": -1,
+    "artificialkey": 522,
+    "adsponserid": 0,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": -1,
+    "artificialkey": 523,
+    "adsponserid": 0,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": -1,
+    "artificialkey": 524,
+    "adsponserid": 0,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": -1,
+    "artificialkey": 525,
+    "adsponserid": 0,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": -1,
+    "artificialkey": 526,
+    "adsponserid": 0,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": -1,
+    "artificialkey": 527,
+    "adsponserid": 0,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": -1,
+    "artificialkey": 528,
+    "adsponserid": 0,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": -1,
+    "artificialkey": 529,
+    "adsponserid": 0,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": -1,
+    "artificialkey": 530,
+    "adsponserid": 0,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": -1,
+    "artificialkey": 531,
+    "adsponserid": 0,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": -1,
+    "artificialkey": 532,
+    "adsponserid": 0,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": -1,
+    "artificialkey": 533,
+    "adsponserid": 0,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": -1,
+    "artificialkey": 534,
+    "adsponserid": 0,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": -1,
+    "artificialkey": 535,
+    "adsponserid": 0,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": -1,
+    "artificialkey": 536,
+    "adsponserid": 0,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": -1,
+    "artificialkey": 537,
+    "adsponserid": 0,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": -1,
+    "artificialkey": 538,
+    "adsponserid": 0,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "competitionid": -1,
+    "artificialkey": 539,
+    "adsponserid": 0,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  }
+]

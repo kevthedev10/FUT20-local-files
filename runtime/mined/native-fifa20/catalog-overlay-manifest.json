@@ -1,0 +1,14 @@
+{
+  "importedAt": "2026-09-07T01:19:08.333Z",
+  "strategy": "native fifa_ng_db base overlay plus existing FUT special revisions",
+  "nativePlayerRows": 18954,
+  "catalogCardsMatched": 23349,
+  "distinctNativePlayersMatched": 16598,
+  "baseCardsOverlaid": 16572,
+  "specialCardsPreserved": 6777,
+  "inputSha256": {
+    "database": "7e9f524a84925bd9e4b723d7a308bfd6c9b9b576f74d24613a461d4428ad9e7e",
+    "metadata": "d6873118ec2a68af2fe638ce5c4074cbc447c82843b92d90cf013b52420de9ec"
+  },
+  "outputSha256": "f459b3e27b43a6aa7067527b9275d9d71dc4fd8f4139f4a24211a1601d719de7"
+}

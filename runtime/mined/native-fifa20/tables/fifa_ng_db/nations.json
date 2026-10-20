@@ -1,0 +1,1964 @@
+[
+  {
+    "isocountrycode": "AL",
+    "nationname": "Albania",
+    "confederation": 2,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 13,
+    "nationid": 1
+  },
+  {
+    "isocountrycode": "AD",
+    "nationname": "Andorra",
+    "confederation": 2,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 28,
+    "nationid": 2
+  },
+  {
+    "isocountrycode": "AM",
+    "nationname": "Armenia",
+    "confederation": 2,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 14,
+    "nationid": 3
+  },
+  {
+    "isocountrycode": "AT",
+    "nationname": "Austria",
+    "confederation": 2,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 15,
+    "nationid": 4
+  },
+  {
+    "isocountrycode": "AZ",
+    "nationname": "Azerbaijan",
+    "confederation": 2,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 16,
+    "nationid": 5
+  },
+  {
+    "isocountrycode": "BY",
+    "nationname": "Belarus",
+    "confederation": 2,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 4,
+    "nationid": 6
+  },
+  {
+    "isocountrycode": "BE",
+    "nationname": "Belgium",
+    "confederation": 2,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 18,
+    "nationid": 7
+  },
+  {
+    "isocountrycode": "BA",
+    "nationname": "Bosnia and Herzegovina",
+    "confederation": 2,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 19,
+    "nationid": 8
+  },
+  {
+    "isocountrycode": "BG",
+    "nationname": "Bulgaria",
+    "confederation": 2,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 21,
+    "nationid": 9
+  },
+  {
+    "isocountrycode": "HR",
+    "nationname": "Croatia",
+    "confederation": 2,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 0,
+    "nationid": 10
+  },
+  {
+    "isocountrycode": "CY",
+    "nationname": "Cyprus",
+    "confederation": 2,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 2,
+    "nationid": 11
+  },
+  {
+    "isocountrycode": "CZ",
+    "nationname": "Czech Republic",
+    "confederation": 2,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 32,
+    "nationid": 12
+  },
+  {
+    "isocountrycode": "DK",
+    "nationname": "Denmark",
+    "confederation": 2,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 33,
+    "nationid": 13
+  },
+  {
+    "isocountrycode": "GB",
+    "nationname": "England",
+    "confederation": 2,
+    "top_tier": 1,
+    "nationstartingfirstletter": 1,
+    "groupid": 38,
+    "nationid": 14
+  },
+  {
+    "isocountrycode": "ME",
+    "nationname": "Montenegro",
+    "confederation": 2,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 0,
+    "nationid": 15
+  },
+  {
+    "isocountrycode": "FO",
+    "nationname": "Faroe Islands",
+    "confederation": 2,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 49,
+    "nationid": 16
+  },
+  {
+    "isocountrycode": "FI",
+    "nationname": "Finland",
+    "confederation": 2,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 1,
+    "nationid": 17
+  },
+  {
+    "isocountrycode": "FR",
+    "nationname": "France",
+    "confederation": 2,
+    "top_tier": 1,
+    "nationstartingfirstletter": 1,
+    "groupid": 41,
+    "nationid": 18
+  },
+  {
+    "isocountrycode": "MK",
+    "nationname": "North Macedonia",
+    "confederation": 2,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 21,
+    "nationid": 19
+  },
+  {
+    "isocountrycode": "GE",
+    "nationname": "Georgia",
+    "confederation": 2,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 46,
+    "nationid": 20
+  },
+  {
+    "isocountrycode": "DE",
+    "nationname": "Germany",
+    "confederation": 2,
+    "top_tier": 1,
+    "nationstartingfirstletter": 1,
+    "groupid": 48,
+    "nationid": 21
+  },
+  {
+    "isocountrycode": "GR",
+    "nationname": "Greece",
+    "confederation": 2,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 2,
+    "nationid": 22
+  },
+  {
+    "isocountrycode": "HU",
+    "nationname": "Hungary",
+    "confederation": 2,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 52,
+    "nationid": 23
+  },
+  {
+    "isocountrycode": "IS",
+    "nationname": "Iceland",
+    "confederation": 2,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 53,
+    "nationid": 24
+  },
+  {
+    "isocountrycode": "IE",
+    "nationname": "Republic of Ireland",
+    "confederation": 2,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 102,
+    "nationid": 25
+  },
+  {
+    "isocountrycode": "IL",
+    "nationname": "Israel",
+    "confederation": 2,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 57,
+    "nationid": 26
+  },
+  {
+    "isocountrycode": "IT",
+    "nationname": "Italy",
+    "confederation": 2,
+    "top_tier": 1,
+    "nationstartingfirstletter": 1,
+    "groupid": 58,
+    "nationid": 27
+  },
+  {
+    "isocountrycode": "LV",
+    "nationname": "Latvia",
+    "confederation": 2,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 35,
+    "nationid": 28
+  },
+  {
+    "isocountrycode": "LI",
+    "nationname": "Liechtenstein",
+    "confederation": 2,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 47,
+    "nationid": 29
+  },
+  {
+    "isocountrycode": "LT",
+    "nationname": "Lithuania",
+    "confederation": 2,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 98,
+    "nationid": 30
+  },
+  {
+    "isocountrycode": "LU",
+    "nationname": "Luxembourg",
+    "confederation": 2,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 63,
+    "nationid": 31
+  },
+  {
+    "isocountrycode": "MT",
+    "nationname": "Malta",
+    "confederation": 2,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 68,
+    "nationid": 32
+  },
+  {
+    "isocountrycode": "MD",
+    "nationname": "Moldova",
+    "confederation": 2,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 3,
+    "nationid": 33
+  },
+  {
+    "isocountrycode": "NL",
+    "nationname": "Holland",
+    "confederation": 2,
+    "top_tier": 1,
+    "nationstartingfirstletter": 1,
+    "groupid": 34,
+    "nationid": 34
+  },
+  {
+    "isocountrycode": "GB",
+    "nationname": "Northern Ireland",
+    "confederation": 2,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 56,
+    "nationid": 35
+  },
+  {
+    "isocountrycode": "NO",
+    "nationname": "Norway",
+    "confederation": 2,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 75,
+    "nationid": 36
+  },
+  {
+    "isocountrycode": "PL",
+    "nationname": "Poland",
+    "confederation": 2,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 78,
+    "nationid": 37
+  },
+  {
+    "isocountrycode": "PT",
+    "nationname": "Portugal",
+    "confederation": 2,
+    "top_tier": 1,
+    "nationstartingfirstletter": 1,
+    "groupid": 6,
+    "nationid": 38
+  },
+  {
+    "isocountrycode": "RO",
+    "nationname": "Romania",
+    "confederation": 2,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 3,
+    "nationid": 39
+  },
+  {
+    "isocountrycode": "RU",
+    "nationname": "Russia",
+    "confederation": 2,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 4,
+    "nationid": 40
+  },
+  {
+    "isocountrycode": "SM",
+    "nationname": "San Marino",
+    "confederation": 2,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 58,
+    "nationid": 41
+  },
+  {
+    "isocountrycode": "GB",
+    "nationname": "Scotland",
+    "confederation": 2,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 80,
+    "nationid": 42
+  },
+  {
+    "isocountrycode": "SK",
+    "nationname": "Slovakia",
+    "confederation": 2,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 32,
+    "nationid": 43
+  },
+  {
+    "isocountrycode": "SI",
+    "nationname": "Slovenia",
+    "confederation": 2,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 82,
+    "nationid": 44
+  },
+  {
+    "isocountrycode": "ES",
+    "nationname": "Spain",
+    "confederation": 2,
+    "top_tier": 1,
+    "nationstartingfirstletter": 1,
+    "groupid": 5,
+    "nationid": 45
+  },
+  {
+    "isocountrycode": "SE",
+    "nationname": "Sweden",
+    "confederation": 2,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 87,
+    "nationid": 46
+  },
+  {
+    "isocountrycode": "CH",
+    "nationname": "Switzerland",
+    "confederation": 2,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 88,
+    "nationid": 47
+  },
+  {
+    "isocountrycode": "TR",
+    "nationname": "Turkey",
+    "confederation": 2,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 91,
+    "nationid": 48
+  },
+  {
+    "isocountrycode": "UA",
+    "nationname": "Ukraine",
+    "confederation": 2,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 93,
+    "nationid": 49
+  },
+  {
+    "isocountrycode": "GB",
+    "nationname": "Wales",
+    "confederation": 2,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 95,
+    "nationid": 50
+  },
+  {
+    "isocountrycode": "RS",
+    "nationname": "Serbia",
+    "confederation": 2,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 0,
+    "nationid": 51
+  },
+  {
+    "isocountrycode": "AR",
+    "nationname": "Argentina",
+    "confederation": 4,
+    "top_tier": 1,
+    "nationstartingfirstletter": 1,
+    "groupid": 96,
+    "nationid": 52
+  },
+  {
+    "isocountrycode": "BO",
+    "nationname": "Bolivia",
+    "confederation": 4,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 96,
+    "nationid": 53
+  },
+  {
+    "isocountrycode": "BR",
+    "nationname": "Brazil",
+    "confederation": 4,
+    "top_tier": 1,
+    "nationstartingfirstletter": 1,
+    "groupid": 20,
+    "nationid": 54
+  },
+  {
+    "isocountrycode": "CL",
+    "nationname": "Chile",
+    "confederation": 4,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 96,
+    "nationid": 55
+  },
+  {
+    "isocountrycode": "CO",
+    "nationname": "Colombia",
+    "confederation": 4,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 96,
+    "nationid": 56
+  },
+  {
+    "isocountrycode": "EC",
+    "nationname": "Ecuador",
+    "confederation": 4,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 96,
+    "nationid": 57
+  },
+  {
+    "isocountrycode": "PY",
+    "nationname": "Paraguay",
+    "confederation": 4,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 96,
+    "nationid": 58
+  },
+  {
+    "isocountrycode": "PE",
+    "nationname": "Peru",
+    "confederation": 4,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 96,
+    "nationid": 59
+  },
+  {
+    "isocountrycode": "UY",
+    "nationname": "Uruguay",
+    "confederation": 4,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 96,
+    "nationid": 60
+  },
+  {
+    "isocountrycode": "VE",
+    "nationname": "Venezuela",
+    "confederation": 4,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 96,
+    "nationid": 61
+  },
+  {
+    "isocountrycode": "AI",
+    "nationname": "Anguilla",
+    "confederation": 7,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 25,
+    "nationid": 62
+  },
+  {
+    "isocountrycode": "AG",
+    "nationname": "Antigua and Barbuda",
+    "confederation": 7,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 25,
+    "nationid": 63
+  },
+  {
+    "isocountrycode": "AW",
+    "nationname": "Aruba",
+    "confederation": 7,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 26,
+    "nationid": 64
+  },
+  {
+    "isocountrycode": "BS",
+    "nationname": "Bahamas",
+    "confederation": 7,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 25,
+    "nationid": 65
+  },
+  {
+    "isocountrycode": "BB",
+    "nationname": "Barbados",
+    "confederation": 7,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 25,
+    "nationid": 66
+  },
+  {
+    "isocountrycode": "BZ",
+    "nationname": "Belize",
+    "confederation": 7,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 97,
+    "nationid": 67
+  },
+  {
+    "isocountrycode": "BM",
+    "nationname": "Bermuda",
+    "confederation": 7,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 25,
+    "nationid": 68
+  },
+  {
+    "isocountrycode": "VG",
+    "nationname": "British Virgin Islands",
+    "confederation": 7,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 25,
+    "nationid": 69
+  },
+  {
+    "isocountrycode": "CA",
+    "nationname": "Canada",
+    "confederation": 7,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 74,
+    "nationid": 70
+  },
+  {
+    "isocountrycode": "KY",
+    "nationname": "Cayman Islands",
+    "confederation": 7,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 25,
+    "nationid": 71
+  },
+  {
+    "isocountrycode": "CR",
+    "nationname": "Costa Rica",
+    "confederation": 7,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 96,
+    "nationid": 72
+  },
+  {
+    "isocountrycode": "CU",
+    "nationname": "Cuba",
+    "confederation": 7,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 96,
+    "nationid": 73
+  },
+  {
+    "isocountrycode": "DM",
+    "nationname": "Dominica",
+    "confederation": 7,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 25,
+    "nationid": 74
+  },
+  {
+    "isocountrycode": "",
+    "nationname": "International",
+    "confederation": 1,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 38,
+    "nationid": 75
+  },
+  {
+    "isocountrycode": "SV",
+    "nationname": "El Salvador",
+    "confederation": 7,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 96,
+    "nationid": 76
+  },
+  {
+    "isocountrycode": "GD",
+    "nationname": "Grenada",
+    "confederation": 7,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 25,
+    "nationid": 77
+  },
+  {
+    "isocountrycode": "GT",
+    "nationname": "Guatemala",
+    "confederation": 7,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 96,
+    "nationid": 78
+  },
+  {
+    "isocountrycode": "GY",
+    "nationname": "Guyana",
+    "confederation": 7,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 25,
+    "nationid": 79
+  },
+  {
+    "isocountrycode": "HT",
+    "nationname": "Haiti",
+    "confederation": 7,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 27,
+    "nationid": 80
+  },
+  {
+    "isocountrycode": "HN",
+    "nationname": "Honduras",
+    "confederation": 7,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 96,
+    "nationid": 81
+  },
+  {
+    "isocountrycode": "JM",
+    "nationname": "Jamaica",
+    "confederation": 7,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 25,
+    "nationid": 82
+  },
+  {
+    "isocountrycode": "MX",
+    "nationname": "Mexico",
+    "confederation": 7,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 96,
+    "nationid": 83
+  },
+  {
+    "isocountrycode": "MS",
+    "nationname": "Montserrat",
+    "confederation": 7,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 25,
+    "nationid": 84
+  },
+  {
+    "isocountrycode": "AN",
+    "nationname": "Cura\u00E7ao",
+    "confederation": 7,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 24,
+    "nationid": 85
+  },
+  {
+    "isocountrycode": "NI",
+    "nationname": "Nicaragua",
+    "confederation": 7,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 96,
+    "nationid": 86
+  },
+  {
+    "isocountrycode": "PA",
+    "nationname": "Panama",
+    "confederation": 7,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 96,
+    "nationid": 87
+  },
+  {
+    "isocountrycode": "PR",
+    "nationname": "Puerto Rico",
+    "confederation": 7,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 96,
+    "nationid": 88
+  },
+  {
+    "isocountrycode": "KN",
+    "nationname": "St. Kitts and Nevis",
+    "confederation": 7,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 25,
+    "nationid": 89
+  },
+  {
+    "isocountrycode": "LC",
+    "nationname": "St. Lucia",
+    "confederation": 7,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 25,
+    "nationid": 90
+  },
+  {
+    "isocountrycode": "VC",
+    "nationname": "St. Vincent and the Grenadines",
+    "confederation": 7,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 25,
+    "nationid": 91
+  },
+  {
+    "isocountrycode": "SR",
+    "nationname": "Suriname",
+    "confederation": 7,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 34,
+    "nationid": 92
+  },
+  {
+    "isocountrycode": "TT",
+    "nationname": "Trinidad and Tobago",
+    "confederation": 7,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 25,
+    "nationid": 93
+  },
+  {
+    "isocountrycode": "TC",
+    "nationname": "Turks and Caicos Islands",
+    "confederation": 7,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 25,
+    "nationid": 94
+  },
+  {
+    "isocountrycode": "US",
+    "nationname": "United States",
+    "confederation": 7,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 74,
+    "nationid": 95
+  },
+  {
+    "isocountrycode": "VI",
+    "nationname": "US Virgin Islands",
+    "confederation": 7,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 25,
+    "nationid": 96
+  },
+  {
+    "isocountrycode": "DZ",
+    "nationname": "Algeria",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 65,
+    "nationid": 97
+  },
+  {
+    "isocountrycode": "AO",
+    "nationname": "Angola",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 12,
+    "nationid": 98
+  },
+  {
+    "isocountrycode": "BJ",
+    "nationname": "Benin",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 42,
+    "nationid": 99
+  },
+  {
+    "isocountrycode": "BW",
+    "nationname": "Botswana",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 11,
+    "nationid": 100
+  },
+  {
+    "isocountrycode": "BF",
+    "nationname": "Burkina Faso",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 42,
+    "nationid": 101
+  },
+  {
+    "isocountrycode": "BI",
+    "nationname": "Burundi",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 29,
+    "nationid": 102
+  },
+  {
+    "isocountrycode": "CM",
+    "nationname": "Cameroon",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 42,
+    "nationid": 103
+  },
+  {
+    "isocountrycode": "CV",
+    "nationname": "Cape Verde Islands",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 12,
+    "nationid": 104
+  },
+  {
+    "isocountrycode": "CF",
+    "nationname": "Central African Republic",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 30,
+    "nationid": 105
+  },
+  {
+    "isocountrycode": "TD",
+    "nationname": "Chad",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 43,
+    "nationid": 106
+  },
+  {
+    "isocountrycode": "CG",
+    "nationname": "Congo",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 29,
+    "nationid": 107
+  },
+  {
+    "isocountrycode": "CI",
+    "nationname": "C\u00F4te d\u0027Ivoire",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 31,
+    "nationid": 108
+  },
+  {
+    "isocountrycode": "DJ",
+    "nationname": "Djibouti",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 51,
+    "nationid": 109
+  },
+  {
+    "isocountrycode": "CD",
+    "nationname": "Congo DR",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 42,
+    "nationid": 110
+  },
+  {
+    "isocountrycode": "EG",
+    "nationname": "Egypt",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 37,
+    "nationid": 111
+  },
+  {
+    "isocountrycode": "GQ",
+    "nationname": "Equatorial Guinea",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 5,
+    "nationid": 112
+  },
+  {
+    "isocountrycode": "ER",
+    "nationname": "Eritrea",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 51,
+    "nationid": 113
+  },
+  {
+    "isocountrycode": "ET",
+    "nationname": "Ethiopia",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 40,
+    "nationid": 114
+  },
+  {
+    "isocountrycode": "GA",
+    "nationname": "Gabon",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 42,
+    "nationid": 115
+  },
+  {
+    "isocountrycode": "GM",
+    "nationname": "Gambia",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 45,
+    "nationid": 116
+  },
+  {
+    "isocountrycode": "GH",
+    "nationname": "Ghana",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 7,
+    "nationid": 117
+  },
+  {
+    "isocountrycode": "GN",
+    "nationname": "Guinea",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 42,
+    "nationid": 118
+  },
+  {
+    "isocountrycode": "GW",
+    "nationname": "Guinea-Bissau",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 12,
+    "nationid": 119
+  },
+  {
+    "isocountrycode": "KE",
+    "nationname": "Kenya",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 36,
+    "nationid": 120
+  },
+  {
+    "isocountrycode": "LS",
+    "nationname": "Lesotho",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 85,
+    "nationid": 121
+  },
+  {
+    "isocountrycode": "LR",
+    "nationname": "Liberia",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 7,
+    "nationid": 122
+  },
+  {
+    "isocountrycode": "LY",
+    "nationname": "Libya",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 65,
+    "nationid": 123
+  },
+  {
+    "isocountrycode": "MG",
+    "nationname": "Madagascar",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 64,
+    "nationid": 124
+  },
+  {
+    "isocountrycode": "MW",
+    "nationname": "Malawi",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 99,
+    "nationid": 125
+  },
+  {
+    "isocountrycode": "ML",
+    "nationname": "Mali",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 43,
+    "nationid": 126
+  },
+  {
+    "isocountrycode": "MR",
+    "nationname": "Mauritania",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 43,
+    "nationid": 127
+  },
+  {
+    "isocountrycode": "MU",
+    "nationname": "Mauritius",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 42,
+    "nationid": 128
+  },
+  {
+    "isocountrycode": "MA",
+    "nationname": "Morocco",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 65,
+    "nationid": 129
+  },
+  {
+    "isocountrycode": "MZ",
+    "nationname": "Mozambique",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 12,
+    "nationid": 130
+  },
+  {
+    "isocountrycode": "NA",
+    "nationname": "Namibia",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 71,
+    "nationid": 131
+  },
+  {
+    "isocountrycode": "NE",
+    "nationname": "Niger",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 43,
+    "nationid": 132
+  },
+  {
+    "isocountrycode": "NG",
+    "nationname": "Nigeria",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 73,
+    "nationid": 133
+  },
+  {
+    "isocountrycode": "RW",
+    "nationname": "Rwanda",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 29,
+    "nationid": 134
+  },
+  {
+    "isocountrycode": "ST",
+    "nationname": "S\u00E3o Tom\u00E9 e Pr\u00EDncipe",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 12,
+    "nationid": 135
+  },
+  {
+    "isocountrycode": "SN",
+    "nationname": "Senegal",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 42,
+    "nationid": 136
+  },
+  {
+    "isocountrycode": "SC",
+    "nationname": "Seychelles",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 7,
+    "nationid": 137
+  },
+  {
+    "isocountrycode": "SL",
+    "nationname": "Sierra Leone",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 7,
+    "nationid": 138
+  },
+  {
+    "isocountrycode": "SO",
+    "nationname": "Somalia",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 51,
+    "nationid": 139
+  },
+  {
+    "isocountrycode": "ZA",
+    "nationname": "South Africa",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 84,
+    "nationid": 140
+  },
+  {
+    "isocountrycode": "SD",
+    "nationname": "Sudan",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 37,
+    "nationid": 141
+  },
+  {
+    "isocountrycode": "SZ",
+    "nationname": "Eswatini",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 83,
+    "nationid": 142
+  },
+  {
+    "isocountrycode": "TZ",
+    "nationname": "Tanzania",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 36,
+    "nationid": 143
+  },
+  {
+    "isocountrycode": "TG",
+    "nationname": "Togo",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 42,
+    "nationid": 144
+  },
+  {
+    "isocountrycode": "TN",
+    "nationname": "Tunisia",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 65,
+    "nationid": 145
+  },
+  {
+    "isocountrycode": "UG",
+    "nationname": "Uganda",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 36,
+    "nationid": 146
+  },
+  {
+    "isocountrycode": "ZM",
+    "nationname": "Zambia",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 100,
+    "nationid": 147
+  },
+  {
+    "isocountrycode": "ZW",
+    "nationname": "Zimbabwe",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 101,
+    "nationid": 148
+  },
+  {
+    "isocountrycode": "AF",
+    "nationname": "Afghanistan",
+    "confederation": 5,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 76,
+    "nationid": 149
+  },
+  {
+    "isocountrycode": "BH",
+    "nationname": "Bahrain",
+    "confederation": 5,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 8,
+    "nationid": 150
+  },
+  {
+    "isocountrycode": "BD",
+    "nationname": "Bangladesh",
+    "confederation": 5,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 17,
+    "nationid": 151
+  },
+  {
+    "isocountrycode": "BT",
+    "nationname": "Bhutan",
+    "confederation": 5,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 72,
+    "nationid": 152
+  },
+  {
+    "isocountrycode": "BN",
+    "nationname": "Brunei Darussalam",
+    "confederation": 5,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 66,
+    "nationid": 153
+  },
+  {
+    "isocountrycode": "KH",
+    "nationname": "Cambodia",
+    "confederation": 5,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 23,
+    "nationid": 154
+  },
+  {
+    "isocountrycode": "CN",
+    "nationname": "China PR",
+    "confederation": 5,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 9,
+    "nationid": 155
+  },
+  {
+    "isocountrycode": "GU",
+    "nationname": "Guam",
+    "confederation": 5,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 25,
+    "nationid": 157
+  },
+  {
+    "isocountrycode": "HK",
+    "nationname": "Hong Kong",
+    "confederation": 5,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 9,
+    "nationid": 158
+  },
+  {
+    "isocountrycode": "IN",
+    "nationname": "India",
+    "confederation": 5,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 54,
+    "nationid": 159
+  },
+  {
+    "isocountrycode": "ID",
+    "nationname": "Indonesia",
+    "confederation": 5,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 55,
+    "nationid": 160
+  },
+  {
+    "isocountrycode": "IR",
+    "nationname": "Iran",
+    "confederation": 5,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 8,
+    "nationid": 161
+  },
+  {
+    "isocountrycode": "IQ",
+    "nationname": "Iraq",
+    "confederation": 5,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 8,
+    "nationid": 162
+  },
+  {
+    "isocountrycode": "JP",
+    "nationname": "Japan",
+    "confederation": 5,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 10,
+    "nationid": 163
+  },
+  {
+    "isocountrycode": "JO",
+    "nationname": "Jordan",
+    "confederation": 5,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 8,
+    "nationid": 164
+  },
+  {
+    "isocountrycode": "KZ",
+    "nationname": "Kazakhstan",
+    "confederation": 2,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 59,
+    "nationid": 165
+  },
+  {
+    "isocountrycode": "KP",
+    "nationname": "Korea DPR",
+    "confederation": 5,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 60,
+    "nationid": 166
+  },
+  {
+    "isocountrycode": "KR",
+    "nationname": "Korea Republic",
+    "confederation": 5,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 60,
+    "nationid": 167
+  },
+  {
+    "isocountrycode": "KW",
+    "nationname": "Kuwait",
+    "confederation": 5,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 8,
+    "nationid": 168
+  },
+  {
+    "isocountrycode": "KG",
+    "nationname": "Kyrgyzstan",
+    "confederation": 5,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 61,
+    "nationid": 169
+  },
+  {
+    "isocountrycode": "LA",
+    "nationname": "Laos",
+    "confederation": 5,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 62,
+    "nationid": 170
+  },
+  {
+    "isocountrycode": "LB",
+    "nationname": "Lebanon",
+    "confederation": 5,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 8,
+    "nationid": 171
+  },
+  {
+    "isocountrycode": "MO",
+    "nationname": "Macau",
+    "confederation": 5,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 9,
+    "nationid": 172
+  },
+  {
+    "isocountrycode": "MY",
+    "nationname": "Malaysia",
+    "confederation": 5,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 66,
+    "nationid": 173
+  },
+  {
+    "isocountrycode": "MV",
+    "nationname": "Maldives",
+    "confederation": 5,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 67,
+    "nationid": 174
+  },
+  {
+    "isocountrycode": "MN",
+    "nationname": "Mongolia",
+    "confederation": 5,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 70,
+    "nationid": 175
+  },
+  {
+    "isocountrycode": "MM",
+    "nationname": "Myanmar",
+    "confederation": 5,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 22,
+    "nationid": 176
+  },
+  {
+    "isocountrycode": "NP",
+    "nationname": "Nepal",
+    "confederation": 5,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 72,
+    "nationid": 177
+  },
+  {
+    "isocountrycode": "OM",
+    "nationname": "Oman",
+    "confederation": 5,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 8,
+    "nationid": 178
+  },
+  {
+    "isocountrycode": "PK",
+    "nationname": "Pakistan",
+    "confederation": 5,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 76,
+    "nationid": 179
+  },
+  {
+    "isocountrycode": "PS",
+    "nationname": "Palestine",
+    "confederation": 5,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 8,
+    "nationid": 180
+  },
+  {
+    "isocountrycode": "PH",
+    "nationname": "Philippines",
+    "confederation": 5,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 77,
+    "nationid": 181
+  },
+  {
+    "isocountrycode": "QA",
+    "nationname": "Qatar",
+    "confederation": 5,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 8,
+    "nationid": 182
+  },
+  {
+    "isocountrycode": "SA",
+    "nationname": "Saudi Arabia",
+    "confederation": 5,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 8,
+    "nationid": 183
+  },
+  {
+    "isocountrycode": "SG",
+    "nationname": "Singapore",
+    "confederation": 5,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 81,
+    "nationid": 184
+  },
+  {
+    "isocountrycode": "LK",
+    "nationname": "Sri Lanka",
+    "confederation": 5,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 86,
+    "nationid": 185
+  },
+  {
+    "isocountrycode": "SY",
+    "nationname": "Syria",
+    "confederation": 5,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 8,
+    "nationid": 186
+  },
+  {
+    "isocountrycode": "TJ",
+    "nationname": "Tajikistan",
+    "confederation": 5,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 89,
+    "nationid": 187
+  },
+  {
+    "isocountrycode": "TH",
+    "nationname": "Thailand",
+    "confederation": 5,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 90,
+    "nationid": 188
+  },
+  {
+    "isocountrycode": "TM",
+    "nationname": "Turkmenistan",
+    "confederation": 5,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 92,
+    "nationid": 189
+  },
+  {
+    "isocountrycode": "AE",
+    "nationname": "United Arab Emirates",
+    "confederation": 5,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 8,
+    "nationid": 190
+  },
+  {
+    "isocountrycode": "UZ",
+    "nationname": "Uzbekistan",
+    "confederation": 5,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 4,
+    "nationid": 191
+  },
+  {
+    "isocountrycode": "VN",
+    "nationname": "Vietnam",
+    "confederation": 5,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 94,
+    "nationid": 192
+  },
+  {
+    "isocountrycode": "YE",
+    "nationname": "Yemen",
+    "confederation": 5,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 8,
+    "nationid": 193
+  },
+  {
+    "isocountrycode": "AS",
+    "nationname": "American Samoa",
+    "confederation": 6,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 79,
+    "nationid": 194
+  },
+  {
+    "isocountrycode": "AU",
+    "nationname": "Australia",
+    "confederation": 5,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 38,
+    "nationid": 195
+  },
+  {
+    "isocountrycode": "CK",
+    "nationname": "Cook Islands",
+    "confederation": 6,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 79,
+    "nationid": 196
+  },
+  {
+    "isocountrycode": "FJ",
+    "nationname": "Fiji",
+    "confederation": 6,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 69,
+    "nationid": 197
+  },
+  {
+    "isocountrycode": "NZ",
+    "nationname": "New Zealand",
+    "confederation": 6,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 38,
+    "nationid": 198
+  },
+  {
+    "isocountrycode": "PG",
+    "nationname": "Papua New Guinea",
+    "confederation": 6,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 69,
+    "nationid": 199
+  },
+  {
+    "isocountrycode": "WS",
+    "nationname": "Samoa",
+    "confederation": 6,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 79,
+    "nationid": 200
+  },
+  {
+    "isocountrycode": "SB",
+    "nationname": "Solomon Islands",
+    "confederation": 6,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 69,
+    "nationid": 201
+  },
+  {
+    "isocountrycode": "PF",
+    "nationname": "Tahiti",
+    "confederation": 6,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 44,
+    "nationid": 202
+  },
+  {
+    "isocountrycode": "TO",
+    "nationname": "Tonga",
+    "confederation": 6,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 79,
+    "nationid": 203
+  },
+  {
+    "isocountrycode": "VU",
+    "nationname": "Vanuatu",
+    "confederation": 6,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 69,
+    "nationid": 204
+  },
+  {
+    "isocountrycode": "GI",
+    "nationname": "Gibraltar",
+    "confederation": 1,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 38,
+    "nationid": 205
+  },
+  {
+    "isocountrycode": "GL",
+    "nationname": "Greenland",
+    "confederation": 1,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 33,
+    "nationid": 206
+  },
+  {
+    "isocountrycode": "DO",
+    "nationname": "Dominican Republic",
+    "confederation": 7,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 96,
+    "nationid": 207
+  },
+  {
+    "isocountrycode": "EE",
+    "nationname": "Estonia",
+    "confederation": 2,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 39,
+    "nationid": 208
+  },
+  {
+    "isocountrycode": "",
+    "nationname": "Created Players Country",
+    "confederation": 1,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 38,
+    "nationid": 209
+  },
+  {
+    "isocountrycode": "",
+    "nationname": "Free Agents Country",
+    "confederation": 1,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 38,
+    "nationid": 210
+  },
+  {
+    "isocountrycode": "",
+    "nationname": "Rest of World",
+    "confederation": 1,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 38,
+    "nationid": 211
+  },
+  {
+    "isocountrycode": "TL",
+    "nationname": "Timor-Leste",
+    "confederation": 5,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 6,
+    "nationid": 212
+  },
+  {
+    "isocountrycode": "TW",
+    "nationname": "Chinese Taipei",
+    "confederation": 5,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 9,
+    "nationid": 213
+  },
+  {
+    "isocountrycode": "KM",
+    "nationname": "Comoros",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 43,
+    "nationid": 214
+  },
+  {
+    "isocountrycode": "NC",
+    "nationname": "New Caledonia",
+    "confederation": 6,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 44,
+    "nationid": 215
+  },
+  {
+    "isocountrycode": "",
+    "nationname": "Creation Zone",
+    "confederation": 1,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 38,
+    "nationid": 216
+  },
+  {
+    "isocountrycode": "SS",
+    "nationname": "South Sudan",
+    "confederation": 3,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 37,
+    "nationid": 218
+  },
+  {
+    "isocountrycode": "",
+    "nationname": "Kosovo",
+    "confederation": 1,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 13,
+    "nationid": 219
+  },
+  {
+    "isocountrycode": "",
+    "nationname": "International Women",
+    "confederation": 1,
+    "top_tier": 0,
+    "nationstartingfirstletter": 1,
+    "groupid": 38,
+    "nationid": 222
+  }
+]

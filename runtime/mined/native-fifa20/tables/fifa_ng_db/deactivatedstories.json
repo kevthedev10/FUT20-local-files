@@ -1,0 +1,47 @@
+[
+  {
+    "competitionid": 232,
+    "artificialkey": 1,
+    "storytype": 0
+  },
+  {
+    "competitionid": 232,
+    "artificialkey": 2,
+    "storytype": 1
+  },
+  {
+    "competitionid": 232,
+    "artificialkey": 3,
+    "storytype": 2
+  },
+  {
+    "competitionid": 232,
+    "artificialkey": 4,
+    "storytype": 3
+  },
+  {
+    "competitionid": 232,
+    "artificialkey": 5,
+    "storytype": 4
+  },
+  {
+    "competitionid": 232,
+    "artificialkey": 6,
+    "storytype": 7
+  },
+  {
+    "competitionid": 232,
+    "artificialkey": 7,
+    "storytype": 8
+  },
+  {
+    "competitionid": 232,
+    "artificialkey": 8,
+    "storytype": 9
+  },
+  {
+    "competitionid": 232,
+    "artificialkey": 9,
+    "storytype": 15
+  }
+]

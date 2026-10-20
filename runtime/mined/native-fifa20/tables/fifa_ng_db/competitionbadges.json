@@ -1,0 +1,1466 @@
+[
+  {
+    "target": "uefa_3_consecutive_wins",
+    "placement": 0,
+    "competitionid": 223,
+    "priority": 3,
+    "threshold": 4,
+    "badgeid": 6000
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 223,
+    "priority": 3,
+    "threshold": 5,
+    "badgeid": 6001
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 223,
+    "priority": 3,
+    "threshold": 6,
+    "badgeid": 6002
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 223,
+    "priority": 3,
+    "threshold": 7,
+    "badgeid": 6003
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 223,
+    "priority": 3,
+    "threshold": 8,
+    "badgeid": 6004
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 223,
+    "priority": 3,
+    "threshold": 9,
+    "badgeid": 6005
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 10,
+    "badgeid": 6006
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 11,
+    "badgeid": 6007
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 12,
+    "badgeid": 6008
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 13,
+    "badgeid": 6009
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 14,
+    "badgeid": 6010
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 15,
+    "badgeid": 6011
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 16,
+    "badgeid": 6012
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 17,
+    "badgeid": 6013
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 18,
+    "badgeid": 6014
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 19,
+    "badgeid": 6015
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 20,
+    "badgeid": 6016
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 21,
+    "badgeid": 6017
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 22,
+    "badgeid": 6018
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 23,
+    "badgeid": 6019
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 24,
+    "badgeid": 6020
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 25,
+    "badgeid": 6021
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 26,
+    "badgeid": 6022
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 27,
+    "badgeid": 6023
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 28,
+    "badgeid": 6024
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 29,
+    "badgeid": 6025
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 30,
+    "badgeid": 6026
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 31,
+    "badgeid": 6027
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 32,
+    "badgeid": 6028
+  },
+  {
+    "target": "uefa_3_consecutive_wins",
+    "placement": 0,
+    "competitionid": 223,
+    "priority": 3,
+    "threshold": 3,
+    "badgeid": 6099
+  },
+  {
+    "target": "champion_season",
+    "placement": 1,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 2019,
+    "badgeid": 6101
+  },
+  {
+    "target": "champion_season",
+    "placement": 1,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 2020,
+    "badgeid": 6102
+  },
+  {
+    "target": "champion_season",
+    "placement": 1,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 2021,
+    "badgeid": 6103
+  },
+  {
+    "target": "champion_season",
+    "placement": 1,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 2022,
+    "badgeid": 6104
+  },
+  {
+    "target": "champion_season",
+    "placement": 1,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 2023,
+    "badgeid": 6105
+  },
+  {
+    "target": "champion_season",
+    "placement": 1,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 2024,
+    "badgeid": 6106
+  },
+  {
+    "target": "champion_season",
+    "placement": 1,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 2025,
+    "badgeid": 6107
+  },
+  {
+    "target": "champion_season",
+    "placement": 1,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 2026,
+    "badgeid": 6108
+  },
+  {
+    "target": "champion_season",
+    "placement": 1,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 2027,
+    "badgeid": 6109
+  },
+  {
+    "target": "champion_season",
+    "placement": 1,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 2028,
+    "badgeid": 6110
+  },
+  {
+    "target": "champion_season",
+    "placement": 1,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 2029,
+    "badgeid": 6111
+  },
+  {
+    "target": "champion_season",
+    "placement": 1,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 2030,
+    "badgeid": 6112
+  },
+  {
+    "target": "champion_season",
+    "placement": 1,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 2031,
+    "badgeid": 6113
+  },
+  {
+    "target": "champion_season",
+    "placement": 1,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 2032,
+    "badgeid": 6114
+  },
+  {
+    "target": "champion_season",
+    "placement": 1,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 2033,
+    "badgeid": 6115
+  },
+  {
+    "target": "champion_season",
+    "placement": 1,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 2034,
+    "badgeid": 6116
+  },
+  {
+    "target": "champion_season",
+    "placement": 1,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 2035,
+    "badgeid": 6117
+  },
+  {
+    "target": "uefa_el_wins",
+    "placement": 0,
+    "competitionid": 223,
+    "priority": 4,
+    "threshold": 5,
+    "badgeid": 6200
+  },
+  {
+    "target": "uefa_el_wins",
+    "placement": 0,
+    "competitionid": 223,
+    "priority": 4,
+    "threshold": 6,
+    "badgeid": 6201
+  },
+  {
+    "target": "uefa_el_wins",
+    "placement": 0,
+    "competitionid": 223,
+    "priority": 4,
+    "threshold": 7,
+    "badgeid": 6202
+  },
+  {
+    "target": "uefa_el_wins",
+    "placement": 0,
+    "competitionid": 223,
+    "priority": 4,
+    "threshold": 8,
+    "badgeid": 6203
+  },
+  {
+    "target": "uefa_el_wins",
+    "placement": 0,
+    "competitionid": 223,
+    "priority": 4,
+    "threshold": 9,
+    "badgeid": 6204
+  },
+  {
+    "target": "uefa_el_wins",
+    "placement": 0,
+    "competitionid": 223,
+    "priority": 2,
+    "threshold": 10,
+    "badgeid": 6205
+  },
+  {
+    "target": "uefa_el_wins",
+    "placement": 0,
+    "competitionid": 223,
+    "priority": 2,
+    "threshold": 11,
+    "badgeid": 6206
+  },
+  {
+    "target": "uefa_el_wins",
+    "placement": 0,
+    "competitionid": 223,
+    "priority": 2,
+    "threshold": 12,
+    "badgeid": 6207
+  },
+  {
+    "target": "uefa_el_wins",
+    "placement": 0,
+    "competitionid": 223,
+    "priority": 2,
+    "threshold": 13,
+    "badgeid": 6208
+  },
+  {
+    "target": "uefa_el_wins",
+    "placement": 0,
+    "competitionid": 223,
+    "priority": 2,
+    "threshold": 14,
+    "badgeid": 6209
+  },
+  {
+    "target": "uefa_el_wins",
+    "placement": 0,
+    "competitionid": 223,
+    "priority": 2,
+    "threshold": 15,
+    "badgeid": 6210
+  },
+  {
+    "target": "uefa_el_wins",
+    "placement": 0,
+    "competitionid": 223,
+    "priority": 2,
+    "threshold": 16,
+    "badgeid": 6211
+  },
+  {
+    "target": "uefa_el_wins",
+    "placement": 0,
+    "competitionid": 223,
+    "priority": 2,
+    "threshold": 17,
+    "badgeid": 6212
+  },
+  {
+    "target": "uefa_el_wins",
+    "placement": 0,
+    "competitionid": 223,
+    "priority": 2,
+    "threshold": 18,
+    "badgeid": 6213
+  },
+  {
+    "target": "champion_season_europa",
+    "placement": 1,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 2019,
+    "badgeid": 6400
+  },
+  {
+    "target": "champion_season_europa",
+    "placement": 1,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 2020,
+    "badgeid": 6401
+  },
+  {
+    "target": "champion_season_europa",
+    "placement": 1,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 2021,
+    "badgeid": 6402
+  },
+  {
+    "target": "champion_season_europa",
+    "placement": 1,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 2022,
+    "badgeid": 6403
+  },
+  {
+    "target": "champion_season_europa",
+    "placement": 1,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 2023,
+    "badgeid": 6404
+  },
+  {
+    "target": "champion_season_europa",
+    "placement": 1,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 2024,
+    "badgeid": 6405
+  },
+  {
+    "target": "champion_season_europa",
+    "placement": 1,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 2025,
+    "badgeid": 6406
+  },
+  {
+    "target": "champion_season_europa",
+    "placement": 1,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 2026,
+    "badgeid": 6407
+  },
+  {
+    "target": "champion_season_europa",
+    "placement": 1,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 2027,
+    "badgeid": 6408
+  },
+  {
+    "target": "champion_season_europa",
+    "placement": 1,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 2028,
+    "badgeid": 6409
+  },
+  {
+    "target": "champion_season_europa",
+    "placement": 1,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 2029,
+    "badgeid": 6410
+  },
+  {
+    "target": "champion_season_europa",
+    "placement": 1,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 2030,
+    "badgeid": 6411
+  },
+  {
+    "target": "champion_season_europa",
+    "placement": 1,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 2031,
+    "badgeid": 6412
+  },
+  {
+    "target": "champion_season_europa",
+    "placement": 1,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 2032,
+    "badgeid": 6413
+  },
+  {
+    "target": "champion_season_europa",
+    "placement": 1,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 2033,
+    "badgeid": 6414
+  },
+  {
+    "target": "champion_season_europa",
+    "placement": 1,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 2034,
+    "badgeid": 6415
+  },
+  {
+    "target": "champion_season_europa",
+    "placement": 1,
+    "competitionid": 223,
+    "priority": 1,
+    "threshold": 2035,
+    "badgeid": 6416
+  },
+  {
+    "target": "uefa_3_consecutive_wins",
+    "placement": 0,
+    "competitionid": 224,
+    "priority": 3,
+    "threshold": 4,
+    "badgeid": 6000
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 224,
+    "priority": 3,
+    "threshold": 5,
+    "badgeid": 6001
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 224,
+    "priority": 3,
+    "threshold": 6,
+    "badgeid": 6002
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 224,
+    "priority": 3,
+    "threshold": 7,
+    "badgeid": 6003
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 224,
+    "priority": 3,
+    "threshold": 8,
+    "badgeid": 6004
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 224,
+    "priority": 3,
+    "threshold": 9,
+    "badgeid": 6005
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 224,
+    "priority": 1,
+    "threshold": 10,
+    "badgeid": 6006
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 224,
+    "priority": 1,
+    "threshold": 11,
+    "badgeid": 6007
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 224,
+    "priority": 1,
+    "threshold": 12,
+    "badgeid": 6008
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 224,
+    "priority": 1,
+    "threshold": 13,
+    "badgeid": 6009
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 224,
+    "priority": 1,
+    "threshold": 14,
+    "badgeid": 6010
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 224,
+    "priority": 1,
+    "threshold": 15,
+    "badgeid": 6011
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 224,
+    "priority": 1,
+    "threshold": 16,
+    "badgeid": 6012
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 224,
+    "priority": 1,
+    "threshold": 17,
+    "badgeid": 6013
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 224,
+    "priority": 1,
+    "threshold": 18,
+    "badgeid": 6014
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 224,
+    "priority": 1,
+    "threshold": 19,
+    "badgeid": 6015
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 224,
+    "priority": 1,
+    "threshold": 20,
+    "badgeid": 6016
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 224,
+    "priority": 1,
+    "threshold": 21,
+    "badgeid": 6017
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 224,
+    "priority": 1,
+    "threshold": 22,
+    "badgeid": 6018
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 224,
+    "priority": 1,
+    "threshold": 23,
+    "badgeid": 6019
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 224,
+    "priority": 1,
+    "threshold": 24,
+    "badgeid": 6020
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 224,
+    "priority": 1,
+    "threshold": 25,
+    "badgeid": 6021
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 224,
+    "priority": 1,
+    "threshold": 26,
+    "badgeid": 6022
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 224,
+    "priority": 1,
+    "threshold": 27,
+    "badgeid": 6023
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 224,
+    "priority": 1,
+    "threshold": 28,
+    "badgeid": 6024
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 224,
+    "priority": 1,
+    "threshold": 29,
+    "badgeid": 6025
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 224,
+    "priority": 1,
+    "threshold": 30,
+    "badgeid": 6026
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 224,
+    "priority": 1,
+    "threshold": 31,
+    "badgeid": 6027
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 224,
+    "priority": 1,
+    "threshold": 32,
+    "badgeid": 6028
+  },
+  {
+    "target": "uefa_3_consecutive_wins",
+    "placement": 0,
+    "competitionid": 224,
+    "priority": 3,
+    "threshold": 3,
+    "badgeid": 6099
+  },
+  {
+    "target": "uefa_el_wins",
+    "placement": 0,
+    "competitionid": 224,
+    "priority": 4,
+    "threshold": 5,
+    "badgeid": 6200
+  },
+  {
+    "target": "uefa_el_wins",
+    "placement": 0,
+    "competitionid": 224,
+    "priority": 4,
+    "threshold": 6,
+    "badgeid": 6201
+  },
+  {
+    "target": "uefa_el_wins",
+    "placement": 0,
+    "competitionid": 224,
+    "priority": 4,
+    "threshold": 7,
+    "badgeid": 6202
+  },
+  {
+    "target": "uefa_el_wins",
+    "placement": 0,
+    "competitionid": 224,
+    "priority": 4,
+    "threshold": 8,
+    "badgeid": 6203
+  },
+  {
+    "target": "uefa_el_wins",
+    "placement": 0,
+    "competitionid": 224,
+    "priority": 4,
+    "threshold": 9,
+    "badgeid": 6204
+  },
+  {
+    "target": "uefa_el_wins",
+    "placement": 0,
+    "competitionid": 224,
+    "priority": 2,
+    "threshold": 10,
+    "badgeid": 6205
+  },
+  {
+    "target": "uefa_el_wins",
+    "placement": 0,
+    "competitionid": 224,
+    "priority": 2,
+    "threshold": 11,
+    "badgeid": 6206
+  },
+  {
+    "target": "uefa_el_wins",
+    "placement": 0,
+    "competitionid": 224,
+    "priority": 2,
+    "threshold": 12,
+    "badgeid": 6207
+  },
+  {
+    "target": "uefa_el_wins",
+    "placement": 0,
+    "competitionid": 224,
+    "priority": 2,
+    "threshold": 13,
+    "badgeid": 6208
+  },
+  {
+    "target": "uefa_el_wins",
+    "placement": 0,
+    "competitionid": 224,
+    "priority": 2,
+    "threshold": 14,
+    "badgeid": 6209
+  },
+  {
+    "target": "uefa_el_wins",
+    "placement": 0,
+    "competitionid": 224,
+    "priority": 2,
+    "threshold": 15,
+    "badgeid": 6210
+  },
+  {
+    "target": "uefa_el_wins",
+    "placement": 0,
+    "competitionid": 224,
+    "priority": 2,
+    "threshold": 16,
+    "badgeid": 6211
+  },
+  {
+    "target": "uefa_el_wins",
+    "placement": 0,
+    "competitionid": 224,
+    "priority": 2,
+    "threshold": 17,
+    "badgeid": 6212
+  },
+  {
+    "target": "uefa_el_wins",
+    "placement": 0,
+    "competitionid": 224,
+    "priority": 2,
+    "threshold": 18,
+    "badgeid": 6213
+  },
+  {
+    "target": "champion_season",
+    "placement": 1,
+    "competitionid": 224,
+    "priority": 1,
+    "threshold": 2019,
+    "badgeid": 6300
+  },
+  {
+    "target": "champion_season",
+    "placement": 1,
+    "competitionid": 224,
+    "priority": 1,
+    "threshold": 2020,
+    "badgeid": 6301
+  },
+  {
+    "target": "champion_season",
+    "placement": 1,
+    "competitionid": 224,
+    "priority": 1,
+    "threshold": 2021,
+    "badgeid": 6302
+  },
+  {
+    "target": "champion_season",
+    "placement": 1,
+    "competitionid": 224,
+    "priority": 1,
+    "threshold": 2022,
+    "badgeid": 6303
+  },
+  {
+    "target": "champion_season",
+    "placement": 1,
+    "competitionid": 224,
+    "priority": 1,
+    "threshold": 2023,
+    "badgeid": 6304
+  },
+  {
+    "target": "champion_season",
+    "placement": 1,
+    "competitionid": 224,
+    "priority": 1,
+    "threshold": 2024,
+    "badgeid": 6305
+  },
+  {
+    "target": "champion_season",
+    "placement": 1,
+    "competitionid": 224,
+    "priority": 1,
+    "threshold": 2025,
+    "badgeid": 6306
+  },
+  {
+    "target": "champion_season",
+    "placement": 1,
+    "competitionid": 224,
+    "priority": 1,
+    "threshold": 2026,
+    "badgeid": 6307
+  },
+  {
+    "target": "champion_season",
+    "placement": 1,
+    "competitionid": 224,
+    "priority": 1,
+    "threshold": 2027,
+    "badgeid": 6308
+  },
+  {
+    "target": "champion_season",
+    "placement": 1,
+    "competitionid": 224,
+    "priority": 1,
+    "threshold": 2028,
+    "badgeid": 6309
+  },
+  {
+    "target": "champion_season",
+    "placement": 1,
+    "competitionid": 224,
+    "priority": 1,
+    "threshold": 2029,
+    "badgeid": 6310
+  },
+  {
+    "target": "champion_season",
+    "placement": 1,
+    "competitionid": 224,
+    "priority": 1,
+    "threshold": 2030,
+    "badgeid": 6311
+  },
+  {
+    "target": "champion_season",
+    "placement": 1,
+    "competitionid": 224,
+    "priority": 1,
+    "threshold": 2031,
+    "badgeid": 6312
+  },
+  {
+    "target": "champion_season",
+    "placement": 1,
+    "competitionid": 224,
+    "priority": 1,
+    "threshold": 2032,
+    "badgeid": 6313
+  },
+  {
+    "target": "champion_season",
+    "placement": 1,
+    "competitionid": 224,
+    "priority": 1,
+    "threshold": 2033,
+    "badgeid": 6314
+  },
+  {
+    "target": "champion_season",
+    "placement": 1,
+    "competitionid": 224,
+    "priority": 1,
+    "threshold": 2034,
+    "badgeid": 6315
+  },
+  {
+    "target": "champion_season",
+    "placement": 1,
+    "competitionid": 224,
+    "priority": 1,
+    "threshold": 2035,
+    "badgeid": 6316
+  },
+  {
+    "target": "uefa_3_consecutive_wins",
+    "placement": 0,
+    "competitionid": 232,
+    "priority": 3,
+    "threshold": 4,
+    "badgeid": 6000
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 232,
+    "priority": 3,
+    "threshold": 5,
+    "badgeid": 6001
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 232,
+    "priority": 3,
+    "threshold": 6,
+    "badgeid": 6002
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 232,
+    "priority": 3,
+    "threshold": 7,
+    "badgeid": 6003
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 232,
+    "priority": 3,
+    "threshold": 8,
+    "badgeid": 6004
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 232,
+    "priority": 3,
+    "threshold": 9,
+    "badgeid": 6005
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 232,
+    "priority": 1,
+    "threshold": 10,
+    "badgeid": 6006
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 232,
+    "priority": 1,
+    "threshold": 11,
+    "badgeid": 6007
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 232,
+    "priority": 1,
+    "threshold": 12,
+    "badgeid": 6008
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 232,
+    "priority": 1,
+    "threshold": 13,
+    "badgeid": 6009
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 232,
+    "priority": 1,
+    "threshold": 14,
+    "badgeid": 6010
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 232,
+    "priority": 1,
+    "threshold": 15,
+    "badgeid": 6011
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 232,
+    "priority": 1,
+    "threshold": 16,
+    "badgeid": 6012
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 232,
+    "priority": 1,
+    "threshold": 17,
+    "badgeid": 6013
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 232,
+    "priority": 1,
+    "threshold": 18,
+    "badgeid": 6014
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 232,
+    "priority": 1,
+    "threshold": 19,
+    "badgeid": 6015
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 232,
+    "priority": 1,
+    "threshold": 20,
+    "badgeid": 6016
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 232,
+    "priority": 1,
+    "threshold": 21,
+    "badgeid": 6017
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 232,
+    "priority": 1,
+    "threshold": 22,
+    "badgeid": 6018
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 232,
+    "priority": 1,
+    "threshold": 23,
+    "badgeid": 6019
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 232,
+    "priority": 1,
+    "threshold": 24,
+    "badgeid": 6020
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 232,
+    "priority": 1,
+    "threshold": 25,
+    "badgeid": 6021
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 232,
+    "priority": 1,
+    "threshold": 26,
+    "badgeid": 6022
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 232,
+    "priority": 1,
+    "threshold": 27,
+    "badgeid": 6023
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 232,
+    "priority": 1,
+    "threshold": 28,
+    "badgeid": 6024
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 232,
+    "priority": 1,
+    "threshold": 29,
+    "badgeid": 6025
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 232,
+    "priority": 1,
+    "threshold": 30,
+    "badgeid": 6026
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 232,
+    "priority": 1,
+    "threshold": 31,
+    "badgeid": 6027
+  },
+  {
+    "target": "uefa_cl_wins",
+    "placement": 0,
+    "competitionid": 232,
+    "priority": 1,
+    "threshold": 32,
+    "badgeid": 6028
+  },
+  {
+    "target": "uefa_3_consecutive_wins",
+    "placement": 0,
+    "competitionid": 232,
+    "priority": 3,
+    "threshold": 3,
+    "badgeid": 6099
+  },
+  {
+    "target": "uefa_el_wins",
+    "placement": 0,
+    "competitionid": 232,
+    "priority": 4,
+    "threshold": 5,
+    "badgeid": 6200
+  },
+  {
+    "target": "uefa_el_wins",
+    "placement": 0,
+    "competitionid": 232,
+    "priority": 4,
+    "threshold": 6,
+    "badgeid": 6201
+  },
+  {
+    "target": "uefa_el_wins",
+    "placement": 0,
+    "competitionid": 232,
+    "priority": 4,
+    "threshold": 7,
+    "badgeid": 6202
+  },
+  {
+    "target": "uefa_el_wins",
+    "placement": 0,
+    "competitionid": 232,
+    "priority": 4,
+    "threshold": 8,
+    "badgeid": 6203
+  },
+  {
+    "target": "uefa_el_wins",
+    "placement": 0,
+    "competitionid": 232,
+    "priority": 4,
+    "threshold": 9,
+    "badgeid": 6204
+  },
+  {
+    "target": "uefa_el_wins",
+    "placement": 0,
+    "competitionid": 232,
+    "priority": 2,
+    "threshold": 10,
+    "badgeid": 6205
+  },
+  {
+    "target": "uefa_el_wins",
+    "placement": 0,
+    "competitionid": 232,
+    "priority": 2,
+    "threshold": 11,
+    "badgeid": 6206
+  },
+  {
+    "target": "uefa_el_wins",
+    "placement": 0,
+    "competitionid": 232,
+    "priority": 2,
+    "threshold": 12,
+    "badgeid": 6207
+  },
+  {
+    "target": "uefa_el_wins",
+    "placement": 0,
+    "competitionid": 232,
+    "priority": 2,
+    "threshold": 13,
+    "badgeid": 6208
+  },
+  {
+    "target": "uefa_el_wins",
+    "placement": 0,
+    "competitionid": 232,
+    "priority": 2,
+    "threshold": 14,
+    "badgeid": 6209
+  },
+  {
+    "target": "uefa_el_wins",
+    "placement": 0,
+    "competitionid": 232,
+    "priority": 2,
+    "threshold": 15,
+    "badgeid": 6210
+  },
+  {
+    "target": "uefa_el_wins",
+    "placement": 0,
+    "competitionid": 232,
+    "priority": 2,
+    "threshold": 16,
+    "badgeid": 6211
+  },
+  {
+    "target": "uefa_el_wins",
+    "placement": 0,
+    "competitionid": 232,
+    "priority": 2,
+    "threshold": 17,
+    "badgeid": 6212
+  },
+  {
+    "target": "uefa_el_wins",
+    "placement": 0,
+    "competitionid": 232,
+    "priority": 2,
+    "threshold": 18,
+    "badgeid": 6213
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Warehouse_Interior",
+    "stadiumid": 1000,
+    "iswalleditable": 1,
+    "defaultwallvalue": 0,
+    "availablesquads": 416
+  },
+  {
+    "name": "Tokyo",
+    "stadiumid": 1001,
+    "iswalleditable": 0,
+    "defaultwallvalue": 1,
+    "availablesquads": 80
+  },
+  {
+    "name": "Warehouse_Exterior",
+    "stadiumid": 1003,
+    "iswalleditable": 1,
+    "defaultwallvalue": 1,
+    "availablesquads": 80
+  },
+  {
+    "name": "Rio",
+    "stadiumid": 1004,
+    "iswalleditable": 0,
+    "defaultwallvalue": 1,
+    "availablesquads": 160
+  },
+  {
+    "name": "New-York",
+    "stadiumid": 1005,
+    "iswalleditable": 1,
+    "defaultwallvalue": 1,
+    "availablesquads": 160
+  },
+  {
+    "name": "Amsterdam",
+    "stadiumid": 1010,
+    "iswalleditable": 1,
+    "defaultwallvalue": 1,
+    "availablesquads": 80
+  },
+  {
+    "name": "Buenos-Aires",
+    "stadiumid": 1011,
+    "iswalleditable": 1,
+    "defaultwallvalue": 0,
+    "availablesquads": 416
+  },
+  {
+    "name": "Rome",
+    "stadiumid": 1012,
+    "iswalleditable": 1,
+    "defaultwallvalue": 0,
+    "availablesquads": 416
+  },
+  {
+    "name": "London",
+    "stadiumid": 1013,
+    "iswalleditable": 1,
+    "defaultwallvalue": 1,
+    "availablesquads": 80
+  },
+  {
+    "name": "Miami",
+    "stadiumid": 1015,
+    "iswalleditable": 1,
+    "defaultwallvalue": 1,
+    "availablesquads": 160
+  },
+  {
+    "name": "Lagos",
+    "stadiumid": 1017,
+    "iswalleditable": 1,
+    "defaultwallvalue": 1,
+    "availablesquads": 80
+  },
+  {
+    "name": "Paris",
+    "stadiumid": 1018,
+    "iswalleditable": 1,
+    "defaultwallvalue": 1,
+    "availablesquads": 80
+  },
+  {
+    "name": "Mexico",
+    "stadiumid": 1021,
+    "iswalleditable": 0,
+    "defaultwallvalue": 1,
+    "availablesquads": 80
+  },
+  {
+    "name": "Berlin",
+    "stadiumid": 1033,
+    "iswalleditable": 1,
+    "defaultwallvalue": 0,
+    "availablesquads": 416
+  },
+  {
+    "name": "Barcelona",
+    "stadiumid": 1048,
+    "iswalleditable": 1,
+    "defaultwallvalue": 1,
+    "availablesquads": 416
+  },
+  {
+    "name": "Venice",
+    "stadiumid": 1075,
+    "iswalleditable": 1,
+    "defaultwallvalue": 0,
+    "availablesquads": 80
+  },
+  {
+    "name": "Capetown",
+    "stadiumid": 1098,
+    "iswalleditable": 0,
+    "defaultwallvalue": 1,
+    "availablesquads": 80
+  }
+]

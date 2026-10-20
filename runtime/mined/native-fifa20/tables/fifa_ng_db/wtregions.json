@@ -1,0 +1,58 @@
+[
+  {
+    "name": "North America ",
+    "globalx": 374,
+    "id": 1,
+    "globaly": 340,
+    "ishub": 0
+  },
+  {
+    "name": "South America",
+    "globalx": 590,
+    "id": 2,
+    "globaly": 701,
+    "ishub": 0
+  },
+  {
+    "name": "Europe",
+    "globalx": 1072,
+    "id": 3,
+    "globaly": 362,
+    "ishub": 0
+  },
+  {
+    "name": "Africa",
+    "globalx": 1054,
+    "id": 4,
+    "globaly": 631,
+    "ishub": 0
+  },
+  {
+    "name": "Asia",
+    "globalx": 1637,
+    "id": 5,
+    "globaly": 402,
+    "ishub": 0
+  },
+  {
+    "name": "Story",
+    "globalx": 94,
+    "id": 6,
+    "globaly": 602,
+    "ishub": 1
+  },
+  {
+    "name": "Competitive",
+    "globalx": 94,
+    "id": 7,
+    "globaly": 652,
+    "ishub": 1
+  },
+  {
+    "name": "WorldTour",
+    "globalx": 94,
+    "id": 8,
+    "globaly": 702,
+    "ishub": 1
+  }
+]

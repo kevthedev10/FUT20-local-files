@@ -1,0 +1,44 @@
+[
+  {
+    "disabledsongs": "37,31",
+    "keymatchsongs": "",
+    "firsttimeunlockedsongs": "",
+    "stadiumid": 1000
+  },
+  {
+    "disabledsongs": "52,34,28,1,27,15,37,31",
+    "keymatchsongs": "2,7,16,18,25",
+    "firsttimeunlockedsongs": "16,19,55,2,7,25,18,59",
+    "stadiumid": 1001
+  },
+  {
+    "disabledsongs": "37,31",
+    "keymatchsongs": "",
+    "firsttimeunlockedsongs": "",
+    "stadiumid": 1003
+  },
+  {
+    "disabledsongs": "52,4,46,50,57",
+    "keymatchsongs": "29,33,5,31,58,68,72",
+    "firsttimeunlockedsongs": "32,41,5,33,29,31,37,21,58,68,72,31",
+    "stadiumid": 1004
+  },
+  {
+    "disabledsongs": "41,32,37,31,21,31",
+    "keymatchsongs": "10,36,48,65,64",
+    "firsttimeunlockedsongs": "52,34,46,50,64,63,65,36,48",
+    "stadiumid": 1005
+  },
+  {
+    "disabledsongs": "13,56,4,52,10,37,31",
+    "keymatchsongs": "24,49,6,22,43",
+    "firsttimeunlockedsongs": "24,1,49,6,43,22,23,44,66",
+    "stadiumid": 1010
+  },
+  {
+    "disabledsongs": "37,64,65,66,62,63,50,12,37,57",
+    "keymatchsongs": "",
+    "firsttimeunlockedsongs": "",
+    "stadiumid": 1011
+  }
+]

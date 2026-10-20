@@ -1,0 +1,837 @@
+[
+  {
+    "stadiumpalanguageindex": 0,
+    "stadiumid": 1,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 4,
+    "stadiumid": 2,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 3,
+    "stadiumid": 5,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 2,
+    "stadiumid": 9,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 4,
+    "stadiumid": 10,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 2,
+    "stadiumid": 12,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 0,
+    "stadiumid": 13,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 1,
+    "stadiumid": 14,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 7,
+    "stadiumid": 15,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": -1,
+    "stadiumid": 26,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 0,
+    "stadiumid": 28,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 1,
+    "stadiumid": 29,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 2,
+    "stadiumid": 30,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 4,
+    "stadiumid": 31,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": -1,
+    "stadiumid": 32,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": -1,
+    "stadiumid": 33,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": -1,
+    "stadiumid": 34,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": -1,
+    "stadiumid": 35,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 2,
+    "stadiumid": 41,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 0,
+    "stadiumid": 100,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 13,
+    "stadiumid": 104,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 0,
+    "stadiumid": 112,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 0,
+    "stadiumid": 113,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 0,
+    "stadiumid": 115,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 2,
+    "stadiumid": 135,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 2,
+    "stadiumid": 137,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": -1,
+    "stadiumid": 147,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": -1,
+    "stadiumid": 149,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": -1,
+    "stadiumid": 153,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 0,
+    "stadiumid": 155,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 0,
+    "stadiumid": 156,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 3,
+    "stadiumid": 157,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": -1,
+    "stadiumid": 158,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 0,
+    "stadiumid": 161,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": -1,
+    "stadiumid": 172,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": -1,
+    "stadiumid": 175,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 2,
+    "stadiumid": 176,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": -1,
+    "stadiumid": 178,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": -1,
+    "stadiumid": 179,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": -1,
+    "stadiumid": 180,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": -1,
+    "stadiumid": 181,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": -1,
+    "stadiumid": 182,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": -1,
+    "stadiumid": 183,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": -1,
+    "stadiumid": 192,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": -1,
+    "stadiumid": 193,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": -1,
+    "stadiumid": 194,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": -1,
+    "stadiumid": 195,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": -1,
+    "stadiumid": 196,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": -1,
+    "stadiumid": 197,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": -1,
+    "stadiumid": 212,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": -1,
+    "stadiumid": 228,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": -1,
+    "stadiumid": 229,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 0,
+    "stadiumid": 246,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 0,
+    "stadiumid": 248,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": -1,
+    "stadiumid": 249,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 0,
+    "stadiumid": 260,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": -1,
+    "stadiumid": 261,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": -1,
+    "stadiumid": 262,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 0,
+    "stadiumid": 265,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": -1,
+    "stadiumid": 316,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 0,
+    "stadiumid": 326,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 0,
+    "stadiumid": 327,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 0,
+    "stadiumid": 328,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 0,
+    "stadiumid": 329,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 0,
+    "stadiumid": 330,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 0,
+    "stadiumid": 331,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 0,
+    "stadiumid": 332,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 0,
+    "stadiumid": 333,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 0,
+    "stadiumid": 334,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 0,
+    "stadiumid": 335,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 0,
+    "stadiumid": 336,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 0,
+    "stadiumid": 337,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 0,
+    "stadiumid": 340,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 0,
+    "stadiumid": 341,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 2,
+    "stadiumid": 343,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": -1,
+    "stadiumid": 345,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 0,
+    "stadiumid": 347,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 0,
+    "stadiumid": 348,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 0,
+    "stadiumid": 349,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": -1,
+    "stadiumid": 353,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 17,
+    "stadiumid": 354,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 0,
+    "stadiumid": 355,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": -1,
+    "stadiumid": 357,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": -1,
+    "stadiumid": 363,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 4,
+    "stadiumid": 364,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": -1,
+    "stadiumid": 365,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": -1,
+    "stadiumid": 366,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": -1,
+    "stadiumid": 367,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": -1,
+    "stadiumid": 368,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 10,
+    "stadiumid": 378,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 0,
+    "stadiumid": 384,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 4,
+    "stadiumid": 386,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 4,
+    "stadiumid": 387,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 4,
+    "stadiumid": 388,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 4,
+    "stadiumid": 389,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 4,
+    "stadiumid": 390,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 4,
+    "stadiumid": 391,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 4,
+    "stadiumid": 392,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 4,
+    "stadiumid": 393,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 4,
+    "stadiumid": 394,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 4,
+    "stadiumid": 395,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 4,
+    "stadiumid": 396,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 4,
+    "stadiumid": 397,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 4,
+    "stadiumid": 398,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 4,
+    "stadiumid": 399,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 4,
+    "stadiumid": 400,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": -1,
+    "stadiumid": 401,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 0,
+    "stadiumid": 402,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": -1,
+    "stadiumid": 403,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": -1,
+    "stadiumid": 404,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": -1,
+    "stadiumid": 405,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 2,
+    "stadiumid": 406,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 2,
+    "stadiumid": 407,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": -1,
+    "stadiumid": 408,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 0,
+    "stadiumid": 409,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": -1,
+    "stadiumid": 410,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": -1,
+    "stadiumid": 411,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 2,
+    "stadiumid": 412,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 2,
+    "stadiumid": 413,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 2,
+    "stadiumid": 414,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 0,
+    "stadiumid": 415,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 2,
+    "stadiumid": 416,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 2,
+    "stadiumid": 417,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 2,
+    "stadiumid": 418,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 2,
+    "stadiumid": 419,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 2,
+    "stadiumid": 420,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 2,
+    "stadiumid": 422,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 2,
+    "stadiumid": 423,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 1,
+    "stadiumid": 426,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 4,
+    "stadiumid": 427,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 4,
+    "stadiumid": 428,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 4,
+    "stadiumid": 429,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 0,
+    "stadiumid": 430,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 0,
+    "stadiumid": 1000,
+    "matchsizetypeindex": 0
+  },
+  {
+    "stadiumpalanguageindex": 17,
+    "stadiumid": 1001,
+    "matchsizetypeindex": 1
+  },
+  {
+    "stadiumpalanguageindex": 0,
+    "stadiumid": 1003,
+    "matchsizetypeindex": 0
+  },
+  {
+    "stadiumpalanguageindex": 15,
+    "stadiumid": 1004,
+    "matchsizetypeindex": 0
+  },
+  {
+    "stadiumpalanguageindex": 19,
+    "stadiumid": 1005,
+    "matchsizetypeindex": 1
+  },
+  {
+    "stadiumpalanguageindex": 7,
+    "stadiumid": 1010,
+    "matchsizetypeindex": 0
+  },
+  {
+    "stadiumpalanguageindex": 14,
+    "stadiumid": 1011,
+    "matchsizetypeindex": 2
+  },
+  {
+    "stadiumpalanguageindex": 3,
+    "stadiumid": 1012,
+    "matchsizetypeindex": 0
+  },
+  {
+    "stadiumpalanguageindex": 0,
+    "stadiumid": 1013,
+    "matchsizetypeindex": 0
+  },
+  {
+    "stadiumpalanguageindex": 19,
+    "stadiumid": 1015,
+    "matchsizetypeindex": 1
+  },
+  {
+    "stadiumpalanguageindex": 0,
+    "stadiumid": 1017,
+    "matchsizetypeindex": 0
+  },
+  {
+    "stadiumpalanguageindex": 1,
+    "stadiumid": 1018,
+    "matchsizetypeindex": 0
+  },
+  {
+    "stadiumpalanguageindex": 13,
+    "stadiumid": 1021,
+    "matchsizetypeindex": 0
+  },
+  {
+    "stadiumpalanguageindex": 2,
+    "stadiumid": 1033,
+    "matchsizetypeindex": 2
+  },
+  {
+    "stadiumpalanguageindex": 4,
+    "stadiumid": 1048,
+    "matchsizetypeindex": 1
+  },
+  {
+    "stadiumpalanguageindex": 0,
+    "stadiumid": 1074,
+    "matchsizetypeindex": 0
+  },
+  {
+    "stadiumpalanguageindex": 19,
+    "stadiumid": 1075,
+    "matchsizetypeindex": 0
+  },
+  {
+    "stadiumpalanguageindex": 0,
+    "stadiumid": 1098,
+    "matchsizetypeindex": 0
+  },
+  {
+    "stadiumpalanguageindex": 2,
+    "stadiumid": 5009,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 1,
+    "stadiumid": 5029,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 2,
+    "stadiumid": 5030,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 4,
+    "stadiumid": 5031,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 2,
+    "stadiumid": 5137,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 0,
+    "stadiumid": 5156,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 0,
+    "stadiumid": 5246,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 3,
+    "stadiumid": 5247,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 0,
+    "stadiumid": 5332,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 0,
+    "stadiumid": 5333,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 0,
+    "stadiumid": 5335,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 0,
+    "stadiumid": 5340,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 0,
+    "stadiumid": 5348,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 4,
+    "stadiumid": 5364,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 10,
+    "stadiumid": 5378,
+    "matchsizetypeindex": -1
+  },
+  {
+    "stadiumpalanguageindex": 4,
+    "stadiumid": 5394,
+    "matchsizetypeindex": -1
+  }
+]

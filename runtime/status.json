@@ -1,0 +1,50 @@
+{
+  "status": "REDIRECTOR_READY OBSERVED",
+  "currentState": "REDIRECTOR_READY",
+  "verified": [
+    "START",
+    "LOCAL_SERVICES_READY"
+  ],
+  "notYetVerified": [
+    "REDIRECTOR_READY",
+    "TLS_CONNECTED",
+    "SERVER_INSTANCE",
+    "BLAZE_CONNECTED",
+    "BLAZE_PREAUTH",
+    "CONFIG",
+    "AUTH",
+    "SESSION",
+    "ENTITLEMENT",
+    "EASW_ROSTER",
+    "EASW_ROUTING",
+    "ACCOUNT",
+    "NUCLEUS",
+    "FUT_AUTH",
+    "FUT_INIT",
+    "CLUB",
+    "SQUAD",
+    "STORE",
+    "PACKS",
+    "FUT_HOME"
+  ],
+  "milestones": {
+    "START": {
+      "at": "2026-10-20T04:39:18.814255+00:00",
+      "component": "FIFA20",
+      "detail": "runtime imported",
+      "session": ""
+    },
+    "LOCAL_SERVICES_READY": {
+      "at": "2026-10-20T04:39:18.845452+00:00",
+      "component": "FIFA20",
+      "detail": "Blaze 127.0.0.1:44321 FUT 127.0.0.1:8080",
+      "session": ""
+    },
+    "REDIRECTOR_READY": {
+      "at": "2026-10-20T04:39:21Z",
+      "component": "TLS",
+      "detail": "0.0.0.0:42230"
+    }
+  },
+  "updatedAt": "2026-10-20T04:39:21Z"
+}

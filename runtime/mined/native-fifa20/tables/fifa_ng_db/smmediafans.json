@@ -1,0 +1,422 @@
+[
+  {
+    "username": "AlexFan1",
+    "firstname": "Nick",
+    "surname": "Thornton",
+    "accountid": 1,
+    "playerid": 26501
+  },
+  {
+    "username": "AlexFan2",
+    "firstname": "Chris",
+    "surname": "Pross",
+    "accountid": 2,
+    "playerid": 26501
+  },
+  {
+    "username": "AlexFan3",
+    "firstname": "Adam",
+    "surname": "Bellner",
+    "accountid": 3,
+    "playerid": 26501
+  },
+  {
+    "username": "AlexFan4",
+    "firstname": "Emmitt",
+    "surname": "Vaughn",
+    "accountid": 4,
+    "playerid": 26501
+  },
+  {
+    "username": "AlexFan5",
+    "firstname": "Ashton",
+    "surname": "George",
+    "accountid": 5,
+    "playerid": 26501
+  },
+  {
+    "username": "AlexFan6",
+    "firstname": "Kyle",
+    "surname": "Mox",
+    "accountid": 11,
+    "playerid": 26501
+  },
+  {
+    "username": "AlexFan7",
+    "firstname": "Kieran",
+    "surname": "Lord",
+    "accountid": 12,
+    "playerid": 26501
+  },
+  {
+    "username": "AlexFan8",
+    "firstname": "Alejandro",
+    "surname": "Juarez",
+    "accountid": 13,
+    "playerid": 26501
+  },
+  {
+    "username": "AlexFan9",
+    "firstname": "Peter ",
+    "surname": "Michaels",
+    "accountid": 14,
+    "playerid": 26501
+  },
+  {
+    "username": "AlexFan10",
+    "firstname": "Ignacio",
+    "surname": "Romero",
+    "accountid": 15,
+    "playerid": 26501
+  },
+  {
+    "username": "AlexFan11",
+    "firstname": "Nick",
+    "surname": "Thornton",
+    "accountid": 1,
+    "playerid": 26501
+  },
+  {
+    "username": "AlexFan12",
+    "firstname": "Chris",
+    "surname": "Pross",
+    "accountid": 2,
+    "playerid": 26501
+  },
+  {
+    "username": "AlexFan13",
+    "firstname": "Adam",
+    "surname": "Bellner",
+    "accountid": 3,
+    "playerid": 26501
+  },
+  {
+    "username": "AlexFan14",
+    "firstname": "Emmitt",
+    "surname": "Vaughn",
+    "accountid": 4,
+    "playerid": 26501
+  },
+  {
+    "username": "AlexFan15",
+    "firstname": "Ashton",
+    "surname": "George",
+    "accountid": 5,
+    "playerid": 26501
+  },
+  {
+    "username": "AlexFan16",
+    "firstname": "Ethan",
+    "surname": "Hudson",
+    "accountid": 6,
+    "playerid": 26501
+  },
+  {
+    "username": "AlexFan17",
+    "firstname": "Declan",
+    "surname": "Marsh",
+    "accountid": 7,
+    "playerid": 26501
+  },
+  {
+    "username": "AlexFan18",
+    "firstname": "Clive",
+    "surname": "Rockhart",
+    "accountid": 8,
+    "playerid": 26501
+  },
+  {
+    "username": "AlexFan19",
+    "firstname": "Peter",
+    "surname": "Dott",
+    "accountid": 9,
+    "playerid": 26501
+  },
+  {
+    "username": "AlexFan20",
+    "firstname": "Nathanael",
+    "surname": "Bauer",
+    "accountid": 10,
+    "playerid": 26501
+  },
+  {
+    "username": "DannyFan1",
+    "firstname": "Kyle",
+    "surname": "Mox",
+    "accountid": 11,
+    "playerid": 26503
+  },
+  {
+    "username": "DannyFan2",
+    "firstname": "Kieran",
+    "surname": "Lord",
+    "accountid": 12,
+    "playerid": 26503
+  },
+  {
+    "username": "DannyFan3",
+    "firstname": "Alejandro",
+    "surname": "Juarez",
+    "accountid": 13,
+    "playerid": 26503
+  },
+  {
+    "username": "DannyFan4",
+    "firstname": "Peter ",
+    "surname": "Michaels",
+    "accountid": 14,
+    "playerid": 26503
+  },
+  {
+    "username": "DannyFan5",
+    "firstname": "Ignacio",
+    "surname": "Romero",
+    "accountid": 15,
+    "playerid": 26503
+  },
+  {
+    "username": "DannyFan6",
+    "firstname": "Sharif",
+    "surname": "Tomlinson",
+    "accountid": 16,
+    "playerid": 26503
+  },
+  {
+    "username": "DannyFan7",
+    "firstname": "Zach",
+    "surname": "Gormley",
+    "accountid": 17,
+    "playerid": 26503
+  },
+  {
+    "username": "DannyFan8",
+    "firstname": "Scott",
+    "surname": "Kato",
+    "accountid": 18,
+    "playerid": 26503
+  },
+  {
+    "username": "DannyFan9",
+    "firstname": "Trevor",
+    "surname": "Cho",
+    "accountid": 19,
+    "playerid": 26503
+  },
+  {
+    "username": "DannyFan10",
+    "firstname": "Gianluca",
+    "surname": "Grant",
+    "accountid": 20,
+    "playerid": 26503
+  },
+  {
+    "username": "DannyFan11",
+    "firstname": "Adrien",
+    "surname": "Dupont",
+    "accountid": 21,
+    "playerid": 26503
+  },
+  {
+    "username": "DannyFan12",
+    "firstname": "Mathieu",
+    "surname": "Bourgeois",
+    "accountid": 22,
+    "playerid": 26503
+  },
+  {
+    "username": "DannyFan13",
+    "firstname": "Pascal",
+    "surname": "Carpentier",
+    "accountid": 23,
+    "playerid": 26503
+  },
+  {
+    "username": "DannyFan14",
+    "firstname": "Guillaume",
+    "surname": "Breton",
+    "accountid": 24,
+    "playerid": 26503
+  },
+  {
+    "username": "DannyFan15",
+    "firstname": "Hugo",
+    "surname": "Lefebvre",
+    "accountid": 25,
+    "playerid": 26503
+  },
+  {
+    "username": "DannyFan16",
+    "firstname": "Maurice",
+    "surname": "Roux",
+    "accountid": 26,
+    "playerid": 26503
+  },
+  {
+    "username": "DannyFan17",
+    "firstname": "Yousef",
+    "surname": "Perrin",
+    "accountid": 27,
+    "playerid": 26503
+  },
+  {
+    "username": "DannyFan18",
+    "firstname": "Jean Claude",
+    "surname": "Lapin",
+    "accountid": 28,
+    "playerid": 26503
+  },
+  {
+    "username": "DannyFan19",
+    "firstname": "Raashid",
+    "surname": "Zadeh",
+    "accountid": 29,
+    "playerid": 26503
+  },
+  {
+    "username": "DannyFan20",
+    "firstname": "Maxime",
+    "surname": "Clement",
+    "accountid": 30,
+    "playerid": 26503
+  },
+  {
+    "username": "KimFan1",
+    "firstname": "Gustav",
+    "surname": "Hartmann",
+    "accountid": 21,
+    "playerid": 26531
+  },
+  {
+    "username": "KimFan2",
+    "firstname": "Jonas",
+    "surname": "Krause",
+    "accountid": 22,
+    "playerid": 26531
+  },
+  {
+    "username": "KimFan3",
+    "firstname": "Felix",
+    "surname": "Herrmann",
+    "accountid": 23,
+    "playerid": 26531
+  },
+  {
+    "username": "KimFan4",
+    "firstname": "Oskar",
+    "surname": "Franke",
+    "accountid": 24,
+    "playerid": 26531
+  },
+  {
+    "username": "KimFan5",
+    "firstname": "Mats",
+    "surname": "Pfeifer",
+    "accountid": 25,
+    "playerid": 26531
+  },
+  {
+    "username": "KimFan6",
+    "firstname": "Fabian",
+    "surname": "Voigt",
+    "accountid": 26,
+    "playerid": 26531
+  },
+  {
+    "username": "KimFan7",
+    "firstname": "Leon",
+    "surname": "Ziegler",
+    "accountid": 27,
+    "playerid": 26531
+  },
+  {
+    "username": "KimFan8",
+    "firstname": "Anton",
+    "surname": "Haas",
+    "accountid": 28,
+    "playerid": 26531
+  },
+  {
+    "username": "KimFan9",
+    "firstname": "Ben",
+    "surname": "Schumacher",
+    "accountid": 29,
+    "playerid": 26531
+  },
+  {
+    "username": "KimFan10",
+    "firstname": "Andre",
+    "surname": "Pfullman",
+    "accountid": 30,
+    "playerid": 26531
+  },
+  {
+    "username": "KimFan11",
+    "firstname": "Aydin",
+    "surname": "Carlos",
+    "accountid": 21,
+    "playerid": 26531
+  },
+  {
+    "username": "KimFan12",
+    "firstname": "Joao",
+    "surname": "Bravo",
+    "accountid": 22,
+    "playerid": 26531
+  },
+  {
+    "username": "KimFan13",
+    "firstname": "Julio",
+    "surname": "Castrillo",
+    "accountid": 23,
+    "playerid": 26531
+  },
+  {
+    "username": "KimFan14",
+    "firstname": "Matias",
+    "surname": "Chapa",
+    "accountid": 24,
+    "playerid": 26531
+  },
+  {
+    "username": "KimFan15",
+    "firstname": "Thiago",
+    "surname": "Ferrin",
+    "accountid": 25,
+    "playerid": 26531
+  },
+  {
+    "username": "KimFan16",
+    "firstname": "Gabriel",
+    "surname": "Mezo",
+    "accountid": 26,
+    "playerid": 26531
+  },
+  {
+    "username": "KimFan17",
+    "firstname": "Sergio",
+    "surname": "Pedrosa",
+    "accountid": 27,
+    "playerid": 26531
+  },
+  {
+    "username": "KimFan18",
+    "firstname": "Camillo",
+    "surname": "Sandoval",
+    "accountid": 28,
+    "playerid": 26531
+  },
+  {
+    "username": "KimFan19",
+    "firstname": "Ramon",
+    "surname": "Sepeda",
+    "accountid": 29,
+    "playerid": 26531
+  },
+  {
+    "username": "KimFan20",
+    "firstname": "Angel",
+    "surname": "Villaflor",
+    "accountid": 30,
+    "playerid": 26531
+  }
+]

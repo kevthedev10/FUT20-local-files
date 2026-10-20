@@ -1,0 +1,314 @@
+[
+  {
+    "outcome3": 5,
+    "outcome4": 8,
+    "leagueid": 1,
+    "outcome1": 1,
+    "outcome2": 3,
+    "outcome5": 10
+  },
+  {
+    "outcome3": 6,
+    "outcome4": 12,
+    "leagueid": 4,
+    "outcome1": 1,
+    "outcome2": 3,
+    "outcome5": 14
+  },
+  {
+    "outcome3": 7,
+    "outcome4": 10,
+    "leagueid": 7,
+    "outcome1": 1,
+    "outcome2": 4,
+    "outcome5": 14
+  },
+  {
+    "outcome3": 8,
+    "outcome4": 13,
+    "leagueid": 10,
+    "outcome1": 1,
+    "outcome2": 3,
+    "outcome5": 15
+  },
+  {
+    "outcome3": 5,
+    "outcome4": 14,
+    "leagueid": 13,
+    "outcome1": 1,
+    "outcome2": 4,
+    "outcome5": 17
+  },
+  {
+    "outcome3": 6,
+    "outcome4": 17,
+    "leagueid": 14,
+    "outcome1": 1,
+    "outcome2": 2,
+    "outcome5": 21
+  },
+  {
+    "outcome3": 6,
+    "outcome4": 14,
+    "leagueid": 16,
+    "outcome1": 1,
+    "outcome2": 4,
+    "outcome5": 17
+  },
+  {
+    "outcome3": 6,
+    "outcome4": 14,
+    "leagueid": 17,
+    "outcome1": 1,
+    "outcome2": 3,
+    "outcome5": 17
+  },
+  {
+    "outcome3": 6,
+    "outcome4": 13,
+    "leagueid": 19,
+    "outcome1": 1,
+    "outcome2": 4,
+    "outcome5": 16
+  },
+  {
+    "outcome3": 5,
+    "outcome4": 13,
+    "leagueid": 20,
+    "outcome1": 1,
+    "outcome2": 2,
+    "outcome5": 15
+  },
+  {
+    "outcome3": 5,
+    "outcome4": 14,
+    "leagueid": 31,
+    "outcome1": 1,
+    "outcome2": 4,
+    "outcome5": 17
+  },
+  {
+    "outcome3": 6,
+    "outcome4": 15,
+    "leagueid": 32,
+    "outcome1": 1,
+    "outcome2": 2,
+    "outcome5": 18
+  },
+  {
+    "outcome3": 3,
+    "outcome4": 4,
+    "leagueid": 39,
+    "outcome1": 1,
+    "outcome2": 2,
+    "outcome5": 5
+  },
+  {
+    "outcome3": 6,
+    "outcome4": 12,
+    "leagueid": 41,
+    "outcome1": 1,
+    "outcome2": 3,
+    "outcome5": 14
+  },
+  {
+    "outcome3": 5,
+    "outcome4": 7,
+    "leagueid": 50,
+    "outcome1": 1,
+    "outcome2": 3,
+    "outcome5": 10
+  },
+  {
+    "outcome3": 6,
+    "outcome4": 14,
+    "leagueid": 53,
+    "outcome1": 1,
+    "outcome2": 4,
+    "outcome5": 17
+  },
+  {
+    "outcome3": 6,
+    "outcome4": 15,
+    "leagueid": 54,
+    "outcome1": 1,
+    "outcome2": 2,
+    "outcome5": 18
+  },
+  {
+    "outcome3": 6,
+    "outcome4": 10,
+    "leagueid": 56,
+    "outcome1": 1,
+    "outcome2": 3,
+    "outcome5": 12
+  },
+  {
+    "outcome3": 6,
+    "outcome4": 17,
+    "leagueid": 60,
+    "outcome1": 1,
+    "outcome2": 2,
+    "outcome5": 20
+  },
+  {
+    "outcome3": 7,
+    "outcome4": 17,
+    "leagueid": 61,
+    "outcome1": 1,
+    "outcome2": 3,
+    "outcome5": 20
+  },
+  {
+    "outcome3": 5,
+    "outcome4": 7,
+    "leagueid": 65,
+    "outcome1": 1,
+    "outcome2": 4,
+    "outcome5": 9
+  },
+  {
+    "outcome3": 6,
+    "outcome4": 12,
+    "leagueid": 66,
+    "outcome1": 1,
+    "outcome2": 3,
+    "outcome5": 14
+  },
+  {
+    "outcome3": 7,
+    "outcome4": 12,
+    "leagueid": 67,
+    "outcome1": 1,
+    "outcome2": 5,
+    "outcome5": 14
+  },
+  {
+    "outcome3": 7,
+    "outcome4": 13,
+    "leagueid": 68,
+    "outcome1": 1,
+    "outcome2": 4,
+    "outcome5": 15
+  },
+  {
+    "outcome3": 4,
+    "outcome4": 6,
+    "leagueid": 80,
+    "outcome1": 1,
+    "outcome2": 3,
+    "outcome5": 8
+  },
+  {
+    "outcome3": 4,
+    "outcome4": 6,
+    "leagueid": 83,
+    "outcome1": 1,
+    "outcome2": 2,
+    "outcome5": 12
+  },
+  {
+    "outcome3": 5,
+    "outcome4": 7,
+    "leagueid": 189,
+    "outcome1": 1,
+    "outcome2": 4,
+    "outcome5": 8
+  },
+  {
+    "outcome3": 7,
+    "outcome4": 12,
+    "leagueid": 308,
+    "outcome1": 1,
+    "outcome2": 5,
+    "outcome5": 14
+  },
+  {
+    "outcome3": 6,
+    "outcome4": 12,
+    "leagueid": 319,
+    "outcome1": 1,
+    "outcome2": 3,
+    "outcome5": 14
+  },
+  {
+    "outcome3": 5,
+    "outcome4": 9,
+    "leagueid": 330,
+    "outcome1": 1,
+    "outcome2": 3,
+    "outcome5": 11
+  },
+  {
+    "outcome3": 7,
+    "outcome4": 10,
+    "leagueid": 335,
+    "outcome1": 1,
+    "outcome2": 4,
+    "outcome5": 14
+  },
+  {
+    "outcome3": 6,
+    "outcome4": 8,
+    "leagueid": 336,
+    "outcome1": 1,
+    "outcome2": 3,
+    "outcome5": 11
+  },
+  {
+    "outcome3": 4,
+    "outcome4": 6,
+    "leagueid": 341,
+    "outcome1": 1,
+    "outcome2": 2,
+    "outcome5": 8
+  },
+  {
+    "outcome3": 5,
+    "outcome4": 13,
+    "leagueid": 349,
+    "outcome1": 1,
+    "outcome2": 2,
+    "outcome5": 15
+  },
+  {
+    "outcome3": 6,
+    "outcome4": 8,
+    "leagueid": 350,
+    "outcome1": 1,
+    "outcome2": 3,
+    "outcome5": 11
+  },
+  {
+    "outcome3": 4,
+    "outcome4": 6,
+    "leagueid": 351,
+    "outcome1": 1,
+    "outcome2": 2,
+    "outcome5": 8
+  },
+  {
+    "outcome3": 8,
+    "outcome4": 16,
+    "leagueid": 353,
+    "outcome1": 1,
+    "outcome2": 4,
+    "outcome5": 22
+  },
+  {
+    "outcome3": 7,
+    "outcome4": 10,
+    "leagueid": 2012,
+    "outcome1": 1,
+    "outcome2": 4,
+    "outcome5": 14
+  },
+  {
+    "outcome3": 5,
+    "outcome4": 13,
+    "leagueid": 2076,
+    "outcome1": 1,
+    "outcome2": 2,
+    "outcome5": 15
+  }
+]

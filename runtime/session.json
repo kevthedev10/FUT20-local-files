@@ -1,0 +1,12 @@
+{
+  "sessionId": "f20.d87e9381f07c0887ca465d3b797dcc54",
+  "bootstrapTicket": "f20-ticket.p681WBWTL1oYCZ1OvOpgkGQ57JQXmq4726YQ-1Ox1-o",
+  "refreshGrant": "f20-refresh.glJvAZvye8sx_JsaI4btcpgQitP6ZIM2sfEkVdk6jU0",
+  "accessToken": "f20-access.8_v9_g4QK_k2Vu9lCGx1XOodZu39i7k2NUKiI285y7Q",
+  "accountId": "local-test-account-001",
+  "personaId": 1000000002,
+  "displayName": "Local Test Player",
+  "createdAt": 1792471162,
+  "expiresAt": 1792472062,
+  "state": "ENROLLED"
+}

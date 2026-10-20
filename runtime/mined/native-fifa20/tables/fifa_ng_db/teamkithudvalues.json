@@ -1,0 +1,602 @@
+[
+  {
+    "pattern": 2,
+    "teamkitid": 830,
+    "teamid": 459,
+    "kittype": 0
+  },
+  {
+    "pattern": 2,
+    "teamkitid": 831,
+    "teamid": 459,
+    "kittype": 1
+  },
+  {
+    "pattern": 2,
+    "teamkitid": 832,
+    "teamid": 462,
+    "kittype": 0
+  },
+  {
+    "pattern": 2,
+    "teamkitid": 833,
+    "teamid": 462,
+    "kittype": 1
+  },
+  {
+    "pattern": 0,
+    "teamkitid": 836,
+    "teamid": 472,
+    "kittype": 0
+  },
+  {
+    "pattern": 0,
+    "teamkitid": 837,
+    "teamid": 472,
+    "kittype": 1
+  },
+  {
+    "pattern": 0,
+    "teamkitid": 838,
+    "teamid": 477,
+    "kittype": 0
+  },
+  {
+    "pattern": 1,
+    "teamkitid": 839,
+    "teamid": 477,
+    "kittype": 1
+  },
+  {
+    "pattern": 2,
+    "teamkitid": 856,
+    "teamid": 573,
+    "kittype": 0
+  },
+  {
+    "pattern": 0,
+    "teamkitid": 857,
+    "teamid": 573,
+    "kittype": 1
+  },
+  {
+    "pattern": 2,
+    "teamkitid": 1070,
+    "teamid": 1861,
+    "kittype": 0
+  },
+  {
+    "pattern": 2,
+    "teamkitid": 1071,
+    "teamid": 1861,
+    "kittype": 1
+  },
+  {
+    "pattern": 0,
+    "teamkitid": 1199,
+    "teamid": 1968,
+    "kittype": 0
+  },
+  {
+    "pattern": 1,
+    "teamkitid": 1200,
+    "teamid": 1968,
+    "kittype": 1
+  },
+  {
+    "pattern": 2,
+    "teamkitid": 1211,
+    "teamid": 2026,
+    "kittype": 0
+  },
+  {
+    "pattern": 2,
+    "teamkitid": 1212,
+    "teamid": 2026,
+    "kittype": 1
+  },
+  {
+    "pattern": 2,
+    "teamkitid": 1489,
+    "teamid": 240,
+    "kittype": 0
+  },
+  {
+    "pattern": 1,
+    "teamkitid": 1490,
+    "teamid": 240,
+    "kittype": 1
+  },
+  {
+    "pattern": 2,
+    "teamkitid": 1491,
+    "teamid": 241,
+    "kittype": 0
+  },
+  {
+    "pattern": 0,
+    "teamkitid": 1492,
+    "teamid": 241,
+    "kittype": 1
+  },
+  {
+    "pattern": 0,
+    "teamkitid": 1494,
+    "teamid": 241,
+    "kittype": 3
+  },
+  {
+    "pattern": 2,
+    "teamkitid": 1495,
+    "teamid": 242,
+    "kittype": 0
+  },
+  {
+    "pattern": 1,
+    "teamkitid": 1496,
+    "teamid": 242,
+    "kittype": 1
+  },
+  {
+    "pattern": 2,
+    "teamkitid": 1501,
+    "teamid": 244,
+    "kittype": 0
+  },
+  {
+    "pattern": 2,
+    "teamkitid": 1502,
+    "teamid": 244,
+    "kittype": 1
+  },
+  {
+    "pattern": 2,
+    "teamkitid": 1508,
+    "teamid": 448,
+    "kittype": 0
+  },
+  {
+    "pattern": 2,
+    "teamkitid": 1509,
+    "teamid": 448,
+    "kittype": 1
+  },
+  {
+    "pattern": 2,
+    "teamkitid": 1510,
+    "teamid": 449,
+    "kittype": 0
+  },
+  {
+    "pattern": 0,
+    "teamkitid": 1511,
+    "teamid": 449,
+    "kittype": 1
+  },
+  {
+    "pattern": 0,
+    "teamkitid": 1512,
+    "teamid": 450,
+    "kittype": 0
+  },
+  {
+    "pattern": 2,
+    "teamkitid": 1513,
+    "teamid": 450,
+    "kittype": 1
+  },
+  {
+    "pattern": 1,
+    "teamkitid": 1514,
+    "teamid": 452,
+    "kittype": 0
+  },
+  {
+    "pattern": 2,
+    "teamkitid": 1515,
+    "teamid": 452,
+    "kittype": 1
+  },
+  {
+    "pattern": 2,
+    "teamkitid": 1520,
+    "teamid": 457,
+    "kittype": 0
+  },
+  {
+    "pattern": 0,
+    "teamkitid": 1521,
+    "teamid": 457,
+    "kittype": 1
+  },
+  {
+    "pattern": 0,
+    "teamkitid": 1522,
+    "teamid": 461,
+    "kittype": 0
+  },
+  {
+    "pattern": 0,
+    "teamkitid": 1523,
+    "teamid": 461,
+    "kittype": 1
+  },
+  {
+    "pattern": 2,
+    "teamkitid": 1525,
+    "teamid": 461,
+    "kittype": 3
+  },
+  {
+    "pattern": 2,
+    "teamkitid": 1526,
+    "teamid": 463,
+    "kittype": 0
+  },
+  {
+    "pattern": 1,
+    "teamkitid": 1527,
+    "teamid": 463,
+    "kittype": 1
+  },
+  {
+    "pattern": 0,
+    "teamkitid": 1528,
+    "teamid": 479,
+    "kittype": 0
+  },
+  {
+    "pattern": 0,
+    "teamkitid": 1529,
+    "teamid": 479,
+    "kittype": 1
+  },
+  {
+    "pattern": 0,
+    "teamkitid": 1530,
+    "teamid": 481,
+    "kittype": 0
+  },
+  {
+    "pattern": 0,
+    "teamkitid": 1531,
+    "teamid": 481,
+    "kittype": 1
+  },
+  {
+    "pattern": 0,
+    "teamkitid": 1532,
+    "teamid": 483,
+    "kittype": 0
+  },
+  {
+    "pattern": 0,
+    "teamkitid": 1533,
+    "teamid": 483,
+    "kittype": 3
+  },
+  {
+    "pattern": 2,
+    "teamkitid": 1673,
+    "teamid": 1853,
+    "kittype": 0
+  },
+  {
+    "pattern": 2,
+    "teamkitid": 1674,
+    "teamid": 1853,
+    "kittype": 1
+  },
+  {
+    "pattern": 0,
+    "teamkitid": 1675,
+    "teamid": 1860,
+    "kittype": 0
+  },
+  {
+    "pattern": 0,
+    "teamkitid": 1676,
+    "teamid": 1860,
+    "kittype": 1
+  },
+  {
+    "pattern": 0,
+    "teamkitid": 1707,
+    "teamid": 15019,
+    "kittype": 0
+  },
+  {
+    "pattern": 0,
+    "teamkitid": 1708,
+    "teamid": 15019,
+    "kittype": 1
+  },
+  {
+    "pattern": 2,
+    "teamkitid": 1803,
+    "teamid": 448,
+    "kittype": 2
+  },
+  {
+    "pattern": 0,
+    "teamkitid": 1805,
+    "teamid": 450,
+    "kittype": 2
+  },
+  {
+    "pattern": 2,
+    "teamkitid": 1872,
+    "teamid": 1853,
+    "kittype": 3
+  },
+  {
+    "pattern": 2,
+    "teamkitid": 2782,
+    "teamid": 242,
+    "kittype": 3
+  },
+  {
+    "pattern": 2,
+    "teamkitid": 2788,
+    "teamid": 481,
+    "kittype": 3
+  },
+  {
+    "pattern": 0,
+    "teamkitid": 2789,
+    "teamid": 483,
+    "kittype": 1
+  },
+  {
+    "pattern": 2,
+    "teamkitid": 3454,
+    "teamid": 467,
+    "kittype": 0
+  },
+  {
+    "pattern": 2,
+    "teamkitid": 3455,
+    "teamid": 467,
+    "kittype": 1
+  },
+  {
+    "pattern": 2,
+    "teamkitid": 3456,
+    "teamid": 1867,
+    "kittype": 0
+  },
+  {
+    "pattern": 0,
+    "teamkitid": 3457,
+    "teamid": 1867,
+    "kittype": 1
+  },
+  {
+    "pattern": 0,
+    "teamkitid": 3476,
+    "teamid": 110714,
+    "kittype": 0
+  },
+  {
+    "pattern": 0,
+    "teamkitid": 3477,
+    "teamid": 110714,
+    "kittype": 1
+  },
+  {
+    "pattern": 2,
+    "teamkitid": 3756,
+    "teamid": 110839,
+    "kittype": 1
+  },
+  {
+    "pattern": 2,
+    "teamkitid": 3757,
+    "teamid": 110839,
+    "kittype": 0
+  },
+  {
+    "pattern": 1,
+    "teamkitid": 3758,
+    "teamid": 480,
+    "kittype": 0
+  },
+  {
+    "pattern": 1,
+    "teamkitid": 3759,
+    "teamid": 480,
+    "kittype": 1
+  },
+  {
+    "pattern": 0,
+    "teamkitid": 3760,
+    "teamid": 110062,
+    "kittype": 1
+  },
+  {
+    "pattern": 2,
+    "teamkitid": 3761,
+    "teamid": 110062,
+    "kittype": 0
+  },
+  {
+    "pattern": 0,
+    "teamkitid": 3780,
+    "teamid": 1860,
+    "kittype": 3
+  },
+  {
+    "pattern": 2,
+    "teamkitid": 4344,
+    "teamid": 110832,
+    "kittype": 0
+  },
+  {
+    "pattern": 2,
+    "teamkitid": 4345,
+    "teamid": 110832,
+    "kittype": 1
+  },
+  {
+    "pattern": 0,
+    "teamkitid": 4346,
+    "teamid": 100831,
+    "kittype": 1
+  },
+  {
+    "pattern": 0,
+    "teamkitid": 4347,
+    "teamid": 100831,
+    "kittype": 0
+  },
+  {
+    "pattern": 2,
+    "teamkitid": 4348,
+    "teamid": 110704,
+    "kittype": 0
+  },
+  {
+    "pattern": 0,
+    "teamkitid": 4349,
+    "teamid": 110704,
+    "kittype": 1
+  },
+  {
+    "pattern": 0,
+    "teamkitid": 4739,
+    "teamid": 573,
+    "kittype": 3
+  },
+  {
+    "pattern": 2,
+    "teamkitid": 5037,
+    "teamid": 452,
+    "kittype": 3
+  },
+  {
+    "pattern": 2,
+    "teamkitid": 5234,
+    "teamid": 110831,
+    "kittype": 0
+  },
+  {
+    "pattern": 2,
+    "teamkitid": 5235,
+    "teamid": 110831,
+    "kittype": 1
+  },
+  {
+    "pattern": 2,
+    "teamkitid": 5266,
+    "teamid": 448,
+    "kittype": 3
+  },
+  {
+    "pattern": 1,
+    "teamkitid": 5267,
+    "teamid": 480,
+    "kittype": 2
+  },
+  {
+    "pattern": 2,
+    "teamkitid": 5649,
+    "teamid": 110062,
+    "kittype": 2
+  },
+  {
+    "pattern": 2,
+    "teamkitid": 6151,
+    "teamid": 260,
+    "kittype": 0
+  },
+  {
+    "pattern": 2,
+    "teamkitid": 6152,
+    "teamid": 260,
+    "kittype": 1
+  },
+  {
+    "pattern": 0,
+    "teamkitid": 6628,
+    "teamid": 240,
+    "kittype": 0
+  },
+  {
+    "pattern": 2,
+    "teamkitid": 6677,
+    "teamid": 467,
+    "kittype": 3
+  },
+  {
+    "pattern": 1,
+    "teamkitid": 6682,
+    "teamid": 100888,
+    "kittype": 0
+  },
+  {
+    "pattern": 0,
+    "teamkitid": 6683,
+    "teamid": 100888,
+    "kittype": 1
+  },
+  {
+    "pattern": 2,
+    "teamkitid": 6685,
+    "teamid": 1854,
+    "kittype": 0
+  },
+  {
+    "pattern": 0,
+    "teamkitid": 6686,
+    "teamid": 1854,
+    "kittype": 1
+  },
+  {
+    "pattern": 0,
+    "teamkitid": 7318,
+    "teamid": 110827,
+    "kittype": 0
+  },
+  {
+    "pattern": 2,
+    "teamkitid": 7319,
+    "teamid": 110827,
+    "kittype": 1
+  },
+  {
+    "pattern": 2,
+    "teamkitid": 7897,
+    "teamid": 110854,
+    "kittype": 0
+  },
+  {
+    "pattern": 2,
+    "teamkitid": 7898,
+    "teamid": 110854,
+    "kittype": 1
+  },
+  {
+    "pattern": 0,
+    "teamkitid": 8364,
+    "teamid": 100888,
+    "kittype": 3
+  },
+  {
+    "pattern": 1,
+    "teamkitid": 8375,
+    "teamid": 463,
+    "kittype": 3
+  },
+  {
+    "pattern": 2,
+    "teamkitid": 8430,
+    "teamid": 15012,
+    "kittype": 0
+  },
+  {
+    "pattern": 2,
+    "teamkitid": 8431,
+    "teamid": 15012,
+    "kittype": 1
+  }
+]

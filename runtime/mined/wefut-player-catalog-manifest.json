@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "source": {
+    "description": "WeFUT FIFA 20 player database and per-card detail metadata",
+    "databaseUrl": "https://wefut.com/player-database/20",
+    "retrievedAt": "2026-09-07T00:53:38.020Z"
+  },
+  "resourceIds": {
+    "exact": "Base IDs and IDs exposed by WeFUT player-avatar metadata",
+    "fallback": "Locally assigned revision IDs preserve the FIFA base-ID bits and are explicitly counted below",
+    "counts": {
+      "local-revision-fallback": 6063,
+      "wefut-base-id": 16747,
+      "wefut-custom-avatar": 1369,
+      "wefut-custom-avatar-revision": 89
+    },
+    "fallbackBaseCards": 3408,
+    "fallbackSpecialCards": 2655,
+    "detailErrors": 1
+  },
+  "counts": {
+    "wefutRows": 24268,
+    "catalogCards": 24268,
+    "duplicateDefinitions": 0,
+    "baseCards": 20155,
+    "specialCards": 4113,
+    "rarities": 51
+  },
+  "outputs": {
+    "runtimeCatalog": {
+      "path": "localfut20/players.json",
+      "byteLength": 44061912,
+      "sha256": "D72534AC1A25B202FA908D52D4B6F1394A45E9FBEDEB2E73A9B7952A3A4A00C0"
+    },
+    "rarities": {
+      "path": "runtime/mined/wefut-fifa20-rarities.json",
+      "byteLength": 7229,
+      "sha256": "CBC1F07D1C87421DB10E456934CBAFE63CA05D5B6387C4EBDC97486AB36B0DB6"
+    },
+    "runtimeRarityTunables": {
+      "path": "localfut20/contentfifa/fut/items/images/backgrounds/itemBGs/futitemraritytunables.json",
+      "byteLength": 81881,
+      "sha256": "F2202EF4ED80A9B078790EC7B2991A87E30B88639A50A39AF70C0842352DFB1B"
+    }
+  },
+  "generator": "tools/fifa20-data-miner/import-wefut-player-catalog.mjs"
+}

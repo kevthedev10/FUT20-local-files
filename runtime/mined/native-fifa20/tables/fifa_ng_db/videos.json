@@ -1,0 +1,50 @@
+[
+  {
+    "countrycode": "fr",
+    "languagecode": "fre",
+    "videoid": 0,
+    "artificialkey": 0
+  },
+  {
+    "countrycode": "es",
+    "languagecode": "spa",
+    "videoid": 0,
+    "artificialkey": 1
+  },
+  {
+    "countrycode": "fr",
+    "languagecode": "fre",
+    "videoid": 1,
+    "artificialkey": 2
+  },
+  {
+    "countrycode": "de",
+    "languagecode": "ger",
+    "videoid": 1,
+    "artificialkey": 3
+  },
+  {
+    "countrycode": "jp",
+    "languagecode": "jpn",
+    "videoid": 1,
+    "artificialkey": 4
+  },
+  {
+    "countrycode": "kr",
+    "languagecode": "kor",
+    "videoid": 1,
+    "artificialkey": 5
+  },
+  {
+    "countrycode": "se",
+    "languagecode": "swe",
+    "videoid": 1,
+    "artificialkey": 6
+  },
+  {
+    "countrycode": "uk",
+    "languagecode": "eng",
+    "videoid": 1,
+    "artificialkey": 7
+  }
+]

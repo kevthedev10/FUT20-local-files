@@ -1,0 +1,13 @@
+﻿{
+    "redirector":  "READY (TLS redirector 42230)",
+    "fut":  "NOT VERIFIED",
+    "status":  "FIFA CONNECTED SETUP READY",
+    "updatedAt":  "2026-10-20T07:39:32.2567722+03:00",
+    "game":  "RUNNING (PID 2260)",
+    "trustBridge":  "PATCHED (running process only)",
+    "connection":  "READY; hosts redirect installed and required local ports accessible",
+    "detail":  [
+                   "Aurora-style session enrolled: f20.d87e9381f07c0887ca465d3b797dcc54"
+               ],
+    "server":  "READY (Blaze 44321, FUT 8080, FUT TLS 443)"
+}

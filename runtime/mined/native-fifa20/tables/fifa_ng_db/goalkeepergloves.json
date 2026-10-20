@@ -1,0 +1,386 @@
+[
+  {
+    "gloveid": 1,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "gloveid": 2,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "gloveid": 3,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "gloveid": 4,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "gloveid": 5,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "gloveid": 6,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "gloveid": 7,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "gloveid": 8,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "gloveid": 9,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "gloveid": 10,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "gloveid": 11,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "gloveid": 73,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "gloveid": 74,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "gloveid": 75,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "gloveid": 76,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "gloveid": 77,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "gloveid": 78,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "gloveid": 79,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "gloveid": 80,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "gloveid": 81,
+    "islicensed": 1,
+    "isembargoed": 1,
+    "isavailableinstore": 0
+  },
+  {
+    "gloveid": 82,
+    "islicensed": 1,
+    "isembargoed": 1,
+    "isavailableinstore": 1
+  },
+  {
+    "gloveid": 83,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "gloveid": 84,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "gloveid": 85,
+    "islicensed": 1,
+    "isembargoed": 1,
+    "isavailableinstore": 0
+  },
+  {
+    "gloveid": 86,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "gloveid": 87,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "gloveid": 88,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "gloveid": 89,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "gloveid": 91,
+    "islicensed": 1,
+    "isembargoed": 1,
+    "isavailableinstore": 0
+  },
+  {
+    "gloveid": 92,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "gloveid": 93,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "gloveid": 94,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "gloveid": 95,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "gloveid": 96,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "gloveid": 97,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "gloveid": 98,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "gloveid": 99,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "gloveid": 100,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "gloveid": 101,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "gloveid": 102,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "gloveid": 103,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "gloveid": 104,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "gloveid": 105,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "gloveid": 106,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "gloveid": 107,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "gloveid": 108,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "gloveid": 109,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "gloveid": 110,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "gloveid": 111,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "gloveid": 112,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "gloveid": 113,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "gloveid": 114,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "gloveid": 115,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "gloveid": 116,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "gloveid": 117,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "gloveid": 118,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "gloveid": 119,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "gloveid": 120,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "gloveid": 121,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "gloveid": 122,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "gloveid": 123,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "gloveid": 124,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "gloveid": 125,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "gloveid": 126,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  }
+]

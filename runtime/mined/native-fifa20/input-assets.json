@@ -1,0 +1,10 @@
+[
+  {
+    "Database": "fifa_ng_db.db",
+    "DatabaseBytes": 6786380,
+    "DatabaseSha256": "7E9F524A84925BD9E4B723D7A308BFD6C9B9B576F74D24613A461D4428AD9E7E",
+    "Metadata": "fifa_ng_db-meta.xml",
+    "MetadataBytes": 557351,
+    "MetadataSha256": "D6873118EC2A68AF2FE638CE5C4074CBC447C82843B92D90CF013B52420DE9EC"
+  }
+]

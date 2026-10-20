@@ -1,0 +1,10490 @@
+{
+	"walkOutList": [
+		{
+			"walkOutBucketId": 1,
+			"walkOutType": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"walkOutBucketId": 2,
+			"walkOutType": [
+				100,
+				101,
+				102,
+				103,
+				105,
+				106,
+				108,
+				110,
+				111,
+				112
+			]
+		},
+		{
+			"walkOutBucketId": 3,
+			"walkOutType": [
+				200
+			]
+		},
+		{
+			"walkOutBucketId": 4,
+			"walkOutType": [
+				201
+			]
+		},
+		{
+			"walkOutBucketId": 5,
+			"walkOutType": [
+				202
+			]
+		},
+		{
+			"walkOutBucketId": 7,
+			"walkOutType": [
+				204
+			]
+		},
+		{
+			"walkOutBucketId": 8,
+			"walkOutType": [
+				205
+			]
+		},
+		{
+			"walkOutBucketId": 90,
+			"walkOutType": [
+				300
+			]
+		},
+		{
+			"walkOutBucketId": 91,
+			"walkOutType": [
+				301
+			]
+		},
+		{
+			"walkOutBucketId": 92,
+			"walkOutType": [
+				302
+			]
+		},
+		{
+			"walkOutBucketId": 94,
+			"walkOutType": [
+				304
+			]
+		},
+		{
+			"walkOutBucketId": 95,
+			"walkOutType": [
+				305,
+				306
+			]
+		},
+		{
+			"walkOutBucketId": 98,
+			"walkOutType": [
+				307,
+				308
+			]
+		},
+		{
+			"walkOutBucketId": 99,
+			"walkOutType": [
+				309
+			]
+		},
+		{
+			"walkOutBucketId": 100,
+			"walkOutType": [
+				310
+			]
+		},
+		{
+			"walkOutBucketId": 101,
+			"walkOutType": [
+				311
+			]
+		},
+		{
+			"walkOutBucketId": 102,
+			"walkOutType": [
+				312
+			]
+		},
+		{
+			"walkOutBucketId": 103,
+			"walkOutType": [
+				104
+			]
+		},
+		{
+			"walkOutBucketId": 22,
+			"walkOutType": [
+				400
+			]
+		}
+	],
+	"revealItemTimingList": [
+		{
+			"revealItemTimingId": 0,
+			"speedId": 0,
+			"timingSec": [
+				0.0,
+				0.0,
+				0.0,
+				0.0,
+				0.0,
+				0.0,
+				0.0,
+				0.0,
+				0.0,
+				0.0,
+				0.0,
+				0.0,
+				0.0,
+				0.0
+			]
+		},
+		{
+			"revealItemTimingId": 1,
+			"speedId": 1,
+			"timingSec": [
+				2.25,
+				2.0,
+				2.5,
+				3.0,
+				3.0,
+				3.0,
+				3.0,
+				2.75,
+				0.0,
+				0.0,
+				0.0,
+				0.0,
+				0.0,
+				0.0
+			]
+		},
+		{
+			"revealItemTimingId": 2,
+			"speedId": 2,
+			"timingSec": [
+				0.5,
+				2.0,
+				3.5,
+				7.0,
+				7.0,
+				6.5,
+				7.0,
+				6.0,
+				0.5,
+				2.0,
+				2.0,
+				3.5,
+				3.5,
+				5.0
+			]
+		},
+		{
+			"revealItemTimingId": 3,
+			"speedId": 3,
+			"timingSec": [
+				0.5,
+				2.0,
+				3.5,
+				6.75,
+				6.75,
+				6.25,
+				6.75,
+				5.75,
+				0.5,
+				2.0,
+				2.0,
+				3.5,
+				3.5,
+				5.0
+			]
+		}
+	],
+	"packList": [
+		{
+			"packAssetId": 6,
+			"concourseLightsColor": [
+				"0xE5EDF4",
+				"0xE5EDF4",
+				"0xE5EDF4"
+			],
+			"tunnelArchLightsColor": [
+				"0xE5EDF4",
+				"0xE5EDF4",
+				"0xE5EDF4"
+			],
+			"lightGateColor": [
+				"0xE5EDF4",
+				"0xE5EDF4",
+				"0xE5EDF4"
+			],
+			"floorSparkColor": [
+				"0xE5EDF4",
+				"0xE5EDF4",
+				"0xE5EDF4"
+			]
+		},
+		{
+			"packAssetId": 1,
+			"concourseLightsColor": [
+				"0xD39C6F",
+				"0xD39C6F",
+				"0xD39C6F"
+			],
+			"tunnelArchLightsColor": [
+				"0xD39C6F",
+				"0xD39C6F",
+				"0xD39C6F"
+			],
+			"lightGateColor": [
+				"0xD39C6F",
+				"0xD39C6F",
+				"0xD39C6F"
+			],
+			"floorSparkColor": [
+				"0xD39C6F",
+				"0xD39C6F",
+				"0xD39C6F"
+			]
+		},
+		{
+			"packAssetId": 2,
+			"concourseLightsColor": [
+				"0xD7E3ED",
+				"0xD7E3ED",
+				"0xD7E3ED"
+			],
+			"tunnelArchLightsColor": [
+				"0xD7E3ED",
+				"0xD7E3ED",
+				"0xD7E3ED"
+			],
+			"lightGateColor": [
+				"0xD7E3ED",
+				"0xD7E3ED",
+				"0xD7E3ED"
+			],
+			"floorSparkColor": [
+				"0xD7E3ED",
+				"0xD7E3ED",
+				"0xD7E3ED"
+			]
+		},
+		{
+			"packAssetId": 3,
+			"concourseLightsColor": [
+				"0xEBD553",
+				"0xEBD553",
+				"0xEBD553"
+			],
+			"tunnelArchLightsColor": [
+				"0xEBD553",
+				"0xEBD553",
+				"0xEBD553"
+			],
+			"lightGateColor": [
+				"0xEBD553",
+				"0xEBD553",
+				"0xEBD553"
+			],
+			"floorSparkColor": [
+				"0xEBD553",
+				"0xEBD553",
+				"0xEBD553"
+			]
+		},
+		{
+			"packAssetId": 4,
+			"concourseLightsColor": [
+				"0xFFFF8B",
+				"0xFFFF8B",
+				"0xFFFF8B"
+			],
+			"tunnelArchLightsColor": [
+				"0xFFFF8B",
+				"0xFFFF8B",
+				"0xFFFF8B"
+			],
+			"lightGateColor": [
+				"0xFFFFE1",
+				"0xFFFFE1",
+				"0xFFFFE1"
+			],
+			"floorSparkColor": [
+				"0xFFFF8B",
+				"0xFFFF8B",
+				"0xFFFF8B"
+			]
+		},
+		{
+			"packAssetId": 5,
+			"concourseLightsColor": [
+				"0xBDD7EE",
+				"0xBDD7EE",
+				"0xBDD7EE"
+			],
+			"tunnelArchLightsColor": [
+				"0xBDD7EE",
+				"0xBDD7EE",
+				"0xBDD7EE"
+			],
+			"lightGateColor": [
+				"0xBDD7EE",
+				"0xBDD7EE",
+				"0xBDD7EE"
+			],
+			"floorSparkColor": [
+				"0xBDD7EE",
+				"0xBDD7EE",
+				"0xBDD7EE"
+			]
+		},
+		{
+			"packAssetId": 11,
+			"concourseLightsColor": [
+				"0x97050C",
+				"0x97050C",
+				"0x97050C"
+			],
+			"tunnelArchLightsColor": [
+				"0xDD0711",
+				"0xDD0711",
+				"0xDD0711"
+			],
+			"lightGateColor": [
+				"0xD6C586",
+				"0xD6C586",
+				"0xD6C586"
+			],
+			"floorSparkColor": [
+				"0xEBD553",
+				"0xEBD553",
+				"0xEBD553"
+			]
+		},
+		{
+			"packAssetId": 43,
+			"concourseLightsColor": [
+				"0x185BBE",
+				"0x185BBE",
+				"0x185BBE"
+			],
+			"tunnelArchLightsColor": [
+				"0xDC5AEE",
+				"0xDC5AEE",
+				"0xDC5AEE"
+			],
+			"lightGateColor": [
+				"0xCF15FB",
+				"0xCF15FB",
+				"0xCF15FB"
+			],
+			"floorSparkColor": [
+				"0xA8FAEC",
+				"0xA8FAEC",
+				"0xA8FAEC"
+			]
+		},
+		{
+			"packAssetId": 44,
+			"concourseLightsColor": [
+				"0x7EA5CE",
+				"0x7EA5CE",
+				"0x7EA5CE"
+			],
+			"tunnelArchLightsColor": [
+				"0x7EA5CE",
+				"0x7EA5CE",
+				"0x7EA5CE"
+			],
+			"lightGateColor": [
+				"0xFFFF8B",
+				"0xFFFF8B",
+				"0xFFFF8B"
+			],
+			"floorSparkColor": [
+				"0x7EA5CE",
+				"0x7EA5CE",
+				"0x7EA5CE"
+			]
+		},
+		{
+			"packAssetId": 46,
+			"concourseLightsColor": [
+				"0xFFFF8B",
+				"0xFFFF8B",
+				"0xFFFF8B"
+			],
+			"tunnelArchLightsColor": [
+				"0xFFFF8B",
+				"0xFFFF8B",
+				"0xFFFF8B"
+			],
+			"lightGateColor": [
+				"0xFFFFE1",
+				"0xFFFFE1",
+				"0xFFFFE1"
+			],
+			"floorSparkColor": [
+				"0xFFFF8B",
+				"0xFFFF8B",
+				"0xFFFF8B"
+			]
+		},
+		{
+			"packAssetId": 47,
+			"concourseLightsColor": [
+				"0xFC7E1E",
+				"0xFC7E1E",
+				"0xFC7E1E"
+			],
+			"tunnelArchLightsColor": [
+				"0xFDD259",
+				"0xFDD259",
+				"0xFDD259"
+			],
+			"lightGateColor": [
+				"0xEF6B87",
+				"0xEF6B87",
+				"0xEF6B87"
+			],
+			"floorSparkColor": [
+				"0x90279E",
+				"0x90279E",
+				"0x90279E"
+			]
+		},
+		{
+			"packAssetId": 48,
+			"concourseLightsColor": [
+				"0xFFFF0A",
+				"0xFFFF0A",
+				"0xFFFF0A"
+			],
+			"tunnelArchLightsColor": [
+				"0xA606D8",
+				"0xA606D8",
+				"0xA606D8"
+			],
+			"lightGateColor": [
+				"0xFFFFA7",
+				"0xFFFFA7",
+				"0xFFFFA7"
+			],
+			"floorSparkColor": [
+				"0xFA8AEA",
+				"0xFA8AEA",
+				"0xFA8AEA"
+			]
+		},
+		{
+			"packAssetId": 49,
+			"concourseLightsColor": [
+				"0x00B0F0",
+				"0x00B0F0",
+				"0x00B0F0"
+			],
+			"tunnelArchLightsColor": [
+				"0x1E65B4",
+				"0x1E65B4",
+				"0x1E65B4"
+			],
+			"lightGateColor": [
+				"0xDBFDF7",
+				"0xDBFDF7",
+				"0xDBFDF7"
+			],
+			"floorSparkColor": [
+				"0xA8FAEC",
+				"0xA8FAEC",
+				"0xA8FAEC"
+			]
+		},
+		{
+			"packAssetId": 51,
+			"concourseLightsColor": [
+				"0x5BDF87",
+				"0x5BDF87",
+				"0x5BDF87"
+			],
+			"tunnelArchLightsColor": [
+				"0x8FE654",
+				"0x8FE654",
+				"0x8FE654"
+			],
+			"lightGateColor": [
+				"0xBAECC2",
+				"0xBAECC2",
+				"0xBAECC2"
+			],
+			"floorSparkColor": [
+				"0x26E658",
+				"0x26E658",
+				"0x26E658"
+			]
+		},
+		{
+			"packAssetId": 52,
+			"concourseLightsColor": [
+				"0xFFFF8B",
+				"0xFFFF8B",
+				"0xFFFF8B"
+			],
+			"tunnelArchLightsColor": [
+				"0xFFFF8B",
+				"0xFFFF8B",
+				"0xFFFF8B"
+			],
+			"lightGateColor": [
+				"0xFFFFE1",
+				"0xFFFFE1",
+				"0xFFFFE1"
+			],
+			"floorSparkColor": [
+				"0xFFFF8B",
+				"0xFFFF8B",
+				"0xFFFF8B"
+			]
+		},
+		{
+			"packAssetId": 53,
+			"concourseLightsColor": [
+				"0xFFFF8B",
+				"0xFFFF8B",
+				"0xFFFF8B"
+			],
+			"tunnelArchLightsColor": [
+				"0xFFFF8B",
+				"0xFFFF8B",
+				"0xFFFF8B"
+			],
+			"lightGateColor": [
+				"0xFFFFE1",
+				"0xFFFFE1",
+				"0xFFFFE1"
+			],
+			"floorSparkColor": [
+				"0xFFFF8B",
+				"0xFFFF8B",
+				"0xFFFF8B"
+			]
+		},
+		{
+			"packAssetId": 54,
+			"concourseLightsColor": [
+				"0xFEF200",
+				"0xFEF200",
+				"0xFEF200"
+			],
+			"tunnelArchLightsColor": [
+				"0x0BD3D3",
+				"0x0BD3D3",
+				"0x0BD3D3"
+			],
+			"lightGateColor": [
+				"0xFFC1B6",
+				"0xFFC1B6",
+				"0xFFC1B6"
+			],
+			"floorSparkColor": [
+				"0xFE7064",
+				"0xFE7064",
+				"0xFE7064"
+			]
+		},
+		{
+			"packAssetId": 55,
+			"concourseLightsColor": [
+				"0xFFFF8B",
+				"0xFFFF8B",
+				"0xFFFF8B"
+			],
+			"tunnelArchLightsColor": [
+				"0xFFFF8B",
+				"0xFFFF8B",
+				"0xFFFF8B"
+			],
+			"lightGateColor": [
+				"0xFFFFE1",
+				"0xFFFFE1",
+				"0xFFFFE1"
+			],
+			"floorSparkColor": [
+				"0xFFFF8B",
+				"0xFFFF8B",
+				"0xFFFF8B"
+			]
+		},
+		{
+			"packAssetId": 56,
+			"concourseLightsColor": [
+				"0xF94194",
+				"0xF94194",
+				"0xF94194"
+			],
+			"tunnelArchLightsColor": [
+				"0xF94194",
+				"0xF94194",
+				"0xF94194"
+			],
+			"lightGateColor": [
+				"0xFFFF8B",
+				"0xFFFF8B",
+				"0xFFFF8B"
+			],
+			"floorSparkColor": [
+				"0xF94194",
+				"0xF94194",
+				"0xF94194"
+			]
+		}
+	],
+	"seasonalPackList": [
+		{
+			"seasonId": 1,
+			"concourseLightsColor": [
+				"0x1EECF6",
+				"0x1EECF6",
+				"0x1EECF6"
+			],
+			"tunnelArchLightsColor": [
+				"0x1EECF6",
+				"0x1EECF6",
+				"0x1EECF6"
+			]
+		},
+		{
+			"seasonId": 2,
+			"concourseLightsColor": [
+				"0xEC6F39",
+				"0xEC6F39",
+				"0xEC6F39"
+			],
+			"tunnelArchLightsColor": [
+				"0xEC6F39",
+				"0xEC6F39",
+				"0xEC6F39"
+			]
+		},
+		{
+			"seasonId": 3,
+			"concourseLightsColor": [
+				"0xFFFFFF",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"tunnelArchLightsColor": [
+				"0xFFFFFF",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			]
+		},
+		{
+			"seasonId": 4,
+			"concourseLightsColor": [
+				"0xF9DB59",
+				"0xF9DB59",
+				"0xF9DB59"
+			],
+			"tunnelArchLightsColor": [
+				"0xF9DB59",
+				"0xF9DB59",
+				"0xF9DB59"
+			]
+		},
+		{
+			"seasonId": 5,
+			"concourseLightsColor": [
+				"0x09CDD7",
+				"0x09CDD7",
+				"0x09CDD7"
+			],
+			"tunnelArchLightsColor": [
+				"0x09CDD7",
+				"0x09CDD7",
+				"0x09CDD7"
+			]
+		},
+		{
+			"seasonId": 6,
+			"concourseLightsColor": [
+				"0x7CCEC0",
+				"0x7CCEC0",
+				"0x7CCEC0"
+			],
+			"tunnelArchLightsColor": [
+				"0x7CCEC0",
+				"0x7CCEC0",
+				"0x7CCEC0"
+			]
+		},
+		{
+			"seasonId": 7,
+			"concourseLightsColor": [
+				"0x0070C0",
+				"0x0070C0",
+				"0x0070C0"
+			],
+			"tunnelArchLightsColor": [
+				"0x0070C0",
+				"0x0070C0",
+				"0x0070C0"
+			]
+		},
+		{
+			"seasonId": 8,
+			"concourseLightsColor": [
+				"0xFD8BCF",
+				"0xFD8BCF",
+				"0xFD8BCF"
+			],
+			"tunnelArchLightsColor": [
+				"0xFD8BCF",
+				"0xFD8BCF",
+				"0xFD8BCF"
+			]
+		},
+		{
+			"seasonId": 9,
+			"concourseLightsColor": [
+				"0x09CDD7",
+				"0x09CDD7",
+				"0x09CDD7"
+			],
+			"tunnelArchLightsColor": [
+				"0x09CDD7",
+				"0x09CDD7",
+				"0x09CDD7"
+			]
+		},
+		{
+			"seasonId": 10,
+			"concourseLightsColor": [
+				"0x1853D6",
+				"0x1853D6",
+				"0x1853D6"
+			],
+			"tunnelArchLightsColor": [
+				"0x1853D6",
+				"0x1853D6",
+				"0x1853D6"
+			]
+		},
+		{
+			"seasonId": 11,
+			"concourseLightsColor": [
+				"0x9E6212",
+				"0x9E6212",
+				"0x9E6212"
+			],
+			"tunnelArchLightsColor": [
+				"0x9E6212",
+				"0x9E6212",
+				"0x9E6212"
+			]
+		}
+	],
+	"itemList": [
+		{
+			"rarity": 0,
+			"totalRanges": 3,
+			"isLightCrest": 1,
+			"animationType": [
+				0,
+				0,
+				0
+			],
+			"walkOutBucketId": [
+				-1,
+				-1,
+				-1
+			],
+			"revealItemTimingId": [
+				0,
+				0,
+				0
+			],
+			"inTunnelCelebrationType": [
+				1,
+				1,
+				2
+			],
+			"inTunnelCelebrationColor1": [
+				"0xD39C6F",
+				"0xC2D2E0",
+				"0xE9D373"
+			],
+			"inTunnelCelebrationColor2": [
+				"0xD39C6F",
+				"0xC2D2E0",
+				"0xE9D373"
+			],
+			"isRarityIndicatorOn": [
+				0,
+				0,
+				0
+			],
+			"sparkShowerColor": [
+				"",
+				"",
+				""
+			],
+			"tunnelWallGraphicsType": [
+				0,
+				0,
+				0
+			],
+			"wallGraphicsColor": [
+				"",
+				"",
+				"0xCCB768"
+			],
+			"tunnelRevealProjectionColor": [
+				"",
+				"",
+				""
+			],
+			"videoWallBGColor": [
+				"",
+				"",
+				""
+			],
+			"videoWallBGColor2": [
+				"",
+				"",
+				""
+			],
+			"videoWallTxtColor1": [
+				"",
+				"",
+				""
+			],
+			"videoWallTxtColor2": [
+				"",
+				"",
+				""
+			],
+			"isColoredSpotlightOn": [
+				0,
+				0,
+				0
+			],
+			"spotlightColor1": [
+				"",
+				"",
+				""
+			],
+			"spotlightColor2": [
+				"",
+				"",
+				""
+			],
+			"confettiType": [
+				0,
+				0,
+				0
+			],
+			"confettiColor1": [
+				"",
+				"",
+				""
+			],
+			"confettiColor2": [
+				"",
+				"",
+				""
+			],
+			"confettiIntensity": [
+				0,
+				0,
+				0
+			],
+			"pyrotechnicsType": [
+				0,
+				0,
+				0
+			],
+			"pyrotechnicsColor1": [
+				"",
+				"",
+				""
+			],
+			"pyrotechnicsColor2": [
+				"",
+				"",
+				""
+			],
+			"smokeJetsColor1": [
+				"",
+				"",
+				""
+			],
+			"smokeJetsColor2": [
+				"",
+				"",
+				""
+			],
+			"isGrandPyrotechnicsOn": [
+				0,
+				0,
+				0
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"rarity": 1,
+			"totalRanges": 9,
+			"isLightCrest": 1,
+			"animationType": [
+				0,
+				2,
+				0,
+				2,
+				2,
+				2,
+				1,
+				1,
+				1
+			],
+			"walkOutBucketId": [
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				1,
+				2
+			],
+			"revealItemTimingId": [
+				0,
+				1,
+				0,
+				1,
+				1,
+				1,
+				3,
+				3,
+				2
+			],
+			"inTunnelCelebrationType": [
+				1,
+				2,
+				2,
+				3,
+				2,
+				3,
+				0,
+				0,
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				"0xD39C6F",
+				"0xD39C6F",
+				"0xC2D2E0",
+				"0xC2D2E0",
+				"0xE9D373",
+				"0xE9D373",
+				"",
+				"",
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				"0xD39C6F",
+				"0xD39C6F",
+				"0xC2D2E0",
+				"0xC2D2E0",
+				"0xE9D373",
+				"0xE9D373",
+				"",
+				"",
+				""
+			],
+			"isRarityIndicatorOn": [
+				0,
+				0,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"sparkShowerColor": [
+				"",
+				"",
+				"0xC2D2E0",
+				"0xC2D2E0",
+				"0xE9D373",
+				"0xE9D373",
+				"0xE9D373",
+				"0xE9D373",
+				"0xE9D373"
+			],
+			"tunnelWallGraphicsType": [
+				0,
+				1,
+				0,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"wallGraphicsColor": [
+				"",
+				"0xD39C6F",
+				"",
+				"0xC2D2E0",
+				"0xE9D373",
+				"0xE9D373",
+				"0xE9D373",
+				"0xE9D373",
+				"0xE9D373"
+			],
+			"tunnelRevealProjectionColor": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"0xE9D373",
+				"0xE9D373",
+				"0xE9D373"
+			],
+			"videoWallBGColor": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"0xEBD553",
+				"0xEBD553",
+				"0xEBD553"
+			],
+			"videoWallBGColor2": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"0xC8B150",
+				"0xC8B150",
+				"0xC8B150"
+			],
+			"videoWallTxtColor1": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"0x4C432A",
+				"0x4C432A",
+				"0x4C432A"
+			],
+			"videoWallTxtColor2": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"0x9E6F12",
+				"0x9E6F12",
+				"0x9E6F12"
+			],
+			"isColoredSpotlightOn": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				1,
+				0
+			],
+			"spotlightColor1": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"0xF3E8A3",
+				"0xF3E8A3",
+				""
+			],
+			"spotlightColor2": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"0xF3E8A3",
+				"0xF3E8A3",
+				""
+			],
+			"confettiType": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				1,
+				2
+			],
+			"confettiColor1": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"0xEBD553",
+				"0xE9DC7B",
+				"0xE9DC7B"
+			],
+			"confettiColor2": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"0xEBD553",
+				"0xE2C24C",
+				"0xE2C24C"
+			],
+			"confettiIntensity": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				2
+			],
+			"pyrotechnicsType": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				3
+			],
+			"pyrotechnicsColor1": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"0xE2C24C",
+				"0xE2C24C",
+				"0xE2C24C"
+			],
+			"pyrotechnicsColor2": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"0xE2C24C",
+				"0xEBD553",
+				"0xEBD553"
+			],
+			"smokeJetsColor1": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"0xF3E591",
+				"0xF3E591",
+				"0xF3E591"
+			],
+			"smokeJetsColor2": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"0xEBD553",
+				"0xEBD553",
+				"0xEBD553"
+			],
+			"isGrandPyrotechnicsOn": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"rarity": 2,
+			"totalRanges": 1,
+			"isLightCrest": 1,
+			"animationType": [
+				0
+			],
+			"walkOutBucketId": [
+				-1
+			],
+			"revealItemTimingId": [
+				0
+			],
+			"inTunnelCelebrationType": [
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				""
+			],
+			"isRarityIndicatorOn": [
+				0
+			],
+			"sparkShowerColor": [
+				""
+			],
+			"tunnelWallGraphicsType": [
+				0
+			],
+			"wallGraphicsColor": [
+				""
+			],
+			"tunnelRevealProjectionColor": [
+				""
+			],
+			"videoWallBGColor": [
+				""
+			],
+			"videoWallBGColor2": [
+				""
+			],
+			"videoWallTxtColor1": [
+				""
+			],
+			"videoWallTxtColor2": [
+				""
+			],
+			"isColoredSpotlightOn": [
+				0
+			],
+			"spotlightColor1": [
+				""
+			],
+			"spotlightColor2": [
+				""
+			],
+			"confettiType": [
+				0
+			],
+			"confettiColor1": [
+				""
+			],
+			"confettiColor2": [
+				""
+			],
+			"confettiIntensity": [
+				0
+			],
+			"pyrotechnicsType": [
+				0
+			],
+			"pyrotechnicsColor1": [
+				""
+			],
+			"pyrotechnicsColor2": [
+				""
+			],
+			"smokeJetsColor1": [
+				""
+			],
+			"smokeJetsColor2": [
+				""
+			],
+			"isGrandPyrotechnicsOn": [
+				0
+			],
+			"tunnelExitColor": [
+				""
+			],
+			"isSeasonalSetsOn": [
+				0
+			]
+		},
+		{
+			"rarity": 3,
+			"totalRanges": 7,
+			"isLightCrest": 1,
+			"animationType": [
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"walkOutBucketId": [
+				-1,
+				-1,
+				-1,
+				-1,
+				1,
+				2,
+				2
+			],
+			"revealItemTimingId": [
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2
+			],
+			"inTunnelCelebrationType": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				""
+			],
+			"isRarityIndicatorOn": [
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"sparkShowerColor": [
+				"0xD39C6F",
+				"0xC2D2E0",
+				"0xE0C038",
+				"0xE0C038",
+				"0xE0C038",
+				"0xE0C038",
+				"0xE0C038"
+			],
+			"tunnelWallGraphicsType": [
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2
+			],
+			"wallGraphicsColor": [
+				"0xD39C6F",
+				"0xC2D2E0",
+				"0xCCB768",
+				"0xCCB768",
+				"0xCCB768",
+				"0xCCB768",
+				"0xCCB768"
+			],
+			"tunnelRevealProjectionColor": [
+				"0xD39C6F",
+				"0xC2D2E0",
+				"0xCCB768",
+				"0xCCB768",
+				"0xCCB768",
+				"0xCCB768",
+				"0xCCB768"
+			],
+			"videoWallBGColor": [
+				"0xD39C6F",
+				"0xA7B7C9",
+				"0xC8B150",
+				"0xC8B150",
+				"0xC8B150",
+				"0xC8B150",
+				"0xC8B150"
+			],
+			"videoWallBGColor2": [
+				"0xC67E42",
+				"0xD6DCE4",
+				"0x2C260E",
+				"0x2C260E",
+				"0x2C260E",
+				"0x2C260E",
+				"0x2C260E"
+			],
+			"videoWallTxtColor1": [
+				"0x704522",
+				"0x4F6279",
+				"0x4C432A",
+				"0x4C432A",
+				"0x4C432A",
+				"0x4C432A",
+				"0x4C432A"
+			],
+			"videoWallTxtColor2": [
+				"0x704522",
+				"0x4F6279",
+				"0x9E6F12",
+				"0x9E6F12",
+				"0x9E6F12",
+				"0x9E6F12",
+				"0x9E6F12"
+			],
+			"isColoredSpotlightOn": [
+				1,
+				1,
+				1,
+				1,
+				1,
+				0,
+				0
+			],
+			"spotlightColor1": [
+				"0xD39C6F",
+				"0xD6DCE4",
+				"0xEFDD71",
+				"0xEFDD71",
+				"0xEFDD71",
+				"",
+				""
+			],
+			"spotlightColor2": [
+				"0xD39C6F",
+				"0xD6DCE4",
+				"0xFEFECE",
+				"0xFEFECE",
+				"0xFEFECE",
+				"",
+				""
+			],
+			"confettiType": [
+				1,
+				1,
+				1,
+				2,
+				2,
+				2,
+				2
+			],
+			"confettiColor1": [
+				"0xAD6C2B",
+				"0x98ACC2",
+				"0xE2C24C",
+				"0xE2C24C",
+				"0xE2C24C",
+				"0xE2C24C",
+				"0xE2C24C"
+			],
+			"confettiColor2": [
+				"0x262626",
+				"0x262626",
+				"0x262626",
+				"0x262626",
+				"0x262626",
+				"0x262626",
+				"0x262626"
+			],
+			"confettiIntensity": [
+				1,
+				2,
+				2,
+				1,
+				2,
+				2,
+				2
+			],
+			"pyrotechnicsType": [
+				0,
+				1,
+				2,
+				2,
+				3,
+				3,
+				3
+			],
+			"pyrotechnicsColor1": [
+				"",
+				"0xA0B6C8",
+				"0xFFE266",
+				"0xFFE266",
+				"0xFFE266",
+				"0xFFE266",
+				"0xFFE266"
+			],
+			"pyrotechnicsColor2": [
+				"",
+				"0xA0B6C8",
+				"0xE2C24C",
+				"0xE2C24C",
+				"0xE2C24C",
+				"0xE2C24C",
+				"0xE2C24C"
+			],
+			"smokeJetsColor1": [
+				"0xD39C6F",
+				"0xC2D2E0",
+				"0xEBD553",
+				"0xEBD553",
+				"0xEBD553",
+				"0xEBD553",
+				"0xEBD553"
+			],
+			"smokeJetsColor2": [
+				"0xD39C6F",
+				"0xC2D2E0",
+				"0xEBD553",
+				"0xEBD553",
+				"0xEBD553",
+				"0xEBD553",
+				"0xEBD553"
+			],
+			"isGrandPyrotechnicsOn": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				1
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"rarity": 4,
+			"totalRanges": 3,
+			"isLightCrest": 1,
+			"animationType": [
+				1,
+				1,
+				1
+			],
+			"walkOutBucketId": [
+				-1,
+				103,
+				103
+			],
+			"revealItemTimingId": [
+				3,
+				2,
+				2
+			],
+			"inTunnelCelebrationType": [
+				0,
+				0,
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				"",
+				"",
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				"",
+				"",
+				""
+			],
+			"isRarityIndicatorOn": [
+				1,
+				1,
+				1
+			],
+			"sparkShowerColor": [
+				"0x8C01F5",
+				"0x8C01F5",
+				"0x8C01F5"
+			],
+			"tunnelWallGraphicsType": [
+				2,
+				2,
+				2
+			],
+			"wallGraphicsColor": [
+				"0x7217D6",
+				"0x7217D6",
+				"0x7217D6"
+			],
+			"tunnelRevealProjectionColor": [
+				"0x7217D6",
+				"0x7217D6",
+				"0x7217D6"
+			],
+			"videoWallBGColor": [
+				"0x7217D6",
+				"0x7217D6",
+				"0x7217D6"
+			],
+			"videoWallBGColor2": [
+				"0x813CC9",
+				"0x813CC9",
+				"0x813CC9"
+			],
+			"videoWallTxtColor1": [
+				"0xDD7EB1",
+				"0xDD7EB1",
+				"0xDD7EB1"
+			],
+			"videoWallTxtColor2": [
+				"0xDD7EB1",
+				"0xDD7EB1",
+				"0xDD7EB1"
+			],
+			"isColoredSpotlightOn": [
+				1,
+				1,
+				0
+			],
+			"spotlightColor1": [
+				"0xFAF184",
+				"0xFAF184",
+				""
+			],
+			"spotlightColor2": [
+				"0xFAF184",
+				"0xFAF184",
+				""
+			],
+			"confettiType": [
+				1,
+				2,
+				2
+			],
+			"confettiColor1": [
+				"0x8C01F5",
+				"0x8C01F5",
+				"0x8C01F5"
+			],
+			"confettiColor2": [
+				"0x8C01F5",
+				"0xE6D512",
+				"0xE6D512"
+			],
+			"confettiIntensity": [
+				1,
+				2,
+				2
+			],
+			"pyrotechnicsType": [
+				2,
+				3,
+				3
+			],
+			"pyrotechnicsColor1": [
+				"0x8C01F5",
+				"0x8C01F5",
+				"0x8C01F5"
+			],
+			"pyrotechnicsColor2": [
+				"0x8C01F5",
+				"0xDE437E",
+				"0xDE437E"
+			],
+			"smokeJetsColor1": [
+				"0xDE437E",
+				"0xDE437E",
+				"0xDE437E"
+			],
+			"smokeJetsColor2": [
+				"0xDE437E",
+				"0xDE437E",
+				"0xDE437E"
+			],
+			"isGrandPyrotechnicsOn": [
+				0,
+				0,
+				1
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"rarity": 5,
+			"totalRanges": 1,
+			"isLightCrest": 1,
+			"animationType": [
+				1
+			],
+			"walkOutBucketId": [
+				98
+			],
+			"revealItemTimingId": [
+				2
+			],
+			"inTunnelCelebrationType": [
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				""
+			],
+			"isRarityIndicatorOn": [
+				1
+			],
+			"sparkShowerColor": [
+				"0x0021EA"
+			],
+			"tunnelWallGraphicsType": [
+				5
+			],
+			"wallGraphicsColor": [
+				"0x02147F"
+			],
+			"tunnelRevealProjectionColor": [
+				"0x02147F"
+			],
+			"videoWallBGColor": [
+				"0x02147F"
+			],
+			"videoWallBGColor2": [
+				"0x02147F"
+			],
+			"videoWallTxtColor1": [
+				"0xDCCA5E"
+			],
+			"videoWallTxtColor2": [
+				"0xDCCA5E"
+			],
+			"isColoredSpotlightOn": [
+				0
+			],
+			"spotlightColor1": [
+				""
+			],
+			"spotlightColor2": [
+				""
+			],
+			"confettiType": [
+				5
+			],
+			"confettiColor1": [
+				"0x02147F"
+			],
+			"confettiColor2": [
+				"0xEBD553"
+			],
+			"confettiIntensity": [
+				2
+			],
+			"pyrotechnicsType": [
+				3
+			],
+			"pyrotechnicsColor1": [
+				"0xEBD553"
+			],
+			"pyrotechnicsColor2": [
+				"0x0021EA"
+			],
+			"smokeJetsColor1": [
+				"0xF7EFBF"
+			],
+			"smokeJetsColor2": [
+				"0xF7EFBF"
+			],
+			"isGrandPyrotechnicsOn": [
+				1
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				1
+			]
+		},
+		{
+			"rarity": 6,
+			"totalRanges": 3,
+			"isLightCrest": 1,
+			"animationType": [
+				2,
+				1,
+				1
+			],
+			"walkOutBucketId": [
+				-1,
+				2,
+				2
+			],
+			"revealItemTimingId": [
+				1,
+				2,
+				2
+			],
+			"inTunnelCelebrationType": [
+				3,
+				0,
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				"0xFAFA20",
+				"",
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				"0xFF6040",
+				"",
+				""
+			],
+			"isRarityIndicatorOn": [
+				1,
+				1,
+				1
+			],
+			"sparkShowerColor": [
+				"0xFF4C41",
+				"0xFF4C41",
+				"0xFF4C41"
+			],
+			"tunnelWallGraphicsType": [
+				2,
+				2,
+				2
+			],
+			"wallGraphicsColor": [
+				"0xFF4C41",
+				"0xFF4C41",
+				"0xFF4C41"
+			],
+			"tunnelRevealProjectionColor": [
+				"0xFAFA20",
+				"0xFAFA20",
+				"0xFAFA20"
+			],
+			"videoWallBGColor": [
+				"0xE03239",
+				"0xE03239",
+				"0xE03239"
+			],
+			"videoWallBGColor2": [
+				"0xFF6040",
+				"0xFF6040",
+				"0xFF6040"
+			],
+			"videoWallTxtColor1": [
+				"0xFAFA20",
+				"0xFAFA20",
+				"0xFAFA20"
+			],
+			"videoWallTxtColor2": [
+				"0xFFFFFF",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"isColoredSpotlightOn": [
+				0,
+				1,
+				0
+			],
+			"spotlightColor1": [
+				"",
+				"0xFF6040",
+				""
+			],
+			"spotlightColor2": [
+				"",
+				"0xFF6040",
+				""
+			],
+			"confettiType": [
+				0,
+				1,
+				2
+			],
+			"confettiColor1": [
+				"",
+				"0x41E7FB",
+				"0x41E7FB"
+			],
+			"confettiColor2": [
+				"",
+				"0xFAFA20",
+				"0xFAFA20"
+			],
+			"confettiIntensity": [
+				0,
+				1,
+				2
+			],
+			"pyrotechnicsType": [
+				0,
+				2,
+				3
+			],
+			"pyrotechnicsColor1": [
+				"",
+				"0x15C2D7",
+				"0x15C2D7"
+			],
+			"pyrotechnicsColor2": [
+				"",
+				"0xFAFA20",
+				"0xFAFA20"
+			],
+			"smokeJetsColor1": [
+				"",
+				"0xFAFA20",
+				"0xFAFA20"
+			],
+			"smokeJetsColor2": [
+				"",
+				"0xFAFA20",
+				"0xFAFA20"
+			],
+			"isGrandPyrotechnicsOn": [
+				0,
+				0,
+				1
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"rarity": 7,
+			"totalRanges": 3,
+			"isLightCrest": 1,
+			"animationType": [
+				0,
+				0,
+				0
+			],
+			"walkOutBucketId": [
+				-1,
+				-1,
+				93
+			],
+			"revealItemTimingId": [
+				0,
+				0,
+				0
+			],
+			"inTunnelCelebrationType": [
+				0,
+				0,
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				"",
+				"",
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				"",
+				"",
+				""
+			],
+			"isRarityIndicatorOn": [
+				1,
+				1,
+				1
+			],
+			"sparkShowerColor": [
+				"0xFFFFFF",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"tunnelWallGraphicsType": [
+				0,
+				0,
+				0
+			],
+			"wallGraphicsColor": [
+				"0x19DD8E",
+				"0x19DD8E",
+				"0x19DD8E"
+			],
+			"tunnelRevealProjectionColor": [
+				"0x19DD8E",
+				"0x19DD8E",
+				"0x19DD8E"
+			],
+			"videoWallBGColor": [
+				"0x1A7C23",
+				"0x1A7C23",
+				"0x1A7C23"
+			],
+			"videoWallBGColor2": [
+				"0x1A7C23",
+				"0x1A7C23",
+				"0x1A7C23"
+			],
+			"videoWallTxtColor1": [
+				"0xFFFFFF",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"videoWallTxtColor2": [
+				"0x93EFAF",
+				"0x93EFAF",
+				"0x93EFAF"
+			],
+			"isColoredSpotlightOn": [
+				0,
+				0,
+				1
+			],
+			"spotlightColor1": [
+				"",
+				"",
+				"0x93EFAF"
+			],
+			"spotlightColor2": [
+				"",
+				"",
+				"0x93EFAF"
+			],
+			"confettiType": [
+				2,
+				2,
+				2
+			],
+			"confettiColor1": [
+				"0x14B473",
+				"0x14B473",
+				"0x14B473"
+			],
+			"confettiColor2": [
+				"0x0D754B",
+				"0x0D754B",
+				"0xEBD553"
+			],
+			"confettiIntensity": [
+				1,
+				2,
+				2
+			],
+			"pyrotechnicsType": [
+				1,
+				2,
+				3
+			],
+			"pyrotechnicsColor1": [
+				"0x14B473",
+				"0x14B473",
+				"0x14B473"
+			],
+			"pyrotechnicsColor2": [
+				"0x14B473",
+				"0xD9FBED",
+				"0xD9FBED"
+			],
+			"smokeJetsColor1": [
+				"",
+				"0x14B473",
+				"0x14B473"
+			],
+			"smokeJetsColor2": [
+				"",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"isGrandPyrotechnicsOn": [
+				0,
+				0,
+				0
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"rarity": 8,
+			"totalRanges": 3,
+			"isLightCrest": 1,
+			"animationType": [
+				2,
+				1,
+				1
+			],
+			"walkOutBucketId": [
+				-1,
+				-1,
+				2
+			],
+			"revealItemTimingId": [
+				1,
+				3,
+				2
+			],
+			"inTunnelCelebrationType": [
+				3,
+				0,
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				"0xFEAE33",
+				"",
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				"0xE97722",
+				"",
+				""
+			],
+			"isRarityIndicatorOn": [
+				1,
+				1,
+				1
+			],
+			"sparkShowerColor": [
+				"0xEF8B28",
+				"0xEF8B28",
+				"0xEF8B28"
+			],
+			"tunnelWallGraphicsType": [
+				2,
+				2,
+				2
+			],
+			"wallGraphicsColor": [
+				"0xEF8B28",
+				"0xEF8B28",
+				"0xEF8B28"
+			],
+			"tunnelRevealProjectionColor": [
+				"0xFEAE33",
+				"0xFEAE33",
+				"0xFEAE33"
+			],
+			"videoWallBGColor": [
+				"",
+				"0xD75B04",
+				"0xD75B04"
+			],
+			"videoWallBGColor2": [
+				"",
+				"0xFEAE33",
+				"0xFEAE33"
+			],
+			"videoWallTxtColor1": [
+				"",
+				"0xF6CB76",
+				"0xF6CB76"
+			],
+			"videoWallTxtColor2": [
+				"",
+				"0xD75B04",
+				"0xD75B04"
+			],
+			"isColoredSpotlightOn": [
+				0,
+				1,
+				1
+			],
+			"spotlightColor1": [
+				"",
+				"0xFDE84C",
+				"0xFDE84C"
+			],
+			"spotlightColor2": [
+				"",
+				"0xFDE84C",
+				"0xFDE84C"
+			],
+			"confettiType": [
+				0,
+				1,
+				2
+			],
+			"confettiColor1": [
+				"",
+				"0xEF8B28",
+				"0xFEAE33"
+			],
+			"confettiColor2": [
+				"",
+				"0xEF8B28",
+				"0xEF8B28"
+			],
+			"confettiIntensity": [
+				0,
+				1,
+				2
+			],
+			"pyrotechnicsType": [
+				0,
+				2,
+				3
+			],
+			"pyrotechnicsColor1": [
+				"",
+				"0xFEAE33",
+				"0xFEAE33"
+			],
+			"pyrotechnicsColor2": [
+				"",
+				"0xFEAE33",
+				"0xE97722"
+			],
+			"smokeJetsColor1": [
+				"",
+				"0xFEAE33",
+				"0xFEAE33"
+			],
+			"smokeJetsColor2": [
+				"",
+				"0xFEAE33",
+				"0xFEAE33"
+			],
+			"isGrandPyrotechnicsOn": [
+				0,
+				0,
+				0
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"rarity": 9,
+			"totalRanges": 3,
+			"isLightCrest": 1,
+			"animationType": [
+				0,
+				2,
+				1
+			],
+			"walkOutBucketId": [
+				-1,
+				-1,
+				1
+			],
+			"revealItemTimingId": [
+				0,
+				1,
+				2
+			],
+			"inTunnelCelebrationType": [
+				0,
+				0,
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				"",
+				"",
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				"",
+				"",
+				""
+			],
+			"isRarityIndicatorOn": [
+				1,
+				1,
+				1
+			],
+			"sparkShowerColor": [
+				"0xFFB6E1",
+				"0xFFB6E1",
+				"0xFFB6E1"
+			],
+			"tunnelWallGraphicsType": [
+				0,
+				0,
+				0
+			],
+			"wallGraphicsColor": [
+				"0xFF74B2",
+				"0xFF74B2",
+				"0xFF74B2"
+			],
+			"tunnelRevealProjectionColor": [
+				"0xFF74B2",
+				"0xFF74B2",
+				"0xFF74B2"
+			],
+			"videoWallBGColor": [
+				"0x853153",
+				"0x853153",
+				"0x853153"
+			],
+			"videoWallBGColor2": [
+				"0x853153",
+				"0x853153",
+				"0x853153"
+			],
+			"videoWallTxtColor1": [
+				"0xFFFFFF",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"videoWallTxtColor2": [
+				"0x582037",
+				"0x582037",
+				"0x582037"
+			],
+			"isColoredSpotlightOn": [
+				0,
+				0,
+				1
+			],
+			"spotlightColor1": [
+				"",
+				"",
+				"0xFEDEEC"
+			],
+			"spotlightColor2": [
+				"",
+				"",
+				"0xFEDEEC"
+			],
+			"confettiType": [
+				1,
+				1,
+				2
+			],
+			"confettiColor1": [
+				"0xCC6892",
+				"0xCC6892",
+				"0xCC6892"
+			],
+			"confettiColor2": [
+				"0xCC6892",
+				"0xCC6892",
+				"0x853153"
+			],
+			"confettiIntensity": [
+				1,
+				2,
+				2
+			],
+			"pyrotechnicsType": [
+				1,
+				1,
+				2
+			],
+			"pyrotechnicsColor1": [
+				"0xAD3B71",
+				"0xAD3B71",
+				"0xAD3B71"
+			],
+			"pyrotechnicsColor2": [
+				"0xAD3B71",
+				"0xAD3B71",
+				"0xFEC2DD"
+			],
+			"smokeJetsColor1": [
+				"",
+				"",
+				"0xCC6892"
+			],
+			"smokeJetsColor2": [
+				"",
+				"",
+				"0xFEC2DD"
+			],
+			"isGrandPyrotechnicsOn": [
+				0,
+				0,
+				0
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"rarity": 10,
+			"totalRanges": 1,
+			"isLightCrest": 1,
+			"animationType": [
+				1
+			],
+			"walkOutBucketId": [
+				2
+			],
+			"revealItemTimingId": [
+				2
+			],
+			"inTunnelCelebrationType": [
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				""
+			],
+			"isRarityIndicatorOn": [
+				1
+			],
+			"sparkShowerColor": [
+				"0x27E6CA"
+			],
+			"tunnelWallGraphicsType": [
+				2
+			],
+			"wallGraphicsColor": [
+				"0x27E6CA"
+			],
+			"tunnelRevealProjectionColor": [
+				"0x7DEBDE"
+			],
+			"videoWallBGColor": [
+				"0x27D9C4"
+			],
+			"videoWallBGColor2": [
+				"0xB4F2EB"
+			],
+			"videoWallTxtColor1": [
+				"0x135D54"
+			],
+			"videoWallTxtColor2": [
+				"0x23AD9D"
+			],
+			"isColoredSpotlightOn": [
+				0
+			],
+			"spotlightColor1": [
+				""
+			],
+			"spotlightColor2": [
+				""
+			],
+			"confettiType": [
+				2
+			],
+			"confettiColor1": [
+				"0x26D8C3"
+			],
+			"confettiColor2": [
+				"0x1CA090"
+			],
+			"confettiIntensity": [
+				2
+			],
+			"pyrotechnicsType": [
+				3
+			],
+			"pyrotechnicsColor1": [
+				"0x26D8C3"
+			],
+			"pyrotechnicsColor2": [
+				"0xFFFF00"
+			],
+			"smokeJetsColor1": [
+				"0xAEF0E8"
+			],
+			"smokeJetsColor2": [
+				"0xAEF0E8"
+			],
+			"isGrandPyrotechnicsOn": [
+				1
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				0
+			]
+		},
+		{
+			"rarity": 11,
+			"totalRanges": 2,
+			"isLightCrest": 1,
+			"animationType": [
+				1,
+				1
+			],
+			"walkOutBucketId": [
+				-1,
+				2
+			],
+			"revealItemTimingId": [
+				2,
+				2
+			],
+			"inTunnelCelebrationType": [
+				0,
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				"",
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				"",
+				""
+			],
+			"isRarityIndicatorOn": [
+				1,
+				1
+			],
+			"sparkShowerColor": [
+				"0x1D60E7",
+				"0x1D60E7"
+			],
+			"tunnelWallGraphicsType": [
+				2,
+				2
+			],
+			"wallGraphicsColor": [
+				"0x1D60E7",
+				"0xCFAE23"
+			],
+			"tunnelRevealProjectionColor": [
+				"0x1D60E7",
+				"0xCFAE23"
+			],
+			"videoWallBGColor": [
+				"0x1D37A7",
+				"0x1D37A7"
+			],
+			"videoWallBGColor2": [
+				"0x1D37A7",
+				"0x1D37A7"
+			],
+			"videoWallTxtColor1": [
+				"0xBBC7CD",
+				"0xFEF3A0"
+			],
+			"videoWallTxtColor2": [
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"isColoredSpotlightOn": [
+				1,
+				1
+			],
+			"spotlightColor1": [
+				"0xBBC7CD",
+				"0xFEF3A0"
+			],
+			"spotlightColor2": [
+				"0xBBC7CD",
+				"0xFEF3A0"
+			],
+			"confettiType": [
+				7,
+				7
+			],
+			"confettiColor1": [
+				"0x1D60E7",
+				"0x1D60E7"
+			],
+			"confettiColor2": [
+				"0xBBC7CD",
+				"0xEBD553"
+			],
+			"confettiIntensity": [
+				2,
+				2
+			],
+			"pyrotechnicsType": [
+				1,
+				1
+			],
+			"pyrotechnicsColor1": [
+				"0x1D60E7",
+				"0x1D60E7"
+			],
+			"pyrotechnicsColor2": [
+				"0xCFD7DB",
+				"0xEBD553"
+			],
+			"smokeJetsColor1": [
+				"0x1D60E7",
+				"0x1D60E7"
+			],
+			"smokeJetsColor2": [
+				"0xBBC7CD",
+				"0xEBD553"
+			],
+			"isGrandPyrotechnicsOn": [
+				0,
+				0
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9",
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				0,
+				0
+			]
+		},
+		{
+			"rarity": 12,
+			"totalRanges": 2,
+			"isLightCrest": 1,
+			"animationType": [
+				1,
+				1
+			],
+			"walkOutBucketId": [
+				2,
+				2
+			],
+			"revealItemTimingId": [
+				3,
+				2
+			],
+			"inTunnelCelebrationType": [
+				0,
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				"",
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				"",
+				""
+			],
+			"isRarityIndicatorOn": [
+				1,
+				1
+			],
+			"sparkShowerColor": [
+				"0xFFF7BD",
+				"0xFFF7BD"
+			],
+			"tunnelWallGraphicsType": [
+				2,
+				2
+			],
+			"wallGraphicsColor": [
+				"0xCCB768",
+				"0xCCB768"
+			],
+			"tunnelRevealProjectionColor": [
+				"0xCCB768",
+				"0xCCB768"
+			],
+			"videoWallBGColor": [
+				"0xCCB768",
+				"0xCCB768"
+			],
+			"videoWallBGColor2": [
+				"0xE0D3A4",
+				"0xE0D3A4"
+			],
+			"videoWallTxtColor1": [
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"videoWallTxtColor2": [
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"isColoredSpotlightOn": [
+				0,
+				0
+			],
+			"spotlightColor1": [
+				"",
+				""
+			],
+			"spotlightColor2": [
+				"",
+				""
+			],
+			"confettiType": [
+				2,
+				2
+			],
+			"confettiColor1": [
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"confettiColor2": [
+				"0xCCB768",
+				"0xCCB768"
+			],
+			"confettiIntensity": [
+				2,
+				2
+			],
+			"pyrotechnicsType": [
+				2,
+				3
+			],
+			"pyrotechnicsColor1": [
+				"0xD4B73C",
+				"0xD4B73C"
+			],
+			"pyrotechnicsColor2": [
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"smokeJetsColor1": [
+				"0xCCB768",
+				"0xCCB768"
+			],
+			"smokeJetsColor2": [
+				"0xCCB768",
+				"0xCCB768"
+			],
+			"isGrandPyrotechnicsOn": [
+				1,
+				1
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9",
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				0,
+				0
+			]
+		},
+		{
+			"rarity": 61,
+			"totalRanges": 2,
+			"isLightCrest": 1,
+			"animationType": [
+				1,
+				1
+			],
+			"walkOutBucketId": [
+				1,
+				2
+			],
+			"revealItemTimingId": [
+				3,
+				2
+			],
+			"inTunnelCelebrationType": [
+				0,
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				"",
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				"",
+				""
+			],
+			"isRarityIndicatorOn": [
+				1,
+				1
+			],
+			"sparkShowerColor": [
+				"0xF8187B",
+				"0xF8187B"
+			],
+			"tunnelWallGraphicsType": [
+				2,
+				2
+			],
+			"wallGraphicsColor": [
+				"0xFBE93B",
+				"0xFBE93B"
+			],
+			"tunnelRevealProjectionColor": [
+				"0xF8187B",
+				"0xF8187B"
+			],
+			"videoWallBGColor": [
+				"0xF94194",
+				"0xF94194"
+			],
+			"videoWallBGColor2": [
+				"0xF94194",
+				"0xF94194"
+			],
+			"videoWallTxtColor1": [
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"videoWallTxtColor2": [
+				"0xFEC2DD",
+				"0xFEC2DD"
+			],
+			"isColoredSpotlightOn": [
+				1,
+				0
+			],
+			"spotlightColor1": [
+				"0xFEC2DD",
+				""
+			],
+			"spotlightColor2": [
+				"0xFDF395",
+				""
+			],
+			"confettiType": [
+				1,
+				2
+			],
+			"confettiColor1": [
+				"0x1BFAB7",
+				"0x1BFAB7"
+			],
+			"confettiColor2": [
+				"0x1BFAB7",
+				"0xFBE93B"
+			],
+			"confettiIntensity": [
+				2,
+				2
+			],
+			"pyrotechnicsType": [
+				2,
+				3
+			],
+			"pyrotechnicsColor1": [
+				"0xF8187B",
+				"0xF8187B"
+			],
+			"pyrotechnicsColor2": [
+				"0x53CA05",
+				"0x53CA05"
+			],
+			"smokeJetsColor1": [
+				"0xFD95C4",
+				"0xFD95C4"
+			],
+			"smokeJetsColor2": [
+				"0xFD95C4",
+				"0xFD95C4"
+			],
+			"isGrandPyrotechnicsOn": [
+				0,
+				1
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9",
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				0,
+				0
+			]
+		},
+		{
+			"rarity": 18,
+			"totalRanges": 6,
+			"isLightCrest": 1,
+			"animationType": [
+				2,
+				2,
+				2,
+				1,
+				1,
+				1
+			],
+			"walkOutBucketId": [
+				-1,
+				-1,
+				-1,
+				-1,
+				1,
+				2
+			],
+			"revealItemTimingId": [
+				1,
+				1,
+				1,
+				3,
+				3,
+				2
+			],
+			"inTunnelCelebrationType": [
+				1,
+				2,
+				3,
+				0,
+				0,
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				"0xA50F0A",
+				"0xA50F0A",
+				"0xA50F0A",
+				"",
+				"",
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				"0xCA9F61",
+				"0xC2D2E0",
+				"0xE7C766",
+				"",
+				"",
+				""
+			],
+			"isRarityIndicatorOn": [
+				1,
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"sparkShowerColor": [
+				"0xA50F0A",
+				"0xA50F0A",
+				"0xA50F0A",
+				"0xA50F0A",
+				"0xA50F0A",
+				"0xA50F0A"
+			],
+			"tunnelWallGraphicsType": [
+				2,
+				2,
+				2,
+				2,
+				2,
+				2
+			],
+			"wallGraphicsColor": [
+				"0xA50F0A",
+				"0xA50F0A",
+				"0xA50F0A",
+				"0xA50F0A",
+				"0xA50F0A",
+				"0xA50F0A"
+			],
+			"tunnelRevealProjectionColor": [
+				"0xCA9F61",
+				"0xC2D2E0",
+				"0xE7C766",
+				"0xE7C766",
+				"0xE7C766",
+				"0xE7C766"
+			],
+			"videoWallBGColor": [
+				"",
+				"",
+				"",
+				"0xA50F0A",
+				"0xA50F0A",
+				"0xA50F0A"
+			],
+			"videoWallBGColor2": [
+				"",
+				"",
+				"",
+				"0x810E0D",
+				"0x810E0D",
+				"0x810E0D"
+			],
+			"videoWallTxtColor1": [
+				"",
+				"",
+				"",
+				"0xE7C766",
+				"0xE7C766",
+				"0xE7C766"
+			],
+			"videoWallTxtColor2": [
+				"",
+				"",
+				"",
+				"0xE7C766",
+				"0xE7C766",
+				"0xE7C766"
+			],
+			"isColoredSpotlightOn": [
+				0,
+				0,
+				0,
+				1,
+				1,
+				0
+			],
+			"spotlightColor1": [
+				"",
+				"",
+				"",
+				"0xE7C766",
+				"0xE7C766",
+				""
+			],
+			"spotlightColor2": [
+				"",
+				"",
+				"",
+				"0xE7C766",
+				"0xE7C766",
+				""
+			],
+			"confettiType": [
+				0,
+				0,
+				0,
+				1,
+				2,
+				2
+			],
+			"confettiColor1": [
+				"",
+				"",
+				"",
+				"0xA50F0A",
+				"0xA50F0A",
+				"0xA50F0A"
+			],
+			"confettiColor2": [
+				"",
+				"",
+				"",
+				"0xE7C766",
+				"0xE7C766",
+				"0xE7C766"
+			],
+			"confettiIntensity": [
+				0,
+				0,
+				0,
+				2,
+				1,
+				2
+			],
+			"pyrotechnicsType": [
+				0,
+				0,
+				0,
+				1,
+				2,
+				3
+			],
+			"pyrotechnicsColor1": [
+				"",
+				"",
+				"",
+				"0xA50F0A",
+				"0xA50F0A",
+				"0xA50F0A"
+			],
+			"pyrotechnicsColor2": [
+				"",
+				"",
+				"",
+				"0xA50F0A",
+				"0xE7C766",
+				"0xE7C766"
+			],
+			"smokeJetsColor1": [
+				"",
+				"",
+				"",
+				"0xE7C766",
+				"0xE7C766",
+				"0xE7C766"
+			],
+			"smokeJetsColor2": [
+				"",
+				"",
+				"",
+				"0xE7C766",
+				"0xE7C766",
+				"0xE7C766"
+			],
+			"isGrandPyrotechnicsOn": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"rarity": 21,
+			"totalRanges": 5,
+			"isLightCrest": 1,
+			"animationType": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"walkOutBucketId": [
+				-1,
+				-1,
+				-1,
+				90,
+				90
+			],
+			"revealItemTimingId": [
+				2,
+				2,
+				2,
+				2,
+				2
+			],
+			"inTunnelCelebrationType": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				"",
+				"",
+				"",
+				"",
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				"",
+				"",
+				"",
+				"",
+				""
+			],
+			"isRarityIndicatorOn": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"sparkShowerColor": [
+				"0xFC5461",
+				"0xFC5461",
+				"0xFC5461",
+				"0xFC5461",
+				"0xFC5461"
+			],
+			"tunnelWallGraphicsType": [
+				2,
+				2,
+				2,
+				2,
+				2
+			],
+			"wallGraphicsColor": [
+				"0xFC5461",
+				"0xFC5461",
+				"0xFC5461",
+				"0xFC5461",
+				"0xFC5461"
+			],
+			"tunnelRevealProjectionColor": [
+				"0xFF737C",
+				"0xFF737C",
+				"0xFF737C",
+				"0xFF737C",
+				"0xFF737C"
+			],
+			"videoWallBGColor": [
+				"0xFC5461",
+				"0xFC5461",
+				"0xFC5461",
+				"0xFC5461",
+				"0xFC5461"
+			],
+			"videoWallBGColor2": [
+				"0xDF3131",
+				"0xDF3131",
+				"0xDF3131",
+				"0xDF3131",
+				"0xDF3131"
+			],
+			"videoWallTxtColor1": [
+				"0xFFFF0A",
+				"0xFFFF0A",
+				"0xFFFF0A",
+				"0xFFFF0A",
+				"0xFFFF0A"
+			],
+			"videoWallTxtColor2": [
+				"0xFFFF0A",
+				"0xFFFF0A",
+				"0xFFFF0A",
+				"0xFFFF0A",
+				"0xFFFF0A"
+			],
+			"isColoredSpotlightOn": [
+				0,
+				1,
+				1,
+				1,
+				0
+			],
+			"spotlightColor1": [
+				"",
+				"0xFFFF0A",
+				"0xFFFF0A",
+				"0xFFFF0A",
+				""
+			],
+			"spotlightColor2": [
+				"",
+				"0xFFFFFF",
+				"0xFFFFFF",
+				"0xFFFFFF",
+				""
+			],
+			"confettiType": [
+				2,
+				2,
+				2,
+				2,
+				2
+			],
+			"confettiColor1": [
+				"0x2EFFFB",
+				"0x2EFFFB",
+				"0x2EFFFB",
+				"0x2EFFFB",
+				"0x2EFFFB"
+			],
+			"confettiColor2": [
+				"0xFFFF0A",
+				"0xFFFF0A",
+				"0xFFFF0A",
+				"0xFFFF0A",
+				"0xFFFF0A"
+			],
+			"confettiIntensity": [
+				1,
+				1,
+				2,
+				2,
+				2
+			],
+			"pyrotechnicsType": [
+				1,
+				1,
+				2,
+				3,
+				3
+			],
+			"pyrotechnicsColor1": [
+				"0x2EFFFB",
+				"0x2EFFFB",
+				"0x2EFFFB",
+				"0x2EFFFB",
+				"0x2EFFFB"
+			],
+			"pyrotechnicsColor2": [
+				"0xFC5461",
+				"0xFC5461",
+				"0xFFFF0A",
+				"0xFFFF0A",
+				"0xFFFF0A"
+			],
+			"smokeJetsColor1": [
+				"",
+				"",
+				"0xFFFF0A",
+				"0xFFFF0A",
+				"0xFFFF0A"
+			],
+			"smokeJetsColor2": [
+				"",
+				"",
+				"0xFFFF0A",
+				"0xFFFF0A",
+				"0xFFFF0A"
+			],
+			"isGrandPyrotechnicsOn": [
+				0,
+				0,
+				0,
+				0,
+				1
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"rarity": 22,
+			"totalRanges": 3,
+			"isLightCrest": 1,
+			"animationType": [
+				1,
+				1,
+				1
+			],
+			"walkOutBucketId": [
+				-1,
+				-1,
+				92
+			],
+			"revealItemTimingId": [
+				2,
+				2,
+				2
+			],
+			"inTunnelCelebrationType": [
+				0,
+				0,
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				"",
+				"",
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				"",
+				"",
+				""
+			],
+			"isRarityIndicatorOn": [
+				1,
+				1,
+				1
+			],
+			"sparkShowerColor": [
+				"0xA5F418",
+				"0xA5F418",
+				"0xA5F418"
+			],
+			"tunnelWallGraphicsType": [
+				3,
+				3,
+				3
+			],
+			"wallGraphicsColor": [
+				"0xEA6A30",
+				"0xEA6A30",
+				"0xEA6A30"
+			],
+			"tunnelRevealProjectionColor": [
+				"0xEA6A30",
+				"0xEA6A30",
+				"0xEA6A30"
+			],
+			"videoWallBGColor": [
+				"0xEF8C29",
+				"0xEF8C29",
+				"0xEF8C29"
+			],
+			"videoWallBGColor2": [
+				"0xE95330",
+				"0xE95330",
+				"0xE95330"
+			],
+			"videoWallTxtColor1": [
+				"0xBEF757",
+				"0xBEF757",
+				"0xBEF757"
+			],
+			"videoWallTxtColor2": [
+				"0xEF8C29",
+				"0xEF8C29",
+				"0xEF8C29"
+			],
+			"isColoredSpotlightOn": [
+				0,
+				1,
+				0
+			],
+			"spotlightColor1": [
+				"",
+				"0xF9F561",
+				""
+			],
+			"spotlightColor2": [
+				"",
+				"0xEF9C2D",
+				""
+			],
+			"confettiType": [
+				3,
+				3,
+				3
+			],
+			"confettiColor1": [
+				"0xEF8C29",
+				"0xEF8C29",
+				"0xEF8C29"
+			],
+			"confettiColor2": [
+				"0x3A3838",
+				"0x3A3838",
+				"0x3A3838"
+			],
+			"confettiIntensity": [
+				1,
+				1,
+				2
+			],
+			"pyrotechnicsType": [
+				1,
+				2,
+				3
+			],
+			"pyrotechnicsColor1": [
+				"0xFB6C33",
+				"0xFB6C33",
+				"0xFB6C33"
+			],
+			"pyrotechnicsColor2": [
+				"0xFB6C33",
+				"0xB2F260",
+				"0xB2F260"
+			],
+			"smokeJetsColor1": [
+				"0xC8FD0F",
+				"0xC8FD0F",
+				"0xC8FD0F"
+			],
+			"smokeJetsColor2": [
+				"0xC8FD0F",
+				"0xC8FD0F",
+				"0xC8FD0F"
+			],
+			"isGrandPyrotechnicsOn": [
+				0,
+				0,
+				1
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				1,
+				1,
+				1
+			]
+		},
+		{
+			"rarity": 24,
+			"totalRanges": 3,
+			"isLightCrest": 1,
+			"animationType": [
+				2,
+				2,
+				1
+			],
+			"walkOutBucketId": [
+				-1,
+				-1,
+				1
+			],
+			"revealItemTimingId": [
+				1,
+				1,
+				2
+			],
+			"inTunnelCelebrationType": [
+				2,
+				3,
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				"0xDA5DF6",
+				"0xDA5DF6",
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				"0xAC53FF",
+				"0xAC53FF",
+				""
+			],
+			"isRarityIndicatorOn": [
+				0,
+				0,
+				1
+			],
+			"sparkShowerColor": [
+				"0x9C00BD",
+				"0x9C00BD",
+				"0x9C00BD"
+			],
+			"tunnelWallGraphicsType": [
+				2,
+				2,
+				2
+			],
+			"wallGraphicsColor": [
+				"0x9C00BD",
+				"0x9C00BD",
+				"0x9C00BD"
+			],
+			"tunnelRevealProjectionColor": [
+				"0xDA5DF6",
+				"0xDA5DF6",
+				"0xDA5DF6"
+			],
+			"videoWallBGColor": [
+				"",
+				"",
+				"0x80009A"
+			],
+			"videoWallBGColor2": [
+				"",
+				"",
+				"0xDA5DF6"
+			],
+			"videoWallTxtColor1": [
+				"",
+				"",
+				"0x10F2F8"
+			],
+			"videoWallTxtColor2": [
+				"",
+				"",
+				"0xFFFFFF"
+			],
+			"isColoredSpotlightOn": [
+				0,
+				0,
+				1
+			],
+			"spotlightColor1": [
+				"",
+				"",
+				"0x79F8FB"
+			],
+			"spotlightColor2": [
+				"",
+				"",
+				"0x79F8FB"
+			],
+			"confettiType": [
+				0,
+				0,
+				2
+			],
+			"confettiColor1": [
+				"",
+				"",
+				"0x9C00BD"
+			],
+			"confettiColor2": [
+				"",
+				"",
+				"0x10F2F8"
+			],
+			"confettiIntensity": [
+				0,
+				0,
+				2
+			],
+			"pyrotechnicsType": [
+				0,
+				0,
+				3
+			],
+			"pyrotechnicsColor1": [
+				"",
+				"",
+				"0x9C00BD"
+			],
+			"pyrotechnicsColor2": [
+				"",
+				"",
+				"0x10F2F8"
+			],
+			"smokeJetsColor1": [
+				"",
+				"",
+				"0xDA5DF6"
+			],
+			"smokeJetsColor2": [
+				"",
+				"",
+				"0xDA5DF6"
+			],
+			"isGrandPyrotechnicsOn": [
+				0,
+				0,
+				0
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"rarity": 25,
+			"totalRanges": 3,
+			"isLightCrest": 1,
+			"animationType": [
+				1,
+				1,
+				1
+			],
+			"walkOutBucketId": [
+				-1,
+				1,
+				2
+			],
+			"revealItemTimingId": [
+				2,
+				3,
+				2
+			],
+			"inTunnelCelebrationType": [
+				0,
+				0,
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				"",
+				"",
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				"",
+				"",
+				""
+			],
+			"isRarityIndicatorOn": [
+				1,
+				1,
+				1
+			],
+			"sparkShowerColor": [
+				"0x01DAFF",
+				"0x01DAFF",
+				"0x01DAFF"
+			],
+			"tunnelWallGraphicsType": [
+				2,
+				2,
+				2
+			],
+			"wallGraphicsColor": [
+				"0x01DAFF",
+				"0x01DAFF",
+				"0x01DAFF"
+			],
+			"tunnelRevealProjectionColor": [
+				"0xD903FF",
+				"0xD903FF",
+				"0xD903FF"
+			],
+			"videoWallBGColor": [
+				"0xB82FC3",
+				"0xB82FC3",
+				"0xB82FC3"
+			],
+			"videoWallBGColor2": [
+				"0xD903FF",
+				"0xD903FF",
+				"0xD903FF"
+			],
+			"videoWallTxtColor1": [
+				"0x60C9E6",
+				"0x60C9E6",
+				"0x60C9E6"
+			],
+			"videoWallTxtColor2": [
+				"0x60C9E6",
+				"0x60C9E6",
+				"0x60C9E6"
+			],
+			"isColoredSpotlightOn": [
+				1,
+				1,
+				0
+			],
+			"spotlightColor1": [
+				"0x79ECFF",
+				"0x79ECFF",
+				"0x79ECFF"
+			],
+			"spotlightColor2": [
+				"0x79ECFF",
+				"0x79ECFF",
+				"0x79ECFF"
+			],
+			"confettiType": [
+				1,
+				1,
+				2
+			],
+			"confettiColor1": [
+				"0xD903FF",
+				"0x01DAFF",
+				"0x01DAFF"
+			],
+			"confettiColor2": [
+				"0xD903FF",
+				"0xD903FF",
+				"0xD903FF"
+			],
+			"confettiIntensity": [
+				1,
+				2,
+				2
+			],
+			"pyrotechnicsType": [
+				1,
+				2,
+				3
+			],
+			"pyrotechnicsColor1": [
+				"0x01DAFF",
+				"0x01DAFF",
+				"0x01DAFF"
+			],
+			"pyrotechnicsColor2": [
+				"0xFFFFFF",
+				"0xFFFFFF",
+				"0xD903FF"
+			],
+			"smokeJetsColor1": [
+				"0xDD71F7",
+				"0xDD71F7",
+				"0xDD71F7"
+			],
+			"smokeJetsColor2": [
+				"0xDD71F7",
+				"0xDD71F7",
+				"0xDD71F7"
+			],
+			"isGrandPyrotechnicsOn": [
+				0,
+				0,
+				1
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"rarity": 28,
+			"totalRanges": 3,
+			"isLightCrest": 1,
+			"animationType": [
+				1,
+				1,
+				1
+			],
+			"walkOutBucketId": [
+				-1,
+				-1,
+				2
+			],
+			"revealItemTimingId": [
+				2,
+				3,
+				2
+			],
+			"inTunnelCelebrationType": [
+				0,
+				0,
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				"",
+				"",
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				"",
+				"",
+				""
+			],
+			"isRarityIndicatorOn": [
+				1,
+				1,
+				1
+			],
+			"sparkShowerColor": [
+				"0x5E2CB0",
+				"0x5E2CB0",
+				"0x5E2CB0"
+			],
+			"tunnelWallGraphicsType": [
+				2,
+				2,
+				2
+			],
+			"wallGraphicsColor": [
+				"0x5E2CB0",
+				"0x5E2CB0",
+				"0x5E2CB0"
+			],
+			"tunnelRevealProjectionColor": [
+				"0x7E4CD0",
+				"0x7E4CD0",
+				"0x7E4CD0"
+			],
+			"videoWallBGColor": [
+				"0x5E2CB0",
+				"0x5E2CB0",
+				"0x5E2CB0"
+			],
+			"videoWallBGColor2": [
+				"0x2A65C8",
+				"0x2A65C8",
+				"0x2A65C8"
+			],
+			"videoWallTxtColor1": [
+				"0xC0FF36",
+				"0xC0FF36",
+				"0xC0FF36"
+			],
+			"videoWallTxtColor2": [
+				"0xC0FF36",
+				"0xC0FF36",
+				"0xC0FF36"
+			],
+			"isColoredSpotlightOn": [
+				1,
+				1,
+				1
+			],
+			"spotlightColor1": [
+				"0x6795DF",
+				"0x6795DF",
+				"0x7D4CF6"
+			],
+			"spotlightColor2": [
+				"0x6795DF",
+				"0x6795DF",
+				"0x7D4CF6"
+			],
+			"confettiType": [
+				1,
+				1,
+				2
+			],
+			"confettiColor1": [
+				"0x7E4CD0",
+				"0x7E4CD0",
+				"0x7E4CD0"
+			],
+			"confettiColor2": [
+				"0xC0FF36",
+				"0xC0FF36",
+				"0xC0FF36"
+			],
+			"confettiIntensity": [
+				1,
+				2,
+				2
+			],
+			"pyrotechnicsType": [
+				1,
+				2,
+				3
+			],
+			"pyrotechnicsColor1": [
+				"0x7E4CD0",
+				"0x7E4CD0",
+				"0x7E4CD0"
+			],
+			"pyrotechnicsColor2": [
+				"0xC0FF36",
+				"0xC0FF36",
+				"0xC0FF36"
+			],
+			"smokeJetsColor1": [
+				"0x82F1FA",
+				"0x82F1FA",
+				"0x82F1FA"
+			],
+			"smokeJetsColor2": [
+				"0x82F1FA",
+				"0x82F1FA",
+				"0x82F1FA"
+			],
+			"isGrandPyrotechnicsOn": [
+				0,
+				0,
+				0
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"rarity": 30,
+			"totalRanges": 3,
+			"isLightCrest": 1,
+			"animationType": [
+				1,
+				1,
+				1
+			],
+			"walkOutBucketId": [
+				-1,
+				102,
+				102
+			],
+			"revealItemTimingId": [
+				3,
+				2,
+				2
+			],
+			"inTunnelCelebrationType": [
+				0,
+				0,
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				"",
+				"",
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				"",
+				"",
+				""
+			],
+			"isRarityIndicatorOn": [
+				1,
+				1,
+				1
+			],
+			"sparkShowerColor": [
+				"0x41F9F5",
+				"0x41F9F5",
+				"0x41F9F5"
+			],
+			"tunnelWallGraphicsType": [
+				6,
+				6,
+				6
+			],
+			"wallGraphicsColor": [
+				"0x0BD3D3",
+				"0x0BD3D3",
+				"0x0BD3D3"
+			],
+			"tunnelRevealProjectionColor": [
+				"0x0BD3D3",
+				"0x0BD3D3",
+				"0x0BD3D3"
+			],
+			"videoWallBGColor": [
+				"0x0BD3D3",
+				"0x0BD3D3",
+				"0x0BD3D3"
+			],
+			"videoWallBGColor2": [
+				"0xFE7064",
+				"0xFE7064",
+				"0xFE7064"
+			],
+			"videoWallTxtColor1": [
+				"0xFFC1B6",
+				"0xFFC1B6",
+				"0xFFC1B6"
+			],
+			"videoWallTxtColor2": [
+				"0xFFC1B6",
+				"0xFFC1B6",
+				"0xFFC1B6"
+			],
+			"isColoredSpotlightOn": [
+				1,
+				1,
+				0
+			],
+			"spotlightColor1": [
+				"0xFFFA9B",
+				"0xFFFA9B",
+				""
+			],
+			"spotlightColor2": [
+				"0xFFFFFF",
+				"0xFFFFFF",
+				""
+			],
+			"confettiType": [
+				6,
+				6,
+				6
+			],
+			"confettiColor1": [
+				"0xFE7064",
+				"0xFE7064",
+				"0xFE7064"
+			],
+			"confettiColor2": [
+				"0x0BD3D3",
+				"0x0BD3D3",
+				"0x0BD3D3"
+			],
+			"confettiIntensity": [
+				1,
+				2,
+				2
+			],
+			"pyrotechnicsType": [
+				1,
+				2,
+				3
+			],
+			"pyrotechnicsColor1": [
+				"0xFEF200",
+				"0xFEF200",
+				"0xFEF200"
+			],
+			"pyrotechnicsColor2": [
+				"0x41F9F5",
+				"0x41F9F5",
+				"0x41F9F5"
+			],
+			"smokeJetsColor1": [
+				"0xFFE9E5",
+				"0xFFE9E5",
+				"0xFFE9E5"
+			],
+			"smokeJetsColor2": [
+				"0xFFE9E5",
+				"0xFFE9E5",
+				"0xFFE9E5"
+			],
+			"isGrandPyrotechnicsOn": [
+				0,
+				0,
+				1
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				1,
+				1,
+				1
+			]
+		},
+		{
+			"rarity": 29,
+			"totalRanges": 1,
+			"isLightCrest": 1,
+			"animationType": [
+				0
+			],
+			"walkOutBucketId": [
+				-1
+			],
+			"revealItemTimingId": [
+				2
+			],
+			"inTunnelCelebrationType": [
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				""
+			],
+			"isRarityIndicatorOn": [
+				0
+			],
+			"sparkShowerColor": [
+				""
+			],
+			"tunnelWallGraphicsType": [
+				0
+			],
+			"wallGraphicsColor": [
+				""
+			],
+			"tunnelRevealProjectionColor": [
+				""
+			],
+			"videoWallBGColor": [
+				""
+			],
+			"videoWallBGColor2": [
+				""
+			],
+			"videoWallTxtColor1": [
+				""
+			],
+			"videoWallTxtColor2": [
+				""
+			],
+			"isColoredSpotlightOn": [
+				0
+			],
+			"spotlightColor1": [
+				""
+			],
+			"spotlightColor2": [
+				""
+			],
+			"confettiType": [
+				0
+			],
+			"confettiColor1": [
+				""
+			],
+			"confettiColor2": [
+				""
+			],
+			"confettiIntensity": [
+				0
+			],
+			"pyrotechnicsType": [
+				0
+			],
+			"pyrotechnicsColor1": [
+				""
+			],
+			"pyrotechnicsColor2": [
+				""
+			],
+			"smokeJetsColor1": [
+				""
+			],
+			"smokeJetsColor2": [
+				""
+			],
+			"isGrandPyrotechnicsOn": [
+				0
+			],
+			"tunnelExitColor": [
+				""
+			],
+			"isSeasonalSetsOn": [
+				0
+			]
+		},
+		{
+			"rarity": 32,
+			"totalRanges": 3,
+			"isLightCrest": 1,
+			"animationType": [
+				1,
+				1,
+				1
+			],
+			"walkOutBucketId": [
+				-1,
+				95,
+				95
+			],
+			"revealItemTimingId": [
+				3,
+				3,
+				2
+			],
+			"inTunnelCelebrationType": [
+				0,
+				0,
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				"",
+				"",
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				"",
+				"",
+				""
+			],
+			"isRarityIndicatorOn": [
+				1,
+				1,
+				1
+			],
+			"sparkShowerColor": [
+				"0xFFFFFF",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"tunnelWallGraphicsType": [
+				4,
+				4,
+				4
+			],
+			"wallGraphicsColor": [
+				"0x1EA237",
+				"0x1EA237",
+				"0x1EA237"
+			],
+			"tunnelRevealProjectionColor": [
+				"0xFFFFFF",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"videoWallBGColor": [
+				"0xD20000",
+				"0xD20000",
+				"0xD20000"
+			],
+			"videoWallBGColor2": [
+				"0xFFFFFF",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"videoWallTxtColor1": [
+				"0xFFFFFF",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"videoWallTxtColor2": [
+				"0xD20000",
+				"0xD20000",
+				"0xD20000"
+			],
+			"isColoredSpotlightOn": [
+				1,
+				1,
+				1
+			],
+			"spotlightColor1": [
+				"0xFFFFFF",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"spotlightColor2": [
+				"0xFFFFFF",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"confettiType": [
+				4,
+				4,
+				4
+			],
+			"confettiColor1": [
+				"0xFFFFFF",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"confettiColor2": [
+				"0xFFFFFF",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"confettiIntensity": [
+				1,
+				2,
+				2
+			],
+			"pyrotechnicsType": [
+				1,
+				2,
+				3
+			],
+			"pyrotechnicsColor1": [
+				"0x1EA237",
+				"0x1EA237",
+				"0x1EA237"
+			],
+			"pyrotechnicsColor2": [
+				"0x1EA237",
+				"0xD20000",
+				"0xD20000"
+			],
+			"smokeJetsColor1": [
+				"0xFFFFFF",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"smokeJetsColor2": [
+				"0xFFFFFF",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"isGrandPyrotechnicsOn": [
+				0,
+				0,
+				0
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				1,
+				1,
+				1
+			]
+		},
+		{
+			"rarity": 42,
+			"totalRanges": 3,
+			"isLightCrest": 1,
+			"animationType": [
+				2,
+				1,
+				1
+			],
+			"walkOutBucketId": [
+				-1,
+				-1,
+				1
+			],
+			"revealItemTimingId": [
+				1,
+				3,
+				2
+			],
+			"inTunnelCelebrationType": [
+				3,
+				0,
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				"0xFFFFFF",
+				"",
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				"0xFFFFFF",
+				"",
+				""
+			],
+			"isRarityIndicatorOn": [
+				1,
+				1,
+				1
+			],
+			"sparkShowerColor": [
+				"0xC20916",
+				"0xC20916",
+				"0xC20916"
+			],
+			"tunnelWallGraphicsType": [
+				2,
+				2,
+				2
+			],
+			"wallGraphicsColor": [
+				"0xAF0D19",
+				"0xAF0D19",
+				"0xAF0D19"
+			],
+			"tunnelRevealProjectionColor": [
+				"0xC20916",
+				"0xC20916",
+				"0xC20916"
+			],
+			"videoWallBGColor": [
+				"",
+				"0xAF0D19",
+				"0xAF0D19"
+			],
+			"videoWallBGColor2": [
+				"",
+				"0xC20916",
+				"0xC20916"
+			],
+			"videoWallTxtColor1": [
+				"",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"videoWallTxtColor2": [
+				"",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"isColoredSpotlightOn": [
+				0,
+				1,
+				1
+			],
+			"spotlightColor1": [
+				"",
+				"0xF7535F",
+				"0xF7535F"
+			],
+			"spotlightColor2": [
+				"",
+				"0xF7535F",
+				"0xF7535F"
+			],
+			"confettiType": [
+				0,
+				1,
+				2
+			],
+			"confettiColor1": [
+				"",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"confettiColor2": [
+				"",
+				"0xC20916",
+				"0xC20916"
+			],
+			"confettiIntensity": [
+				0,
+				2,
+				2
+			],
+			"pyrotechnicsType": [
+				0,
+				2,
+				3
+			],
+			"pyrotechnicsColor1": [
+				"",
+				"0xC20916",
+				"0xC20916"
+			],
+			"pyrotechnicsColor2": [
+				"",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"smokeJetsColor1": [
+				"",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"smokeJetsColor2": [
+				"",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"isGrandPyrotechnicsOn": [
+				0,
+				0,
+				0
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"rarity": 43,
+			"totalRanges": 3,
+			"isLightCrest": 1,
+			"animationType": [
+				2,
+				1,
+				1
+			],
+			"walkOutBucketId": [
+				-1,
+				-1,
+				1
+			],
+			"revealItemTimingId": [
+				1,
+				2,
+				2
+			],
+			"inTunnelCelebrationType": [
+				3,
+				0,
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				"0x0FCAE5",
+				"",
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				"0x6EE6F6",
+				"",
+				""
+			],
+			"isRarityIndicatorOn": [
+				1,
+				1,
+				1
+			],
+			"sparkShowerColor": [
+				"0x790B8B",
+				"0x790B8B",
+				"0x790B8B"
+			],
+			"tunnelWallGraphicsType": [
+				2,
+				2,
+				2
+			],
+			"wallGraphicsColor": [
+				"0x790B8B",
+				"0x790B8B",
+				"0x790B8B"
+			],
+			"tunnelRevealProjectionColor": [
+				"0x6EE6F6",
+				"0x6EE6F6",
+				"0x6EE6F6"
+			],
+			"videoWallBGColor": [
+				"",
+				"0x790B8B",
+				"0x790B8B"
+			],
+			"videoWallBGColor2": [
+				"",
+				"0x390648",
+				"0x390648"
+			],
+			"videoWallTxtColor1": [
+				"",
+				"0x6EE6F6",
+				"0x6EE6F6"
+			],
+			"videoWallTxtColor2": [
+				"",
+				"0x6EE6F6",
+				"0x6EE6F6"
+			],
+			"isColoredSpotlightOn": [
+				0,
+				0,
+				1
+			],
+			"spotlightColor1": [
+				"",
+				"",
+				"0xFFFFFF"
+			],
+			"spotlightColor2": [
+				"",
+				"",
+				"0xFFFFFF"
+			],
+			"confettiType": [
+				0,
+				1,
+				2
+			],
+			"confettiColor1": [
+				"",
+				"0x790B8B",
+				"0x790B8B"
+			],
+			"confettiColor2": [
+				"",
+				"0x790B8B",
+				"0x6EE6F6"
+			],
+			"confettiIntensity": [
+				0,
+				2,
+				2
+			],
+			"pyrotechnicsType": [
+				0,
+				2,
+				3
+			],
+			"pyrotechnicsColor1": [
+				"",
+				"0x790B8B",
+				"0x790B8B"
+			],
+			"pyrotechnicsColor2": [
+				"",
+				"0x790B8B",
+				"0x6EE6F6"
+			],
+			"smokeJetsColor1": [
+				"",
+				"0x6EE6F6",
+				"0x6EE6F6"
+			],
+			"smokeJetsColor2": [
+				"",
+				"0x6EE6F6",
+				"0x6EE6F6"
+			],
+			"isGrandPyrotechnicsOn": [
+				0,
+				0,
+				0
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"rarity": 44,
+			"totalRanges": 3,
+			"isLightCrest": 1,
+			"animationType": [
+				2,
+				1,
+				1
+			],
+			"walkOutBucketId": [
+				-1,
+				-1,
+				1
+			],
+			"revealItemTimingId": [
+				1,
+				3,
+				2
+			],
+			"inTunnelCelebrationType": [
+				3,
+				0,
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				"0xFCBB0B",
+				"",
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				"0xFFFFFF",
+				"",
+				""
+			],
+			"isRarityIndicatorOn": [
+				1,
+				1,
+				1
+			],
+			"sparkShowerColor": [
+				"0xFCBB0B",
+				"0xFCBB0B",
+				"0xFCBB0B"
+			],
+			"tunnelWallGraphicsType": [
+				2,
+				2,
+				2
+			],
+			"wallGraphicsColor": [
+				"0xEA9614",
+				"0xEA9614",
+				"0xEA9614"
+			],
+			"tunnelRevealProjectionColor": [
+				"0xFCBB0B",
+				"0xFCBB0B",
+				"0xFCBB0B"
+			],
+			"videoWallBGColor": [
+				"",
+				"0x464646",
+				"0x464646"
+			],
+			"videoWallBGColor2": [
+				"",
+				"0xFCBB0B",
+				"0xFCBB0B"
+			],
+			"videoWallTxtColor1": [
+				"",
+				"0xEA9614",
+				"0xEA9614"
+			],
+			"videoWallTxtColor2": [
+				"",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"isColoredSpotlightOn": [
+				0,
+				0,
+				1
+			],
+			"spotlightColor1": [
+				"",
+				"",
+				"0xFDDC7F"
+			],
+			"spotlightColor2": [
+				"",
+				"",
+				"0xFDDC7F"
+			],
+			"confettiType": [
+				0,
+				10,
+				10
+			],
+			"confettiColor1": [
+				"",
+				"0x363636",
+				"0x363636"
+			],
+			"confettiColor2": [
+				"",
+				"0xFCBB0B",
+				"0xFCBB0B"
+			],
+			"confettiIntensity": [
+				0,
+				1,
+				2
+			],
+			"pyrotechnicsType": [
+				0,
+				2,
+				3
+			],
+			"pyrotechnicsColor1": [
+				"",
+				"0xEA9614",
+				"0xEA9614"
+			],
+			"pyrotechnicsColor2": [
+				"",
+				"0xFCBB0B",
+				"0xFCBB0B"
+			],
+			"smokeJetsColor1": [
+				"",
+				"0xFFC000",
+				"0xFFC000"
+			],
+			"smokeJetsColor2": [
+				"",
+				"0xFFC000",
+				"0xFFC000"
+			],
+			"isGrandPyrotechnicsOn": [
+				0,
+				0,
+				0
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"rarity": 45,
+			"totalRanges": 3,
+			"isLightCrest": 1,
+			"animationType": [
+				2,
+				1,
+				1
+			],
+			"walkOutBucketId": [
+				-1,
+				-1,
+				1
+			],
+			"revealItemTimingId": [
+				1,
+				3,
+				2
+			],
+			"inTunnelCelebrationType": [
+				3,
+				0,
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				"0xFCBB0B",
+				"",
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				"0xFDD051",
+				"",
+				""
+			],
+			"isRarityIndicatorOn": [
+				1,
+				1,
+				1
+			],
+			"sparkShowerColor": [
+				"0xFCBB0B",
+				"0xFCBB0B",
+				"0xFCBB0B"
+			],
+			"tunnelWallGraphicsType": [
+				2,
+				2,
+				2
+			],
+			"wallGraphicsColor": [
+				"0xEA9614",
+				"0xEA9614",
+				"0xEA9614"
+			],
+			"tunnelRevealProjectionColor": [
+				"0xFCBB0B",
+				"0xFCBB0B",
+				"0xFCBB0B"
+			],
+			"videoWallBGColor": [
+				"",
+				"0xFCBB0B",
+				"0xFCBB0B"
+			],
+			"videoWallBGColor2": [
+				"",
+				"0xFCBB0B",
+				"0xFCBB0B"
+			],
+			"videoWallTxtColor1": [
+				"",
+				"0x000000",
+				"0x000000"
+			],
+			"videoWallTxtColor2": [
+				"",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"isColoredSpotlightOn": [
+				0,
+				0,
+				1
+			],
+			"spotlightColor1": [
+				"",
+				"",
+				"0xFDDC7F"
+			],
+			"spotlightColor2": [
+				"",
+				"",
+				"0xFDDC7F"
+			],
+			"confettiType": [
+				0,
+				10,
+				10
+			],
+			"confettiColor1": [
+				"",
+				"0xFCBB0B",
+				"0x363636"
+			],
+			"confettiColor2": [
+				"",
+				"0xFCBB0B",
+				"0xFCBB0B"
+			],
+			"confettiIntensity": [
+				0,
+				1,
+				2
+			],
+			"pyrotechnicsType": [
+				0,
+				2,
+				3
+			],
+			"pyrotechnicsColor1": [
+				"",
+				"0xEA9614",
+				"0xEA9614"
+			],
+			"pyrotechnicsColor2": [
+				"",
+				"0xEA9614",
+				"0xEA9614"
+			],
+			"smokeJetsColor1": [
+				"",
+				"0xFFC000",
+				"0xFFC000"
+			],
+			"smokeJetsColor2": [
+				"",
+				"0xFFC000",
+				"0xFFC000"
+			],
+			"isGrandPyrotechnicsOn": [
+				0,
+				0,
+				0
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"rarity": 46,
+			"totalRanges": 3,
+			"isLightCrest": 1,
+			"animationType": [
+				2,
+				1,
+				1
+			],
+			"walkOutBucketId": [
+				-1,
+				-1,
+				1
+			],
+			"revealItemTimingId": [
+				1,
+				3,
+				2
+			],
+			"inTunnelCelebrationType": [
+				3,
+				0,
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				"0xF79810",
+				"",
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				"0xF8C10F",
+				"",
+				""
+			],
+			"isRarityIndicatorOn": [
+				1,
+				1,
+				1
+			],
+			"sparkShowerColor": [
+				"0xFCBB0B",
+				"0xFCBB0B",
+				"0xFCBB0B"
+			],
+			"tunnelWallGraphicsType": [
+				2,
+				2,
+				2
+			],
+			"wallGraphicsColor": [
+				"0xEA9614",
+				"0xEA9614",
+				"0xEA9614"
+			],
+			"tunnelRevealProjectionColor": [
+				"0xFCBB0B",
+				"0xFCBB0B",
+				"0xFCBB0B"
+			],
+			"videoWallBGColor": [
+				"",
+				"0x000000",
+				"0x000000"
+			],
+			"videoWallBGColor2": [
+				"",
+				"0xFCBB0B",
+				"0xFCBB0B"
+			],
+			"videoWallTxtColor1": [
+				"",
+				"0xFCBB0B",
+				"0xFCBB0B"
+			],
+			"videoWallTxtColor2": [
+				"",
+				"0x000000",
+				"0x000000"
+			],
+			"isColoredSpotlightOn": [
+				0,
+				0,
+				1
+			],
+			"spotlightColor1": [
+				"",
+				"",
+				"0xFDDC7F"
+			],
+			"spotlightColor2": [
+				"",
+				"",
+				"0xFDDC7F"
+			],
+			"confettiType": [
+				0,
+				10,
+				10
+			],
+			"confettiColor1": [
+				"",
+				"0xF79810",
+				"0x363636"
+			],
+			"confettiColor2": [
+				"",
+				"0xF79810",
+				"0xF79810"
+			],
+			"confettiIntensity": [
+				0,
+				1,
+				2
+			],
+			"pyrotechnicsType": [
+				0,
+				2,
+				3
+			],
+			"pyrotechnicsColor1": [
+				"",
+				"0xEA9614",
+				"0xEA9614"
+			],
+			"pyrotechnicsColor2": [
+				"",
+				"0xEA9614",
+				"0xEA9614"
+			],
+			"smokeJetsColor1": [
+				"",
+				"0xFFC000",
+				"0xFFC000"
+			],
+			"smokeJetsColor2": [
+				"",
+				"0xFFC000",
+				"0xFFC000"
+			],
+			"isGrandPyrotechnicsOn": [
+				0,
+				0,
+				0
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"rarity": 47,
+			"totalRanges": 9,
+			"isLightCrest": 1,
+			"animationType": [
+				0,
+				2,
+				0,
+				2,
+				2,
+				2,
+				1,
+				1,
+				1
+			],
+			"walkOutBucketId": [
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				1,
+				2
+			],
+			"revealItemTimingId": [
+				0,
+				1,
+				0,
+				1,
+				1,
+				1,
+				3,
+				3,
+				2
+			],
+			"inTunnelCelebrationType": [
+				1,
+				2,
+				2,
+				3,
+				2,
+				3,
+				0,
+				0,
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				"0x0061CE",
+				"0x0061CE",
+				"0x0061CE",
+				"0x0061CE",
+				"0x0061CE",
+				"0x0061CE",
+				"",
+				"",
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				"0x69B0FF",
+				"0x69B0FF",
+				"0x69B0FF",
+				"0x69B0FF",
+				"0x69B0FF",
+				"0x69B0FF",
+				"",
+				"",
+				""
+			],
+			"isRarityIndicatorOn": [
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"sparkShowerColor": [
+				"0x0D20B5",
+				"0x0D20B5",
+				"0x0D20B5",
+				"0x0D20B5",
+				"0x0D20B5",
+				"0x0D20B5",
+				"0x0D20B5",
+				"0x0D20B5",
+				"0x0D20B5"
+			],
+			"tunnelWallGraphicsType": [
+				0,
+				2,
+				0,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2
+			],
+			"wallGraphicsColor": [
+				"",
+				"0x0D20B5",
+				"",
+				"0x0D20B5",
+				"0x0D20B5",
+				"0x0D20B5",
+				"0x0D20B5",
+				"0x0D20B5",
+				"0x0D20B5"
+			],
+			"tunnelRevealProjectionColor": [
+				"",
+				"0x0061CE",
+				"",
+				"0x0061CE",
+				"0x0061CE",
+				"0x0061CE",
+				"0x0061CE",
+				"0x0061CE",
+				"0x0061CE"
+			],
+			"videoWallBGColor": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"0x0D20B5",
+				"0x0D20B5",
+				"0x0D20B5"
+			],
+			"videoWallBGColor2": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"0x0061CE",
+				"0x0061CE",
+				"0x0061CE"
+			],
+			"videoWallTxtColor1": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"0xFFFFFF",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"videoWallTxtColor2": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"0xFFFFFF",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"isColoredSpotlightOn": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				1,
+				0
+			],
+			"spotlightColor1": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"0x69B0FF",
+				"0x69B0FF",
+				""
+			],
+			"spotlightColor2": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"0x69B0FF",
+				"0x69B0FF",
+				""
+			],
+			"confettiType": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				9,
+				9,
+				9
+			],
+			"confettiColor1": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"0x69B0FF",
+				"0x69B0FF",
+				"0x69B0FF"
+			],
+			"confettiColor2": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"0x0061CE",
+				"0x0061CE",
+				"0x0061CE"
+			],
+			"confettiIntensity": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				2
+			],
+			"pyrotechnicsType": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				3
+			],
+			"pyrotechnicsColor1": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"0x0D20B5",
+				"0x0D20B5",
+				"0x0D20B5"
+			],
+			"pyrotechnicsColor2": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"0xFFFFFF",
+				"0xEBD553",
+				"0xEBD553"
+			],
+			"smokeJetsColor1": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"0xFFFFFF",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"smokeJetsColor2": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"0xFFFFFF",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"isGrandPyrotechnicsOn": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"rarity": 48,
+			"totalRanges": 6,
+			"isLightCrest": 1,
+			"animationType": [
+				0,
+				0,
+				2,
+				2,
+				1,
+				1
+			],
+			"walkOutBucketId": [
+				-1,
+				-1,
+				-1,
+				-1,
+				1,
+				2
+			],
+			"revealItemTimingId": [
+				0,
+				0,
+				1,
+				1,
+				2,
+				2
+			],
+			"inTunnelCelebrationType": [
+				1,
+				2,
+				2,
+				3,
+				0,
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				"0x0061CE",
+				"0x0061CE",
+				"0x0061CE",
+				"0x0061CE",
+				"",
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				"0x69B0FF",
+				"0x69B0FF",
+				"0x69B0FF",
+				"0x69B0FF",
+				"",
+				""
+			],
+			"isRarityIndicatorOn": [
+				1,
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"sparkShowerColor": [
+				"0x0D20B5",
+				"0x0D20B5",
+				"0x0D20B5",
+				"0x0D20B5",
+				"0x0D20B5",
+				"0x0D20B5"
+			],
+			"tunnelWallGraphicsType": [
+				2,
+				2,
+				2,
+				2,
+				2,
+				2
+			],
+			"wallGraphicsColor": [
+				"0x0D20B5",
+				"0x0D20B5",
+				"0x0D20B5",
+				"0x0D20B5",
+				"0x0D20B5",
+				"0x0D20B5"
+			],
+			"tunnelRevealProjectionColor": [
+				"0x0061CE",
+				"0x0061CE",
+				"0x0061CE",
+				"0x0061CE",
+				"0x0061CE",
+				"0x0061CE"
+			],
+			"videoWallBGColor": [
+				"0x0D20B5",
+				"0x0D20B5",
+				"0x0D20B5",
+				"0x0D20B5",
+				"0x0D20B5",
+				"0x0D20B5"
+			],
+			"videoWallBGColor2": [
+				"0x0061CE",
+				"0x0061CE",
+				"0x0061CE",
+				"0x0061CE",
+				"0x0061CE",
+				"0x0061CE"
+			],
+			"videoWallTxtColor1": [
+				"0x5AFBE2",
+				"0x5AFBE2",
+				"0x5AFBE2",
+				"0x5AFBE2",
+				"0x5AFBE2",
+				"0x5AFBE2"
+			],
+			"videoWallTxtColor2": [
+				"0xFFFFFF",
+				"0xFFFFFF",
+				"0xFFFFFF",
+				"0xFFFFFF",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"isColoredSpotlightOn": [
+				1,
+				1,
+				1,
+				1,
+				1,
+				0
+			],
+			"spotlightColor1": [
+				"0x69B0FF",
+				"0x69B0FF",
+				"0x69B0FF",
+				"0x69B0FF",
+				"0x69B0FF",
+				""
+			],
+			"spotlightColor2": [
+				"0x69B0FF",
+				"0x69B0FF",
+				"0x69B0FF",
+				"0x69B0FF",
+				"0x69B0FF",
+				""
+			],
+			"confettiType": [
+				9,
+				9,
+				9,
+				9,
+				9,
+				9
+			],
+			"confettiColor1": [
+				"0x69B0FF",
+				"0x69B0FF",
+				"0x69B0FF",
+				"0x69B0FF",
+				"0x69B0FF",
+				"0x69B0FF"
+			],
+			"confettiColor2": [
+				"0x0061CE",
+				"0x0061CE",
+				"0x0061CE",
+				"0x0061CE",
+				"0x0061CE",
+				"0x0061CE"
+			],
+			"confettiIntensity": [
+				1,
+				1,
+				1,
+				2,
+				1,
+				2
+			],
+			"pyrotechnicsType": [
+				0,
+				1,
+				2,
+				2,
+				2,
+				3
+			],
+			"pyrotechnicsColor1": [
+				"0x0D20B5",
+				"0x0D20B5",
+				"0x0D20B5",
+				"0x0D20B5",
+				"0x0D20B5",
+				"0x0D20B5"
+			],
+			"pyrotechnicsColor2": [
+				"0x0D20B5",
+				"0x0D20B5",
+				"0x0D20B5",
+				"0x0D20B5",
+				"0xFFFFFF",
+				"0xEBD553"
+			],
+			"smokeJetsColor1": [
+				"0x69B0FF",
+				"0x69B0FF",
+				"0x69B0FF",
+				"0x69B0FF",
+				"0x69B0FF",
+				"0x69B0FF"
+			],
+			"smokeJetsColor2": [
+				"0x69B0FF",
+				"0x69B0FF",
+				"0x69B0FF",
+				"0x69B0FF",
+				"0x69B0FF",
+				"0x69B0FF"
+			],
+			"isGrandPyrotechnicsOn": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"rarity": 49,
+			"totalRanges": 3,
+			"isLightCrest": 1,
+			"animationType": [
+				0,
+				2,
+				1
+			],
+			"walkOutBucketId": [
+				-1,
+				-1,
+				2
+			],
+			"revealItemTimingId": [
+				0,
+				1,
+				2
+			],
+			"inTunnelCelebrationType": [
+				0,
+				0,
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				"",
+				"",
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				"",
+				"",
+				""
+			],
+			"isRarityIndicatorOn": [
+				1,
+				1,
+				1
+			],
+			"sparkShowerColor": [
+				"0x0D20B5",
+				"0x0D20B5",
+				"0x0D20B5"
+			],
+			"tunnelWallGraphicsType": [
+				2,
+				2,
+				2
+			],
+			"wallGraphicsColor": [
+				"0xCCB768",
+				"0xCCB768",
+				"0xCCB768"
+			],
+			"tunnelRevealProjectionColor": [
+				"0xCCB768",
+				"0xCCB768",
+				"0xCCB768"
+			],
+			"videoWallBGColor": [
+				"0x6732DE",
+				"0x6732DE",
+				"0x6732DE"
+			],
+			"videoWallBGColor2": [
+				"0x6732DE",
+				"0x6732DE",
+				"0x6732DE"
+			],
+			"videoWallTxtColor1": [
+				"0xFFFFFF",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"videoWallTxtColor2": [
+				"0xFFFFFF",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"isColoredSpotlightOn": [
+				0,
+				0,
+				1
+			],
+			"spotlightColor1": [
+				"",
+				"",
+				"0xD1C0F6"
+			],
+			"spotlightColor2": [
+				"",
+				"",
+				"0xD1C0F6"
+			],
+			"confettiType": [
+				9,
+				9,
+				9
+			],
+			"confettiColor1": [
+				"0x000C92",
+				"0x000C92",
+				"0x000C92"
+			],
+			"confettiColor2": [
+				"0x000C92",
+				"0x000C92",
+				"0x8459E5"
+			],
+			"confettiIntensity": [
+				1,
+				2,
+				2
+			],
+			"pyrotechnicsType": [
+				1,
+				1,
+				2
+			],
+			"pyrotechnicsColor1": [
+				"0x0A23FF",
+				"0x0A23FF",
+				"0x0A23FF"
+			],
+			"pyrotechnicsColor2": [
+				"0x0A23FF",
+				"0x0A23FF",
+				"0xFFFFFF"
+			],
+			"smokeJetsColor1": [
+				"",
+				"0x0A23FF",
+				"0x0A23FF"
+			],
+			"smokeJetsColor2": [
+				"",
+				"0x1EBBEE",
+				"0x1EBBEE"
+			],
+			"isGrandPyrotechnicsOn": [
+				0,
+				0,
+				0
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"rarity": 50,
+			"totalRanges": 4,
+			"isLightCrest": 1,
+			"animationType": [
+				1,
+				1,
+				1,
+				1
+			],
+			"walkOutBucketId": [
+				-1,
+				-1,
+				-1,
+				2
+			],
+			"revealItemTimingId": [
+				2,
+				2,
+				2,
+				2
+			],
+			"inTunnelCelebrationType": [
+				0,
+				0,
+				0,
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				"",
+				"",
+				"",
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				"",
+				"",
+				"",
+				""
+			],
+			"isRarityIndicatorOn": [
+				1,
+				1,
+				1,
+				1
+			],
+			"sparkShowerColor": [
+				"0xE69EF4",
+				"0xE69EF4",
+				"0xE69EF4",
+				"0xE69EF4"
+			],
+			"tunnelWallGraphicsType": [
+				2,
+				2,
+				2,
+				2
+			],
+			"wallGraphicsColor": [
+				"0xCCB768",
+				"0xCCB768",
+				"0xCCB768",
+				"0xCCB768"
+			],
+			"tunnelRevealProjectionColor": [
+				"0xCCB768",
+				"0xCCB768",
+				"0xCCB768",
+				"0xCCB768"
+			],
+			"videoWallBGColor": [
+				"0x9CD3EC",
+				"0x9CD3EC",
+				"0x9CD3EC",
+				"0x9CD3EC"
+			],
+			"videoWallBGColor2": [
+				"0x9CD3EC",
+				"0x9CD3EC",
+				"0x9CD3EC",
+				"0x9CD3EC"
+			],
+			"videoWallTxtColor1": [
+				"0x0017EE",
+				"0x0017EE",
+				"0x0017EE",
+				"0x0017EE"
+			],
+			"videoWallTxtColor2": [
+				"0x0017EE",
+				"0x0017EE",
+				"0x0017EE",
+				"0x0017EE"
+			],
+			"isColoredSpotlightOn": [
+				0,
+				1,
+				1,
+				0
+			],
+			"spotlightColor1": [
+				"",
+				"",
+				"0xFFFFFF",
+				""
+			],
+			"spotlightColor2": [
+				"",
+				"",
+				"0xA8FAEC",
+				""
+			],
+			"confettiType": [
+				9,
+				9,
+				9,
+				9
+			],
+			"confettiColor1": [
+				"0x000C92",
+				"0x000C92",
+				"0x000C92",
+				"0x000C92"
+			],
+			"confettiColor2": [
+				"0x0A23FF",
+				"0x0A23FF",
+				"0xDC5AEE",
+				"0xDC5AEE"
+			],
+			"confettiIntensity": [
+				1,
+				1,
+				2,
+				2
+			],
+			"pyrotechnicsType": [
+				1,
+				1,
+				2,
+				3
+			],
+			"pyrotechnicsColor1": [
+				"0x0A23FF",
+				"0x0A23FF",
+				"0x0A23FF",
+				"0x0A23FF"
+			],
+			"pyrotechnicsColor2": [
+				"0x0A23FF",
+				"0x0A23FF",
+				"0x0A23FF",
+				"0xFFFFFF"
+			],
+			"smokeJetsColor1": [
+				"",
+				"",
+				"0x0A23FF",
+				"0x0A23FF"
+			],
+			"smokeJetsColor2": [
+				"",
+				"",
+				"0xA8FAEC",
+				"0xA8FAEC"
+			],
+			"isGrandPyrotechnicsOn": [
+				0,
+				0,
+				0,
+				1
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"rarity": 51,
+			"totalRanges": 3,
+			"isLightCrest": 1,
+			"animationType": [
+				1,
+				1,
+				1
+			],
+			"walkOutBucketId": [
+				-1,
+				2,
+				2
+			],
+			"revealItemTimingId": [
+				3,
+				2,
+				2
+			],
+			"inTunnelCelebrationType": [
+				0,
+				0,
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				"",
+				"",
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				"",
+				"",
+				""
+			],
+			"isRarityIndicatorOn": [
+				1,
+				1,
+				1
+			],
+			"sparkShowerColor": [
+				"0x1B999F",
+				"0x1B999F",
+				"0x1B999F"
+			],
+			"tunnelWallGraphicsType": [
+				2,
+				2,
+				2
+			],
+			"wallGraphicsColor": [
+				"0x1B999F",
+				"0x1B999F",
+				"0x1B999F"
+			],
+			"tunnelRevealProjectionColor": [
+				"0x09C7C2",
+				"0x09C7C2",
+				"0x09C7C2"
+			],
+			"videoWallBGColor": [
+				"0x27837D",
+				"0x27837D",
+				"0x27837D"
+			],
+			"videoWallBGColor2": [
+				"0x09C7C2",
+				"0x09C7C2",
+				"0x09C7C2"
+			],
+			"videoWallTxtColor1": [
+				"0x0BF0EB",
+				"0x0BF0EB",
+				"0x0BF0EB"
+			],
+			"videoWallTxtColor2": [
+				"0x0BF0EB",
+				"0x0BF0EB",
+				"0x0BF0EB"
+			],
+			"isColoredSpotlightOn": [
+				1,
+				1,
+				0
+			],
+			"spotlightColor1": [
+				"0x79ECFF",
+				"0x79ECFF",
+				""
+			],
+			"spotlightColor2": [
+				"0x79ECFF",
+				"0x79ECFF",
+				""
+			],
+			"confettiType": [
+				1,
+				2,
+				2
+			],
+			"confettiColor1": [
+				"0x09C7C2",
+				"0x27837D",
+				"0x27837D"
+			],
+			"confettiColor2": [
+				"0x09C7C2",
+				"0x0BF0EB",
+				"0x0BF0EB"
+			],
+			"confettiIntensity": [
+				1,
+				2,
+				2
+			],
+			"pyrotechnicsType": [
+				2,
+				3,
+				3
+			],
+			"pyrotechnicsColor1": [
+				"0x07599E",
+				"0x07599E",
+				"0x07599E"
+			],
+			"pyrotechnicsColor2": [
+				"0x09C7C2",
+				"0x09C7C2",
+				"0x0BF0EB"
+			],
+			"smokeJetsColor1": [
+				"0x0BF0EB",
+				"0x0BF0EB",
+				"0x0BF0EB"
+			],
+			"smokeJetsColor2": [
+				"0x0BF0EB",
+				"0x0BF0EB",
+				"0x0BF0EB"
+			],
+			"isGrandPyrotechnicsOn": [
+				0,
+				0,
+				1
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"rarity": 58,
+			"totalRanges": 7,
+			"isLightCrest": 1,
+			"animationType": [
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"walkOutBucketId": [
+				-1,
+				-1,
+				-1,
+				-1,
+				1,
+				2,
+				2
+			],
+			"revealItemTimingId": [
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2
+			],
+			"inTunnelCelebrationType": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				""
+			],
+			"isRarityIndicatorOn": [
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"sparkShowerColor": [
+				"0xD39C6F",
+				"0xC2D2E0",
+				"0xE0C038",
+				"0xE0C038",
+				"0xE0C038",
+				"0xE0C038",
+				"0xE0C038"
+			],
+			"tunnelWallGraphicsType": [
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2
+			],
+			"wallGraphicsColor": [
+				"0xD39C6F",
+				"0xC2D2E0",
+				"0xCCB768",
+				"0xCCB768",
+				"0xCCB768",
+				"0xCCB768",
+				"0xCCB768"
+			],
+			"tunnelRevealProjectionColor": [
+				"0xD39C6F",
+				"0xC2D2E0",
+				"0xCCB768",
+				"0xCCB768",
+				"0xCCB768",
+				"0xCCB768",
+				"0xCCB768"
+			],
+			"videoWallBGColor": [
+				"0xD39C6F",
+				"0xA7B7C9",
+				"0xC8B150",
+				"0xC8B150",
+				"0xC8B150",
+				"0xC8B150",
+				"0xC8B150"
+			],
+			"videoWallBGColor2": [
+				"0xC67E42",
+				"0xD6DCE4",
+				"0x2C260E",
+				"0x2C260E",
+				"0x2C260E",
+				"0x2C260E",
+				"0x2C260E"
+			],
+			"videoWallTxtColor1": [
+				"0x704522",
+				"0x4F6279",
+				"0x4C432A",
+				"0x4C432A",
+				"0x4C432A",
+				"0x4C432A",
+				"0x4C432A"
+			],
+			"videoWallTxtColor2": [
+				"0x704522",
+				"0x4F6279",
+				"0x9E6F12",
+				"0x9E6F12",
+				"0x9E6F12",
+				"0x9E6F12",
+				"0x9E6F12"
+			],
+			"isColoredSpotlightOn": [
+				1,
+				1,
+				1,
+				1,
+				1,
+				0,
+				0
+			],
+			"spotlightColor1": [
+				"0xD39C6F",
+				"0xD6DCE4",
+				"0xEFDD71",
+				"0xEFDD71",
+				"0xEFDD71",
+				"",
+				""
+			],
+			"spotlightColor2": [
+				"0xD39C6F",
+				"0xD6DCE4",
+				"0xFEFECE",
+				"0xFEFECE",
+				"0xFEFECE",
+				"",
+				""
+			],
+			"confettiType": [
+				1,
+				1,
+				1,
+				2,
+				2,
+				2,
+				2
+			],
+			"confettiColor1": [
+				"0xAD6C2B",
+				"0x98ACC2",
+				"0xE2C24C",
+				"0xE2C24C",
+				"0xE2C24C",
+				"0xE2C24C",
+				"0xE2C24C"
+			],
+			"confettiColor2": [
+				"0x262626",
+				"0x262626",
+				"0x262626",
+				"0x262626",
+				"0x262626",
+				"0x262626",
+				"0x262626"
+			],
+			"confettiIntensity": [
+				1,
+				2,
+				2,
+				1,
+				2,
+				2,
+				2
+			],
+			"pyrotechnicsType": [
+				0,
+				1,
+				2,
+				2,
+				3,
+				3,
+				3
+			],
+			"pyrotechnicsColor1": [
+				"",
+				"0xA0B6C8",
+				"0xFFE266",
+				"0xFFE266",
+				"0xFFE266",
+				"0xFFE266",
+				"0xFFE266"
+			],
+			"pyrotechnicsColor2": [
+				"",
+				"0xA0B6C8",
+				"0xE2C24C",
+				"0xE2C24C",
+				"0xE2C24C",
+				"0xE2C24C",
+				"0xE2C24C"
+			],
+			"smokeJetsColor1": [
+				"0xD39C6F",
+				"0xC2D2E0",
+				"0xEBD553",
+				"0xEBD553",
+				"0xEBD553",
+				"0xEBD553",
+				"0xEBD553"
+			],
+			"smokeJetsColor2": [
+				"0xD39C6F",
+				"0xC2D2E0",
+				"0xEBD553",
+				"0xEBD553",
+				"0xEBD553",
+				"0xEBD553",
+				"0xEBD553"
+			],
+			"isGrandPyrotechnicsOn": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				1
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"rarity": 63,
+			"totalRanges": 3,
+			"isLightCrest": 1,
+			"animationType": [
+				1,
+				1,
+				1
+			],
+			"walkOutBucketId": [
+				-1,
+				-1,
+				1
+			],
+			"revealItemTimingId": [
+				2,
+				2,
+				2
+			],
+			"inTunnelCelebrationType": [
+				0,
+				0,
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				"",
+				"",
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				"",
+				"",
+				""
+			],
+			"isRarityIndicatorOn": [
+				1,
+				1,
+				1
+			],
+			"sparkShowerColor": [
+				"0x31E515",
+				"0x31E515",
+				"0x31E515"
+			],
+			"tunnelWallGraphicsType": [
+				1,
+				1,
+				1
+			],
+			"wallGraphicsColor": [
+				"0xCCB768",
+				"0xCCB768",
+				"0xCCB768"
+			],
+			"tunnelRevealProjectionColor": [
+				"0xCCB768",
+				"0xCCB768",
+				"0xCCB768"
+			],
+			"videoWallBGColor": [
+				"0x8C01F5",
+				"0x8C01F5",
+				"0x8C01F5"
+			],
+			"videoWallBGColor2": [
+				"0x8C01F5",
+				"0x8C01F5",
+				"0x8C01F5"
+			],
+			"videoWallTxtColor1": [
+				"0xE4F711",
+				"0xE4F711",
+				"0xE4F711"
+			],
+			"videoWallTxtColor2": [
+				"0xE4F711",
+				"0xE4F711",
+				"0xE4F711"
+			],
+			"isColoredSpotlightOn": [
+				0,
+				0,
+				1
+			],
+			"spotlightColor1": [
+				"",
+				"",
+				"0xFFFFFF"
+			],
+			"spotlightColor2": [
+				"",
+				"",
+				"0xFFFFFF"
+			],
+			"confettiType": [
+				1,
+				1,
+				2
+			],
+			"confettiColor1": [
+				"0x31E515",
+				"0xAC1174",
+				"0x31E515"
+			],
+			"confettiColor2": [
+				"0x31E515",
+				"0xAC1174",
+				"0x262626"
+			],
+			"confettiIntensity": [
+				1,
+				2,
+				2
+			],
+			"pyrotechnicsType": [
+				1,
+				1,
+				2
+			],
+			"pyrotechnicsColor1": [
+				"0xE4F711",
+				"0x9A57CD",
+				"0x31E515"
+			],
+			"pyrotechnicsColor2": [
+				"0xE4F711",
+				"0x9A57CD",
+				"0xE4F711"
+			],
+			"smokeJetsColor1": [
+				"",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"smokeJetsColor2": [
+				"",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"isGrandPyrotechnicsOn": [
+				0,
+				0,
+				0
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"rarity": 64,
+			"totalRanges": 1,
+			"isLightCrest": 1,
+			"animationType": [
+				1
+			],
+			"walkOutBucketId": [
+				1
+			],
+			"revealItemTimingId": [
+				2
+			],
+			"inTunnelCelebrationType": [
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				""
+			],
+			"isRarityIndicatorOn": [
+				1
+			],
+			"sparkShowerColor": [
+				"0x7299EA"
+			],
+			"tunnelWallGraphicsType": [
+				1
+			],
+			"wallGraphicsColor": [
+				"0xCCB768"
+			],
+			"tunnelRevealProjectionColor": [
+				"0xCCB768"
+			],
+			"videoWallBGColor": [
+				"0x002C94"
+			],
+			"videoWallBGColor2": [
+				"0x002C94"
+			],
+			"videoWallTxtColor1": [
+				"0xCCB768"
+			],
+			"videoWallTxtColor2": [
+				"0xCCB768"
+			],
+			"isColoredSpotlightOn": [
+				1
+			],
+			"spotlightColor1": [
+				"0xA1B9F5"
+			],
+			"spotlightColor2": [
+				"0xA1B9F5"
+			],
+			"confettiType": [
+				2
+			],
+			"confettiColor1": [
+				"0x00076E"
+			],
+			"confettiColor2": [
+				"0x0B43B6"
+			],
+			"confettiIntensity": [
+				2
+			],
+			"pyrotechnicsType": [
+				2
+			],
+			"pyrotechnicsColor1": [
+				"0xEBD553"
+			],
+			"pyrotechnicsColor2": [
+				"0x638BEF"
+			],
+			"smokeJetsColor1": [
+				"0x638BEF"
+			],
+			"smokeJetsColor2": [
+				"0x638BEF"
+			],
+			"isGrandPyrotechnicsOn": [
+				0
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				0
+			]
+		},
+		{
+			"rarity": 65,
+			"totalRanges": 3,
+			"isLightCrest": 1,
+			"animationType": [
+				1,
+				1,
+				1
+			],
+			"walkOutBucketId": [
+				-1,
+				-1,
+				1
+			],
+			"revealItemTimingId": [
+				2,
+				2,
+				2
+			],
+			"inTunnelCelebrationType": [
+				0,
+				0,
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				"",
+				"",
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				"",
+				"",
+				""
+			],
+			"isRarityIndicatorOn": [
+				1,
+				1,
+				1
+			],
+			"sparkShowerColor": [
+				"0xFFB6E1",
+				"0xFFB6E1",
+				"0xFFB6E1"
+			],
+			"tunnelWallGraphicsType": [
+				1,
+				1,
+				1
+			],
+			"wallGraphicsColor": [
+				"0xCCB768",
+				"0xCCB768",
+				"0xCCB768"
+			],
+			"tunnelRevealProjectionColor": [
+				"0xCCB768",
+				"0xCCB768",
+				"0xCCB768"
+			],
+			"videoWallBGColor": [
+				"0x853153",
+				"0x853153",
+				"0x853153"
+			],
+			"videoWallBGColor2": [
+				"0x853153",
+				"0x853153",
+				"0x853153"
+			],
+			"videoWallTxtColor1": [
+				"0xFFFFFF",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"videoWallTxtColor2": [
+				"0x582037",
+				"0x582037",
+				"0x582037"
+			],
+			"isColoredSpotlightOn": [
+				0,
+				0,
+				1
+			],
+			"spotlightColor1": [
+				"",
+				"",
+				"0xFEDEEC"
+			],
+			"spotlightColor2": [
+				"",
+				"",
+				"0xFEDEEC"
+			],
+			"confettiType": [
+				7,
+				7,
+				7
+			],
+			"confettiColor1": [
+				"0xCC6892",
+				"0xCC6892",
+				"0xCC6892"
+			],
+			"confettiColor2": [
+				"0xCC6892",
+				"0xCC6892",
+				"0x853153"
+			],
+			"confettiIntensity": [
+				1,
+				2,
+				2
+			],
+			"pyrotechnicsType": [
+				1,
+				1,
+				2
+			],
+			"pyrotechnicsColor1": [
+				"0xAD3B71",
+				"0xAD3B71",
+				"0xAD3B71"
+			],
+			"pyrotechnicsColor2": [
+				"0xAD3B71",
+				"0xAD3B71",
+				"0xFEC2DD"
+			],
+			"smokeJetsColor1": [
+				"",
+				"",
+				"0xCC6892"
+			],
+			"smokeJetsColor2": [
+				"",
+				"",
+				"0xFEC2DD"
+			],
+			"isGrandPyrotechnicsOn": [
+				0,
+				0,
+				0
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"rarity": 66,
+			"totalRanges": 4,
+			"isLightCrest": 1,
+			"animationType": [
+				1,
+				1,
+				1,
+				1
+			],
+			"walkOutBucketId": [
+				-1,
+				-1,
+				1,
+				2
+			],
+			"revealItemTimingId": [
+				2,
+				2,
+				2,
+				2
+			],
+			"inTunnelCelebrationType": [
+				0,
+				0,
+				0,
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				"",
+				"",
+				"",
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				"",
+				"",
+				"",
+				""
+			],
+			"isRarityIndicatorOn": [
+				1,
+				1,
+				1,
+				1
+			],
+			"sparkShowerColor": [
+				"0xFF74B2",
+				"0xFF74B2",
+				"0xFF74B2",
+				"0xFF74B2"
+			],
+			"tunnelWallGraphicsType": [
+				1,
+				1,
+				1,
+				1
+			],
+			"wallGraphicsColor": [
+				"0xCCB768",
+				"0xCCB768",
+				"0xCCB768",
+				"0xCCB768"
+			],
+			"tunnelRevealProjectionColor": [
+				"0xCCB768",
+				"0xCCB768",
+				"0xCCB768",
+				"0xCCB768"
+			],
+			"videoWallBGColor": [
+				"0x2E55F9",
+				"0x2E55F9",
+				"0x2E55F9",
+				"0x2E55F9"
+			],
+			"videoWallBGColor2": [
+				"0x853153",
+				"0x853153",
+				"0x853153",
+				"0x853153"
+			],
+			"videoWallTxtColor1": [
+				"0xFFFFFF",
+				"0xFFFFFF",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"videoWallTxtColor2": [
+				"0xFEC2DD",
+				"0xFEC2DD",
+				"0xFEC2DD",
+				"0xFEC2DD"
+			],
+			"isColoredSpotlightOn": [
+				0,
+				0,
+				1,
+				1
+			],
+			"spotlightColor1": [
+				"",
+				"",
+				"0xFEEF7E",
+				"0xFEEF7E"
+			],
+			"spotlightColor2": [
+				"",
+				"",
+				"0xFEEF7E",
+				"0x90B6FD"
+			],
+			"confettiType": [
+				7,
+				7,
+				7,
+				7
+			],
+			"confettiColor1": [
+				"0xEBD553",
+				"0xEBD553",
+				"0xEBD553",
+				"0xEBD553"
+			],
+			"confettiColor2": [
+				"0xEBD553",
+				"0xEBD553",
+				"0xFFFFFF",
+				"0x2E55F9"
+			],
+			"confettiIntensity": [
+				2,
+				2,
+				2,
+				2
+			],
+			"pyrotechnicsType": [
+				2,
+				2,
+				3,
+				3
+			],
+			"pyrotechnicsColor1": [
+				"0xEBD553",
+				"0xEBD553",
+				"0xEBD553",
+				"0xEBD553"
+			],
+			"pyrotechnicsColor2": [
+				"0xEBD553",
+				"0xEBD553",
+				"0x2E55F9",
+				"0x2E55F9"
+			],
+			"smokeJetsColor1": [
+				"",
+				"0xF9DE88",
+				"0xF9DE88",
+				"0xF9DE88"
+			],
+			"smokeJetsColor2": [
+				"",
+				"0xFEF8E6",
+				"0xFEF8E6",
+				"0xFEF8E6"
+			],
+			"isGrandPyrotechnicsOn": [
+				0,
+				0,
+				0,
+				0
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"rarity": 67,
+			"totalRanges": 3,
+			"isLightCrest": 1,
+			"animationType": [
+				2,
+				1,
+				1
+			],
+			"walkOutBucketId": [
+				-1,
+				-1,
+				1
+			],
+			"revealItemTimingId": [
+				1,
+				3,
+				2
+			],
+			"inTunnelCelebrationType": [
+				3,
+				0,
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				"0x507CBC",
+				"",
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				"0xFFFFFF",
+				"",
+				""
+			],
+			"isRarityIndicatorOn": [
+				1,
+				1,
+				1
+			],
+			"sparkShowerColor": [
+				"0x094799",
+				"0x094799",
+				"0x094799"
+			],
+			"tunnelWallGraphicsType": [
+				2,
+				2,
+				2
+			],
+			"wallGraphicsColor": [
+				"0x083F85",
+				"0x083F85",
+				"0x083F85"
+			],
+			"tunnelRevealProjectionColor": [
+				"0x234A7F",
+				"0x234A7F",
+				"0x234A7F"
+			],
+			"videoWallBGColor": [
+				"",
+				"0x083F85",
+				"0x083F85"
+			],
+			"videoWallBGColor2": [
+				"",
+				"0x507CBC",
+				"0x507CBC"
+			],
+			"videoWallTxtColor1": [
+				"",
+				"0xD14B47",
+				"0xD14B47"
+			],
+			"videoWallTxtColor2": [
+				"",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"isColoredSpotlightOn": [
+				0,
+				1,
+				1
+			],
+			"spotlightColor1": [
+				"",
+				"0xDD7775",
+				"0xDD7775"
+			],
+			"spotlightColor2": [
+				"",
+				"0xDD7775",
+				"0xDD7775"
+			],
+			"confettiType": [
+				0,
+				1,
+				2
+			],
+			"confettiColor1": [
+				"",
+				"0x094799",
+				"0xCA231E"
+			],
+			"confettiColor2": [
+				"",
+				"0x094799",
+				"0x094799"
+			],
+			"confettiIntensity": [
+				0,
+				2,
+				2
+			],
+			"pyrotechnicsType": [
+				0,
+				2,
+				3
+			],
+			"pyrotechnicsColor1": [
+				"",
+				"0xCA231E",
+				"0xCA231E"
+			],
+			"pyrotechnicsColor2": [
+				"",
+				"0xCA231E",
+				"0xCA231E"
+			],
+			"smokeJetsColor1": [
+				"",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"smokeJetsColor2": [
+				"",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"isGrandPyrotechnicsOn": [
+				0,
+				0,
+				0
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"rarity": 68,
+			"totalRanges": 3,
+			"isLightCrest": 1,
+			"animationType": [
+				2,
+				1,
+				1
+			],
+			"walkOutBucketId": [
+				-1,
+				-1,
+				1
+			],
+			"revealItemTimingId": [
+				1,
+				3,
+				2
+			],
+			"inTunnelCelebrationType": [
+				3,
+				0,
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				"0xF79810",
+				"",
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				"0xF8C10F",
+				"",
+				""
+			],
+			"isRarityIndicatorOn": [
+				1,
+				1,
+				1
+			],
+			"sparkShowerColor": [
+				"0xFCBB0B",
+				"0xFCBB0B",
+				"0xFCBB0B"
+			],
+			"tunnelWallGraphicsType": [
+				2,
+				2,
+				2
+			],
+			"wallGraphicsColor": [
+				"0xEA9614",
+				"0xEA9614",
+				"0xEA9614"
+			],
+			"tunnelRevealProjectionColor": [
+				"0xFCBB0B",
+				"0xFCBB0B",
+				"0xFCBB0B"
+			],
+			"videoWallBGColor": [
+				"",
+				"0x000000",
+				"0x000000"
+			],
+			"videoWallBGColor2": [
+				"",
+				"0xFCBB0B",
+				"0xFCBB0B"
+			],
+			"videoWallTxtColor1": [
+				"",
+				"0xFCBB0B",
+				"0xFCBB0B"
+			],
+			"videoWallTxtColor2": [
+				"",
+				"0x000000",
+				"0x000000"
+			],
+			"isColoredSpotlightOn": [
+				0,
+				0,
+				1
+			],
+			"spotlightColor1": [
+				"",
+				"",
+				"0xFDDC7F"
+			],
+			"spotlightColor2": [
+				"",
+				"",
+				"0xFDDC7F"
+			],
+			"confettiType": [
+				10,
+				10,
+				10
+			],
+			"confettiColor1": [
+				"",
+				"0x363636",
+				"0x363636"
+			],
+			"confettiColor2": [
+				"",
+				"0xF79810",
+				"0xF79810"
+			],
+			"confettiIntensity": [
+				0,
+				2,
+				2
+			],
+			"pyrotechnicsType": [
+				0,
+				2,
+				3
+			],
+			"pyrotechnicsColor1": [
+				"",
+				"0xEA9614",
+				"0xEA9614"
+			],
+			"pyrotechnicsColor2": [
+				"",
+				"0xEA9614",
+				"0xEA9614"
+			],
+			"smokeJetsColor1": [
+				"",
+				"0xFFC000",
+				"0xFFC000"
+			],
+			"smokeJetsColor2": [
+				"",
+				"0xFFC000",
+				"0xFFC000"
+			],
+			"isGrandPyrotechnicsOn": [
+				0,
+				0,
+				0
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"rarity": 69,
+			"totalRanges": 3,
+			"isLightCrest": 1,
+			"animationType": [
+				1,
+				1,
+				1
+			],
+			"walkOutBucketId": [
+				-1,
+				-1,
+				2
+			],
+			"revealItemTimingId": [
+				2,
+				2,
+				2
+			],
+			"inTunnelCelebrationType": [
+				0,
+				0,
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				"",
+				"",
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				"",
+				"",
+				""
+			],
+			"isRarityIndicatorOn": [
+				1,
+				1,
+				1
+			],
+			"sparkShowerColor": [
+				"0xAC53FF",
+				"0xAC53FF",
+				"0xAC53FF"
+			],
+			"tunnelWallGraphicsType": [
+				2,
+				2,
+				2
+			],
+			"wallGraphicsColor": [
+				"0xCCB768",
+				"0xCCB768",
+				"0xCCB768"
+			],
+			"tunnelRevealProjectionColor": [
+				"0xCCB768",
+				"0xCCB768",
+				"0xCCB768"
+			],
+			"videoWallBGColor": [
+				"0xB82FC3",
+				"0xB82FC3",
+				"0xB82FC3"
+			],
+			"videoWallBGColor2": [
+				"0xB82FC3",
+				"0xB82FC3",
+				"0xB82FC3"
+			],
+			"videoWallTxtColor1": [
+				"0xEEC5F1",
+				"0xEEC5F1",
+				"0xEEC5F1"
+			],
+			"videoWallTxtColor2": [
+				"0xE2F5FE",
+				"0xE2F5FE",
+				"0xE2F5FE"
+			],
+			"isColoredSpotlightOn": [
+				1,
+				1,
+				1
+			],
+			"spotlightColor1": [
+				"0xE2F5FE",
+				"0xE2F5FE",
+				"0xE2F5FE"
+			],
+			"spotlightColor2": [
+				"0xE2F5FE",
+				"0xE2F5FE",
+				"0xE2F5FE"
+			],
+			"confettiType": [
+				9,
+				9,
+				9
+			],
+			"confettiColor1": [
+				"0xB82FC3",
+				"0xB82FC3",
+				"0xB82FC3"
+			],
+			"confettiColor2": [
+				"0xB82FC3",
+				"0x1E8EEA",
+				"0x1E8EEA"
+			],
+			"confettiIntensity": [
+				2,
+				2,
+				2
+			],
+			"pyrotechnicsType": [
+				2,
+				2,
+				3
+			],
+			"pyrotechnicsColor1": [
+				"0x1E8EEA",
+				"0x1E8EEA",
+				"0xD9B2E4"
+			],
+			"pyrotechnicsColor2": [
+				"0xFFFFFF",
+				"0xFFFFFF",
+				"0xB82FC3"
+			],
+			"smokeJetsColor1": [
+				"",
+				"0xB82FC3",
+				"0xB82FC3"
+			],
+			"smokeJetsColor2": [
+				"",
+				"0xFFFFFF",
+				"0x1E8EEA"
+			],
+			"isGrandPyrotechnicsOn": [
+				0,
+				0,
+				0
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"rarity": 70,
+			"totalRanges": 3,
+			"isLightCrest": 1,
+			"animationType": [
+				1,
+				1,
+				1
+			],
+			"walkOutBucketId": [
+				-1,
+				-1,
+				2
+			],
+			"revealItemTimingId": [
+				2,
+				2,
+				2
+			],
+			"inTunnelCelebrationType": [
+				0,
+				0,
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				"",
+				"",
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				"",
+				"",
+				""
+			],
+			"isRarityIndicatorOn": [
+				1,
+				1,
+				1
+			],
+			"sparkShowerColor": [
+				"0x2855E4",
+				"0x2855E4",
+				"0x2855E4"
+			],
+			"tunnelWallGraphicsType": [
+				2,
+				2,
+				2
+			],
+			"wallGraphicsColor": [
+				"0xCCB768",
+				"0xCCB768",
+				"0xCCB768"
+			],
+			"tunnelRevealProjectionColor": [
+				"0xCCB768",
+				"0xCCB768",
+				"0xCCB768"
+			],
+			"videoWallBGColor": [
+				"0x1539AB",
+				"0x1539AB",
+				"0x1539AB"
+			],
+			"videoWallBGColor2": [
+				"0x1539AB",
+				"0x1539AB",
+				"0x1539AB"
+			],
+			"videoWallTxtColor1": [
+				"0xF2BB58",
+				"0xF2BB58",
+				"0xF2BB58"
+			],
+			"videoWallTxtColor2": [
+				"0xFFFFFF",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"isColoredSpotlightOn": [
+				0,
+				0,
+				1
+			],
+			"spotlightColor1": [
+				"",
+				"",
+				"0xBFCCF7"
+			],
+			"spotlightColor2": [
+				"",
+				"",
+				"0xBFCCF7"
+			],
+			"confettiType": [
+				9,
+				9,
+				9
+			],
+			"confettiColor1": [
+				"0x2855E4",
+				"0x2855E4",
+				"0x2855E4"
+			],
+			"confettiColor2": [
+				"0xEDA117",
+				"0xEDA117",
+				"0xEDA117"
+			],
+			"confettiIntensity": [
+				1,
+				2,
+				2
+			],
+			"pyrotechnicsType": [
+				1,
+				1,
+				1
+			],
+			"pyrotechnicsColor1": [
+				"0x2855E4",
+				"0x2855E4",
+				"0x2855E4"
+			],
+			"pyrotechnicsColor2": [
+				"0x2855E4",
+				"0x2855E4",
+				"0x2855E4"
+			],
+			"smokeJetsColor1": [
+				"",
+				"",
+				"0x8EB1F6"
+			],
+			"smokeJetsColor2": [
+				"",
+				"",
+				"0xEDA117"
+			],
+			"isGrandPyrotechnicsOn": [
+				0,
+				0,
+				0
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"rarity": 72,
+			"totalRanges": 3,
+			"isLightCrest": 1,
+			"animationType": [
+				1,
+				1,
+				1
+			],
+			"walkOutBucketId": [
+				-1,
+				-1,
+				1
+			],
+			"revealItemTimingId": [
+				2,
+				3,
+				2
+			],
+			"inTunnelCelebrationType": [
+				0,
+				0,
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				"",
+				"",
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				"",
+				"",
+				""
+			],
+			"isRarityIndicatorOn": [
+				1,
+				1,
+				1
+			],
+			"sparkShowerColor": [
+				"0xFFFFFF",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"tunnelWallGraphicsType": [
+				2,
+				2,
+				2
+			],
+			"wallGraphicsColor": [
+				"0xCCB768",
+				"0xCCB768",
+				"0xCCB768"
+			],
+			"tunnelRevealProjectionColor": [
+				"0xCCB768",
+				"0xCCB768",
+				"0xCCB768"
+			],
+			"videoWallBGColor": [
+				"0xE2045D",
+				"0xE2045D",
+				"0xE2045D"
+			],
+			"videoWallBGColor2": [
+				"0x286E34",
+				"0x286E34",
+				"0x286E34"
+			],
+			"videoWallTxtColor1": [
+				"0xFFFFFF",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"videoWallTxtColor2": [
+				"0xF5F40B",
+				"0xF5F40B",
+				"0xF5F40B"
+			],
+			"isColoredSpotlightOn": [
+				0,
+				1,
+				1
+			],
+			"spotlightColor1": [
+				"",
+				"0xF5F40B",
+				"0xF5F40B"
+			],
+			"spotlightColor2": [
+				"",
+				"0xF5F40B",
+				"0x76F4DB"
+			],
+			"confettiType": [
+				1,
+				2,
+				2
+			],
+			"confettiColor1": [
+				"0xF5F40B",
+				"0xF5F40B",
+				"0xF5F40B"
+			],
+			"confettiColor2": [
+				"0xF5F40B",
+				"0x1FCBAA",
+				"0x1FCBAA"
+			],
+			"confettiIntensity": [
+				1,
+				1,
+				1
+			],
+			"pyrotechnicsType": [
+				1,
+				1,
+				2
+			],
+			"pyrotechnicsColor1": [
+				"0xEE1973",
+				"0xEE1973",
+				"0xEE1973"
+			],
+			"pyrotechnicsColor2": [
+				"0xEE1973",
+				"0xF5F40B",
+				"0xF5F40B"
+			],
+			"smokeJetsColor1": [
+				"",
+				"0xFCF735",
+				"0xFCF735"
+			],
+			"smokeJetsColor2": [
+				"",
+				"0x1FCBAA",
+				"0x1FCBAA"
+			],
+			"isGrandPyrotechnicsOn": [
+				0,
+				0,
+				0
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"rarity": 78,
+			"totalRanges": 9,
+			"isLightCrest": 1,
+			"animationType": [
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				1,
+				1,
+				1
+			],
+			"walkOutBucketId": [
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				1,
+				2
+			],
+			"revealItemTimingId": [
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				3,
+				3,
+				2
+			],
+			"inTunnelCelebrationType": [
+				1,
+				2,
+				1,
+				2,
+				2,
+				3,
+				0,
+				0,
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				"0xF79810",
+				"0xF79810",
+				"0xF79810",
+				"0xF79810",
+				"0xF79810",
+				"0xF79810",
+				"",
+				"",
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				"0xF8C10F",
+				"0xF8C10F",
+				"0xF8C10F",
+				"0xF8C10F",
+				"0xF8C10F",
+				"0xF8C10F",
+				"",
+				"",
+				""
+			],
+			"isRarityIndicatorOn": [
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"sparkShowerColor": [
+				"0xFCBB0B",
+				"0xFCBB0B",
+				"0xFCBB0B",
+				"0xFCBB0B",
+				"0xFCBB0B",
+				"0xFCBB0B",
+				"0xF08A02",
+				"0xF08A02",
+				"0xF08A02"
+			],
+			"tunnelWallGraphicsType": [
+				0,
+				2,
+				0,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2
+			],
+			"wallGraphicsColor": [
+				"",
+				"0xFCBB0B",
+				"",
+				"0xFCBB0B",
+				"0xFCBB0B",
+				"0xFCBB0B",
+				"0xFCBB0B",
+				"0xFCBB0B",
+				"0xFCBB0B"
+			],
+			"tunnelRevealProjectionColor": [
+				"",
+				"0xFCBB0B",
+				"",
+				"0xFCBB0B",
+				"0xFCBB0B",
+				"0xFCBB0B",
+				"0xFCBB0B",
+				"0xFCBB0B",
+				"0xFCBB0B"
+			],
+			"videoWallBGColor": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"0x3A3838",
+				"0x3A3838",
+				"0x3A3838"
+			],
+			"videoWallBGColor2": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"0x9E6212",
+				"0x9E6212",
+				"0x9E6212"
+			],
+			"videoWallTxtColor1": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"0x9E6212",
+				"0x9E6212",
+				"0x9E6212"
+			],
+			"videoWallTxtColor2": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"0x3A3838",
+				"0x3A3838",
+				"0x3A3838"
+			],
+			"isColoredSpotlightOn": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				1,
+				0
+			],
+			"spotlightColor1": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"0xFDD259",
+				"0xFDD259",
+				""
+			],
+			"spotlightColor2": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"0xFDD259",
+				"0xFDD259",
+				""
+			],
+			"confettiType": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				10,
+				10,
+				10
+			],
+			"confettiColor1": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"0xF08A02",
+				"0xF08A02",
+				"0xF08A02"
+			],
+			"confettiColor2": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"0x3A3838",
+				"0x3A3838",
+				"0x3A3838"
+			],
+			"confettiIntensity": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				2
+			],
+			"pyrotechnicsType": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				3
+			],
+			"pyrotechnicsColor1": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"0xF08A02",
+				"0xF08A02",
+				"0xF08A02"
+			],
+			"pyrotechnicsColor2": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"0xF08A02",
+				"0xF08A02",
+				"0xF08A02"
+			],
+			"smokeJetsColor1": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"0xFFC000",
+				"0xFFC000",
+				"0xFFC000"
+			],
+			"smokeJetsColor2": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"0xFFC000",
+				"0xFFC000",
+				"0xFFC000"
+			],
+			"isGrandPyrotechnicsOn": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"rarity": 79,
+			"totalRanges": 3,
+			"isLightCrest": 1,
+			"animationType": [
+				2,
+				1,
+				1
+			],
+			"walkOutBucketId": [
+				-1,
+				-1,
+				1
+			],
+			"revealItemTimingId": [
+				1,
+				3,
+				2
+			],
+			"inTunnelCelebrationType": [
+				3,
+				0,
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				"0xFFFFFF",
+				"",
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				"0xFFFFFF",
+				"",
+				""
+			],
+			"isRarityIndicatorOn": [
+				1,
+				1,
+				1
+			],
+			"sparkShowerColor": [
+				"0xC20916",
+				"0xC20916",
+				"0xC20916"
+			],
+			"tunnelWallGraphicsType": [
+				2,
+				2,
+				2
+			],
+			"wallGraphicsColor": [
+				"0xAF0D19",
+				"0xAF0D19",
+				"0xAF0D19"
+			],
+			"tunnelRevealProjectionColor": [
+				"0xC20916",
+				"0xC20916",
+				"0xC20916"
+			],
+			"videoWallBGColor": [
+				"",
+				"0xAF0D19",
+				"0xAF0D19"
+			],
+			"videoWallBGColor2": [
+				"",
+				"0xC20916",
+				"0xC20916"
+			],
+			"videoWallTxtColor1": [
+				"",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"videoWallTxtColor2": [
+				"",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"isColoredSpotlightOn": [
+				0,
+				1,
+				1
+			],
+			"spotlightColor1": [
+				"",
+				"0xF7535F",
+				"0xF7535F"
+			],
+			"spotlightColor2": [
+				"",
+				"0xF7535F",
+				"0xF7535F"
+			],
+			"confettiType": [
+				0,
+				1,
+				2
+			],
+			"confettiColor1": [
+				"",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"confettiColor2": [
+				"",
+				"0xC20916",
+				"0xC20916"
+			],
+			"confettiIntensity": [
+				0,
+				2,
+				2
+			],
+			"pyrotechnicsType": [
+				0,
+				2,
+				3
+			],
+			"pyrotechnicsColor1": [
+				"",
+				"0xC20916",
+				"0xC20916"
+			],
+			"pyrotechnicsColor2": [
+				"",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"smokeJetsColor1": [
+				"",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"smokeJetsColor2": [
+				"",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"isGrandPyrotechnicsOn": [
+				0,
+				0,
+				0
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"rarity": 86,
+			"totalRanges": 3,
+			"isLightCrest": 1,
+			"animationType": [
+				2,
+				1,
+				1
+			],
+			"walkOutBucketId": [
+				-1,
+				-1,
+				1
+			],
+			"revealItemTimingId": [
+				1,
+				3,
+				2
+			],
+			"inTunnelCelebrationType": [
+				3,
+				0,
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				"0xFFFFFF",
+				"",
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				"0xFFFFFF",
+				"",
+				""
+			],
+			"isRarityIndicatorOn": [
+				1,
+				1,
+				1
+			],
+			"sparkShowerColor": [
+				"0xC20916",
+				"0xC20916",
+				"0xC20916"
+			],
+			"tunnelWallGraphicsType": [
+				2,
+				2,
+				2
+			],
+			"wallGraphicsColor": [
+				"0xAF0D19",
+				"0xAF0D19",
+				"0xAF0D19"
+			],
+			"tunnelRevealProjectionColor": [
+				"0xC20916",
+				"0xC20916",
+				"0xC20916"
+			],
+			"videoWallBGColor": [
+				"",
+				"0xAF0D19",
+				"0xAF0D19"
+			],
+			"videoWallBGColor2": [
+				"",
+				"0xC20916",
+				"0xC20916"
+			],
+			"videoWallTxtColor1": [
+				"",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"videoWallTxtColor2": [
+				"",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"isColoredSpotlightOn": [
+				0,
+				1,
+				1
+			],
+			"spotlightColor1": [
+				"",
+				"0xF7535F",
+				"0xF7535F"
+			],
+			"spotlightColor2": [
+				"",
+				"0xF7535F",
+				"0xF7535F"
+			],
+			"confettiType": [
+				0,
+				1,
+				2
+			],
+			"confettiColor1": [
+				"",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"confettiColor2": [
+				"",
+				"0xC20916",
+				"0xC20916"
+			],
+			"confettiIntensity": [
+				0,
+				2,
+				2
+			],
+			"pyrotechnicsType": [
+				0,
+				2,
+				3
+			],
+			"pyrotechnicsColor1": [
+				"",
+				"0xC20916",
+				"0xC20916"
+			],
+			"pyrotechnicsColor2": [
+				"",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"smokeJetsColor1": [
+				"",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"smokeJetsColor2": [
+				"",
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"isGrandPyrotechnicsOn": [
+				0,
+				0,
+				0
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"rarity": 84,
+			"totalRanges": 2,
+			"isLightCrest": 1,
+			"animationType": [
+				1,
+				1
+			],
+			"walkOutBucketId": [
+				2,
+				2
+			],
+			"revealItemTimingId": [
+				2,
+				2
+			],
+			"inTunnelCelebrationType": [
+				0,
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				"",
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				"",
+				""
+			],
+			"isRarityIndicatorOn": [
+				1,
+				1
+			],
+			"sparkShowerColor": [
+				"0xFFF7BD",
+				"0xFFF7BD"
+			],
+			"tunnelWallGraphicsType": [
+				2,
+				2
+			],
+			"wallGraphicsColor": [
+				"0xCCB768",
+				"0xCCB768"
+			],
+			"tunnelRevealProjectionColor": [
+				"0xD6C586",
+				"0xD6C586"
+			],
+			"videoWallBGColor": [
+				"0xCCB768",
+				"0xCCB768"
+			],
+			"videoWallBGColor2": [
+				"0xE0D3A4",
+				"0xE0D3A4"
+			],
+			"videoWallTxtColor1": [
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"videoWallTxtColor2": [
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"isColoredSpotlightOn": [
+				0,
+				0
+			],
+			"spotlightColor1": [
+				"",
+				""
+			],
+			"spotlightColor2": [
+				"",
+				""
+			],
+			"confettiType": [
+				2,
+				2
+			],
+			"confettiColor1": [
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"confettiColor2": [
+				"0xCCB768",
+				"0xCCB768"
+			],
+			"confettiIntensity": [
+				2,
+				2
+			],
+			"pyrotechnicsType": [
+				3,
+				3
+			],
+			"pyrotechnicsColor1": [
+				"0xD4B73C",
+				"0xD4B73C"
+			],
+			"pyrotechnicsColor2": [
+				"0xFFFFFF",
+				"0xFFFFFF"
+			],
+			"smokeJetsColor1": [
+				"0xD6C586",
+				"0xD6C586"
+			],
+			"smokeJetsColor2": [
+				"0xD6C586",
+				"0xD6C586"
+			],
+			"isGrandPyrotechnicsOn": [
+				1,
+				1
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9",
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				0,
+				0
+			]
+		},
+		{
+			"rarity": 95,
+			"totalRanges": 3,
+			"isLightCrest": 1,
+			"animationType": [
+				1,
+				1,
+				1
+			],
+			"walkOutBucketId": [
+				-1,
+				1,
+				2
+			],
+			"revealItemTimingId": [
+				2,
+				2,
+				2
+			],
+			"inTunnelCelebrationType": [
+				0,
+				0,
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				"",
+				"",
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				"",
+				"",
+				""
+			],
+			"isRarityIndicatorOn": [
+				1,
+				1,
+				1
+			],
+			"sparkShowerColor": [
+				"0xD01F6C",
+				"0xD01F6C",
+				"0xD01F6C"
+			],
+			"tunnelWallGraphicsType": [
+				2,
+				2,
+				2
+			],
+			"wallGraphicsColor": [
+				"0xD51731",
+				"0xD51731",
+				"0xD51731"
+			],
+			"tunnelRevealProjectionColor": [
+				"0xD51731",
+				"0xD51731",
+				"0xD51731"
+			],
+			"videoWallBGColor": [
+				"0xFA3A0D",
+				"0xFA3A0D",
+				"0xFA3A0D"
+			],
+			"videoWallBGColor2": [
+				"0xFA3A0D",
+				"0xFA3A0D",
+				"0xFA3A0D"
+			],
+			"videoWallTxtColor1": [
+				"0xF7CB08",
+				"0xF7CB08",
+				"0xF7CB08"
+			],
+			"videoWallTxtColor2": [
+				"0xF7CB08",
+				"0xF7CB08",
+				"0xF7CB08"
+			],
+			"isColoredSpotlightOn": [
+				0,
+				1,
+				0
+			],
+			"spotlightColor1": [
+				"",
+				"0xF98967",
+				""
+			],
+			"spotlightColor2": [
+				"",
+				"0xFDD259",
+				""
+			],
+			"confettiType": [
+				1,
+				2,
+				2
+			],
+			"confettiColor1": [
+				"0xE9395F",
+				"0xE9395F",
+				"0xE9395F"
+			],
+			"confettiColor2": [
+				"0xE9395F",
+				"0x90279E",
+				"0x90279E"
+			],
+			"confettiIntensity": [
+				1,
+				1,
+				2
+			],
+			"pyrotechnicsType": [
+				1,
+				2,
+				3
+			],
+			"pyrotechnicsColor1": [
+				"0x90279E",
+				"0x90279E",
+				"0x90279E"
+			],
+			"pyrotechnicsColor2": [
+				"0x90279E",
+				"0xFE9005",
+				"0xFE9005"
+			],
+			"smokeJetsColor1": [
+				"0xE9395F",
+				"0xE9395F",
+				"0xE9395F"
+			],
+			"smokeJetsColor2": [
+				"0xFC7E1E",
+				"0xFC7E1E",
+				"0xFC7E1E"
+			],
+			"isGrandPyrotechnicsOn": [
+				0,
+				0,
+				1
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"rarity": 71,
+			"totalRanges": 5,
+			"isLightCrest": 1,
+			"animationType": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"walkOutBucketId": [
+				-1,
+				-1,
+				-1,
+				1,
+				2
+			],
+			"revealItemTimingId": [
+				2,
+				2,
+				2,
+				2,
+				2
+			],
+			"inTunnelCelebrationType": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				"",
+				"",
+				"",
+				"",
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				"",
+				"",
+				"",
+				"",
+				""
+			],
+			"isRarityIndicatorOn": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"sparkShowerColor": [
+				"0xF737DC",
+				"0xF737DC",
+				"0xF737DC",
+				"0xF737DC",
+				"0xF737DC"
+			],
+			"tunnelWallGraphicsType": [
+				2,
+				2,
+				2,
+				2,
+				2
+			],
+			"wallGraphicsColor": [
+				"0x580373",
+				"0x580373",
+				"0x580373",
+				"0x580373",
+				"0x580373"
+			],
+			"tunnelRevealProjectionColor": [
+				"0xF44ABB",
+				"0xF44ABB",
+				"0xF44ABB",
+				"0xF44ABB",
+				"0xF44ABB"
+			],
+			"videoWallBGColor": [
+				"0xF856E1",
+				"0xF856E1",
+				"0xF856E1",
+				"0xF856E1",
+				"0xF856E1"
+			],
+			"videoWallBGColor2": [
+				"0xE8189E",
+				"0xE8189E",
+				"0xE8189E",
+				"0xE8189E",
+				"0xE8189E"
+			],
+			"videoWallTxtColor1": [
+				"0x580373",
+				"0x580373",
+				"0x580373",
+				"0x580373",
+				"0x580373"
+			],
+			"videoWallTxtColor2": [
+				"0xFFFF0A",
+				"0xFFFF0A",
+				"0xFFFF0A",
+				"0xFFFF0A",
+				"0xFFFF0A"
+			],
+			"isColoredSpotlightOn": [
+				0,
+				1,
+				1,
+				1,
+				0
+			],
+			"spotlightColor1": [
+				"",
+				"0xFFFF0A",
+				"0xFFFF0A",
+				"0xFFFF0A",
+				""
+			],
+			"spotlightColor2": [
+				"",
+				"0xF856E1",
+				"0xF856E1",
+				"0xF856E1",
+				""
+			],
+			"confettiType": [
+				1,
+				1,
+				1,
+				2,
+				2
+			],
+			"confettiColor1": [
+				"0x90279E",
+				"0x90279E",
+				"0x90279E",
+				"0x90279E",
+				"0x90279E"
+			],
+			"confettiColor2": [
+				"0xFFFF0A",
+				"0xFFFF0A",
+				"0xFFFF0A",
+				"0xFFFF0A",
+				"0xFFFF0A"
+			],
+			"confettiIntensity": [
+				1,
+				1,
+				1,
+				1,
+				2
+			],
+			"pyrotechnicsType": [
+				1,
+				1,
+				1,
+				2,
+				3
+			],
+			"pyrotechnicsColor1": [
+				"0xFA86E9",
+				"0xFA86E9",
+				"0xFA86E9",
+				"0xFA86E9",
+				"0xFA86E9"
+			],
+			"pyrotechnicsColor2": [
+				"0xFFFF0A",
+				"0xFFFF0A",
+				"0xFFFF0A",
+				"0xFFFF0A",
+				"0xFFFF0A"
+			],
+			"smokeJetsColor1": [
+				"",
+				"",
+				"0xD328F0",
+				"0xD328F0",
+				"0xD328F0"
+			],
+			"smokeJetsColor2": [
+				"",
+				"",
+				"0xA606D8",
+				"0xA606D8",
+				"0xA606D8"
+			],
+			"isGrandPyrotechnicsOn": [
+				0,
+				0,
+				0,
+				0,
+				1
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"rarity": 81,
+			"totalRanges": 5,
+			"isLightCrest": 1,
+			"animationType": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"walkOutBucketId": [
+				-1,
+				-1,
+				-1,
+				1,
+				2
+			],
+			"revealItemTimingId": [
+				2,
+				2,
+				2,
+				2,
+				2
+			],
+			"inTunnelCelebrationType": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				"",
+				"",
+				"",
+				"",
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				"",
+				"",
+				"",
+				"",
+				""
+			],
+			"isRarityIndicatorOn": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"sparkShowerColor": [
+				"0xDBFDF7",
+				"0xDBFDF7",
+				"0xDBFDF7",
+				"0xDBFDF7",
+				"0xDBFDF7"
+			],
+			"tunnelWallGraphicsType": [
+				2,
+				2,
+				2,
+				2,
+				2
+			],
+			"wallGraphicsColor": [
+				"0x1878A8",
+				"0x1878A8",
+				"0x1878A8",
+				"0x1878A8",
+				"0x1878A8"
+			],
+			"tunnelRevealProjectionColor": [
+				"0x71DAFB",
+				"0x71DAFB",
+				"0x71DAFB",
+				"0x71DAFB",
+				"0x71DAFB"
+			],
+			"videoWallBGColor": [
+				"0x44CFFA",
+				"0x44CFFA",
+				"0x44CFFA",
+				"0x44CFFA",
+				"0x44CFFA"
+			],
+			"videoWallBGColor2": [
+				"0x61D6FB",
+				"0x61D6FB",
+				"0x61D6FB",
+				"0x61D6FB",
+				"0x61D6FB"
+			],
+			"videoWallTxtColor1": [
+				"0x011475",
+				"0x011475",
+				"0x011475",
+				"0x011475",
+				"0x011475"
+			],
+			"videoWallTxtColor2": [
+				"0x011475",
+				"0x011475",
+				"0x011475",
+				"0x011475",
+				"0x011475"
+			],
+			"isColoredSpotlightOn": [
+				0,
+				1,
+				1,
+				1,
+				0
+			],
+			"spotlightColor1": [
+				"",
+				"0xDBFDF7",
+				"0xDBFDF7",
+				"0xDBFDF7",
+				""
+			],
+			"spotlightColor2": [
+				"",
+				"0x07599E",
+				"0x07599E",
+				"0x07599E",
+				""
+			],
+			"confettiType": [
+				1,
+				1,
+				1,
+				2,
+				2
+			],
+			"confettiColor1": [
+				"0x1B7BAB",
+				"0x1B7BAB",
+				"0x1B7BAB",
+				"0x1B7BAB",
+				"0x1B7BAB"
+			],
+			"confettiColor2": [
+				"0xDBFDF7",
+				"0xDBFDF7",
+				"0xDBFDF7",
+				"0xDBFDF7",
+				"0xDBFDF7"
+			],
+			"confettiIntensity": [
+				1,
+				1,
+				1,
+				1,
+				2
+			],
+			"pyrotechnicsType": [
+				1,
+				1,
+				1,
+				2,
+				3
+			],
+			"pyrotechnicsColor1": [
+				"0x07599E",
+				"0x07599E",
+				"0x07599E",
+				"0x07599E",
+				"0x07599E"
+			],
+			"pyrotechnicsColor2": [
+				"0x0BF0EB",
+				"0x0BF0EB",
+				"0x0BF0EB",
+				"0x0BF0EB",
+				"0x0BF0EB"
+			],
+			"smokeJetsColor1": [
+				"",
+				"",
+				"0x2F75B5",
+				"0x2F75B5",
+				"0x2F75B5"
+			],
+			"smokeJetsColor2": [
+				"",
+				"",
+				"0x428BCE",
+				"0x428BCE",
+				"0x428BCE"
+			],
+			"isGrandPyrotechnicsOn": [
+				0,
+				0,
+				0,
+				0,
+				1
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"rarity": 97,
+			"totalRanges": 3,
+			"isLightCrest": 1,
+			"animationType": [
+				1,
+				1,
+				1
+			],
+			"walkOutBucketId": [
+				-1,
+				1,
+				2
+			],
+			"revealItemTimingId": [
+				3,
+				2,
+				2
+			],
+			"inTunnelCelebrationType": [
+				0,
+				0,
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				"",
+				"",
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				"",
+				"",
+				""
+			],
+			"isRarityIndicatorOn": [
+				1,
+				1,
+				1
+			],
+			"sparkShowerColor": [
+				"0x5BDF87",
+				"0x5BDF87",
+				"0x5BDF87"
+			],
+			"tunnelWallGraphicsType": [
+				2,
+				2,
+				2
+			],
+			"wallGraphicsColor": [
+				"0x25C159",
+				"0x25C159",
+				"0x25C159"
+			],
+			"tunnelRevealProjectionColor": [
+				"0x8BF9CF",
+				"0x8BF9CF",
+				"0x8BF9CF"
+			],
+			"videoWallBGColor": [
+				"0x138F4E",
+				"0x138F4E",
+				"0x138F4E"
+			],
+			"videoWallBGColor2": [
+				"0x138F4E",
+				"0x138F4E",
+				"0x138F4E"
+			],
+			"videoWallTxtColor1": [
+				"0xFA3463",
+				"0xFA3463",
+				"0xFA3463"
+			],
+			"videoWallTxtColor2": [
+				"0xFA3463",
+				"0xFA3463",
+				"0xFA3463"
+			],
+			"isColoredSpotlightOn": [
+				1,
+				1,
+				0
+			],
+			"spotlightColor1": [
+				"0x8BF9CF",
+				"0x8BF9CF",
+				""
+			],
+			"spotlightColor2": [
+				"0x52DC5F",
+				"0x52DC5F",
+				""
+			],
+			"confettiType": [
+				1,
+				2,
+				2
+			],
+			"confettiColor1": [
+				"0x8BF9CF",
+				"0x8BF9CF",
+				"0x8BF9CF"
+			],
+			"confettiColor2": [
+				"0xFA3463",
+				"0xFA3463",
+				"0xFA3463"
+			],
+			"confettiIntensity": [
+				1,
+				2,
+				2
+			],
+			"pyrotechnicsType": [
+				1,
+				2,
+				3
+			],
+			"pyrotechnicsColor1": [
+				"0x5BDF87",
+				"0x5BDF87",
+				"0x5BDF87"
+			],
+			"pyrotechnicsColor2": [
+				"0xF9174D",
+				"0xF9174D",
+				"0xF9174D"
+			],
+			"smokeJetsColor1": [
+				"0x23AF30",
+				"0x23AF30",
+				"0x23AF30"
+			],
+			"smokeJetsColor2": [
+				"0x29CD39",
+				"0x29CD39",
+				"0x29CD39"
+			],
+			"isGrandPyrotechnicsOn": [
+				0,
+				0,
+				1
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"rarity": 90,
+			"totalRanges": 3,
+			"isLightCrest": 1,
+			"animationType": [
+				1,
+				1,
+				1
+			],
+			"walkOutBucketId": [
+				-1,
+				2,
+				2
+			],
+			"revealItemTimingId": [
+				3,
+				2,
+				2
+			],
+			"inTunnelCelebrationType": [
+				0,
+				0,
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				"",
+				"",
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				"",
+				"",
+				""
+			],
+			"isRarityIndicatorOn": [
+				1,
+				1,
+				1
+			],
+			"sparkShowerColor": [
+				"0x1B999F",
+				"0x1B999F",
+				"0x1B999F"
+			],
+			"tunnelWallGraphicsType": [
+				2,
+				2,
+				2
+			],
+			"wallGraphicsColor": [
+				"0x1B999F",
+				"0x1B999F",
+				"0x1B999F"
+			],
+			"tunnelRevealProjectionColor": [
+				"0x09C7C2",
+				"0x09C7C2",
+				"0x09C7C2"
+			],
+			"videoWallBGColor": [
+				"0x27837D",
+				"0x27837D",
+				"0x27837D"
+			],
+			"videoWallBGColor2": [
+				"0x09C7C2",
+				"0x09C7C2",
+				"0x09C7C2"
+			],
+			"videoWallTxtColor1": [
+				"0x0BF0EB",
+				"0x0BF0EB",
+				"0x0BF0EB"
+			],
+			"videoWallTxtColor2": [
+				"0x0BF0EB",
+				"0x0BF0EB",
+				"0x0BF0EB"
+			],
+			"isColoredSpotlightOn": [
+				1,
+				1,
+				0
+			],
+			"spotlightColor1": [
+				"0x79ECFF",
+				"0x79ECFF",
+				""
+			],
+			"spotlightColor2": [
+				"0x79ECFF",
+				"0x79ECFF",
+				""
+			],
+			"confettiType": [
+				1,
+				2,
+				2
+			],
+			"confettiColor1": [
+				"0x09C7C2",
+				"0x27837D",
+				"0x27837D"
+			],
+			"confettiColor2": [
+				"0x09C7C2",
+				"0x0BF0EB",
+				"0x0BF0EB"
+			],
+			"confettiIntensity": [
+				1,
+				2,
+				2
+			],
+			"pyrotechnicsType": [
+				2,
+				3,
+				3
+			],
+			"pyrotechnicsColor1": [
+				"0x07599E",
+				"0x07599E",
+				"0x07599E"
+			],
+			"pyrotechnicsColor2": [
+				"0x09C7C2",
+				"0x09C7C2",
+				"0x0BF0EB"
+			],
+			"smokeJetsColor1": [
+				"0x0BF0EB",
+				"0x0BF0EB",
+				"0x0BF0EB"
+			],
+			"smokeJetsColor2": [
+				"0x0BF0EB",
+				"0x0BF0EB",
+				"0x0BF0EB"
+			],
+			"isGrandPyrotechnicsOn": [
+				0,
+				0,
+				1
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"rarity": 52,
+			"totalRanges": 3,
+			"isLightCrest": 1,
+			"animationType": [
+				0,
+				0,
+				0
+			],
+			"walkOutBucketId": [
+				-1,
+				-1,
+				-1
+			],
+			"revealItemTimingId": [
+				0,
+				0,
+				0
+			],
+			"inTunnelCelebrationType": [
+				1,
+				1,
+				2
+			],
+			"inTunnelCelebrationColor1": [
+				"0xD39C6F",
+				"0xC2D2E0",
+				"0xE9D373"
+			],
+			"inTunnelCelebrationColor2": [
+				"0xD39C6F",
+				"0xC2D2E0",
+				"0xE9D373"
+			],
+			"isRarityIndicatorOn": [
+				0,
+				0,
+				0
+			],
+			"sparkShowerColor": [
+				"",
+				"",
+				""
+			],
+			"tunnelWallGraphicsType": [
+				0,
+				0,
+				0
+			],
+			"wallGraphicsColor": [
+				"",
+				"",
+				"0xCCB768"
+			],
+			"tunnelRevealProjectionColor": [
+				"",
+				"",
+				""
+			],
+			"videoWallBGColor": [
+				"",
+				"",
+				""
+			],
+			"videoWallBGColor2": [
+				"",
+				"",
+				""
+			],
+			"videoWallTxtColor1": [
+				"",
+				"",
+				""
+			],
+			"videoWallTxtColor2": [
+				"",
+				"",
+				""
+			],
+			"isColoredSpotlightOn": [
+				0,
+				0,
+				0
+			],
+			"spotlightColor1": [
+				"",
+				"",
+				""
+			],
+			"spotlightColor2": [
+				"",
+				"",
+				""
+			],
+			"confettiType": [
+				0,
+				0,
+				0
+			],
+			"confettiColor1": [
+				"",
+				"",
+				""
+			],
+			"confettiColor2": [
+				"",
+				"",
+				""
+			],
+			"confettiIntensity": [
+				0,
+				0,
+				0
+			],
+			"pyrotechnicsType": [
+				0,
+				0,
+				0
+			],
+			"pyrotechnicsColor1": [
+				"",
+				"",
+				""
+			],
+			"pyrotechnicsColor2": [
+				"",
+				"",
+				""
+			],
+			"smokeJetsColor1": [
+				"",
+				"",
+				""
+			],
+			"smokeJetsColor2": [
+				"",
+				"",
+				""
+			],
+			"isGrandPyrotechnicsOn": [
+				0,
+				0,
+				0
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"rarity": 53,
+			"totalRanges": 9,
+			"isLightCrest": 1,
+			"animationType": [
+				0,
+				2,
+				0,
+				2,
+				2,
+				2,
+				1,
+				1,
+				1
+			],
+			"walkOutBucketId": [
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				1,
+				2
+			],
+			"revealItemTimingId": [
+				0,
+				1,
+				0,
+				1,
+				1,
+				1,
+				3,
+				3,
+				2
+			],
+			"inTunnelCelebrationType": [
+				1,
+				2,
+				2,
+				3,
+				2,
+				3,
+				0,
+				0,
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				"0xD39C6F",
+				"0xD39C6F",
+				"0xC2D2E0",
+				"0xC2D2E0",
+				"0xE9D373",
+				"0xE9D373",
+				"",
+				"",
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				"0xD39C6F",
+				"0xD39C6F",
+				"0xC2D2E0",
+				"0xC2D2E0",
+				"0xE9D373",
+				"0xE9D373",
+				"",
+				"",
+				""
+			],
+			"isRarityIndicatorOn": [
+				0,
+				0,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"sparkShowerColor": [
+				"",
+				"",
+				"0xC2D2E0",
+				"0xC2D2E0",
+				"0xE9D373",
+				"0xE9D373",
+				"0xE9D373",
+				"0xE9D373",
+				"0xE9D373"
+			],
+			"tunnelWallGraphicsType": [
+				0,
+				1,
+				0,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"wallGraphicsColor": [
+				"",
+				"0xD39C6F",
+				"",
+				"0xC2D2E0",
+				"0xE9D373",
+				"0xE9D373",
+				"0xE9D373",
+				"0xE9D373",
+				"0xE9D373"
+			],
+			"tunnelRevealProjectionColor": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"0xE9D373",
+				"0xE9D373",
+				"0xE9D373"
+			],
+			"videoWallBGColor": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"0xEBD553",
+				"0xEBD553",
+				"0xEBD553"
+			],
+			"videoWallBGColor2": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"0xC8B150",
+				"0xC8B150",
+				"0xC8B150"
+			],
+			"videoWallTxtColor1": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"0x4C432A",
+				"0x4C432A",
+				"0x4C432A"
+			],
+			"videoWallTxtColor2": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"0x9E6F12",
+				"0x9E6F12",
+				"0x9E6F12"
+			],
+			"isColoredSpotlightOn": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				1,
+				0
+			],
+			"spotlightColor1": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"0xF3E8A3",
+				"0xF3E8A3",
+				""
+			],
+			"spotlightColor2": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"0xF3E8A3",
+				"0xF3E8A3",
+				""
+			],
+			"confettiType": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				1,
+				2
+			],
+			"confettiColor1": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"0xEBD553",
+				"0xE9DC7B",
+				"0xE9DC7B"
+			],
+			"confettiColor2": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"0xEBD553",
+				"0xE2C24C",
+				"0xE2C24C"
+			],
+			"confettiIntensity": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				2
+			],
+			"pyrotechnicsType": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				2,
+				3
+			],
+			"pyrotechnicsColor1": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"0xE2C24C",
+				"0xE2C24C",
+				"0xE2C24C"
+			],
+			"pyrotechnicsColor2": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"0xE2C24C",
+				"0xEBD553",
+				"0xEBD553"
+			],
+			"smokeJetsColor1": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"0xF3E591",
+				"0xF3E591",
+				"0xF3E591"
+			],
+			"smokeJetsColor2": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"0xEBD553",
+				"0xEBD553",
+				"0xEBD553"
+			],
+			"isGrandPyrotechnicsOn": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"rarity": 56,
+			"totalRanges": 3,
+			"isLightCrest": 1,
+			"animationType": [
+				1,
+				1,
+				1
+			],
+			"walkOutBucketId": [
+				-1,
+				1,
+				2
+			],
+			"revealItemTimingId": [
+				2,
+				2,
+				2
+			],
+			"inTunnelCelebrationType": [
+				0,
+				0,
+				0
+			],
+			"inTunnelCelebrationColor1": [
+				"",
+				"",
+				""
+			],
+			"inTunnelCelebrationColor2": [
+				"",
+				"",
+				""
+			],
+			"isRarityIndicatorOn": [
+				1,
+				1,
+				1
+			],
+			"sparkShowerColor": [
+				"0xE59C19",
+				"0xE59C19",
+				"0xE59C19"
+			],
+			"tunnelWallGraphicsType": [
+				2,
+				2,
+				2
+			],
+			"wallGraphicsColor": [
+				"0xCC9A68",
+				"0xCC9A68",
+				"0xCC9A68"
+			],
+			"tunnelRevealProjectionColor": [
+				"0xCC9A68",
+				"0xCC9A68",
+				"0xCC9A68"
+			],
+			"videoWallBGColor": [
+				"0xD08C48",
+				"0xD08C48",
+				"0xD08C48"
+			],
+			"videoWallBGColor2": [
+				"0x181306",
+				"0x181306",
+				"0x181306"
+			],
+			"videoWallTxtColor1": [
+				"0x4C432A",
+				"0x4C432A",
+				"0x4C432A"
+			],
+			"videoWallTxtColor2": [
+				"0xF0A552",
+				"0xF0A552",
+				"0xF0A552"
+			],
+			"isColoredSpotlightOn": [
+				0,
+				1,
+				0
+			],
+			"spotlightColor1": [
+				"",
+				"0xEFDD71",
+				""
+			],
+			"spotlightColor2": [
+				"",
+				"0xFEFECE",
+				""
+			],
+			"confettiType": [
+				1,
+				2,
+				2
+			],
+			"confettiColor1": [
+				"0xD08C48",
+				"0xD08C48",
+				"0xD08C48"
+			],
+			"confettiColor2": [
+				"0x262626",
+				"0x262626",
+				"0x262626"
+			],
+			"confettiIntensity": [
+				1,
+				1,
+				2
+			],
+			"pyrotechnicsType": [
+				1,
+				2,
+				3
+			],
+			"pyrotechnicsColor1": [
+				"0xFDB769",
+				"0xFDB769",
+				"0xFDB769"
+			],
+			"pyrotechnicsColor2": [
+				"0xE2C24C",
+				"0xE2C24C",
+				"0xE2C24C"
+			],
+			"smokeJetsColor1": [
+				"0xE9AA2B",
+				"0xE9AA2B",
+				"0xE9AA2B"
+			],
+			"smokeJetsColor2": [
+				"0xE9AA2B",
+				"0xE9AA2B",
+				"0xE9AA2B"
+			],
+			"isGrandPyrotechnicsOn": [
+				0,
+				0,
+				1
+			],
+			"tunnelExitColor": [
+				"0xF7EEC9",
+				"0xF7EEC9",
+				"0xF7EEC9"
+			],
+			"isSeasonalSetsOn": [
+				0,
+				0,
+				0
+			]
+		}
+	],
+	"seasonalItemList": [
+		{
+			"seasonId": 2,
+			"rarityListToOverride": [
+				0,
+				1,
+				3
+			],
+			"confettiType": [
+				3
+			],
+			"confettiColor1": [
+				"0xE95330"
+			],
+			"confettiColor2": [
+				"0x3A3838"
+			],
+			"confettiIntensity": [
+				2
+			],
+			"pyrotechnicsColor1": [
+				"0xFB6C33"
+			],
+			"pyrotechnicsColor2": [
+				"0xFB6C33"
+			],
+			"spotlightColor1": [
+				"0xF9F561"
+			],
+			"spotlightColor2": [
+				"0xEF9C2D"
+			],
+			"isSeasonalSetsOn": 1
+		},
+		{
+			"seasonId": 3,
+			"rarityListToOverride": [
+				0,
+				1,
+				3,
+				32
+			],
+			"confettiType": [
+				4
+			],
+			"confettiColor1": [
+				"0xFFFFFF"
+			],
+			"confettiColor2": [
+				"0xFFFFFF"
+			],
+			"confettiIntensity": [
+				2
+			],
+			"pyrotechnicsColor1": [
+				"0x1EA237"
+			],
+			"pyrotechnicsColor2": [
+				"0xD20000"
+			],
+			"spotlightColor1": [
+				"0xFFFFFF"
+			],
+			"spotlightColor2": [
+				"0xFFFFFF"
+			],
+			"isSeasonalSetsOn": 1
+		},
+		{
+			"seasonId": 12,
+			"rarityListToOverride": [
+				0,
+				1,
+				3
+			],
+			"confettiType": [
+				2
+			],
+			"confettiColor1": [
+				"0xFFFFFF"
+			],
+			"confettiColor2": [
+				"0xFFFFFF"
+			],
+			"confettiIntensity": [
+				2
+			],
+			"pyrotechnicsColor1": [
+				"0xFFFFFF"
+			],
+			"pyrotechnicsColor2": [
+				"0xFFFFFF"
+			],
+			"spotlightColor1": [
+				"0xFFFFFF"
+			],
+			"spotlightColor2": [
+				"0xFFFFFF"
+			],
+			"isSeasonalSetsOn": 0
+		},
+		{
+			"seasonId": 13,
+			"rarityListToOverride": [
+				0,
+				1,
+				3
+			],
+			"confettiType": [
+				1
+			],
+			"confettiColor1": [
+				"0xFFFFFF"
+			],
+			"confettiColor2": [
+				"0xFFFFFF"
+			],
+			"confettiIntensity": [
+				2
+			],
+			"pyrotechnicsColor1": [
+				"0xFFFFFF"
+			],
+			"pyrotechnicsColor2": [
+				"0xFFFFFF"
+			],
+			"spotlightColor1": [
+				"0xFFFFFF"
+			],
+			"spotlightColor2": [
+				"0xFFFFFF"
+			],
+			"isSeasonalSetsOn": 0
+		},
+		{
+			"seasonId": 6,
+			"rarityListToOverride": [
+				0,
+				1,
+				3,
+				30
+			],
+			"confettiType": [
+				6
+			],
+			"confettiColor1": [
+				"0xFE7064"
+			],
+			"confettiColor2": [
+				"0x0BD3D3"
+			],
+			"confettiIntensity": [
+				2
+			],
+			"pyrotechnicsColor1": [
+				"0xFEF200"
+			],
+			"pyrotechnicsColor2": [
+				"0x41F9F5"
+			],
+			"spotlightColor1": [
+				"0xFFFA9B"
+			],
+			"spotlightColor2": [
+				"0xFFFFFF"
+			],
+			"isSeasonalSetsOn": 1
+		},
+		{
+			"seasonId": 4,
+			"rarityListToOverride": [
+				0,
+				1,
+				3,
+				5
+			],
+			"confettiType": [
+				5
+			],
+			"confettiColor1": [
+				"0x02147F"
+			],
+			"confettiColor2": [
+				"0xEBD553"
+			],
+			"confettiIntensity": [
+				2
+			],
+			"pyrotechnicsColor1": [
+				"0xEBD553"
+			],
+			"pyrotechnicsColor2": [
+				"0x0021EA"
+			],
+			"spotlightColor1": [
+				"0xF7EFBF"
+			],
+			"spotlightColor2": [
+				"0xF7EFBF"
+			],
+			"isSeasonalSetsOn": 1
+		}
+	]
+}

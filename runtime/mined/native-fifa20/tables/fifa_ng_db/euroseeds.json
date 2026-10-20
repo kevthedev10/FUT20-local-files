@@ -1,0 +1,562 @@
+[
+  {
+    "competitionid": 223,
+    "isqualified": 1,
+    "group": 1,
+    "teamid": 240,
+    "groupslot": 1
+  },
+  {
+    "competitionid": 223,
+    "isqualified": 1,
+    "group": 1,
+    "teamid": 231,
+    "groupslot": 2
+  },
+  {
+    "competitionid": 223,
+    "isqualified": 1,
+    "group": 1,
+    "teamid": 22,
+    "groupslot": 3
+  },
+  {
+    "competitionid": 223,
+    "isqualified": 1,
+    "group": 1,
+    "teamid": 69,
+    "groupslot": 4
+  },
+  {
+    "competitionid": 223,
+    "isqualified": 1,
+    "group": 2,
+    "teamid": 18,
+    "groupslot": 1
+  },
+  {
+    "competitionid": 223,
+    "isqualified": 1,
+    "group": 2,
+    "teamid": 241,
+    "groupslot": 2
+  },
+  {
+    "competitionid": 223,
+    "isqualified": 1,
+    "group": 2,
+    "teamid": 247,
+    "groupslot": 3
+  },
+  {
+    "competitionid": 223,
+    "isqualified": 1,
+    "group": 2,
+    "teamid": 44,
+    "groupslot": 4
+  },
+  {
+    "competitionid": 223,
+    "isqualified": 1,
+    "group": 3,
+    "teamid": 48,
+    "groupslot": 1
+  },
+  {
+    "competitionid": 223,
+    "isqualified": 1,
+    "group": 3,
+    "teamid": 9,
+    "groupslot": 2
+  },
+  {
+    "competitionid": 223,
+    "isqualified": 1,
+    "group": 3,
+    "teamid": 73,
+    "groupslot": 3
+  },
+  {
+    "competitionid": 223,
+    "isqualified": 0,
+    "group": 3,
+    "teamid": 1516,
+    "groupslot": 4
+  },
+  {
+    "competitionid": 223,
+    "isqualified": 1,
+    "group": 4,
+    "teamid": 236,
+    "groupslot": 1
+  },
+  {
+    "competitionid": 223,
+    "isqualified": 1,
+    "group": 4,
+    "teamid": 325,
+    "groupslot": 2
+  },
+  {
+    "competitionid": 223,
+    "isqualified": 1,
+    "group": 4,
+    "teamid": 100765,
+    "groupslot": 3
+  },
+  {
+    "competitionid": 223,
+    "isqualified": 1,
+    "group": 4,
+    "teamid": 34,
+    "groupslot": 4
+  },
+  {
+    "competitionid": 223,
+    "isqualified": 1,
+    "group": 5,
+    "teamid": 21,
+    "groupslot": 1
+  },
+  {
+    "competitionid": 223,
+    "isqualified": 1,
+    "group": 5,
+    "teamid": 245,
+    "groupslot": 2
+  },
+  {
+    "competitionid": 223,
+    "isqualified": 1,
+    "group": 5,
+    "teamid": 278,
+    "groupslot": 3
+  },
+  {
+    "competitionid": 223,
+    "isqualified": 1,
+    "group": 5,
+    "teamid": 234,
+    "groupslot": 4
+  },
+  {
+    "competitionid": 223,
+    "isqualified": 1,
+    "group": 6,
+    "teamid": 66,
+    "groupslot": 1
+  },
+  {
+    "competitionid": 223,
+    "isqualified": 1,
+    "group": 6,
+    "teamid": 101059,
+    "groupslot": 2
+  },
+  {
+    "competitionid": 223,
+    "isqualified": 1,
+    "group": 6,
+    "teamid": 10029,
+    "groupslot": 3
+  },
+  {
+    "competitionid": 223,
+    "isqualified": 1,
+    "group": 6,
+    "teamid": 10,
+    "groupslot": 4
+  },
+  {
+    "competitionid": 223,
+    "isqualified": 1,
+    "group": 7,
+    "teamid": 315,
+    "groupslot": 1
+  },
+  {
+    "competitionid": 223,
+    "isqualified": 1,
+    "group": 7,
+    "teamid": 243,
+    "groupslot": 2
+  },
+  {
+    "competitionid": 223,
+    "isqualified": 1,
+    "group": 7,
+    "teamid": 52,
+    "groupslot": 3
+  },
+  {
+    "competitionid": 223,
+    "isqualified": 1,
+    "group": 7,
+    "teamid": 110468,
+    "groupslot": 4
+  },
+  {
+    "competitionid": 223,
+    "isqualified": 1,
+    "group": 8,
+    "teamid": 114153,
+    "groupslot": 1
+  },
+  {
+    "competitionid": 223,
+    "isqualified": 1,
+    "group": 8,
+    "teamid": 900,
+    "groupslot": 2
+  },
+  {
+    "competitionid": 223,
+    "isqualified": 1,
+    "group": 8,
+    "teamid": 5,
+    "groupslot": 3
+  },
+  {
+    "competitionid": 223,
+    "isqualified": 1,
+    "group": 8,
+    "teamid": 461,
+    "groupslot": 4
+  },
+  {
+    "competitionid": 224,
+    "isqualified": 1,
+    "group": 1,
+    "teamid": 32,
+    "groupslot": 1
+  },
+  {
+    "competitionid": 224,
+    "isqualified": 0,
+    "group": 1,
+    "teamid": 1906,
+    "groupslot": 2
+  },
+  {
+    "competitionid": 224,
+    "isqualified": 1,
+    "group": 1,
+    "teamid": 894,
+    "groupslot": 3
+  },
+  {
+    "competitionid": 224,
+    "isqualified": 0,
+    "group": 1,
+    "teamid": 674,
+    "groupslot": 4
+  },
+  {
+    "competitionid": 224,
+    "isqualified": 1,
+    "group": 2,
+    "teamid": 298,
+    "groupslot": 1
+  },
+  {
+    "competitionid": 224,
+    "isqualified": 1,
+    "group": 2,
+    "teamid": 112172,
+    "groupslot": 2
+  },
+  {
+    "competitionid": 224,
+    "isqualified": 1,
+    "group": 2,
+    "teamid": 191,
+    "groupslot": 3
+  },
+  {
+    "competitionid": 224,
+    "isqualified": 1,
+    "group": 2,
+    "teamid": 78,
+    "groupslot": 4
+  },
+  {
+    "competitionid": 224,
+    "isqualified": 1,
+    "group": 3,
+    "teamid": 59,
+    "groupslot": 1
+  },
+  {
+    "competitionid": 224,
+    "isqualified": 1,
+    "group": 3,
+    "teamid": 819,
+    "groupslot": 2
+  },
+  {
+    "competitionid": 224,
+    "isqualified": 0,
+    "group": 3,
+    "teamid": 209,
+    "groupslot": 3
+  },
+  {
+    "competitionid": 224,
+    "isqualified": 1,
+    "group": 3,
+    "teamid": 266,
+    "groupslot": 4
+  },
+  {
+    "competitionid": 224,
+    "isqualified": 1,
+    "group": 4,
+    "teamid": 326,
+    "groupslot": 1
+  },
+  {
+    "competitionid": 224,
+    "isqualified": 0,
+    "group": 4,
+    "teamid": 1788,
+    "groupslot": 2
+  },
+  {
+    "competitionid": 224,
+    "isqualified": 1,
+    "group": 4,
+    "teamid": 229,
+    "groupslot": 3
+  },
+  {
+    "competitionid": 224,
+    "isqualified": 1,
+    "group": 4,
+    "teamid": 211,
+    "groupslot": 4
+  },
+  {
+    "competitionid": 224,
+    "isqualified": 0,
+    "group": 5,
+    "teamid": 100325,
+    "groupslot": 1
+  },
+  {
+    "competitionid": 224,
+    "isqualified": 1,
+    "group": 5,
+    "teamid": 237,
+    "groupslot": 2
+  },
+  {
+    "competitionid": 224,
+    "isqualified": 0,
+    "group": 5,
+    "teamid": 39,
+    "groupslot": 3
+  },
+  {
+    "competitionid": 224,
+    "isqualified": 1,
+    "group": 5,
+    "teamid": 1,
+    "groupslot": 4
+  },
+  {
+    "competitionid": 224,
+    "isqualified": 1,
+    "group": 6,
+    "teamid": 449,
+    "groupslot": 1
+  },
+  {
+    "competitionid": 224,
+    "isqualified": 0,
+    "group": 6,
+    "teamid": 1896,
+    "groupslot": 2
+  },
+  {
+    "competitionid": 224,
+    "isqualified": 1,
+    "group": 6,
+    "teamid": 54,
+    "groupslot": 3
+  },
+  {
+    "competitionid": 224,
+    "isqualified": 1,
+    "group": 6,
+    "teamid": 280,
+    "groupslot": 4
+  },
+  {
+    "competitionid": 224,
+    "isqualified": 1,
+    "group": 7,
+    "teamid": 100767,
+    "groupslot": 1
+  },
+  {
+    "competitionid": 224,
+    "isqualified": 1,
+    "group": 7,
+    "teamid": 483,
+    "groupslot": 2
+  },
+  {
+    "competitionid": 224,
+    "isqualified": 1,
+    "group": 7,
+    "teamid": 86,
+    "groupslot": 3
+  },
+  {
+    "competitionid": 224,
+    "isqualified": 1,
+    "group": 7,
+    "teamid": 254,
+    "groupslot": 4
+  },
+  {
+    "competitionid": 224,
+    "isqualified": 0,
+    "group": 8,
+    "teamid": 422,
+    "groupslot": 1
+  },
+  {
+    "competitionid": 224,
+    "isqualified": 1,
+    "group": 8,
+    "teamid": 219,
+    "groupslot": 2
+  },
+  {
+    "competitionid": 224,
+    "isqualified": 1,
+    "group": 8,
+    "teamid": 1824,
+    "groupslot": 3
+  },
+  {
+    "competitionid": 224,
+    "isqualified": 1,
+    "group": 8,
+    "teamid": 46,
+    "groupslot": 4
+  },
+  {
+    "competitionid": 224,
+    "isqualified": 1,
+    "group": 9,
+    "teamid": 320,
+    "groupslot": 1
+  },
+  {
+    "competitionid": 224,
+    "isqualified": 1,
+    "group": 9,
+    "teamid": 327,
+    "groupslot": 2
+  },
+  {
+    "competitionid": 224,
+    "isqualified": 1,
+    "group": 9,
+    "teamid": 112199,
+    "groupslot": 3
+  },
+  {
+    "competitionid": 224,
+    "isqualified": 1,
+    "group": 9,
+    "teamid": 673,
+    "groupslot": 4
+  },
+  {
+    "competitionid": 224,
+    "isqualified": 0,
+    "group": 10,
+    "teamid": 417,
+    "groupslot": 1
+  },
+  {
+    "competitionid": 224,
+    "isqualified": 1,
+    "group": 10,
+    "teamid": 481,
+    "groupslot": 2
+  },
+  {
+    "competitionid": 224,
+    "isqualified": 1,
+    "group": 10,
+    "teamid": 232,
+    "groupslot": 3
+  },
+  {
+    "competitionid": 224,
+    "isqualified": 1,
+    "group": 10,
+    "teamid": 436,
+    "groupslot": 4
+  },
+  {
+    "competitionid": 224,
+    "isqualified": 0,
+    "group": 11,
+    "teamid": 1796,
+    "groupslot": 1
+  },
+  {
+    "competitionid": 224,
+    "isqualified": 1,
+    "group": 11,
+    "teamid": 74,
+    "groupslot": 2
+  },
+  {
+    "competitionid": 224,
+    "isqualified": 0,
+    "group": 11,
+    "teamid": 1909,
+    "groupslot": 3
+  },
+  {
+    "competitionid": 224,
+    "isqualified": 1,
+    "group": 11,
+    "teamid": 101047,
+    "groupslot": 4
+  },
+  {
+    "competitionid": 224,
+    "isqualified": 0,
+    "group": 12,
+    "teamid": 896,
+    "groupslot": 1
+  },
+  {
+    "competitionid": 224,
+    "isqualified": 1,
+    "group": 12,
+    "teamid": 393,
+    "groupslot": 2
+  },
+  {
+    "competitionid": 224,
+    "isqualified": 1,
+    "group": 12,
+    "teamid": 11,
+    "groupslot": 3
+  },
+  {
+    "competitionid": 224,
+    "isqualified": 0,
+    "group": 12,
+    "teamid": 433,
+    "groupslot": 4
+  }
+]

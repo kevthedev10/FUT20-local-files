@@ -1,0 +1,380 @@
+[
+  {
+    "songid": 1,
+    "demoplayable": 1,
+    "unlocked": 1,
+    "artificialkey": 1
+  },
+  {
+    "songid": 2,
+    "demoplayable": 1,
+    "unlocked": 1,
+    "artificialkey": 2
+  },
+  {
+    "songid": 4,
+    "demoplayable": 1,
+    "unlocked": 1,
+    "artificialkey": 4
+  },
+  {
+    "songid": 5,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 5
+  },
+  {
+    "songid": 6,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 6
+  },
+  {
+    "songid": 7,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 7
+  },
+  {
+    "songid": 9,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 9
+  },
+  {
+    "songid": 10,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 10
+  },
+  {
+    "songid": 12,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 12
+  },
+  {
+    "songid": 13,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 13
+  },
+  {
+    "songid": 15,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 15
+  },
+  {
+    "songid": 16,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 16
+  },
+  {
+    "songid": 17,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 17
+  },
+  {
+    "songid": 18,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 18
+  },
+  {
+    "songid": 19,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 19
+  },
+  {
+    "songid": 20,
+    "demoplayable": 1,
+    "unlocked": 1,
+    "artificialkey": 20
+  },
+  {
+    "songid": 21,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 21
+  },
+  {
+    "songid": 22,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 22
+  },
+  {
+    "songid": 24,
+    "demoplayable": 1,
+    "unlocked": 1,
+    "artificialkey": 24
+  },
+  {
+    "songid": 25,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 25
+  },
+  {
+    "songid": 27,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 27
+  },
+  {
+    "songid": 28,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 28
+  },
+  {
+    "songid": 29,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 29
+  },
+  {
+    "songid": 31,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 31
+  },
+  {
+    "songid": 32,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 32
+  },
+  {
+    "songid": 33,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 33
+  },
+  {
+    "songid": 34,
+    "demoplayable": 1,
+    "unlocked": 1,
+    "artificialkey": 34
+  },
+  {
+    "songid": 36,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 36
+  },
+  {
+    "songid": 37,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 37
+  },
+  {
+    "songid": 40,
+    "demoplayable": 1,
+    "unlocked": 1,
+    "artificialkey": 40
+  },
+  {
+    "songid": 41,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 41
+  },
+  {
+    "songid": 43,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 43
+  },
+  {
+    "songid": 44,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 44
+  },
+  {
+    "songid": 45,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 45
+  },
+  {
+    "songid": 46,
+    "demoplayable": 1,
+    "unlocked": 1,
+    "artificialkey": 46
+  },
+  {
+    "songid": 47,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 47
+  },
+  {
+    "songid": 48,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 48
+  },
+  {
+    "songid": 49,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 49
+  },
+  {
+    "songid": 50,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 50
+  },
+  {
+    "songid": 51,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 51
+  },
+  {
+    "songid": 52,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 52
+  },
+  {
+    "songid": 54,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 54
+  },
+  {
+    "songid": 55,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 55
+  },
+  {
+    "songid": 56,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 56
+  },
+  {
+    "songid": 57,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 57
+  },
+  {
+    "songid": 58,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 58
+  },
+  {
+    "songid": 59,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 59
+  },
+  {
+    "songid": 60,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 60
+  },
+  {
+    "songid": 61,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 61
+  },
+  {
+    "songid": 62,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 62
+  },
+  {
+    "songid": 63,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 63
+  },
+  {
+    "songid": 64,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 64
+  },
+  {
+    "songid": 65,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 65
+  },
+  {
+    "songid": 66,
+    "demoplayable": 1,
+    "unlocked": 1,
+    "artificialkey": 66
+  },
+  {
+    "songid": 67,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 67
+  },
+  {
+    "songid": 68,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 68
+  },
+  {
+    "songid": 69,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 69
+  },
+  {
+    "songid": 70,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 70
+  },
+  {
+    "songid": 71,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 71
+  },
+  {
+    "songid": 72,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 72
+  },
+  {
+    "songid": 100,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 100
+  },
+  {
+    "songid": 101,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 101
+  },
+  {
+    "songid": 102,
+    "demoplayable": 0,
+    "unlocked": 1,
+    "artificialkey": 102
+  }
+]

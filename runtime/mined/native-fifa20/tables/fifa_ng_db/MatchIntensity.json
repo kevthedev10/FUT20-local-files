@@ -1,0 +1,92 @@
+[
+  {
+    "scorediff": -4,
+    "time60": -1,
+    "time90": -1,
+    "time120": -1,
+    "time75": -1,
+    "time45": -1,
+    "time30": -1,
+    "time15": -1
+  },
+  {
+    "scorediff": -3,
+    "time60": 0,
+    "time90": -1,
+    "time120": -1,
+    "time75": 0,
+    "time45": 0,
+    "time30": -1,
+    "time15": -1
+  },
+  {
+    "scorediff": -2,
+    "time60": 1,
+    "time90": -1,
+    "time120": 0,
+    "time75": 0,
+    "time45": 0,
+    "time30": 0,
+    "time15": -1
+  },
+  {
+    "scorediff": -1,
+    "time60": -1,
+    "time90": 2,
+    "time120": 3,
+    "time75": 3,
+    "time45": 1,
+    "time30": 0,
+    "time15": 1
+  },
+  {
+    "scorediff": 0,
+    "time60": -1,
+    "time90": 2,
+    "time120": 3,
+    "time75": 3,
+    "time45": 0,
+    "time30": -1,
+    "time15": 0
+  },
+  {
+    "scorediff": 1,
+    "time60": 0,
+    "time90": 1,
+    "time120": 2,
+    "time75": 2,
+    "time45": 1,
+    "time30": 0,
+    "time15": 1
+  },
+  {
+    "scorediff": 2,
+    "time60": 0,
+    "time90": 0,
+    "time120": 0,
+    "time75": 1,
+    "time45": 1,
+    "time30": 1,
+    "time15": 2
+  },
+  {
+    "scorediff": 3,
+    "time60": -1,
+    "time90": 0,
+    "time120": 0,
+    "time75": 0,
+    "time45": -1,
+    "time30": -1,
+    "time15": 0
+  },
+  {
+    "scorediff": 4,
+    "time60": 0,
+    "time90": 0,
+    "time120": -1,
+    "time75": -1,
+    "time45": 0,
+    "time30": -1,
+    "time15": -1
+  }
+]

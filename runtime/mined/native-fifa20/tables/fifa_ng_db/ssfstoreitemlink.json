@@ -1,0 +1,3710 @@
+[
+  {
+    "assettype": 8,
+    "itemid": 100,
+    "gameassetid": 100,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 101,
+    "gameassetid": 101,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 102,
+    "gameassetid": 102,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 103,
+    "gameassetid": 103,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 104,
+    "gameassetid": 104,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 105,
+    "gameassetid": 105,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 106,
+    "gameassetid": 106,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 107,
+    "gameassetid": 107,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 108,
+    "gameassetid": 108,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 109,
+    "gameassetid": 109,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 110,
+    "gameassetid": 110,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 111,
+    "gameassetid": 111,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 112,
+    "gameassetid": 112,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 113,
+    "gameassetid": 113,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 114,
+    "gameassetid": 114,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 115,
+    "gameassetid": 115,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 116,
+    "gameassetid": 116,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 117,
+    "gameassetid": 117,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 118,
+    "gameassetid": 118,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 119,
+    "gameassetid": 119,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 120,
+    "gameassetid": 120,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 121,
+    "gameassetid": 121,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 122,
+    "gameassetid": 122,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 123,
+    "gameassetid": 123,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 124,
+    "gameassetid": 124,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 125,
+    "gameassetid": 125,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 200,
+    "gameassetid": 200,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 201,
+    "gameassetid": 201,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 202,
+    "gameassetid": 202,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 203,
+    "gameassetid": 203,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 204,
+    "gameassetid": 204,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 205,
+    "gameassetid": 205,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 206,
+    "gameassetid": 206,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 207,
+    "gameassetid": 207,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 208,
+    "gameassetid": 208,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 209,
+    "gameassetid": 209,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 210,
+    "gameassetid": 210,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 211,
+    "gameassetid": 211,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 212,
+    "gameassetid": 212,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 213,
+    "gameassetid": 213,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 214,
+    "gameassetid": 214,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 215,
+    "gameassetid": 215,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 216,
+    "gameassetid": 216,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 217,
+    "gameassetid": 217,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 218,
+    "gameassetid": 218,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 219,
+    "gameassetid": 219,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 220,
+    "gameassetid": 220,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 221,
+    "gameassetid": 221,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 222,
+    "gameassetid": 222,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 223,
+    "gameassetid": 223,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 224,
+    "gameassetid": 224,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 225,
+    "gameassetid": 225,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 300,
+    "gameassetid": 300,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 301,
+    "gameassetid": 301,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 302,
+    "gameassetid": 302,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 303,
+    "gameassetid": 303,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 304,
+    "gameassetid": 304,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 305,
+    "gameassetid": 305,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 306,
+    "gameassetid": 306,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 307,
+    "gameassetid": 307,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 308,
+    "gameassetid": 308,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 309,
+    "gameassetid": 309,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 310,
+    "gameassetid": 310,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 311,
+    "gameassetid": 311,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 312,
+    "gameassetid": 312,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 313,
+    "gameassetid": 313,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 314,
+    "gameassetid": 314,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 315,
+    "gameassetid": 315,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 316,
+    "gameassetid": 316,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 317,
+    "gameassetid": 317,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 318,
+    "gameassetid": 318,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 319,
+    "gameassetid": 319,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 320,
+    "gameassetid": 320,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 321,
+    "gameassetid": 321,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 322,
+    "gameassetid": 322,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 323,
+    "gameassetid": 323,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 324,
+    "gameassetid": 324,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 325,
+    "gameassetid": 325,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 400,
+    "gameassetid": 400,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 401,
+    "gameassetid": 401,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 402,
+    "gameassetid": 402,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 403,
+    "gameassetid": 403,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 404,
+    "gameassetid": 404,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 405,
+    "gameassetid": 405,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 406,
+    "gameassetid": 406,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 407,
+    "gameassetid": 407,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 408,
+    "gameassetid": 408,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 409,
+    "gameassetid": 409,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 410,
+    "gameassetid": 410,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 411,
+    "gameassetid": 411,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 412,
+    "gameassetid": 412,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 413,
+    "gameassetid": 413,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 414,
+    "gameassetid": 414,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 415,
+    "gameassetid": 415,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 416,
+    "gameassetid": 416,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 417,
+    "gameassetid": 417,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 418,
+    "gameassetid": 418,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 419,
+    "gameassetid": 419,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 420,
+    "gameassetid": 420,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 421,
+    "gameassetid": 421,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 422,
+    "gameassetid": 422,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 423,
+    "gameassetid": 423,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 424,
+    "gameassetid": 424,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 8,
+    "itemid": 425,
+    "gameassetid": 425,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 1,
+    "itemid": 431,
+    "gameassetid": 400500,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 1,
+    "itemid": 460,
+    "gameassetid": 103000,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 2,
+    "itemid": 463,
+    "gameassetid": 2,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 2,
+    "itemid": 464,
+    "gameassetid": 2,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 2,
+    "itemid": 465,
+    "gameassetid": 2,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 2,
+    "itemid": 466,
+    "gameassetid": 2,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 2,
+    "itemid": 467,
+    "gameassetid": 2,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 2,
+    "itemid": 468,
+    "gameassetid": 2,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 2,
+    "itemid": 469,
+    "gameassetid": 2,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 2,
+    "itemid": 470,
+    "gameassetid": 2,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 1,
+    "itemid": 472,
+    "gameassetid": 400203,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 1,
+    "itemid": 473,
+    "gameassetid": 100600,
+    "texturevariationid": 2
+  },
+  {
+    "assettype": 1,
+    "itemid": 474,
+    "gameassetid": 100600,
+    "texturevariationid": 3
+  },
+  {
+    "assettype": 1,
+    "itemid": 475,
+    "gameassetid": 100600,
+    "texturevariationid": 4
+  },
+  {
+    "assettype": 1,
+    "itemid": 476,
+    "gameassetid": 100600,
+    "texturevariationid": 5
+  },
+  {
+    "assettype": 1,
+    "itemid": 477,
+    "gameassetid": 100600,
+    "texturevariationid": 6
+  },
+  {
+    "assettype": 1,
+    "itemid": 478,
+    "gameassetid": 100600,
+    "texturevariationid": 7
+  },
+  {
+    "assettype": 1,
+    "itemid": 479,
+    "gameassetid": 100600,
+    "texturevariationid": 8
+  },
+  {
+    "assettype": 1,
+    "itemid": 480,
+    "gameassetid": 100600,
+    "texturevariationid": 9
+  },
+  {
+    "assettype": 1,
+    "itemid": 481,
+    "gameassetid": 100600,
+    "texturevariationid": 10
+  },
+  {
+    "assettype": 1,
+    "itemid": 482,
+    "gameassetid": 100600,
+    "texturevariationid": 11
+  },
+  {
+    "assettype": 1,
+    "itemid": 483,
+    "gameassetid": 100600,
+    "texturevariationid": 12
+  },
+  {
+    "assettype": 1,
+    "itemid": 484,
+    "gameassetid": 100600,
+    "texturevariationid": 13
+  },
+  {
+    "assettype": 1,
+    "itemid": 485,
+    "gameassetid": 100600,
+    "texturevariationid": 14
+  },
+  {
+    "assettype": 1,
+    "itemid": 486,
+    "gameassetid": 400500,
+    "texturevariationid": 4
+  },
+  {
+    "assettype": 1,
+    "itemid": 487,
+    "gameassetid": 400500,
+    "texturevariationid": 5
+  },
+  {
+    "assettype": 1,
+    "itemid": 488,
+    "gameassetid": 400500,
+    "texturevariationid": 6
+  },
+  {
+    "assettype": 1,
+    "itemid": 489,
+    "gameassetid": 400500,
+    "texturevariationid": 7
+  },
+  {
+    "assettype": 1,
+    "itemid": 490,
+    "gameassetid": 400500,
+    "texturevariationid": 8
+  },
+  {
+    "assettype": 1,
+    "itemid": 491,
+    "gameassetid": 400600,
+    "texturevariationid": 2
+  },
+  {
+    "assettype": 1,
+    "itemid": 492,
+    "gameassetid": 400600,
+    "texturevariationid": 3
+  },
+  {
+    "assettype": 1,
+    "itemid": 493,
+    "gameassetid": 400600,
+    "texturevariationid": 4
+  },
+  {
+    "assettype": 1,
+    "itemid": 494,
+    "gameassetid": 400600,
+    "texturevariationid": 5
+  },
+  {
+    "assettype": 1,
+    "itemid": 495,
+    "gameassetid": 400600,
+    "texturevariationid": 6
+  },
+  {
+    "assettype": 1,
+    "itemid": 496,
+    "gameassetid": 400600,
+    "texturevariationid": 7
+  },
+  {
+    "assettype": 1,
+    "itemid": 497,
+    "gameassetid": 400600,
+    "texturevariationid": 8
+  },
+  {
+    "assettype": 1,
+    "itemid": 498,
+    "gameassetid": 400600,
+    "texturevariationid": 9
+  },
+  {
+    "assettype": 1,
+    "itemid": 499,
+    "gameassetid": 400600,
+    "texturevariationid": 10
+  },
+  {
+    "assettype": 1,
+    "itemid": 500,
+    "gameassetid": 400600,
+    "texturevariationid": 11
+  },
+  {
+    "assettype": 1,
+    "itemid": 501,
+    "gameassetid": 400600,
+    "texturevariationid": 12
+  },
+  {
+    "assettype": 1,
+    "itemid": 502,
+    "gameassetid": 400600,
+    "texturevariationid": 13
+  },
+  {
+    "assettype": 1,
+    "itemid": 503,
+    "gameassetid": 400600,
+    "texturevariationid": 14
+  },
+  {
+    "assettype": 1,
+    "itemid": 504,
+    "gameassetid": 400700,
+    "texturevariationid": 3
+  },
+  {
+    "assettype": 1,
+    "itemid": 505,
+    "gameassetid": 400700,
+    "texturevariationid": 4
+  },
+  {
+    "assettype": 1,
+    "itemid": 506,
+    "gameassetid": 400700,
+    "texturevariationid": 5
+  },
+  {
+    "assettype": 1,
+    "itemid": 507,
+    "gameassetid": 400700,
+    "texturevariationid": 6
+  },
+  {
+    "assettype": 1,
+    "itemid": 508,
+    "gameassetid": 400700,
+    "texturevariationid": 7
+  },
+  {
+    "assettype": 1,
+    "itemid": 509,
+    "gameassetid": 400700,
+    "texturevariationid": 8
+  },
+  {
+    "assettype": 1,
+    "itemid": 510,
+    "gameassetid": 400700,
+    "texturevariationid": 9
+  },
+  {
+    "assettype": 1,
+    "itemid": 511,
+    "gameassetid": 400700,
+    "texturevariationid": 10
+  },
+  {
+    "assettype": 1,
+    "itemid": 512,
+    "gameassetid": 400700,
+    "texturevariationid": 11
+  },
+  {
+    "assettype": 1,
+    "itemid": 513,
+    "gameassetid": 400700,
+    "texturevariationid": 12
+  },
+  {
+    "assettype": 1,
+    "itemid": 514,
+    "gameassetid": 400700,
+    "texturevariationid": 13
+  },
+  {
+    "assettype": 1,
+    "itemid": 515,
+    "gameassetid": 400700,
+    "texturevariationid": 14
+  },
+  {
+    "assettype": 1,
+    "itemid": 517,
+    "gameassetid": 102000,
+    "texturevariationid": 1
+  },
+  {
+    "assettype": 1,
+    "itemid": 518,
+    "gameassetid": 102000,
+    "texturevariationid": 2
+  },
+  {
+    "assettype": 1,
+    "itemid": 519,
+    "gameassetid": 102000,
+    "texturevariationid": 3
+  },
+  {
+    "assettype": 1,
+    "itemid": 520,
+    "gameassetid": 102000,
+    "texturevariationid": 4
+  },
+  {
+    "assettype": 1,
+    "itemid": 521,
+    "gameassetid": 102000,
+    "texturevariationid": 5
+  },
+  {
+    "assettype": 1,
+    "itemid": 522,
+    "gameassetid": 103000,
+    "texturevariationid": 5
+  },
+  {
+    "assettype": 1,
+    "itemid": 523,
+    "gameassetid": 103000,
+    "texturevariationid": 4
+  },
+  {
+    "assettype": 1,
+    "itemid": 524,
+    "gameassetid": 103000,
+    "texturevariationid": 3
+  },
+  {
+    "assettype": 1,
+    "itemid": 525,
+    "gameassetid": 103000,
+    "texturevariationid": 2
+  },
+  {
+    "assettype": 1,
+    "itemid": 526,
+    "gameassetid": 103000,
+    "texturevariationid": 1
+  },
+  {
+    "assettype": 1,
+    "itemid": 527,
+    "gameassetid": 101101,
+    "texturevariationid": 1
+  },
+  {
+    "assettype": 1,
+    "itemid": 528,
+    "gameassetid": 101101,
+    "texturevariationid": 2
+  },
+  {
+    "assettype": 1,
+    "itemid": 529,
+    "gameassetid": 101101,
+    "texturevariationid": 3
+  },
+  {
+    "assettype": 1,
+    "itemid": 530,
+    "gameassetid": 101101,
+    "texturevariationid": 4
+  },
+  {
+    "assettype": 1,
+    "itemid": 531,
+    "gameassetid": 101101,
+    "texturevariationid": 11
+  },
+  {
+    "assettype": 1,
+    "itemid": 532,
+    "gameassetid": 101101,
+    "texturevariationid": 12
+  },
+  {
+    "assettype": 1,
+    "itemid": 533,
+    "gameassetid": 101101,
+    "texturevariationid": 5
+  },
+  {
+    "assettype": 1,
+    "itemid": 534,
+    "gameassetid": 101101,
+    "texturevariationid": 7
+  },
+  {
+    "assettype": 1,
+    "itemid": 535,
+    "gameassetid": 101101,
+    "texturevariationid": 6
+  },
+  {
+    "assettype": 1,
+    "itemid": 536,
+    "gameassetid": 101101,
+    "texturevariationid": 8
+  },
+  {
+    "assettype": 1,
+    "itemid": 537,
+    "gameassetid": 101101,
+    "texturevariationid": 9
+  },
+  {
+    "assettype": 1,
+    "itemid": 538,
+    "gameassetid": 101101,
+    "texturevariationid": 10
+  },
+  {
+    "assettype": 1,
+    "itemid": 539,
+    "gameassetid": 200100,
+    "texturevariationid": 8
+  },
+  {
+    "assettype": 1,
+    "itemid": 540,
+    "gameassetid": 200100,
+    "texturevariationid": 9
+  },
+  {
+    "assettype": 1,
+    "itemid": 541,
+    "gameassetid": 200100,
+    "texturevariationid": 10
+  },
+  {
+    "assettype": 1,
+    "itemid": 542,
+    "gameassetid": 200100,
+    "texturevariationid": 11
+  },
+  {
+    "assettype": 1,
+    "itemid": 543,
+    "gameassetid": 100902,
+    "texturevariationid": 2
+  },
+  {
+    "assettype": 1,
+    "itemid": 544,
+    "gameassetid": 100902,
+    "texturevariationid": 3
+  },
+  {
+    "assettype": 1,
+    "itemid": 545,
+    "gameassetid": 100902,
+    "texturevariationid": 4
+  },
+  {
+    "assettype": 1,
+    "itemid": 546,
+    "gameassetid": 100902,
+    "texturevariationid": 5
+  },
+  {
+    "assettype": 1,
+    "itemid": 547,
+    "gameassetid": 100902,
+    "texturevariationid": 7
+  },
+  {
+    "assettype": 1,
+    "itemid": 548,
+    "gameassetid": 100902,
+    "texturevariationid": 8
+  },
+  {
+    "assettype": 1,
+    "itemid": 549,
+    "gameassetid": 100902,
+    "texturevariationid": 9
+  },
+  {
+    "assettype": 1,
+    "itemid": 550,
+    "gameassetid": 100902,
+    "texturevariationid": 6
+  },
+  {
+    "assettype": 1,
+    "itemid": 551,
+    "gameassetid": 400203,
+    "texturevariationid": 7
+  },
+  {
+    "assettype": 1,
+    "itemid": 552,
+    "gameassetid": 400203,
+    "texturevariationid": 6
+  },
+  {
+    "assettype": 1,
+    "itemid": 553,
+    "gameassetid": 400203,
+    "texturevariationid": 5
+  },
+  {
+    "assettype": 1,
+    "itemid": 554,
+    "gameassetid": 400203,
+    "texturevariationid": 4
+  },
+  {
+    "assettype": 1,
+    "itemid": 555,
+    "gameassetid": 400203,
+    "texturevariationid": 3
+  },
+  {
+    "assettype": 1,
+    "itemid": 556,
+    "gameassetid": 100700,
+    "texturevariationid": 1
+  },
+  {
+    "assettype": 1,
+    "itemid": 557,
+    "gameassetid": 100700,
+    "texturevariationid": 2
+  },
+  {
+    "assettype": 1,
+    "itemid": 558,
+    "gameassetid": 100700,
+    "texturevariationid": 3
+  },
+  {
+    "assettype": 1,
+    "itemid": 560,
+    "gameassetid": 100600,
+    "texturevariationid": 15
+  },
+  {
+    "assettype": 1,
+    "itemid": 561,
+    "gameassetid": 100600,
+    "texturevariationid": 16
+  },
+  {
+    "assettype": 1,
+    "itemid": 562,
+    "gameassetid": 100600,
+    "texturevariationid": 17
+  },
+  {
+    "assettype": 1,
+    "itemid": 563,
+    "gameassetid": 100600,
+    "texturevariationid": 20
+  },
+  {
+    "assettype": 1,
+    "itemid": 564,
+    "gameassetid": 100600,
+    "texturevariationid": 19
+  },
+  {
+    "assettype": 1,
+    "itemid": 565,
+    "gameassetid": 100600,
+    "texturevariationid": 18
+  },
+  {
+    "assettype": 2,
+    "itemid": 566,
+    "gameassetid": 579,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 2,
+    "itemid": 567,
+    "gameassetid": 580,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 2,
+    "itemid": 568,
+    "gameassetid": 581,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 2,
+    "itemid": 569,
+    "gameassetid": 575,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 2,
+    "itemid": 570,
+    "gameassetid": 576,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 2,
+    "itemid": 571,
+    "gameassetid": 577,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 2,
+    "itemid": 572,
+    "gameassetid": 578,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 2,
+    "itemid": 573,
+    "gameassetid": 570,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 2,
+    "itemid": 574,
+    "gameassetid": 571,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 2,
+    "itemid": 575,
+    "gameassetid": 572,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 2,
+    "itemid": 576,
+    "gameassetid": 573,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 2,
+    "itemid": 577,
+    "gameassetid": 574,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 2,
+    "itemid": 578,
+    "gameassetid": 592,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 2,
+    "itemid": 579,
+    "gameassetid": 583,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 2,
+    "itemid": 580,
+    "gameassetid": 584,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 2,
+    "itemid": 581,
+    "gameassetid": 585,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 2,
+    "itemid": 582,
+    "gameassetid": 586,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 2,
+    "itemid": 583,
+    "gameassetid": 587,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 2,
+    "itemid": 584,
+    "gameassetid": 588,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 2,
+    "itemid": 585,
+    "gameassetid": 589,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 2,
+    "itemid": 586,
+    "gameassetid": 590,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 2,
+    "itemid": 587,
+    "gameassetid": 591,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 5,
+    "itemid": 588,
+    "gameassetid": 71,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 5,
+    "itemid": 589,
+    "gameassetid": 72,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 5,
+    "itemid": 590,
+    "gameassetid": 75,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 5,
+    "itemid": 591,
+    "gameassetid": 77,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 5,
+    "itemid": 592,
+    "gameassetid": 74,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 5,
+    "itemid": 593,
+    "gameassetid": 73,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 5,
+    "itemid": 594,
+    "gameassetid": 76,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 1,
+    "itemid": 595,
+    "gameassetid": 400400,
+    "texturevariationid": 4
+  },
+  {
+    "assettype": 1,
+    "itemid": 596,
+    "gameassetid": 200100,
+    "texturevariationid": 5
+  },
+  {
+    "assettype": 1,
+    "itemid": 597,
+    "gameassetid": 400400,
+    "texturevariationid": 6
+  },
+  {
+    "assettype": 1,
+    "itemid": 598,
+    "gameassetid": 200100,
+    "texturevariationid": 7
+  },
+  {
+    "assettype": 1,
+    "itemid": 599,
+    "gameassetid": 400400,
+    "texturevariationid": 5
+  },
+  {
+    "assettype": 1,
+    "itemid": 600,
+    "gameassetid": 200100,
+    "texturevariationid": 6
+  },
+  {
+    "assettype": 1,
+    "itemid": 601,
+    "gameassetid": 400400,
+    "texturevariationid": 3
+  },
+  {
+    "assettype": 1,
+    "itemid": 602,
+    "gameassetid": 200100,
+    "texturevariationid": 4
+  },
+  {
+    "assettype": 1,
+    "itemid": 603,
+    "gameassetid": 400400,
+    "texturevariationid": 2
+  },
+  {
+    "assettype": 1,
+    "itemid": 604,
+    "gameassetid": 200105,
+    "texturevariationid": 3
+  },
+  {
+    "assettype": 1,
+    "itemid": 605,
+    "gameassetid": 100901,
+    "texturevariationid": 1
+  },
+  {
+    "assettype": 1,
+    "itemid": 606,
+    "gameassetid": 101400,
+    "texturevariationid": 1
+  },
+  {
+    "assettype": 1,
+    "itemid": 607,
+    "gameassetid": 300801,
+    "texturevariationid": 1
+  },
+  {
+    "assettype": 1,
+    "itemid": 608,
+    "gameassetid": 400900,
+    "texturevariationid": 2
+  },
+  {
+    "assettype": 2,
+    "itemid": 609,
+    "gameassetid": 562,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 1,
+    "itemid": 610,
+    "gameassetid": 102002,
+    "texturevariationid": 1
+  },
+  {
+    "assettype": 2,
+    "itemid": 611,
+    "gameassetid": 566,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 1,
+    "itemid": 612,
+    "gameassetid": 400700,
+    "texturevariationid": 2
+  },
+  {
+    "assettype": 1,
+    "itemid": 613,
+    "gameassetid": 100800,
+    "texturevariationid": 2
+  },
+  {
+    "assettype": 1,
+    "itemid": 614,
+    "gameassetid": 400400,
+    "texturevariationid": 1
+  },
+  {
+    "assettype": 1,
+    "itemid": 615,
+    "gameassetid": 400300,
+    "texturevariationid": 1
+  },
+  {
+    "assettype": 1,
+    "itemid": 616,
+    "gameassetid": 300801,
+    "texturevariationid": 2
+  },
+  {
+    "assettype": 1,
+    "itemid": 617,
+    "gameassetid": 100600,
+    "texturevariationid": 21
+  },
+  {
+    "assettype": 1,
+    "itemid": 618,
+    "gameassetid": 200403,
+    "texturevariationid": 2
+  },
+  {
+    "assettype": 1,
+    "itemid": 619,
+    "gameassetid": 100903,
+    "texturevariationid": 2
+  },
+  {
+    "assettype": 1,
+    "itemid": 621,
+    "gameassetid": 400600,
+    "texturevariationid": 1
+  },
+  {
+    "assettype": 1,
+    "itemid": 622,
+    "gameassetid": 104000,
+    "texturevariationid": 1
+  },
+  {
+    "assettype": 1,
+    "itemid": 623,
+    "gameassetid": 400500,
+    "texturevariationid": 3
+  },
+  {
+    "assettype": 2,
+    "itemid": 624,
+    "gameassetid": 561,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 1,
+    "itemid": 625,
+    "gameassetid": 401000,
+    "texturevariationid": 1
+  },
+  {
+    "assettype": 1,
+    "itemid": 626,
+    "gameassetid": 200105,
+    "texturevariationid": 2
+  },
+  {
+    "assettype": 1,
+    "itemid": 627,
+    "gameassetid": 100900,
+    "texturevariationid": 1
+  },
+  {
+    "assettype": 1,
+    "itemid": 628,
+    "gameassetid": 400500,
+    "texturevariationid": 2
+  },
+  {
+    "assettype": 1,
+    "itemid": 629,
+    "gameassetid": 102002,
+    "texturevariationid": 5
+  },
+  {
+    "assettype": 1,
+    "itemid": 630,
+    "gameassetid": 400204,
+    "texturevariationid": 1
+  },
+  {
+    "assettype": 2,
+    "itemid": 631,
+    "gameassetid": 563,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 632,
+    "gameassetid": 260,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 1,
+    "itemid": 634,
+    "gameassetid": 100300,
+    "texturevariationid": 3
+  },
+  {
+    "assettype": 1,
+    "itemid": 635,
+    "gameassetid": 400602,
+    "texturevariationid": 1
+  },
+  {
+    "assettype": 1,
+    "itemid": 636,
+    "gameassetid": 100900,
+    "texturevariationid": 2
+  },
+  {
+    "assettype": 1,
+    "itemid": 637,
+    "gameassetid": 100900,
+    "texturevariationid": 3
+  },
+  {
+    "assettype": 1,
+    "itemid": 638,
+    "gameassetid": 100900,
+    "texturevariationid": 4
+  },
+  {
+    "assettype": 1,
+    "itemid": 639,
+    "gameassetid": 100900,
+    "texturevariationid": 5
+  },
+  {
+    "assettype": 1,
+    "itemid": 640,
+    "gameassetid": 15,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 641,
+    "gameassetid": 9999,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 642,
+    "gameassetid": 9999,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 4,
+    "itemid": 643,
+    "gameassetid": 10,
+    "texturevariationid": 13
+  },
+  {
+    "assettype": 1,
+    "itemid": 644,
+    "gameassetid": 11,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 1,
+    "itemid": 647,
+    "gameassetid": 400601,
+    "texturevariationid": 1
+  },
+  {
+    "assettype": 1,
+    "itemid": 648,
+    "gameassetid": 400200,
+    "texturevariationid": 1
+  },
+  {
+    "assettype": 1,
+    "itemid": 649,
+    "gameassetid": 104000,
+    "texturevariationid": 2
+  },
+  {
+    "assettype": 3,
+    "itemid": 800,
+    "gameassetid": 0,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 801,
+    "gameassetid": 1,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 802,
+    "gameassetid": 3,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 803,
+    "gameassetid": 4,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 804,
+    "gameassetid": 7,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 805,
+    "gameassetid": 8,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 806,
+    "gameassetid": 9,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 807,
+    "gameassetid": 10,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 808,
+    "gameassetid": 11,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 809,
+    "gameassetid": 12,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 810,
+    "gameassetid": 13,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 811,
+    "gameassetid": 14,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 812,
+    "gameassetid": 15,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 813,
+    "gameassetid": 16,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 814,
+    "gameassetid": 17,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 815,
+    "gameassetid": 18,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 816,
+    "gameassetid": 19,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 817,
+    "gameassetid": 20,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 818,
+    "gameassetid": 21,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 819,
+    "gameassetid": 22,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 820,
+    "gameassetid": 23,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 821,
+    "gameassetid": 24,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 822,
+    "gameassetid": 25,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 823,
+    "gameassetid": 26,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 824,
+    "gameassetid": 28,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 825,
+    "gameassetid": 32,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 826,
+    "gameassetid": 36,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 827,
+    "gameassetid": 37,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 828,
+    "gameassetid": 39,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 829,
+    "gameassetid": 41,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 830,
+    "gameassetid": 43,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 831,
+    "gameassetid": 44,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 832,
+    "gameassetid": 45,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 833,
+    "gameassetid": 46,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 834,
+    "gameassetid": 49,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 835,
+    "gameassetid": 51,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 836,
+    "gameassetid": 52,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 837,
+    "gameassetid": 53,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 838,
+    "gameassetid": 57,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 839,
+    "gameassetid": 58,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 840,
+    "gameassetid": 60,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 841,
+    "gameassetid": 63,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 842,
+    "gameassetid": 64,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 843,
+    "gameassetid": 69,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 844,
+    "gameassetid": 76,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 845,
+    "gameassetid": 82,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 846,
+    "gameassetid": 87,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 847,
+    "gameassetid": 88,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 848,
+    "gameassetid": 94,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 849,
+    "gameassetid": 132,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 850,
+    "gameassetid": 146,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 851,
+    "gameassetid": 273,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 852,
+    "gameassetid": 274,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 853,
+    "gameassetid": 275,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 854,
+    "gameassetid": 276,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 855,
+    "gameassetid": 277,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 856,
+    "gameassetid": 278,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 857,
+    "gameassetid": 279,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 858,
+    "gameassetid": 280,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 859,
+    "gameassetid": 281,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 860,
+    "gameassetid": 282,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 861,
+    "gameassetid": 283,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 862,
+    "gameassetid": 284,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 863,
+    "gameassetid": 285,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 864,
+    "gameassetid": 286,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 865,
+    "gameassetid": 500,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 866,
+    "gameassetid": 501,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 867,
+    "gameassetid": 503,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 868,
+    "gameassetid": 504,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 869,
+    "gameassetid": 505,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 870,
+    "gameassetid": 506,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 871,
+    "gameassetid": 507,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 872,
+    "gameassetid": 508,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 873,
+    "gameassetid": 515,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 874,
+    "gameassetid": 517,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 875,
+    "gameassetid": 524,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 876,
+    "gameassetid": 525,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 877,
+    "gameassetid": 526,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 878,
+    "gameassetid": 528,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 879,
+    "gameassetid": 532,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 880,
+    "gameassetid": 540,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 881,
+    "gameassetid": 545,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 882,
+    "gameassetid": 546,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 883,
+    "gameassetid": 547,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 884,
+    "gameassetid": 549,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 885,
+    "gameassetid": 550,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 886,
+    "gameassetid": 551,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 887,
+    "gameassetid": 559,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 888,
+    "gameassetid": 560,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 889,
+    "gameassetid": 561,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 890,
+    "gameassetid": 562,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 891,
+    "gameassetid": 563,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 892,
+    "gameassetid": 564,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 893,
+    "gameassetid": 565,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 894,
+    "gameassetid": 572,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 895,
+    "gameassetid": 573,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 896,
+    "gameassetid": 576,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 897,
+    "gameassetid": 577,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 898,
+    "gameassetid": 578,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 899,
+    "gameassetid": 579,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 900,
+    "gameassetid": 580,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 901,
+    "gameassetid": 581,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 4,
+    "itemid": 1000,
+    "gameassetid": 0,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 4,
+    "itemid": 1001,
+    "gameassetid": 1,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 4,
+    "itemid": 1002,
+    "gameassetid": 2,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 4,
+    "itemid": 1003,
+    "gameassetid": 3,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 4,
+    "itemid": 1004,
+    "gameassetid": 4,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 4,
+    "itemid": 1005,
+    "gameassetid": 5,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 4,
+    "itemid": 1006,
+    "gameassetid": 6,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 4,
+    "itemid": 1007,
+    "gameassetid": 7,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 4,
+    "itemid": 1008,
+    "gameassetid": 8,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 4,
+    "itemid": 1009,
+    "gameassetid": 9,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 4,
+    "itemid": 1010,
+    "gameassetid": 10,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 4,
+    "itemid": 1011,
+    "gameassetid": 11,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 4,
+    "itemid": 1012,
+    "gameassetid": 12,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 4,
+    "itemid": 1013,
+    "gameassetid": 13,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 4,
+    "itemid": 1014,
+    "gameassetid": 14,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 4,
+    "itemid": 1015,
+    "gameassetid": 15,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 4,
+    "itemid": 1016,
+    "gameassetid": 16,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 4,
+    "itemid": 1017,
+    "gameassetid": 17,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 1,
+    "itemid": 1018,
+    "gameassetid": 100903,
+    "texturevariationid": 1
+  },
+  {
+    "assettype": 1,
+    "itemid": 1019,
+    "gameassetid": 11,
+    "texturevariationid": 3
+  },
+  {
+    "assettype": 1,
+    "itemid": 1021,
+    "gameassetid": 400600,
+    "texturevariationid": 16
+  },
+  {
+    "assettype": 1,
+    "itemid": 1022,
+    "gameassetid": 101101,
+    "texturevariationid": 14
+  },
+  {
+    "assettype": 2,
+    "itemid": 1023,
+    "gameassetid": 603,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 1,
+    "itemid": 1024,
+    "gameassetid": 400600,
+    "texturevariationid": 17
+  },
+  {
+    "assettype": 1,
+    "itemid": 1025,
+    "gameassetid": 101101,
+    "texturevariationid": 15
+  },
+  {
+    "assettype": 3,
+    "itemid": 1026,
+    "gameassetid": 250,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 1,
+    "itemid": 1027,
+    "gameassetid": 401000,
+    "texturevariationid": 2
+  },
+  {
+    "assettype": 1,
+    "itemid": 1028,
+    "gameassetid": 300800,
+    "texturevariationid": 5
+  },
+  {
+    "assettype": 1,
+    "itemid": 1029,
+    "gameassetid": 102002,
+    "texturevariationid": 6
+  },
+  {
+    "assettype": 1,
+    "itemid": 1030,
+    "gameassetid": 400900,
+    "texturevariationid": 5
+  },
+  {
+    "assettype": 1,
+    "itemid": 1031,
+    "gameassetid": 100600,
+    "texturevariationid": 24
+  },
+  {
+    "assettype": 2,
+    "itemid": 1032,
+    "gameassetid": 606,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 1,
+    "itemid": 1033,
+    "gameassetid": 400900,
+    "texturevariationid": 6
+  },
+  {
+    "assettype": 1,
+    "itemid": 1034,
+    "gameassetid": 400203,
+    "texturevariationid": 8
+  },
+  {
+    "assettype": 1,
+    "itemid": 1035,
+    "gameassetid": 200106,
+    "texturevariationid": 1
+  },
+  {
+    "assettype": 1,
+    "itemid": 1036,
+    "gameassetid": 200400,
+    "texturevariationid": 1
+  },
+  {
+    "assettype": 1,
+    "itemid": 1037,
+    "gameassetid": 3,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 1,
+    "itemid": 1038,
+    "gameassetid": 11,
+    "texturevariationid": 5
+  },
+  {
+    "assettype": 1,
+    "itemid": 1039,
+    "gameassetid": 300800,
+    "texturevariationid": 4
+  },
+  {
+    "assettype": 1,
+    "itemid": 1040,
+    "gameassetid": 101500,
+    "texturevariationid": 1
+  },
+  {
+    "assettype": 1,
+    "itemid": 1041,
+    "gameassetid": 11,
+    "texturevariationid": 7
+  },
+  {
+    "assettype": 1,
+    "itemid": 1042,
+    "gameassetid": 200106,
+    "texturevariationid": 2
+  },
+  {
+    "assettype": 1,
+    "itemid": 1043,
+    "gameassetid": 400500,
+    "texturevariationid": 1
+  },
+  {
+    "assettype": 2,
+    "itemid": 1044,
+    "gameassetid": 596,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 1,
+    "itemid": 1045,
+    "gameassetid": 101901,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 1,
+    "itemid": 1046,
+    "gameassetid": 300800,
+    "texturevariationid": 3
+  },
+  {
+    "assettype": 1,
+    "itemid": 1047,
+    "gameassetid": 400600,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 1,
+    "itemid": 1048,
+    "gameassetid": 11,
+    "texturevariationid": 8
+  },
+  {
+    "assettype": 2,
+    "itemid": 1049,
+    "gameassetid": 601,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 6,
+    "itemid": 1050,
+    "gameassetid": 250,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 1,
+    "itemid": 1051,
+    "gameassetid": 100904,
+    "texturevariationid": 1
+  },
+  {
+    "assettype": 1,
+    "itemid": 1052,
+    "gameassetid": 400203,
+    "texturevariationid": 2
+  },
+  {
+    "assettype": 2,
+    "itemid": 1053,
+    "gameassetid": 600,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 1,
+    "itemid": 1054,
+    "gameassetid": 101500,
+    "texturevariationid": 2
+  },
+  {
+    "assettype": 1,
+    "itemid": 1055,
+    "gameassetid": 401200,
+    "texturevariationid": 1
+  },
+  {
+    "assettype": 2,
+    "itemid": 1056,
+    "gameassetid": 609,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 1,
+    "itemid": 1057,
+    "gameassetid": 200100,
+    "texturevariationid": 1
+  },
+  {
+    "assettype": 1,
+    "itemid": 1058,
+    "gameassetid": 400100,
+    "texturevariationid": 1
+  },
+  {
+    "assettype": 2,
+    "itemid": 1059,
+    "gameassetid": 595,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 1,
+    "itemid": 1060,
+    "gameassetid": 201200,
+    "texturevariationid": 1
+  },
+  {
+    "assettype": 1,
+    "itemid": 1061,
+    "gameassetid": 400500,
+    "texturevariationid": 10
+  },
+  {
+    "assettype": 2,
+    "itemid": 1062,
+    "gameassetid": 612,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 1,
+    "itemid": 1063,
+    "gameassetid": 101700,
+    "texturevariationid": 2
+  },
+  {
+    "assettype": 1,
+    "itemid": 1064,
+    "gameassetid": 300801,
+    "texturevariationid": 5
+  },
+  {
+    "assettype": 1,
+    "itemid": 1065,
+    "gameassetid": 400700,
+    "texturevariationid": 1
+  },
+  {
+    "assettype": 2,
+    "itemid": 1066,
+    "gameassetid": 611,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 1,
+    "itemid": 1067,
+    "gameassetid": 100300,
+    "texturevariationid": 4
+  },
+  {
+    "assettype": 1,
+    "itemid": 1068,
+    "gameassetid": 400601,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 1,
+    "itemid": 1069,
+    "gameassetid": 400203,
+    "texturevariationid": 1
+  },
+  {
+    "assettype": 2,
+    "itemid": 1070,
+    "gameassetid": 597,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 1,
+    "itemid": 1071,
+    "gameassetid": 102100,
+    "texturevariationid": 1
+  },
+  {
+    "assettype": 1,
+    "itemid": 1072,
+    "gameassetid": 300801,
+    "texturevariationid": 3
+  },
+  {
+    "assettype": 1,
+    "itemid": 1073,
+    "gameassetid": 104001,
+    "texturevariationid": 1
+  },
+  {
+    "assettype": 1,
+    "itemid": 1074,
+    "gameassetid": 101002,
+    "texturevariationid": 1
+  },
+  {
+    "assettype": 1,
+    "itemid": 1075,
+    "gameassetid": 400602,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 2,
+    "itemid": 1076,
+    "gameassetid": 599,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 1,
+    "itemid": 1077,
+    "gameassetid": 101900,
+    "texturevariationid": 1
+  },
+  {
+    "assettype": 1,
+    "itemid": 1078,
+    "gameassetid": 401500,
+    "texturevariationid": 4
+  },
+  {
+    "assettype": 1,
+    "itemid": 1080,
+    "gameassetid": 100600,
+    "texturevariationid": 23
+  },
+  {
+    "assettype": 1,
+    "itemid": 1081,
+    "gameassetid": 400100,
+    "texturevariationid": 2
+  },
+  {
+    "assettype": 2,
+    "itemid": 1082,
+    "gameassetid": 594,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 1,
+    "itemid": 1083,
+    "gameassetid": 103000,
+    "texturevariationid": 6
+  },
+  {
+    "assettype": 1,
+    "itemid": 1084,
+    "gameassetid": 104000,
+    "texturevariationid": 8
+  },
+  {
+    "assettype": 1,
+    "itemid": 1085,
+    "gameassetid": 400500,
+    "texturevariationid": 16
+  },
+  {
+    "assettype": 1,
+    "itemid": 1086,
+    "gameassetid": 200100,
+    "texturevariationid": 13
+  },
+  {
+    "assettype": 1,
+    "itemid": 1087,
+    "gameassetid": 101700,
+    "texturevariationid": 3
+  },
+  {
+    "assettype": 7,
+    "itemid": 1088,
+    "gameassetid": 3,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 7,
+    "itemid": 1089,
+    "gameassetid": 1,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 1,
+    "itemid": 1090,
+    "gameassetid": 100300,
+    "texturevariationid": 2
+  },
+  {
+    "assettype": 1,
+    "itemid": 1091,
+    "gameassetid": 100302,
+    "texturevariationid": 1
+  },
+  {
+    "assettype": 1,
+    "itemid": 1092,
+    "gameassetid": 100500,
+    "texturevariationid": 1
+  },
+  {
+    "assettype": 1,
+    "itemid": 1093,
+    "gameassetid": 100600,
+    "texturevariationid": 1
+  },
+  {
+    "assettype": 1,
+    "itemid": 1094,
+    "gameassetid": 100800,
+    "texturevariationid": 3
+  },
+  {
+    "assettype": 1,
+    "itemid": 1095,
+    "gameassetid": 100800,
+    "texturevariationid": 4
+  },
+  {
+    "assettype": 1,
+    "itemid": 1096,
+    "gameassetid": 100800,
+    "texturevariationid": 5
+  },
+  {
+    "assettype": 1,
+    "itemid": 1097,
+    "gameassetid": 100800,
+    "texturevariationid": 6
+  },
+  {
+    "assettype": 1,
+    "itemid": 1098,
+    "gameassetid": 100800,
+    "texturevariationid": 7
+  },
+  {
+    "assettype": 1,
+    "itemid": 1099,
+    "gameassetid": 100900,
+    "texturevariationid": 7
+  },
+  {
+    "assettype": 1,
+    "itemid": 1100,
+    "gameassetid": 100900,
+    "texturevariationid": 8
+  },
+  {
+    "assettype": 1,
+    "itemid": 1101,
+    "gameassetid": 100900,
+    "texturevariationid": 9
+  },
+  {
+    "assettype": 1,
+    "itemid": 1102,
+    "gameassetid": 100900,
+    "texturevariationid": 10
+  },
+  {
+    "assettype": 1,
+    "itemid": 1103,
+    "gameassetid": 100900,
+    "texturevariationid": 11
+  },
+  {
+    "assettype": 1,
+    "itemid": 1104,
+    "gameassetid": 104000,
+    "texturevariationid": 5
+  },
+  {
+    "assettype": 1,
+    "itemid": 1105,
+    "gameassetid": 104000,
+    "texturevariationid": 6
+  },
+  {
+    "assettype": 1,
+    "itemid": 1106,
+    "gameassetid": 104000,
+    "texturevariationid": 7
+  },
+  {
+    "assettype": 1,
+    "itemid": 1107,
+    "gameassetid": 400400,
+    "texturevariationid": 7
+  },
+  {
+    "assettype": 1,
+    "itemid": 1108,
+    "gameassetid": 400500,
+    "texturevariationid": 13
+  },
+  {
+    "assettype": 1,
+    "itemid": 1109,
+    "gameassetid": 400500,
+    "texturevariationid": 14
+  },
+  {
+    "assettype": 1,
+    "itemid": 1110,
+    "gameassetid": 400900,
+    "texturevariationid": 8
+  },
+  {
+    "assettype": 1,
+    "itemid": 1111,
+    "gameassetid": 400900,
+    "texturevariationid": 9
+  },
+  {
+    "assettype": 1,
+    "itemid": 1112,
+    "gameassetid": 400900,
+    "texturevariationid": 10
+  },
+  {
+    "assettype": 1,
+    "itemid": 1113,
+    "gameassetid": 11,
+    "texturevariationid": 1
+  },
+  {
+    "assettype": 1,
+    "itemid": 1114,
+    "gameassetid": 100901,
+    "texturevariationid": 2
+  },
+  {
+    "assettype": 1,
+    "itemid": 1115,
+    "gameassetid": 101101,
+    "texturevariationid": 16
+  },
+  {
+    "assettype": 1,
+    "itemid": 1116,
+    "gameassetid": 101101,
+    "texturevariationid": 17
+  },
+  {
+    "assettype": 1,
+    "itemid": 1117,
+    "gameassetid": 101700,
+    "texturevariationid": 4
+  },
+  {
+    "assettype": 1,
+    "itemid": 1118,
+    "gameassetid": 102000,
+    "texturevariationid": 6
+  },
+  {
+    "assettype": 1,
+    "itemid": 1119,
+    "gameassetid": 102000,
+    "texturevariationid": 7
+  },
+  {
+    "assettype": 1,
+    "itemid": 1120,
+    "gameassetid": 104000,
+    "texturevariationid": 3
+  },
+  {
+    "assettype": 1,
+    "itemid": 1121,
+    "gameassetid": 104000,
+    "texturevariationid": 4
+  },
+  {
+    "assettype": 1,
+    "itemid": 1122,
+    "gameassetid": 200100,
+    "texturevariationid": 12
+  },
+  {
+    "assettype": 1,
+    "itemid": 1123,
+    "gameassetid": 200109,
+    "texturevariationid": 1
+  },
+  {
+    "assettype": 1,
+    "itemid": 1124,
+    "gameassetid": 200109,
+    "texturevariationid": 2
+  },
+  {
+    "assettype": 1,
+    "itemid": 1125,
+    "gameassetid": 200403,
+    "texturevariationid": 1
+  },
+  {
+    "assettype": 1,
+    "itemid": 1126,
+    "gameassetid": 201200,
+    "texturevariationid": 2
+  },
+  {
+    "assettype": 1,
+    "itemid": 1127,
+    "gameassetid": 201200,
+    "texturevariationid": 3
+  },
+  {
+    "assettype": 1,
+    "itemid": 1128,
+    "gameassetid": 300800,
+    "texturevariationid": 1
+  },
+  {
+    "assettype": 1,
+    "itemid": 1129,
+    "gameassetid": 300800,
+    "texturevariationid": 7
+  },
+  {
+    "assettype": 1,
+    "itemid": 1130,
+    "gameassetid": 300800,
+    "texturevariationid": 8
+  },
+  {
+    "assettype": 1,
+    "itemid": 1131,
+    "gameassetid": 300804,
+    "texturevariationid": 1
+  },
+  {
+    "assettype": 1,
+    "itemid": 1132,
+    "gameassetid": 400100,
+    "texturevariationid": 3
+  },
+  {
+    "assettype": 1,
+    "itemid": 1133,
+    "gameassetid": 400203,
+    "texturevariationid": 10
+  },
+  {
+    "assettype": 1,
+    "itemid": 1134,
+    "gameassetid": 400203,
+    "texturevariationid": 11
+  },
+  {
+    "assettype": 1,
+    "itemid": 1135,
+    "gameassetid": 400203,
+    "texturevariationid": 12
+  },
+  {
+    "assettype": 1,
+    "itemid": 1136,
+    "gameassetid": 400500,
+    "texturevariationid": 9
+  },
+  {
+    "assettype": 1,
+    "itemid": 1137,
+    "gameassetid": 400500,
+    "texturevariationid": 15
+  },
+  {
+    "assettype": 1,
+    "itemid": 1138,
+    "gameassetid": 400500,
+    "texturevariationid": 17
+  },
+  {
+    "assettype": 1,
+    "itemid": 1139,
+    "gameassetid": 400600,
+    "texturevariationid": 15
+  },
+  {
+    "assettype": 1,
+    "itemid": 1140,
+    "gameassetid": 400600,
+    "texturevariationid": 18
+  },
+  {
+    "assettype": 1,
+    "itemid": 1141,
+    "gameassetid": 400602,
+    "texturevariationid": 2
+  },
+  {
+    "assettype": 1,
+    "itemid": 1142,
+    "gameassetid": 400700,
+    "texturevariationid": 15
+  },
+  {
+    "assettype": 1,
+    "itemid": 1143,
+    "gameassetid": 400900,
+    "texturevariationid": 3
+  },
+  {
+    "assettype": 1,
+    "itemid": 1144,
+    "gameassetid": 400900,
+    "texturevariationid": 4
+  },
+  {
+    "assettype": 1,
+    "itemid": 1145,
+    "gameassetid": 400900,
+    "texturevariationid": 7
+  },
+  {
+    "assettype": 2,
+    "itemid": 1146,
+    "gameassetid": 568,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 2,
+    "itemid": 1147,
+    "gameassetid": 565,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 2,
+    "itemid": 1148,
+    "gameassetid": 615,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 2,
+    "itemid": 1149,
+    "gameassetid": 2,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 2,
+    "itemid": 1150,
+    "gameassetid": 569,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 2,
+    "itemid": 1151,
+    "gameassetid": 614,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 2,
+    "itemid": 1152,
+    "gameassetid": 602,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 2,
+    "itemid": 1153,
+    "gameassetid": 607,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 1,
+    "itemid": 1154,
+    "gameassetid": 11,
+    "texturevariationid": 2
+  },
+  {
+    "assettype": 1,
+    "itemid": 1155,
+    "gameassetid": 11,
+    "texturevariationid": 4
+  },
+  {
+    "assettype": 1,
+    "itemid": 1156,
+    "gameassetid": 11,
+    "texturevariationid": 6
+  },
+  {
+    "assettype": 1,
+    "itemid": 1157,
+    "gameassetid": 12,
+    "texturevariationid": 1
+  },
+  {
+    "assettype": 1,
+    "itemid": 1158,
+    "gameassetid": 12,
+    "texturevariationid": 2
+  },
+  {
+    "assettype": 1,
+    "itemid": 1159,
+    "gameassetid": 12,
+    "texturevariationid": 3
+  },
+  {
+    "assettype": 1,
+    "itemid": 1160,
+    "gameassetid": 12,
+    "texturevariationid": 4
+  },
+  {
+    "assettype": 1,
+    "itemid": 1161,
+    "gameassetid": 300803,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 1,
+    "itemid": 1162,
+    "gameassetid": 12,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 5,
+    "itemid": 1163,
+    "gameassetid": 78,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 1164,
+    "gameassetid": 254,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 5,
+    "itemid": 1165,
+    "gameassetid": 79,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 1166,
+    "gameassetid": 303,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 5,
+    "itemid": 1167,
+    "gameassetid": 80,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 1168,
+    "gameassetid": 335,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 1,
+    "itemid": 1169,
+    "gameassetid": 4,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 1,
+    "itemid": 1170,
+    "gameassetid": 4,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 1,
+    "itemid": 1171,
+    "gameassetid": 400603,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 1,
+    "itemid": 1172,
+    "gameassetid": 100900,
+    "texturevariationid": 6
+  },
+  {
+    "assettype": 1,
+    "itemid": 1173,
+    "gameassetid": 400500,
+    "texturevariationid": 12
+  },
+  {
+    "assettype": 5,
+    "itemid": 1174,
+    "gameassetid": 84,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 1175,
+    "gameassetid": 333,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 1,
+    "itemid": 1176,
+    "gameassetid": 100600,
+    "texturevariationid": 29
+  },
+  {
+    "assettype": 2,
+    "itemid": 1177,
+    "gameassetid": 621,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 1178,
+    "gameassetid": 334,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 1,
+    "itemid": 1179,
+    "gameassetid": 401200,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 1,
+    "itemid": 1180,
+    "gameassetid": 11,
+    "texturevariationid": 9
+  },
+  {
+    "assettype": 3,
+    "itemid": 1181,
+    "gameassetid": 301,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 1182,
+    "gameassetid": 329,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 1183,
+    "gameassetid": 288,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 1184,
+    "gameassetid": 315,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 1,
+    "itemid": 1185,
+    "gameassetid": 104100,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 5,
+    "itemid": 1186,
+    "gameassetid": 83,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 1187,
+    "gameassetid": 317,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 5,
+    "itemid": 1188,
+    "gameassetid": 86,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 1,
+    "itemid": 1189,
+    "gameassetid": 300800,
+    "texturevariationid": 9
+  },
+  {
+    "assettype": 1,
+    "itemid": 1190,
+    "gameassetid": 100600,
+    "texturevariationid": 27
+  },
+  {
+    "assettype": 1,
+    "itemid": 1191,
+    "gameassetid": 400500,
+    "texturevariationid": 18
+  },
+  {
+    "assettype": 1,
+    "itemid": 1192,
+    "gameassetid": 100900,
+    "texturevariationid": 13
+  },
+  {
+    "assettype": 1,
+    "itemid": 1193,
+    "gameassetid": 100600,
+    "texturevariationid": 30
+  },
+  {
+    "assettype": 2,
+    "itemid": 1194,
+    "gameassetid": 999,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 1,
+    "itemid": 1195,
+    "gameassetid": 400100,
+    "texturevariationid": 4
+  },
+  {
+    "assettype": 1,
+    "itemid": 1196,
+    "gameassetid": 100600,
+    "texturevariationid": 28
+  },
+  {
+    "assettype": 2,
+    "itemid": 1197,
+    "gameassetid": 620,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 1198,
+    "gameassetid": 336,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 1,
+    "itemid": 1199,
+    "gameassetid": 11,
+    "texturevariationid": 15
+  },
+  {
+    "assettype": 3,
+    "itemid": 1200,
+    "gameassetid": 251,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 1201,
+    "gameassetid": 304,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 1202,
+    "gameassetid": 305,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 1203,
+    "gameassetid": 332,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 1204,
+    "gameassetid": 300,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 1,
+    "itemid": 1205,
+    "gameassetid": 100800,
+    "texturevariationid": 1
+  },
+  {
+    "assettype": 2,
+    "itemid": 1206,
+    "gameassetid": 582,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 1,
+    "itemid": 1207,
+    "gameassetid": 400600,
+    "texturevariationid": 19
+  },
+  {
+    "assettype": 1,
+    "itemid": 1208,
+    "gameassetid": 400600,
+    "texturevariationid": 20
+  },
+  {
+    "assettype": 1,
+    "itemid": 1209,
+    "gameassetid": 400600,
+    "texturevariationid": 21
+  },
+  {
+    "assettype": 1,
+    "itemid": 1210,
+    "gameassetid": 400600,
+    "texturevariationid": 22
+  },
+  {
+    "assettype": 1,
+    "itemid": 1211,
+    "gameassetid": 101101,
+    "texturevariationid": 18
+  },
+  {
+    "assettype": 1,
+    "itemid": 1212,
+    "gameassetid": 101101,
+    "texturevariationid": 19
+  },
+  {
+    "assettype": 1,
+    "itemid": 1213,
+    "gameassetid": 101101,
+    "texturevariationid": 20
+  },
+  {
+    "assettype": 1,
+    "itemid": 1214,
+    "gameassetid": 101101,
+    "texturevariationid": 21
+  },
+  {
+    "assettype": 5,
+    "itemid": 1215,
+    "gameassetid": 87,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 1,
+    "itemid": 1216,
+    "gameassetid": 101901,
+    "texturevariationid": 3
+  },
+  {
+    "assettype": 1,
+    "itemid": 1217,
+    "gameassetid": 101901,
+    "texturevariationid": 4
+  },
+  {
+    "assettype": 1,
+    "itemid": 1218,
+    "gameassetid": 101901,
+    "texturevariationid": 5
+  },
+  {
+    "assettype": 1,
+    "itemid": 1219,
+    "gameassetid": 400400,
+    "texturevariationid": 8
+  },
+  {
+    "assettype": 1,
+    "itemid": 1220,
+    "gameassetid": 200105,
+    "texturevariationid": 4
+  },
+  {
+    "assettype": 1,
+    "itemid": 1221,
+    "gameassetid": 100600,
+    "texturevariationid": 25
+  },
+  {
+    "assettype": 1,
+    "itemid": 1222,
+    "gameassetid": 100600,
+    "texturevariationid": 26
+  },
+  {
+    "assettype": 1,
+    "itemid": 1223,
+    "gameassetid": 300801,
+    "texturevariationid": 4
+  },
+  {
+    "assettype": 3,
+    "itemid": 1224,
+    "gameassetid": 325,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 1,
+    "itemid": 1225,
+    "gameassetid": 400500,
+    "texturevariationid": 20
+  },
+  {
+    "assettype": 1,
+    "itemid": 1226,
+    "gameassetid": 400602,
+    "texturevariationid": 3
+  },
+  {
+    "assettype": 1,
+    "itemid": 1227,
+    "gameassetid": 100800,
+    "texturevariationid": 8
+  },
+  {
+    "assettype": 1,
+    "itemid": 1228,
+    "gameassetid": 200100,
+    "texturevariationid": 14
+  },
+  {
+    "assettype": 2,
+    "itemid": 1229,
+    "gameassetid": 608,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 3,
+    "itemid": 1230,
+    "gameassetid": 302,
+    "texturevariationid": 0
+  },
+  {
+    "assettype": 5,
+    "itemid": 1231,
+    "gameassetid": 81,
+    "texturevariationid": 0
+  }
+]

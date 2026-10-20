@@ -1,0 +1,24 @@
+﻿FIFA 20 localhost trust bridge
+==============================
+Scope: running FIFA20.exe only
+Patch: exact copies of the known GOS 2015 2048-bit public modulus
+Original SHA256: 1e7a2384d32851ec35672f236d73d16551a72d0c06605e2c2f823c516d392aff
+Local SHA256:    eba41bb533f1f3f291f8eda7001d69aea34ee4f5a5401986a2a4cdbf5a041193
+
+[INFO] FIFA20.exe PID: 2260
+[INFO] Scanning FIFA20.exe memory for the exact original GOS 2015 modulus...
+[INFO] Exact original copies found: 1
+       0x00000001453CDA70
+[PATCHED] 0x00000001453CDA70
+
+[SUCCESS] Patched 1 exact copy/copies in the running FIFA20.exe.
+No file on disk was modified.
+
+NEXT:
+  1. Leave FIFA 20 open.
+  2. Install the hosts redirect.
+  3. Start the local FUT 20 runtime.
+  4. Click Ultimate Team once.
+
+If FIFA20.exe exits, the in-memory patch disappears automatically.
+Press Enter to close this bridge window...

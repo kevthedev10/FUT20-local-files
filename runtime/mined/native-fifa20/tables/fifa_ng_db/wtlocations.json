@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Warehouse",
+    "regionid": 1,
+    "localy": 282,
+    "globalx": 472,
+    "id": 1,
+    "globaly": 428,
+    "localx": 885
+  },
+  {
+    "name": "ParkingLot",
+    "regionid": 1,
+    "localy": 226,
+    "globalx": 508,
+    "id": 2,
+    "globaly": 418,
+    "localx": 990
+  },
+  {
+    "name": "Tokyo",
+    "regionid": 5,
+    "localy": 541,
+    "globalx": 1701,
+    "id": 3,
+    "globaly": 480,
+    "localx": 660
+  },
+  {
+    "name": "Amsterdam",
+    "regionid": 3,
+    "localy": 381,
+    "globalx": 960,
+    "id": 4,
+    "globaly": 365,
+    "localx": 776
+  },
+  {
+    "name": "Rio De Janeiro",
+    "regionid": 2,
+    "localy": 481,
+    "globalx": 662,
+    "id": 5,
+    "globaly": 816,
+    "localx": 671
+  },
+  {
+    "name": "New York",
+    "regionid": 1,
+    "localy": 349,
+    "globalx": 504,
+    "id": 6,
+    "globaly": 447,
+    "localx": 993
+  },
+  {
+    "name": "Buenes Aires",
+    "regionid": 2,
+    "localy": 619,
+    "globalx": 594,
+    "id": 7,
+    "globaly": 881,
+    "localx": 503
+  },
+  {
+    "name": "Miami",
+    "regionid": 1,
+    "localy": 577,
+    "globalx": 465,
+    "id": 8,
+    "globaly": 537,
+    "localx": 860
+  },
+  {
+    "name": "Los Angeles",
+    "regionid": 1,
+    "localy": 465,
+    "globalx": 229,
+    "id": 9,
+    "globaly": 472,
+    "localx": 220
+  },
+  {
+    "name": "Mexico City",
+    "regionid": 1,
+    "localy": 720,
+    "globalx": 354,
+    "id": 10,
+    "globaly": 558,
+    "localx": 464
+  },
+  {
+    "name": "London",
+    "regionid": 3,
+    "localy": 296,
+    "globalx": 920,
+    "id": 11,
+    "globaly": 375,
+    "localx": 656
+  },
+  {
+    "name": "Barcelona",
+    "regionid": 3,
+    "localy": 669,
+    "globalx": 927,
+    "id": 12,
+    "globaly": 442,
+    "localx": 673
+  },
+  {
+    "name": "Paris",
+    "regionid": 3,
+    "localy": 495,
+    "globalx": 944,
+    "id": 13,
+    "globaly": 392,
+    "localx": 734
+  },
+  {
+    "name": "Capetown",
+    "regionid": 4,
+    "localy": 904,
+    "globalx": 1026,
+    "id": 14,
+    "globaly": 878,
+    "localx": 777
+  },
+  {
+    "name": "Lagos",
+    "regionid": 4,
+    "localy": 235,
+    "globalx": 942,
+    "id": 15,
+    "globaly": 646,
+    "localx": 496
+  },
+  {
+    "name": "Berlin",
+    "regionid": 3,
+    "localy": 408,
+    "globalx": 996,
+    "id": 16,
+    "globaly": 374,
+    "localx": 910
+  },
+  {
+    "name": "Rome",
+    "regionid": 3,
+    "localy": 656,
+    "globalx": 998,
+    "id": 17,
+    "globaly": 440,
+    "localx": 953
+  },
+  {
+    "name": "Seasons",
+    "regionid": 7,
+    "localy": 1,
+    "globalx": 1,
+    "id": 18,
+    "globaly": 1,
+    "localx": 1
+  },
+  {
+    "name": "Story",
+    "regionid": 6,
+    "localy": 1,
+    "globalx": 1,
+    "id": 19,
+    "globaly": 1,
+    "localx": 1
+  },
+  {
+    "name": "WorldTour",
+    "regionid": 8,
+    "localy": 1,
+    "globalx": 1,
+    "id": 20,
+    "globaly": 1,
+    "localx": 1
+  }
+]

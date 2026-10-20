@@ -1,0 +1,30 @@
+[
+  {
+    "mid": 30,
+    "def": 50,
+    "artificialkey": 0,
+    "gk": 50,
+    "att": 10
+  },
+  {
+    "mid": 30,
+    "def": 50,
+    "artificialkey": 1,
+    "gk": 50,
+    "att": 10
+  },
+  {
+    "mid": 50,
+    "def": 30,
+    "artificialkey": 2,
+    "gk": 30,
+    "att": 10
+  },
+  {
+    "mid": 30,
+    "def": 10,
+    "artificialkey": 3,
+    "gk": 10,
+    "att": 50
+  }
+]

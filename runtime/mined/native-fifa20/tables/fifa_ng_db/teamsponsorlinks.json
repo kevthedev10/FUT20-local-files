@@ -1,0 +1,4265 @@
+[
+  {
+    "artificialkey": 1,
+    "adsponserid": 38,
+    "teamid": -1,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 2,
+    "adsponserid": 14,
+    "teamid": -1,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 3,
+    "adsponserid": 37,
+    "teamid": -1,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 4,
+    "adsponserid": 20,
+    "teamid": -1,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 5,
+    "adsponserid": 49,
+    "teamid": -1,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 6,
+    "adsponserid": 26,
+    "teamid": -1,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 7,
+    "adsponserid": 40,
+    "teamid": 0,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 8,
+    "adsponserid": 102,
+    "teamid": 0,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 9,
+    "adsponserid": 38,
+    "teamid": 0,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 10,
+    "adsponserid": 15,
+    "teamid": 0,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 11,
+    "adsponserid": 37,
+    "teamid": 0,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 12,
+    "adsponserid": 29,
+    "teamid": 0,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 13,
+    "adsponserid": 49,
+    "teamid": 0,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 14,
+    "adsponserid": 36,
+    "teamid": 0,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 15,
+    "adsponserid": 39,
+    "teamid": 0,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 16,
+    "adsponserid": 68,
+    "teamid": 0,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 17,
+    "adsponserid": 50,
+    "teamid": 1,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 18,
+    "adsponserid": 6,
+    "teamid": 1,
+    "isapproved": 1,
+    "dynamicimageid": 122
+  },
+  {
+    "artificialkey": 19,
+    "adsponserid": 23,
+    "teamid": 1,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 20,
+    "adsponserid": 8,
+    "teamid": 1,
+    "isapproved": 1,
+    "dynamicimageid": 56
+  },
+  {
+    "artificialkey": 21,
+    "adsponserid": 6,
+    "teamid": 1,
+    "isapproved": 1,
+    "dynamicimageid": 122
+  },
+  {
+    "artificialkey": 22,
+    "adsponserid": 23,
+    "teamid": 1,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 23,
+    "adsponserid": 8,
+    "teamid": 1,
+    "isapproved": 1,
+    "dynamicimageid": 56
+  },
+  {
+    "artificialkey": 24,
+    "adsponserid": 6,
+    "teamid": 1,
+    "isapproved": 1,
+    "dynamicimageid": 122
+  },
+  {
+    "artificialkey": 25,
+    "adsponserid": 23,
+    "teamid": 1,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 26,
+    "adsponserid": 8,
+    "teamid": 1,
+    "isapproved": 1,
+    "dynamicimageid": 56
+  },
+  {
+    "artificialkey": 27,
+    "adsponserid": 50,
+    "teamid": 2,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 28,
+    "adsponserid": 5,
+    "teamid": 2,
+    "isapproved": 1,
+    "dynamicimageid": 284
+  },
+  {
+    "artificialkey": 29,
+    "adsponserid": 25,
+    "teamid": 2,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 30,
+    "adsponserid": 4,
+    "teamid": 2,
+    "isapproved": 1,
+    "dynamicimageid": 285
+  },
+  {
+    "artificialkey": 31,
+    "adsponserid": 6,
+    "teamid": 2,
+    "isapproved": 1,
+    "dynamicimageid": 286
+  },
+  {
+    "artificialkey": 32,
+    "adsponserid": 5,
+    "teamid": 2,
+    "isapproved": 1,
+    "dynamicimageid": 287
+  },
+  {
+    "artificialkey": 33,
+    "adsponserid": 4,
+    "teamid": 2,
+    "isapproved": 1,
+    "dynamicimageid": 288
+  },
+  {
+    "artificialkey": 34,
+    "adsponserid": 6,
+    "teamid": 2,
+    "isapproved": 1,
+    "dynamicimageid": 289
+  },
+  {
+    "artificialkey": 35,
+    "adsponserid": 5,
+    "teamid": 2,
+    "isapproved": 1,
+    "dynamicimageid": 290
+  },
+  {
+    "artificialkey": 36,
+    "adsponserid": 7,
+    "teamid": 2,
+    "isapproved": 1,
+    "dynamicimageid": 291
+  },
+  {
+    "artificialkey": 37,
+    "adsponserid": 50,
+    "teamid": 5,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 38,
+    "adsponserid": 19,
+    "teamid": 5,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 39,
+    "adsponserid": 110,
+    "teamid": 5,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 40,
+    "adsponserid": 77,
+    "teamid": 5,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 41,
+    "adsponserid": 62,
+    "teamid": 5,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 42,
+    "adsponserid": 134,
+    "teamid": 5,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 43,
+    "adsponserid": 96,
+    "teamid": 5,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 44,
+    "adsponserid": 19,
+    "teamid": 5,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 45,
+    "adsponserid": 110,
+    "teamid": 5,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 46,
+    "adsponserid": 134,
+    "teamid": 5,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 47,
+    "adsponserid": 50,
+    "teamid": 7,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 48,
+    "adsponserid": 104,
+    "teamid": 7,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 49,
+    "adsponserid": 4,
+    "teamid": 7,
+    "isapproved": 1,
+    "dynamicimageid": 35
+  },
+  {
+    "artificialkey": 50,
+    "adsponserid": 31,
+    "teamid": 7,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 51,
+    "adsponserid": 21,
+    "teamid": 7,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 52,
+    "adsponserid": 5,
+    "teamid": 7,
+    "isapproved": 1,
+    "dynamicimageid": 114
+  },
+  {
+    "artificialkey": 53,
+    "adsponserid": 104,
+    "teamid": 7,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 54,
+    "adsponserid": 4,
+    "teamid": 7,
+    "isapproved": 1,
+    "dynamicimageid": 35
+  },
+  {
+    "artificialkey": 55,
+    "adsponserid": 31,
+    "teamid": 7,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 56,
+    "adsponserid": 21,
+    "teamid": 7,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 57,
+    "adsponserid": 50,
+    "teamid": 9,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 58,
+    "adsponserid": 74,
+    "teamid": 9,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 59,
+    "adsponserid": 108,
+    "teamid": 9,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 60,
+    "adsponserid": 114,
+    "teamid": 9,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 61,
+    "adsponserid": 115,
+    "teamid": 9,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 62,
+    "adsponserid": 3,
+    "teamid": 9,
+    "isapproved": 1,
+    "dynamicimageid": 316
+  },
+  {
+    "artificialkey": 63,
+    "adsponserid": 113,
+    "teamid": 9,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 64,
+    "adsponserid": 116,
+    "teamid": 9,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 65,
+    "adsponserid": 117,
+    "teamid": 9,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 66,
+    "adsponserid": 5,
+    "teamid": 9,
+    "isapproved": 1,
+    "dynamicimageid": 317
+  },
+  {
+    "artificialkey": 67,
+    "adsponserid": 50,
+    "teamid": 10,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 68,
+    "adsponserid": 103,
+    "teamid": 10,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 69,
+    "adsponserid": 6,
+    "teamid": 10,
+    "isapproved": 1,
+    "dynamicimageid": 36
+  },
+  {
+    "artificialkey": 70,
+    "adsponserid": 47,
+    "teamid": 10,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 71,
+    "adsponserid": 63,
+    "teamid": 10,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 72,
+    "adsponserid": 33,
+    "teamid": 10,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 73,
+    "adsponserid": 30,
+    "teamid": 10,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 74,
+    "adsponserid": 32,
+    "teamid": 10,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 75,
+    "adsponserid": 64,
+    "teamid": 10,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 76,
+    "adsponserid": 41,
+    "teamid": 10,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 77,
+    "adsponserid": 50,
+    "teamid": 11,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 78,
+    "adsponserid": 23,
+    "teamid": 11,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 79,
+    "adsponserid": 53,
+    "teamid": 11,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 80,
+    "adsponserid": 83,
+    "teamid": 11,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 81,
+    "adsponserid": 59,
+    "teamid": 11,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 82,
+    "adsponserid": 127,
+    "teamid": 11,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 83,
+    "adsponserid": 52,
+    "teamid": 11,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 84,
+    "adsponserid": 23,
+    "teamid": 11,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 85,
+    "adsponserid": 53,
+    "teamid": 11,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 86,
+    "adsponserid": 83,
+    "teamid": 11,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 87,
+    "adsponserid": 50,
+    "teamid": 13,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 88,
+    "adsponserid": 6,
+    "teamid": 13,
+    "isapproved": 1,
+    "dynamicimageid": 6
+  },
+  {
+    "artificialkey": 89,
+    "adsponserid": 107,
+    "teamid": 13,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 90,
+    "adsponserid": 6,
+    "teamid": 13,
+    "isapproved": 1,
+    "dynamicimageid": 90
+  },
+  {
+    "artificialkey": 91,
+    "adsponserid": 4,
+    "teamid": 13,
+    "isapproved": 1,
+    "dynamicimageid": 91
+  },
+  {
+    "artificialkey": 92,
+    "adsponserid": 4,
+    "teamid": 13,
+    "isapproved": 1,
+    "dynamicimageid": 92
+  },
+  {
+    "artificialkey": 93,
+    "adsponserid": 4,
+    "teamid": 13,
+    "isapproved": 1,
+    "dynamicimageid": 93
+  },
+  {
+    "artificialkey": 94,
+    "adsponserid": 6,
+    "teamid": 13,
+    "isapproved": 1,
+    "dynamicimageid": 94
+  },
+  {
+    "artificialkey": 95,
+    "adsponserid": 4,
+    "teamid": 13,
+    "isapproved": 1,
+    "dynamicimageid": 6
+  },
+  {
+    "artificialkey": 96,
+    "adsponserid": 107,
+    "teamid": 13,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 97,
+    "adsponserid": 50,
+    "teamid": 17,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 98,
+    "adsponserid": 43,
+    "teamid": 17,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 99,
+    "adsponserid": 80,
+    "teamid": 17,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 100,
+    "adsponserid": 42,
+    "teamid": 17,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 101,
+    "adsponserid": 8,
+    "teamid": 17,
+    "isapproved": 1,
+    "dynamicimageid": 145
+  },
+  {
+    "artificialkey": 102,
+    "adsponserid": 9,
+    "teamid": 17,
+    "isapproved": 1,
+    "dynamicimageid": 146
+  },
+  {
+    "artificialkey": 103,
+    "adsponserid": 45,
+    "teamid": 17,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 104,
+    "adsponserid": 43,
+    "teamid": 17,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 105,
+    "adsponserid": 42,
+    "teamid": 17,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 106,
+    "adsponserid": 44,
+    "teamid": 17,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 107,
+    "adsponserid": 50,
+    "teamid": 18,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 108,
+    "adsponserid": 88,
+    "teamid": 18,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 109,
+    "adsponserid": 134,
+    "teamid": 18,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 110,
+    "adsponserid": 27,
+    "teamid": 18,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 111,
+    "adsponserid": 121,
+    "teamid": 18,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 112,
+    "adsponserid": 28,
+    "teamid": 18,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 113,
+    "adsponserid": 34,
+    "teamid": 18,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 114,
+    "adsponserid": 65,
+    "teamid": 18,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 115,
+    "adsponserid": 121,
+    "teamid": 18,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 116,
+    "adsponserid": 121,
+    "teamid": 18,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 117,
+    "adsponserid": 50,
+    "teamid": 19,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 118,
+    "adsponserid": 99,
+    "teamid": 19,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 119,
+    "adsponserid": 87,
+    "teamid": 19,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 120,
+    "adsponserid": 79,
+    "teamid": 19,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 121,
+    "adsponserid": 51,
+    "teamid": 19,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 122,
+    "adsponserid": 60,
+    "teamid": 19,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 123,
+    "adsponserid": 78,
+    "teamid": 19,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 124,
+    "adsponserid": 84,
+    "teamid": 19,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 125,
+    "adsponserid": 99,
+    "teamid": 19,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 126,
+    "adsponserid": 135,
+    "teamid": 19,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 127,
+    "adsponserid": 4,
+    "teamid": 22,
+    "isapproved": 1,
+    "dynamicimageid": 142
+  },
+  {
+    "artificialkey": 128,
+    "adsponserid": 5,
+    "teamid": 22,
+    "isapproved": 1,
+    "dynamicimageid": 143
+  },
+  {
+    "artificialkey": 129,
+    "adsponserid": 2,
+    "teamid": 22,
+    "isapproved": 1,
+    "dynamicimageid": 144
+  },
+  {
+    "artificialkey": 130,
+    "adsponserid": 7,
+    "teamid": 22,
+    "isapproved": 1,
+    "dynamicimageid": 149
+  },
+  {
+    "artificialkey": 131,
+    "adsponserid": 6,
+    "teamid": 22,
+    "isapproved": 1,
+    "dynamicimageid": 150
+  },
+  {
+    "artificialkey": 132,
+    "adsponserid": 4,
+    "teamid": 22,
+    "isapproved": 1,
+    "dynamicimageid": 148
+  },
+  {
+    "artificialkey": 133,
+    "adsponserid": 6,
+    "teamid": 22,
+    "isapproved": 1,
+    "dynamicimageid": 147
+  },
+  {
+    "artificialkey": 134,
+    "adsponserid": 4,
+    "teamid": 22,
+    "isapproved": 1,
+    "dynamicimageid": 142
+  },
+  {
+    "artificialkey": 135,
+    "adsponserid": 16,
+    "teamid": 22,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 136,
+    "adsponserid": 8,
+    "teamid": 22,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "artificialkey": 137,
+    "adsponserid": 4,
+    "teamid": 23,
+    "isapproved": 1,
+    "dynamicimageid": 98
+  },
+  {
+    "artificialkey": 138,
+    "adsponserid": 5,
+    "teamid": 23,
+    "isapproved": 1,
+    "dynamicimageid": 19
+  },
+  {
+    "artificialkey": 139,
+    "adsponserid": 4,
+    "teamid": 23,
+    "isapproved": 1,
+    "dynamicimageid": 38
+  },
+  {
+    "artificialkey": 140,
+    "adsponserid": 5,
+    "teamid": 23,
+    "isapproved": 1,
+    "dynamicimageid": 85
+  },
+  {
+    "artificialkey": 141,
+    "adsponserid": 4,
+    "teamid": 23,
+    "isapproved": 1,
+    "dynamicimageid": 11
+  },
+  {
+    "artificialkey": 142,
+    "adsponserid": 6,
+    "teamid": 23,
+    "isapproved": 1,
+    "dynamicimageid": 151
+  },
+  {
+    "artificialkey": 143,
+    "adsponserid": 4,
+    "teamid": 23,
+    "isapproved": 1,
+    "dynamicimageid": 86
+  },
+  {
+    "artificialkey": 144,
+    "adsponserid": 5,
+    "teamid": 23,
+    "isapproved": 1,
+    "dynamicimageid": 98
+  },
+  {
+    "artificialkey": 145,
+    "adsponserid": 16,
+    "teamid": 23,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 146,
+    "adsponserid": 8,
+    "teamid": 23,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "artificialkey": 147,
+    "adsponserid": 10,
+    "teamid": 25,
+    "isapproved": 1,
+    "dynamicimageid": 158
+  },
+  {
+    "artificialkey": 148,
+    "adsponserid": 6,
+    "teamid": 25,
+    "isapproved": 1,
+    "dynamicimageid": 157
+  },
+  {
+    "artificialkey": 149,
+    "adsponserid": 4,
+    "teamid": 25,
+    "isapproved": 1,
+    "dynamicimageid": 156
+  },
+  {
+    "artificialkey": 150,
+    "adsponserid": 10,
+    "teamid": 25,
+    "isapproved": 1,
+    "dynamicimageid": 158
+  },
+  {
+    "artificialkey": 151,
+    "adsponserid": 6,
+    "teamid": 25,
+    "isapproved": 1,
+    "dynamicimageid": 157
+  },
+  {
+    "artificialkey": 152,
+    "adsponserid": 4,
+    "teamid": 25,
+    "isapproved": 1,
+    "dynamicimageid": 156
+  },
+  {
+    "artificialkey": 153,
+    "adsponserid": 10,
+    "teamid": 25,
+    "isapproved": 1,
+    "dynamicimageid": 158
+  },
+  {
+    "artificialkey": 154,
+    "adsponserid": 6,
+    "teamid": 25,
+    "isapproved": 1,
+    "dynamicimageid": 157
+  },
+  {
+    "artificialkey": 155,
+    "adsponserid": 16,
+    "teamid": 25,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 156,
+    "adsponserid": 8,
+    "teamid": 25,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "artificialkey": 157,
+    "adsponserid": 7,
+    "teamid": 28,
+    "isapproved": 1,
+    "dynamicimageid": 278
+  },
+  {
+    "artificialkey": 158,
+    "adsponserid": 6,
+    "teamid": 28,
+    "isapproved": 1,
+    "dynamicimageid": 279
+  },
+  {
+    "artificialkey": 159,
+    "adsponserid": 8,
+    "teamid": 28,
+    "isapproved": 1,
+    "dynamicimageid": 280
+  },
+  {
+    "artificialkey": 160,
+    "adsponserid": 4,
+    "teamid": 28,
+    "isapproved": 1,
+    "dynamicimageid": 281
+  },
+  {
+    "artificialkey": 161,
+    "adsponserid": 8,
+    "teamid": 28,
+    "isapproved": 1,
+    "dynamicimageid": 280
+  },
+  {
+    "artificialkey": 162,
+    "adsponserid": 4,
+    "teamid": 28,
+    "isapproved": 1,
+    "dynamicimageid": 281
+  },
+  {
+    "artificialkey": 163,
+    "adsponserid": 6,
+    "teamid": 28,
+    "isapproved": 1,
+    "dynamicimageid": 279
+  },
+  {
+    "artificialkey": 164,
+    "adsponserid": 7,
+    "teamid": 28,
+    "isapproved": 1,
+    "dynamicimageid": 278
+  },
+  {
+    "artificialkey": 165,
+    "adsponserid": 24,
+    "teamid": 28,
+    "isapproved": 1,
+    "dynamicimageid": 212
+  },
+  {
+    "artificialkey": 166,
+    "adsponserid": 8,
+    "teamid": 28,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "artificialkey": 167,
+    "adsponserid": 6,
+    "teamid": 31,
+    "isapproved": 1,
+    "dynamicimageid": 128
+  },
+  {
+    "artificialkey": 168,
+    "adsponserid": 4,
+    "teamid": 31,
+    "isapproved": 1,
+    "dynamicimageid": 129
+  },
+  {
+    "artificialkey": 169,
+    "adsponserid": 6,
+    "teamid": 31,
+    "isapproved": 1,
+    "dynamicimageid": 128
+  },
+  {
+    "artificialkey": 170,
+    "adsponserid": 5,
+    "teamid": 31,
+    "isapproved": 1,
+    "dynamicimageid": 99
+  },
+  {
+    "artificialkey": 171,
+    "adsponserid": 6,
+    "teamid": 31,
+    "isapproved": 1,
+    "dynamicimageid": 128
+  },
+  {
+    "artificialkey": 172,
+    "adsponserid": 4,
+    "teamid": 31,
+    "isapproved": 1,
+    "dynamicimageid": 130
+  },
+  {
+    "artificialkey": 173,
+    "adsponserid": 6,
+    "teamid": 31,
+    "isapproved": 1,
+    "dynamicimageid": 128
+  },
+  {
+    "artificialkey": 174,
+    "adsponserid": 6,
+    "teamid": 31,
+    "isapproved": 1,
+    "dynamicimageid": 128
+  },
+  {
+    "artificialkey": 175,
+    "adsponserid": 16,
+    "teamid": 31,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 176,
+    "adsponserid": 8,
+    "teamid": 31,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "artificialkey": 177,
+    "adsponserid": 4,
+    "teamid": 32,
+    "isapproved": 1,
+    "dynamicimageid": 12
+  },
+  {
+    "artificialkey": 178,
+    "adsponserid": 6,
+    "teamid": 32,
+    "isapproved": 1,
+    "dynamicimageid": 8
+  },
+  {
+    "artificialkey": 179,
+    "adsponserid": 5,
+    "teamid": 32,
+    "isapproved": 1,
+    "dynamicimageid": 65
+  },
+  {
+    "artificialkey": 180,
+    "adsponserid": 4,
+    "teamid": 32,
+    "isapproved": 1,
+    "dynamicimageid": 12
+  },
+  {
+    "artificialkey": 181,
+    "adsponserid": 6,
+    "teamid": 32,
+    "isapproved": 1,
+    "dynamicimageid": 8
+  },
+  {
+    "artificialkey": 182,
+    "adsponserid": 6,
+    "teamid": 32,
+    "isapproved": 1,
+    "dynamicimageid": 54
+  },
+  {
+    "artificialkey": 183,
+    "adsponserid": 4,
+    "teamid": 32,
+    "isapproved": 1,
+    "dynamicimageid": 12
+  },
+  {
+    "artificialkey": 184,
+    "adsponserid": 6,
+    "teamid": 32,
+    "isapproved": 1,
+    "dynamicimageid": 8
+  },
+  {
+    "artificialkey": 185,
+    "adsponserid": 16,
+    "teamid": 32,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 186,
+    "adsponserid": 8,
+    "teamid": 32,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "artificialkey": 187,
+    "adsponserid": 6,
+    "teamid": 34,
+    "isapproved": 1,
+    "dynamicimageid": 18
+  },
+  {
+    "artificialkey": 188,
+    "adsponserid": 4,
+    "teamid": 34,
+    "isapproved": 1,
+    "dynamicimageid": 32
+  },
+  {
+    "artificialkey": 189,
+    "adsponserid": 6,
+    "teamid": 34,
+    "isapproved": 1,
+    "dynamicimageid": 18
+  },
+  {
+    "artificialkey": 190,
+    "adsponserid": 4,
+    "teamid": 34,
+    "isapproved": 1,
+    "dynamicimageid": 32
+  },
+  {
+    "artificialkey": 191,
+    "adsponserid": 6,
+    "teamid": 34,
+    "isapproved": 1,
+    "dynamicimageid": 18
+  },
+  {
+    "artificialkey": 192,
+    "adsponserid": 4,
+    "teamid": 34,
+    "isapproved": 1,
+    "dynamicimageid": 32
+  },
+  {
+    "artificialkey": 193,
+    "adsponserid": 6,
+    "teamid": 34,
+    "isapproved": 1,
+    "dynamicimageid": 18
+  },
+  {
+    "artificialkey": 194,
+    "adsponserid": 4,
+    "teamid": 34,
+    "isapproved": 1,
+    "dynamicimageid": 32
+  },
+  {
+    "artificialkey": 195,
+    "adsponserid": 16,
+    "teamid": 34,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 196,
+    "adsponserid": 8,
+    "teamid": 34,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "artificialkey": 197,
+    "adsponserid": 6,
+    "teamid": 36,
+    "isapproved": 1,
+    "dynamicimageid": 136
+  },
+  {
+    "artificialkey": 198,
+    "adsponserid": 7,
+    "teamid": 36,
+    "isapproved": 1,
+    "dynamicimageid": 173
+  },
+  {
+    "artificialkey": 199,
+    "adsponserid": 4,
+    "teamid": 36,
+    "isapproved": 1,
+    "dynamicimageid": 138
+  },
+  {
+    "artificialkey": 200,
+    "adsponserid": 5,
+    "teamid": 36,
+    "isapproved": 1,
+    "dynamicimageid": 137
+  },
+  {
+    "artificialkey": 201,
+    "adsponserid": 5,
+    "teamid": 36,
+    "isapproved": 1,
+    "dynamicimageid": 139
+  },
+  {
+    "artificialkey": 202,
+    "adsponserid": 4,
+    "teamid": 36,
+    "isapproved": 1,
+    "dynamicimageid": 135
+  },
+  {
+    "artificialkey": 203,
+    "adsponserid": 6,
+    "teamid": 36,
+    "isapproved": 1,
+    "dynamicimageid": 133
+  },
+  {
+    "artificialkey": 204,
+    "adsponserid": 5,
+    "teamid": 36,
+    "isapproved": 1,
+    "dynamicimageid": 140
+  },
+  {
+    "artificialkey": 205,
+    "adsponserid": 24,
+    "teamid": 36,
+    "isapproved": 1,
+    "dynamicimageid": 212
+  },
+  {
+    "artificialkey": 206,
+    "adsponserid": 8,
+    "teamid": 36,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "artificialkey": 207,
+    "adsponserid": 4,
+    "teamid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 178
+  },
+  {
+    "artificialkey": 208,
+    "adsponserid": 2,
+    "teamid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 174
+  },
+  {
+    "artificialkey": 209,
+    "adsponserid": 5,
+    "teamid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 176
+  },
+  {
+    "artificialkey": 210,
+    "adsponserid": 4,
+    "teamid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 179
+  },
+  {
+    "artificialkey": 211,
+    "adsponserid": 2,
+    "teamid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 180
+  },
+  {
+    "artificialkey": 212,
+    "adsponserid": 5,
+    "teamid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 175
+  },
+  {
+    "artificialkey": 213,
+    "adsponserid": 4,
+    "teamid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 178
+  },
+  {
+    "artificialkey": 214,
+    "adsponserid": 6,
+    "teamid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 177
+  },
+  {
+    "artificialkey": 215,
+    "adsponserid": 16,
+    "teamid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 216,
+    "adsponserid": 8,
+    "teamid": 38,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "artificialkey": 217,
+    "adsponserid": 40,
+    "teamid": 73,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 218,
+    "adsponserid": 102,
+    "teamid": 73,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 219,
+    "adsponserid": 5,
+    "teamid": 73,
+    "isapproved": 1,
+    "dynamicimageid": 29
+  },
+  {
+    "artificialkey": 220,
+    "adsponserid": 5,
+    "teamid": 73,
+    "isapproved": 1,
+    "dynamicimageid": 107
+  },
+  {
+    "artificialkey": 221,
+    "adsponserid": 4,
+    "teamid": 73,
+    "isapproved": 1,
+    "dynamicimageid": 141
+  },
+  {
+    "artificialkey": 222,
+    "adsponserid": 5,
+    "teamid": 73,
+    "isapproved": 1,
+    "dynamicimageid": 29
+  },
+  {
+    "artificialkey": 223,
+    "adsponserid": 5,
+    "teamid": 73,
+    "isapproved": 1,
+    "dynamicimageid": 107
+  },
+  {
+    "artificialkey": 224,
+    "adsponserid": 5,
+    "teamid": 73,
+    "isapproved": 1,
+    "dynamicimageid": 29
+  },
+  {
+    "artificialkey": 225,
+    "adsponserid": 5,
+    "teamid": 73,
+    "isapproved": 1,
+    "dynamicimageid": 107
+  },
+  {
+    "artificialkey": 226,
+    "adsponserid": 4,
+    "teamid": 73,
+    "isapproved": 1,
+    "dynamicimageid": 209
+  },
+  {
+    "artificialkey": 227,
+    "adsponserid": 50,
+    "teamid": 95,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 228,
+    "adsponserid": 6,
+    "teamid": 95,
+    "isapproved": 1,
+    "dynamicimageid": 37
+  },
+  {
+    "artificialkey": 229,
+    "adsponserid": 23,
+    "teamid": 95,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 230,
+    "adsponserid": 6,
+    "teamid": 95,
+    "isapproved": 1,
+    "dynamicimageid": 37
+  },
+  {
+    "artificialkey": 231,
+    "adsponserid": 6,
+    "teamid": 95,
+    "isapproved": 1,
+    "dynamicimageid": 28
+  },
+  {
+    "artificialkey": 232,
+    "adsponserid": 6,
+    "teamid": 95,
+    "isapproved": 1,
+    "dynamicimageid": 78
+  },
+  {
+    "artificialkey": 233,
+    "adsponserid": 118,
+    "teamid": 95,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 234,
+    "adsponserid": 6,
+    "teamid": 95,
+    "isapproved": 1,
+    "dynamicimageid": 197
+  },
+  {
+    "artificialkey": 235,
+    "adsponserid": 6,
+    "teamid": 95,
+    "isapproved": 1,
+    "dynamicimageid": 14
+  },
+  {
+    "artificialkey": 236,
+    "adsponserid": 6,
+    "teamid": 95,
+    "isapproved": 1,
+    "dynamicimageid": 37
+  },
+  {
+    "artificialkey": 237,
+    "adsponserid": 50,
+    "teamid": 110,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 238,
+    "adsponserid": 6,
+    "teamid": 110,
+    "isapproved": 1,
+    "dynamicimageid": 213
+  },
+  {
+    "artificialkey": 239,
+    "adsponserid": 4,
+    "teamid": 110,
+    "isapproved": 1,
+    "dynamicimageid": 214
+  },
+  {
+    "artificialkey": 240,
+    "adsponserid": 5,
+    "teamid": 110,
+    "isapproved": 1,
+    "dynamicimageid": 215
+  },
+  {
+    "artificialkey": 241,
+    "adsponserid": 4,
+    "teamid": 110,
+    "isapproved": 1,
+    "dynamicimageid": 216
+  },
+  {
+    "artificialkey": 242,
+    "adsponserid": 23,
+    "teamid": 110,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 243,
+    "adsponserid": 4,
+    "teamid": 110,
+    "isapproved": 1,
+    "dynamicimageid": 217
+  },
+  {
+    "artificialkey": 244,
+    "adsponserid": 6,
+    "teamid": 110,
+    "isapproved": 1,
+    "dynamicimageid": 218
+  },
+  {
+    "artificialkey": 245,
+    "adsponserid": 4,
+    "teamid": 110,
+    "isapproved": 1,
+    "dynamicimageid": 219
+  },
+  {
+    "artificialkey": 246,
+    "adsponserid": 5,
+    "teamid": 110,
+    "isapproved": 1,
+    "dynamicimageid": 220
+  },
+  {
+    "artificialkey": 247,
+    "adsponserid": 6,
+    "teamid": 159,
+    "isapproved": 1,
+    "dynamicimageid": 230
+  },
+  {
+    "artificialkey": 248,
+    "adsponserid": 9,
+    "teamid": 159,
+    "isapproved": 1,
+    "dynamicimageid": 231
+  },
+  {
+    "artificialkey": 249,
+    "adsponserid": 7,
+    "teamid": 159,
+    "isapproved": 1,
+    "dynamicimageid": 228
+  },
+  {
+    "artificialkey": 250,
+    "adsponserid": 9,
+    "teamid": 159,
+    "isapproved": 1,
+    "dynamicimageid": 229
+  },
+  {
+    "artificialkey": 251,
+    "adsponserid": 7,
+    "teamid": 159,
+    "isapproved": 1,
+    "dynamicimageid": 232
+  },
+  {
+    "artificialkey": 252,
+    "adsponserid": 9,
+    "teamid": 159,
+    "isapproved": 1,
+    "dynamicimageid": 227
+  },
+  {
+    "artificialkey": 253,
+    "adsponserid": 6,
+    "teamid": 159,
+    "isapproved": 1,
+    "dynamicimageid": 230
+  },
+  {
+    "artificialkey": 254,
+    "adsponserid": 9,
+    "teamid": 159,
+    "isapproved": 1,
+    "dynamicimageid": 231
+  },
+  {
+    "artificialkey": 255,
+    "adsponserid": 24,
+    "teamid": 159,
+    "isapproved": 1,
+    "dynamicimageid": 212
+  },
+  {
+    "artificialkey": 256,
+    "adsponserid": 8,
+    "teamid": 159,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "artificialkey": 257,
+    "adsponserid": 6,
+    "teamid": 160,
+    "isapproved": 1,
+    "dynamicimageid": 262
+  },
+  {
+    "artificialkey": 258,
+    "adsponserid": 3,
+    "teamid": 160,
+    "isapproved": 1,
+    "dynamicimageid": 263
+  },
+  {
+    "artificialkey": 259,
+    "adsponserid": 4,
+    "teamid": 160,
+    "isapproved": 1,
+    "dynamicimageid": 264
+  },
+  {
+    "artificialkey": 260,
+    "adsponserid": 3,
+    "teamid": 160,
+    "isapproved": 1,
+    "dynamicimageid": 265
+  },
+  {
+    "artificialkey": 261,
+    "adsponserid": 5,
+    "teamid": 160,
+    "isapproved": 1,
+    "dynamicimageid": 266
+  },
+  {
+    "artificialkey": 262,
+    "adsponserid": 4,
+    "teamid": 160,
+    "isapproved": 1,
+    "dynamicimageid": 267
+  },
+  {
+    "artificialkey": 263,
+    "adsponserid": 4,
+    "teamid": 160,
+    "isapproved": 1,
+    "dynamicimageid": 264
+  },
+  {
+    "artificialkey": 264,
+    "adsponserid": 3,
+    "teamid": 160,
+    "isapproved": 1,
+    "dynamicimageid": 263
+  },
+  {
+    "artificialkey": 265,
+    "adsponserid": 24,
+    "teamid": 160,
+    "isapproved": 1,
+    "dynamicimageid": 212
+  },
+  {
+    "artificialkey": 266,
+    "adsponserid": 8,
+    "teamid": 160,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "artificialkey": 267,
+    "adsponserid": 8,
+    "teamid": 165,
+    "isapproved": 1,
+    "dynamicimageid": 256
+  },
+  {
+    "artificialkey": 268,
+    "adsponserid": 4,
+    "teamid": 165,
+    "isapproved": 1,
+    "dynamicimageid": 257
+  },
+  {
+    "artificialkey": 269,
+    "adsponserid": 8,
+    "teamid": 165,
+    "isapproved": 1,
+    "dynamicimageid": 258
+  },
+  {
+    "artificialkey": 270,
+    "adsponserid": 5,
+    "teamid": 165,
+    "isapproved": 1,
+    "dynamicimageid": 259
+  },
+  {
+    "artificialkey": 271,
+    "adsponserid": 8,
+    "teamid": 165,
+    "isapproved": 1,
+    "dynamicimageid": 260
+  },
+  {
+    "artificialkey": 272,
+    "adsponserid": 4,
+    "teamid": 165,
+    "isapproved": 1,
+    "dynamicimageid": 257
+  },
+  {
+    "artificialkey": 273,
+    "adsponserid": 8,
+    "teamid": 165,
+    "isapproved": 1,
+    "dynamicimageid": 261
+  },
+  {
+    "artificialkey": 274,
+    "adsponserid": 5,
+    "teamid": 165,
+    "isapproved": 1,
+    "dynamicimageid": 259
+  },
+  {
+    "artificialkey": 275,
+    "adsponserid": 24,
+    "teamid": 165,
+    "isapproved": 1,
+    "dynamicimageid": 212
+  },
+  {
+    "artificialkey": 276,
+    "adsponserid": 8,
+    "teamid": 165,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "artificialkey": 277,
+    "adsponserid": 6,
+    "teamid": 166,
+    "isapproved": 1,
+    "dynamicimageid": 10
+  },
+  {
+    "artificialkey": 278,
+    "adsponserid": 2,
+    "teamid": 166,
+    "isapproved": 1,
+    "dynamicimageid": 166
+  },
+  {
+    "artificialkey": 279,
+    "adsponserid": 6,
+    "teamid": 166,
+    "isapproved": 1,
+    "dynamicimageid": 165
+  },
+  {
+    "artificialkey": 280,
+    "adsponserid": 5,
+    "teamid": 166,
+    "isapproved": 1,
+    "dynamicimageid": 2
+  },
+  {
+    "artificialkey": 281,
+    "adsponserid": 6,
+    "teamid": 166,
+    "isapproved": 1,
+    "dynamicimageid": 4
+  },
+  {
+    "artificialkey": 282,
+    "adsponserid": 5,
+    "teamid": 166,
+    "isapproved": 1,
+    "dynamicimageid": 159
+  },
+  {
+    "artificialkey": 283,
+    "adsponserid": 6,
+    "teamid": 166,
+    "isapproved": 1,
+    "dynamicimageid": 110
+  },
+  {
+    "artificialkey": 284,
+    "adsponserid": 4,
+    "teamid": 166,
+    "isapproved": 1,
+    "dynamicimageid": 148
+  },
+  {
+    "artificialkey": 285,
+    "adsponserid": 16,
+    "teamid": 166,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 286,
+    "adsponserid": 8,
+    "teamid": 166,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "artificialkey": 287,
+    "adsponserid": 1,
+    "teamid": 169,
+    "isapproved": 1,
+    "dynamicimageid": 167
+  },
+  {
+    "artificialkey": 288,
+    "adsponserid": 1,
+    "teamid": 169,
+    "isapproved": 1,
+    "dynamicimageid": 168
+  },
+  {
+    "artificialkey": 289,
+    "adsponserid": 1,
+    "teamid": 169,
+    "isapproved": 1,
+    "dynamicimageid": 307
+  },
+  {
+    "artificialkey": 290,
+    "adsponserid": 1,
+    "teamid": 169,
+    "isapproved": 1,
+    "dynamicimageid": 308
+  },
+  {
+    "artificialkey": 291,
+    "adsponserid": 1,
+    "teamid": 169,
+    "isapproved": 1,
+    "dynamicimageid": 307
+  },
+  {
+    "artificialkey": 292,
+    "adsponserid": 1,
+    "teamid": 169,
+    "isapproved": 1,
+    "dynamicimageid": 308
+  },
+  {
+    "artificialkey": 293,
+    "adsponserid": 1,
+    "teamid": 169,
+    "isapproved": 1,
+    "dynamicimageid": 167
+  },
+  {
+    "artificialkey": 294,
+    "adsponserid": 1,
+    "teamid": 169,
+    "isapproved": 1,
+    "dynamicimageid": 168
+  },
+  {
+    "artificialkey": 295,
+    "adsponserid": 16,
+    "teamid": 169,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 296,
+    "adsponserid": 8,
+    "teamid": 169,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "artificialkey": 297,
+    "adsponserid": 24,
+    "teamid": 171,
+    "isapproved": 1,
+    "dynamicimageid": 20
+  },
+  {
+    "artificialkey": 298,
+    "adsponserid": 6,
+    "teamid": 171,
+    "isapproved": 1,
+    "dynamicimageid": 23
+  },
+  {
+    "artificialkey": 299,
+    "adsponserid": 5,
+    "teamid": 171,
+    "isapproved": 1,
+    "dynamicimageid": 25
+  },
+  {
+    "artificialkey": 300,
+    "adsponserid": 6,
+    "teamid": 171,
+    "isapproved": 1,
+    "dynamicimageid": 26
+  },
+  {
+    "artificialkey": 301,
+    "adsponserid": 24,
+    "teamid": 171,
+    "isapproved": 1,
+    "dynamicimageid": 20
+  },
+  {
+    "artificialkey": 302,
+    "adsponserid": 6,
+    "teamid": 171,
+    "isapproved": 1,
+    "dynamicimageid": 24
+  },
+  {
+    "artificialkey": 303,
+    "adsponserid": 4,
+    "teamid": 171,
+    "isapproved": 1,
+    "dynamicimageid": 22
+  },
+  {
+    "artificialkey": 304,
+    "adsponserid": 6,
+    "teamid": 171,
+    "isapproved": 1,
+    "dynamicimageid": 21
+  },
+  {
+    "artificialkey": 305,
+    "adsponserid": 24,
+    "teamid": 171,
+    "isapproved": 1,
+    "dynamicimageid": 212
+  },
+  {
+    "artificialkey": 306,
+    "adsponserid": 8,
+    "teamid": 171,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "artificialkey": 307,
+    "adsponserid": 5,
+    "teamid": 175,
+    "isapproved": 1,
+    "dynamicimageid": 181
+  },
+  {
+    "artificialkey": 308,
+    "adsponserid": 6,
+    "teamid": 175,
+    "isapproved": 1,
+    "dynamicimageid": 182
+  },
+  {
+    "artificialkey": 309,
+    "adsponserid": 2,
+    "teamid": 175,
+    "isapproved": 1,
+    "dynamicimageid": 183
+  },
+  {
+    "artificialkey": 310,
+    "adsponserid": 4,
+    "teamid": 175,
+    "isapproved": 1,
+    "dynamicimageid": 184
+  },
+  {
+    "artificialkey": 311,
+    "adsponserid": 6,
+    "teamid": 175,
+    "isapproved": 1,
+    "dynamicimageid": 110
+  },
+  {
+    "artificialkey": 312,
+    "adsponserid": 5,
+    "teamid": 175,
+    "isapproved": 1,
+    "dynamicimageid": 185
+  },
+  {
+    "artificialkey": 313,
+    "adsponserid": 6,
+    "teamid": 175,
+    "isapproved": 1,
+    "dynamicimageid": 186
+  },
+  {
+    "artificialkey": 314,
+    "adsponserid": 6,
+    "teamid": 175,
+    "isapproved": 1,
+    "dynamicimageid": 187
+  },
+  {
+    "artificialkey": 315,
+    "adsponserid": 16,
+    "teamid": 175,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 316,
+    "adsponserid": 8,
+    "teamid": 175,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "artificialkey": 317,
+    "adsponserid": 23,
+    "teamid": 243,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 318,
+    "adsponserid": 6,
+    "teamid": 243,
+    "isapproved": 1,
+    "dynamicimageid": 101
+  },
+  {
+    "artificialkey": 319,
+    "adsponserid": 27,
+    "teamid": 243,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 320,
+    "adsponserid": 100,
+    "teamid": 243,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 321,
+    "adsponserid": 40,
+    "teamid": 243,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 322,
+    "adsponserid": 102,
+    "teamid": 243,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 323,
+    "adsponserid": 24,
+    "teamid": 243,
+    "isapproved": 1,
+    "dynamicimageid": 67
+  },
+  {
+    "artificialkey": 324,
+    "adsponserid": 5,
+    "teamid": 243,
+    "isapproved": 1,
+    "dynamicimageid": 73
+  },
+  {
+    "artificialkey": 325,
+    "adsponserid": 5,
+    "teamid": 243,
+    "isapproved": 1,
+    "dynamicimageid": 83
+  },
+  {
+    "artificialkey": 326,
+    "adsponserid": 4,
+    "teamid": 243,
+    "isapproved": 1,
+    "dynamicimageid": 198
+  },
+  {
+    "artificialkey": 327,
+    "adsponserid": 5,
+    "teamid": 243,
+    "isapproved": 1,
+    "dynamicimageid": 225
+  },
+  {
+    "artificialkey": 328,
+    "adsponserid": 4,
+    "teamid": 243,
+    "isapproved": 1,
+    "dynamicimageid": 226
+  },
+  {
+    "artificialkey": 329,
+    "adsponserid": 6,
+    "teamid": 485,
+    "isapproved": 1,
+    "dynamicimageid": 113
+  },
+  {
+    "artificialkey": 330,
+    "adsponserid": 4,
+    "teamid": 485,
+    "isapproved": 1,
+    "dynamicimageid": 116
+  },
+  {
+    "artificialkey": 331,
+    "adsponserid": 4,
+    "teamid": 485,
+    "isapproved": 1,
+    "dynamicimageid": 115
+  },
+  {
+    "artificialkey": 332,
+    "adsponserid": 6,
+    "teamid": 485,
+    "isapproved": 1,
+    "dynamicimageid": 117
+  },
+  {
+    "artificialkey": 333,
+    "adsponserid": 4,
+    "teamid": 485,
+    "isapproved": 1,
+    "dynamicimageid": 131
+  },
+  {
+    "artificialkey": 334,
+    "adsponserid": 2,
+    "teamid": 485,
+    "isapproved": 1,
+    "dynamicimageid": 121
+  },
+  {
+    "artificialkey": 335,
+    "adsponserid": 4,
+    "teamid": 485,
+    "isapproved": 1,
+    "dynamicimageid": 116
+  },
+  {
+    "artificialkey": 336,
+    "adsponserid": 2,
+    "teamid": 485,
+    "isapproved": 1,
+    "dynamicimageid": 121
+  },
+  {
+    "artificialkey": 337,
+    "adsponserid": 24,
+    "teamid": 485,
+    "isapproved": 1,
+    "dynamicimageid": 212
+  },
+  {
+    "artificialkey": 338,
+    "adsponserid": 8,
+    "teamid": 485,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "artificialkey": 339,
+    "adsponserid": 4,
+    "teamid": 487,
+    "isapproved": 1,
+    "dynamicimageid": 249
+  },
+  {
+    "artificialkey": 340,
+    "adsponserid": 5,
+    "teamid": 487,
+    "isapproved": 1,
+    "dynamicimageid": 250
+  },
+  {
+    "artificialkey": 341,
+    "adsponserid": 5,
+    "teamid": 487,
+    "isapproved": 1,
+    "dynamicimageid": 251
+  },
+  {
+    "artificialkey": 342,
+    "adsponserid": 7,
+    "teamid": 487,
+    "isapproved": 1,
+    "dynamicimageid": 252
+  },
+  {
+    "artificialkey": 343,
+    "adsponserid": 4,
+    "teamid": 487,
+    "isapproved": 1,
+    "dynamicimageid": 253
+  },
+  {
+    "artificialkey": 344,
+    "adsponserid": 5,
+    "teamid": 487,
+    "isapproved": 1,
+    "dynamicimageid": 254
+  },
+  {
+    "artificialkey": 345,
+    "adsponserid": 6,
+    "teamid": 487,
+    "isapproved": 1,
+    "dynamicimageid": 255
+  },
+  {
+    "artificialkey": 346,
+    "adsponserid": 7,
+    "teamid": 487,
+    "isapproved": 1,
+    "dynamicimageid": 33
+  },
+  {
+    "artificialkey": 347,
+    "adsponserid": 24,
+    "teamid": 487,
+    "isapproved": 1,
+    "dynamicimageid": 212
+  },
+  {
+    "artificialkey": 348,
+    "adsponserid": 8,
+    "teamid": 487,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "artificialkey": 349,
+    "adsponserid": 5,
+    "teamid": 492,
+    "isapproved": 1,
+    "dynamicimageid": 303
+  },
+  {
+    "artificialkey": 350,
+    "adsponserid": 6,
+    "teamid": 492,
+    "isapproved": 1,
+    "dynamicimageid": 107
+  },
+  {
+    "artificialkey": 351,
+    "adsponserid": 5,
+    "teamid": 492,
+    "isapproved": 1,
+    "dynamicimageid": 303
+  },
+  {
+    "artificialkey": 352,
+    "adsponserid": 6,
+    "teamid": 492,
+    "isapproved": 1,
+    "dynamicimageid": 304
+  },
+  {
+    "artificialkey": 353,
+    "adsponserid": 5,
+    "teamid": 492,
+    "isapproved": 1,
+    "dynamicimageid": 303
+  },
+  {
+    "artificialkey": 354,
+    "adsponserid": 6,
+    "teamid": 492,
+    "isapproved": 1,
+    "dynamicimageid": 306
+  },
+  {
+    "artificialkey": 355,
+    "adsponserid": 5,
+    "teamid": 492,
+    "isapproved": 1,
+    "dynamicimageid": 303
+  },
+  {
+    "artificialkey": 356,
+    "adsponserid": 6,
+    "teamid": 492,
+    "isapproved": 1,
+    "dynamicimageid": 305
+  },
+  {
+    "artificialkey": 357,
+    "adsponserid": 24,
+    "teamid": 492,
+    "isapproved": 1,
+    "dynamicimageid": 212
+  },
+  {
+    "artificialkey": 358,
+    "adsponserid": 8,
+    "teamid": 492,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "artificialkey": 359,
+    "adsponserid": 5,
+    "teamid": 503,
+    "isapproved": 1,
+    "dynamicimageid": 283
+  },
+  {
+    "artificialkey": 360,
+    "adsponserid": 6,
+    "teamid": 503,
+    "isapproved": 1,
+    "dynamicimageid": 282
+  },
+  {
+    "artificialkey": 361,
+    "adsponserid": 5,
+    "teamid": 503,
+    "isapproved": 1,
+    "dynamicimageid": 283
+  },
+  {
+    "artificialkey": 362,
+    "adsponserid": 6,
+    "teamid": 503,
+    "isapproved": 1,
+    "dynamicimageid": 282
+  },
+  {
+    "artificialkey": 363,
+    "adsponserid": 5,
+    "teamid": 503,
+    "isapproved": 1,
+    "dynamicimageid": 283
+  },
+  {
+    "artificialkey": 364,
+    "adsponserid": 6,
+    "teamid": 503,
+    "isapproved": 1,
+    "dynamicimageid": 282
+  },
+  {
+    "artificialkey": 365,
+    "adsponserid": 5,
+    "teamid": 503,
+    "isapproved": 1,
+    "dynamicimageid": 283
+  },
+  {
+    "artificialkey": 366,
+    "adsponserid": 6,
+    "teamid": 503,
+    "isapproved": 1,
+    "dynamicimageid": 282
+  },
+  {
+    "artificialkey": 367,
+    "adsponserid": 24,
+    "teamid": 503,
+    "isapproved": 1,
+    "dynamicimageid": 212
+  },
+  {
+    "artificialkey": 368,
+    "adsponserid": 8,
+    "teamid": 503,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "artificialkey": 369,
+    "adsponserid": 4,
+    "teamid": 506,
+    "isapproved": 1,
+    "dynamicimageid": 233
+  },
+  {
+    "artificialkey": 370,
+    "adsponserid": 5,
+    "teamid": 506,
+    "isapproved": 1,
+    "dynamicimageid": 234
+  },
+  {
+    "artificialkey": 371,
+    "adsponserid": 6,
+    "teamid": 506,
+    "isapproved": 1,
+    "dynamicimageid": 235
+  },
+  {
+    "artificialkey": 372,
+    "adsponserid": 4,
+    "teamid": 506,
+    "isapproved": 1,
+    "dynamicimageid": 236
+  },
+  {
+    "artificialkey": 373,
+    "adsponserid": 5,
+    "teamid": 506,
+    "isapproved": 1,
+    "dynamicimageid": 237
+  },
+  {
+    "artificialkey": 374,
+    "adsponserid": 6,
+    "teamid": 506,
+    "isapproved": 1,
+    "dynamicimageid": 238
+  },
+  {
+    "artificialkey": 375,
+    "adsponserid": 4,
+    "teamid": 506,
+    "isapproved": 1,
+    "dynamicimageid": 239
+  },
+  {
+    "artificialkey": 376,
+    "adsponserid": 5,
+    "teamid": 506,
+    "isapproved": 1,
+    "dynamicimageid": 240
+  },
+  {
+    "artificialkey": 377,
+    "adsponserid": 24,
+    "teamid": 506,
+    "isapproved": 1,
+    "dynamicimageid": 212
+  },
+  {
+    "artificialkey": 378,
+    "adsponserid": 8,
+    "teamid": 506,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "artificialkey": 379,
+    "adsponserid": 2,
+    "teamid": 543,
+    "isapproved": 1,
+    "dynamicimageid": 241
+  },
+  {
+    "artificialkey": 380,
+    "adsponserid": 5,
+    "teamid": 543,
+    "isapproved": 1,
+    "dynamicimageid": 242
+  },
+  {
+    "artificialkey": 381,
+    "adsponserid": 9,
+    "teamid": 543,
+    "isapproved": 1,
+    "dynamicimageid": 243
+  },
+  {
+    "artificialkey": 382,
+    "adsponserid": 5,
+    "teamid": 543,
+    "isapproved": 1,
+    "dynamicimageid": 244
+  },
+  {
+    "artificialkey": 383,
+    "adsponserid": 4,
+    "teamid": 543,
+    "isapproved": 1,
+    "dynamicimageid": 245
+  },
+  {
+    "artificialkey": 384,
+    "adsponserid": 2,
+    "teamid": 543,
+    "isapproved": 1,
+    "dynamicimageid": 246
+  },
+  {
+    "artificialkey": 385,
+    "adsponserid": 5,
+    "teamid": 543,
+    "isapproved": 1,
+    "dynamicimageid": 247
+  },
+  {
+    "artificialkey": 386,
+    "adsponserid": 4,
+    "teamid": 543,
+    "isapproved": 1,
+    "dynamicimageid": 248
+  },
+  {
+    "artificialkey": 387,
+    "adsponserid": 24,
+    "teamid": 543,
+    "isapproved": 1,
+    "dynamicimageid": 212
+  },
+  {
+    "artificialkey": 388,
+    "adsponserid": 8,
+    "teamid": 543,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "artificialkey": 389,
+    "adsponserid": 4,
+    "teamid": 576,
+    "isapproved": 1,
+    "dynamicimageid": 323
+  },
+  {
+    "artificialkey": 390,
+    "adsponserid": 5,
+    "teamid": 576,
+    "isapproved": 1,
+    "dynamicimageid": 324
+  },
+  {
+    "artificialkey": 391,
+    "adsponserid": 6,
+    "teamid": 576,
+    "isapproved": 1,
+    "dynamicimageid": 325
+  },
+  {
+    "artificialkey": 392,
+    "adsponserid": 4,
+    "teamid": 576,
+    "isapproved": 1,
+    "dynamicimageid": 326
+  },
+  {
+    "artificialkey": 393,
+    "adsponserid": 5,
+    "teamid": 576,
+    "isapproved": 1,
+    "dynamicimageid": 327
+  },
+  {
+    "artificialkey": 394,
+    "adsponserid": 6,
+    "teamid": 576,
+    "isapproved": 1,
+    "dynamicimageid": 328
+  },
+  {
+    "artificialkey": 395,
+    "adsponserid": 8,
+    "teamid": 576,
+    "isapproved": 1,
+    "dynamicimageid": 329
+  },
+  {
+    "artificialkey": 396,
+    "adsponserid": 4,
+    "teamid": 576,
+    "isapproved": 1,
+    "dynamicimageid": 330
+  },
+  {
+    "artificialkey": 397,
+    "adsponserid": 24,
+    "teamid": 576,
+    "isapproved": 1,
+    "dynamicimageid": 212
+  },
+  {
+    "artificialkey": 398,
+    "adsponserid": 8,
+    "teamid": 576,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "artificialkey": 399,
+    "adsponserid": 50,
+    "teamid": 1792,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 400,
+    "adsponserid": 123,
+    "teamid": 1792,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 401,
+    "adsponserid": 124,
+    "teamid": 1792,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 402,
+    "adsponserid": 125,
+    "teamid": 1792,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 403,
+    "adsponserid": 126,
+    "teamid": 1792,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 404,
+    "adsponserid": 123,
+    "teamid": 1792,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 405,
+    "adsponserid": 109,
+    "teamid": 1792,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 406,
+    "adsponserid": 124,
+    "teamid": 1792,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 407,
+    "adsponserid": 5,
+    "teamid": 1792,
+    "isapproved": 1,
+    "dynamicimageid": 223
+  },
+  {
+    "artificialkey": 408,
+    "adsponserid": 8,
+    "teamid": 1792,
+    "isapproved": 1,
+    "dynamicimageid": 224
+  },
+  {
+    "artificialkey": 409,
+    "adsponserid": 50,
+    "teamid": 1794,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 410,
+    "adsponserid": 106,
+    "teamid": 1794,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 411,
+    "adsponserid": 23,
+    "teamid": 1794,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 412,
+    "adsponserid": 5,
+    "teamid": 1794,
+    "isapproved": 1,
+    "dynamicimageid": 318
+  },
+  {
+    "artificialkey": 413,
+    "adsponserid": 4,
+    "teamid": 1794,
+    "isapproved": 1,
+    "dynamicimageid": 319
+  },
+  {
+    "artificialkey": 414,
+    "adsponserid": 6,
+    "teamid": 1794,
+    "isapproved": 1,
+    "dynamicimageid": 320
+  },
+  {
+    "artificialkey": 415,
+    "adsponserid": 106,
+    "teamid": 1794,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 416,
+    "adsponserid": 23,
+    "teamid": 1794,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 417,
+    "adsponserid": 5,
+    "teamid": 1794,
+    "isapproved": 1,
+    "dynamicimageid": 318
+  },
+  {
+    "artificialkey": 418,
+    "adsponserid": 4,
+    "teamid": 1794,
+    "isapproved": 1,
+    "dynamicimageid": 319
+  },
+  {
+    "artificialkey": 419,
+    "adsponserid": 50,
+    "teamid": 1795,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 420,
+    "adsponserid": 23,
+    "teamid": 1795,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 421,
+    "adsponserid": 6,
+    "teamid": 1795,
+    "isapproved": 1,
+    "dynamicimageid": 164
+  },
+  {
+    "artificialkey": 422,
+    "adsponserid": 23,
+    "teamid": 1795,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 423,
+    "adsponserid": 6,
+    "teamid": 1795,
+    "isapproved": 1,
+    "dynamicimageid": 164
+  },
+  {
+    "artificialkey": 424,
+    "adsponserid": 23,
+    "teamid": 1795,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 425,
+    "adsponserid": 6,
+    "teamid": 1795,
+    "isapproved": 1,
+    "dynamicimageid": 164
+  },
+  {
+    "artificialkey": 426,
+    "adsponserid": 23,
+    "teamid": 1795,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 427,
+    "adsponserid": 6,
+    "teamid": 1795,
+    "isapproved": 1,
+    "dynamicimageid": 164
+  },
+  {
+    "artificialkey": 428,
+    "adsponserid": 23,
+    "teamid": 1795,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 429,
+    "adsponserid": 50,
+    "teamid": 1796,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 430,
+    "adsponserid": 6,
+    "teamid": 1796,
+    "isapproved": 1,
+    "dynamicimageid": 39
+  },
+  {
+    "artificialkey": 431,
+    "adsponserid": 6,
+    "teamid": 1796,
+    "isapproved": 1,
+    "dynamicimageid": 48
+  },
+  {
+    "artificialkey": 432,
+    "adsponserid": 6,
+    "teamid": 1796,
+    "isapproved": 1,
+    "dynamicimageid": 50
+  },
+  {
+    "artificialkey": 433,
+    "adsponserid": 51,
+    "teamid": 1796,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 434,
+    "adsponserid": 6,
+    "teamid": 1796,
+    "isapproved": 1,
+    "dynamicimageid": 39
+  },
+  {
+    "artificialkey": 435,
+    "adsponserid": 4,
+    "teamid": 1796,
+    "isapproved": 1,
+    "dynamicimageid": 48
+  },
+  {
+    "artificialkey": 436,
+    "adsponserid": 6,
+    "teamid": 1796,
+    "isapproved": 1,
+    "dynamicimageid": 50
+  },
+  {
+    "artificialkey": 437,
+    "adsponserid": 51,
+    "teamid": 1796,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 438,
+    "adsponserid": 6,
+    "teamid": 1796,
+    "isapproved": 1,
+    "dynamicimageid": 50
+  },
+  {
+    "artificialkey": 439,
+    "adsponserid": 50,
+    "teamid": 1799,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 440,
+    "adsponserid": 122,
+    "teamid": 1799,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 441,
+    "adsponserid": 93,
+    "teamid": 1799,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 442,
+    "adsponserid": 101,
+    "teamid": 1799,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 443,
+    "adsponserid": 105,
+    "teamid": 1799,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 444,
+    "adsponserid": 91,
+    "teamid": 1799,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 445,
+    "adsponserid": 98,
+    "teamid": 1799,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 446,
+    "adsponserid": 106,
+    "teamid": 1799,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 447,
+    "adsponserid": 112,
+    "teamid": 1799,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 448,
+    "adsponserid": 6,
+    "teamid": 1799,
+    "isapproved": 1,
+    "dynamicimageid": 36
+  },
+  {
+    "artificialkey": 449,
+    "adsponserid": 50,
+    "teamid": 1808,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 450,
+    "adsponserid": 119,
+    "teamid": 1808,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 451,
+    "adsponserid": 134,
+    "teamid": 1808,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 452,
+    "adsponserid": 5,
+    "teamid": 1808,
+    "isapproved": 1,
+    "dynamicimageid": 57
+  },
+  {
+    "artificialkey": 453,
+    "adsponserid": 4,
+    "teamid": 1808,
+    "isapproved": 1,
+    "dynamicimageid": 40
+  },
+  {
+    "artificialkey": 454,
+    "adsponserid": 5,
+    "teamid": 1808,
+    "isapproved": 1,
+    "dynamicimageid": 45
+  },
+  {
+    "artificialkey": 455,
+    "adsponserid": 120,
+    "teamid": 1808,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 456,
+    "adsponserid": 4,
+    "teamid": 1808,
+    "isapproved": 1,
+    "dynamicimageid": 52
+  },
+  {
+    "artificialkey": 457,
+    "adsponserid": 119,
+    "teamid": 1808,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 458,
+    "adsponserid": 134,
+    "teamid": 1808,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 459,
+    "adsponserid": 6,
+    "teamid": 1824,
+    "isapproved": 1,
+    "dynamicimageid": 106
+  },
+  {
+    "artificialkey": 460,
+    "adsponserid": 6,
+    "teamid": 1824,
+    "isapproved": 1,
+    "dynamicimageid": 107
+  },
+  {
+    "artificialkey": 461,
+    "adsponserid": 6,
+    "teamid": 1824,
+    "isapproved": 1,
+    "dynamicimageid": 102
+  },
+  {
+    "artificialkey": 462,
+    "adsponserid": 6,
+    "teamid": 1824,
+    "isapproved": 1,
+    "dynamicimageid": 103
+  },
+  {
+    "artificialkey": 463,
+    "adsponserid": 6,
+    "teamid": 1824,
+    "isapproved": 1,
+    "dynamicimageid": 104
+  },
+  {
+    "artificialkey": 464,
+    "adsponserid": 6,
+    "teamid": 1824,
+    "isapproved": 1,
+    "dynamicimageid": 99
+  },
+  {
+    "artificialkey": 465,
+    "adsponserid": 6,
+    "teamid": 1824,
+    "isapproved": 1,
+    "dynamicimageid": 46
+  },
+  {
+    "artificialkey": 466,
+    "adsponserid": 6,
+    "teamid": 1824,
+    "isapproved": 1,
+    "dynamicimageid": 108
+  },
+  {
+    "artificialkey": 467,
+    "adsponserid": 16,
+    "teamid": 1824,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 468,
+    "adsponserid": 8,
+    "teamid": 1824,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "artificialkey": 469,
+    "adsponserid": 4,
+    "teamid": 1831,
+    "isapproved": 1,
+    "dynamicimageid": 273
+  },
+  {
+    "artificialkey": 470,
+    "adsponserid": 5,
+    "teamid": 1831,
+    "isapproved": 1,
+    "dynamicimageid": 274
+  },
+  {
+    "artificialkey": 471,
+    "adsponserid": 6,
+    "teamid": 1831,
+    "isapproved": 1,
+    "dynamicimageid": 275
+  },
+  {
+    "artificialkey": 472,
+    "adsponserid": 4,
+    "teamid": 1831,
+    "isapproved": 1,
+    "dynamicimageid": 276
+  },
+  {
+    "artificialkey": 473,
+    "adsponserid": 5,
+    "teamid": 1831,
+    "isapproved": 1,
+    "dynamicimageid": 277
+  },
+  {
+    "artificialkey": 474,
+    "adsponserid": 6,
+    "teamid": 1831,
+    "isapproved": 1,
+    "dynamicimageid": 275
+  },
+  {
+    "artificialkey": 475,
+    "adsponserid": 4,
+    "teamid": 1831,
+    "isapproved": 1,
+    "dynamicimageid": 276
+  },
+  {
+    "artificialkey": 476,
+    "adsponserid": 5,
+    "teamid": 1831,
+    "isapproved": 1,
+    "dynamicimageid": 277
+  },
+  {
+    "artificialkey": 477,
+    "adsponserid": 16,
+    "teamid": 1831,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 478,
+    "adsponserid": 8,
+    "teamid": 1831,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "artificialkey": 479,
+    "adsponserid": 5,
+    "teamid": 1832,
+    "isapproved": 1,
+    "dynamicimageid": 299
+  },
+  {
+    "artificialkey": 480,
+    "adsponserid": 4,
+    "teamid": 1832,
+    "isapproved": 1,
+    "dynamicimageid": 300
+  },
+  {
+    "artificialkey": 481,
+    "adsponserid": 5,
+    "teamid": 1832,
+    "isapproved": 1,
+    "dynamicimageid": 299
+  },
+  {
+    "artificialkey": 482,
+    "adsponserid": 6,
+    "teamid": 1832,
+    "isapproved": 1,
+    "dynamicimageid": 301
+  },
+  {
+    "artificialkey": 483,
+    "adsponserid": 5,
+    "teamid": 1832,
+    "isapproved": 1,
+    "dynamicimageid": 299
+  },
+  {
+    "artificialkey": 484,
+    "adsponserid": 7,
+    "teamid": 1832,
+    "isapproved": 1,
+    "dynamicimageid": 302
+  },
+  {
+    "artificialkey": 485,
+    "adsponserid": 5,
+    "teamid": 1832,
+    "isapproved": 1,
+    "dynamicimageid": 299
+  },
+  {
+    "artificialkey": 486,
+    "adsponserid": 4,
+    "teamid": 1832,
+    "isapproved": 1,
+    "dynamicimageid": 300
+  },
+  {
+    "artificialkey": 487,
+    "adsponserid": 24,
+    "teamid": 1832,
+    "isapproved": 1,
+    "dynamicimageid": 212
+  },
+  {
+    "artificialkey": 488,
+    "adsponserid": 8,
+    "teamid": 1832,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "artificialkey": 489,
+    "adsponserid": 50,
+    "teamid": 1943,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 490,
+    "adsponserid": 118,
+    "teamid": 1943,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 491,
+    "adsponserid": 22,
+    "teamid": 1943,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 492,
+    "adsponserid": 69,
+    "teamid": 1943,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 493,
+    "adsponserid": 67,
+    "teamid": 1943,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 494,
+    "adsponserid": 57,
+    "teamid": 1943,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 495,
+    "adsponserid": 58,
+    "teamid": 1943,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 496,
+    "adsponserid": 55,
+    "teamid": 1943,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 497,
+    "adsponserid": 56,
+    "teamid": 1943,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 498,
+    "adsponserid": 61,
+    "teamid": 1943,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 499,
+    "adsponserid": 5,
+    "teamid": 10029,
+    "isapproved": 1,
+    "dynamicimageid": 87
+  },
+  {
+    "artificialkey": 500,
+    "adsponserid": 4,
+    "teamid": 10029,
+    "isapproved": 1,
+    "dynamicimageid": 134
+  },
+  {
+    "artificialkey": 501,
+    "adsponserid": 6,
+    "teamid": 10029,
+    "isapproved": 1,
+    "dynamicimageid": 96
+  },
+  {
+    "artificialkey": 502,
+    "adsponserid": 6,
+    "teamid": 10029,
+    "isapproved": 1,
+    "dynamicimageid": 97
+  },
+  {
+    "artificialkey": 503,
+    "adsponserid": 5,
+    "teamid": 10029,
+    "isapproved": 1,
+    "dynamicimageid": 87
+  },
+  {
+    "artificialkey": 504,
+    "adsponserid": 4,
+    "teamid": 10029,
+    "isapproved": 1,
+    "dynamicimageid": 134
+  },
+  {
+    "artificialkey": 505,
+    "adsponserid": 6,
+    "teamid": 10029,
+    "isapproved": 1,
+    "dynamicimageid": 96
+  },
+  {
+    "artificialkey": 506,
+    "adsponserid": 6,
+    "teamid": 10029,
+    "isapproved": 1,
+    "dynamicimageid": 97
+  },
+  {
+    "artificialkey": 507,
+    "adsponserid": 16,
+    "teamid": 10029,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 508,
+    "adsponserid": 8,
+    "teamid": 10029,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "artificialkey": 509,
+    "adsponserid": 4,
+    "teamid": 10030,
+    "isapproved": 1,
+    "dynamicimageid": 81
+  },
+  {
+    "artificialkey": 510,
+    "adsponserid": 5,
+    "teamid": 10030,
+    "isapproved": 1,
+    "dynamicimageid": 82
+  },
+  {
+    "artificialkey": 511,
+    "adsponserid": 6,
+    "teamid": 10030,
+    "isapproved": 1,
+    "dynamicimageid": 100
+  },
+  {
+    "artificialkey": 512,
+    "adsponserid": 4,
+    "teamid": 10030,
+    "isapproved": 1,
+    "dynamicimageid": 81
+  },
+  {
+    "artificialkey": 513,
+    "adsponserid": 5,
+    "teamid": 10030,
+    "isapproved": 1,
+    "dynamicimageid": 82
+  },
+  {
+    "artificialkey": 514,
+    "adsponserid": 6,
+    "teamid": 10030,
+    "isapproved": 1,
+    "dynamicimageid": 100
+  },
+  {
+    "artificialkey": 515,
+    "adsponserid": 4,
+    "teamid": 10030,
+    "isapproved": 1,
+    "dynamicimageid": 81
+  },
+  {
+    "artificialkey": 516,
+    "adsponserid": 5,
+    "teamid": 10030,
+    "isapproved": 1,
+    "dynamicimageid": 82
+  },
+  {
+    "artificialkey": 517,
+    "adsponserid": 16,
+    "teamid": 10030,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 518,
+    "adsponserid": 8,
+    "teamid": 10030,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "artificialkey": 519,
+    "adsponserid": 6,
+    "teamid": 100409,
+    "isapproved": 1,
+    "dynamicimageid": 152
+  },
+  {
+    "artificialkey": 520,
+    "adsponserid": 1,
+    "teamid": 100409,
+    "isapproved": 1,
+    "dynamicimageid": 109
+  },
+  {
+    "artificialkey": 521,
+    "adsponserid": 2,
+    "teamid": 100409,
+    "isapproved": 1,
+    "dynamicimageid": 132
+  },
+  {
+    "artificialkey": 522,
+    "adsponserid": 5,
+    "teamid": 100409,
+    "isapproved": 1,
+    "dynamicimageid": 153
+  },
+  {
+    "artificialkey": 523,
+    "adsponserid": 6,
+    "teamid": 100409,
+    "isapproved": 1,
+    "dynamicimageid": 111
+  },
+  {
+    "artificialkey": 524,
+    "adsponserid": 4,
+    "teamid": 100409,
+    "isapproved": 1,
+    "dynamicimageid": 112
+  },
+  {
+    "artificialkey": 525,
+    "adsponserid": 1,
+    "teamid": 100409,
+    "isapproved": 1,
+    "dynamicimageid": 155
+  },
+  {
+    "artificialkey": 526,
+    "adsponserid": 6,
+    "teamid": 100409,
+    "isapproved": 1,
+    "dynamicimageid": 154
+  },
+  {
+    "artificialkey": 527,
+    "adsponserid": 16,
+    "teamid": 100409,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 528,
+    "adsponserid": 8,
+    "teamid": 100409,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "artificialkey": 529,
+    "adsponserid": 5,
+    "teamid": 110178,
+    "isapproved": 1,
+    "dynamicimageid": 268
+  },
+  {
+    "artificialkey": 530,
+    "adsponserid": 7,
+    "teamid": 110178,
+    "isapproved": 1,
+    "dynamicimageid": 269
+  },
+  {
+    "artificialkey": 531,
+    "adsponserid": 4,
+    "teamid": 110178,
+    "isapproved": 1,
+    "dynamicimageid": 270
+  },
+  {
+    "artificialkey": 532,
+    "adsponserid": 4,
+    "teamid": 110178,
+    "isapproved": 1,
+    "dynamicimageid": 271
+  },
+  {
+    "artificialkey": 533,
+    "adsponserid": 5,
+    "teamid": 110178,
+    "isapproved": 1,
+    "dynamicimageid": 268
+  },
+  {
+    "artificialkey": 534,
+    "adsponserid": 5,
+    "teamid": 110178,
+    "isapproved": 1,
+    "dynamicimageid": 272
+  },
+  {
+    "artificialkey": 535,
+    "adsponserid": 4,
+    "teamid": 110178,
+    "isapproved": 1,
+    "dynamicimageid": 270
+  },
+  {
+    "artificialkey": 536,
+    "adsponserid": 7,
+    "teamid": 110178,
+    "isapproved": 1,
+    "dynamicimageid": 269
+  },
+  {
+    "artificialkey": 537,
+    "adsponserid": 24,
+    "teamid": 110178,
+    "isapproved": 1,
+    "dynamicimageid": 212
+  },
+  {
+    "artificialkey": 538,
+    "adsponserid": 8,
+    "teamid": 110178,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "artificialkey": 539,
+    "adsponserid": 5,
+    "teamid": 110329,
+    "isapproved": 1,
+    "dynamicimageid": 292
+  },
+  {
+    "artificialkey": 540,
+    "adsponserid": 7,
+    "teamid": 110329,
+    "isapproved": 1,
+    "dynamicimageid": 293
+  },
+  {
+    "artificialkey": 541,
+    "adsponserid": 8,
+    "teamid": 110329,
+    "isapproved": 1,
+    "dynamicimageid": 294
+  },
+  {
+    "artificialkey": 542,
+    "adsponserid": 6,
+    "teamid": 110329,
+    "isapproved": 1,
+    "dynamicimageid": 295
+  },
+  {
+    "artificialkey": 543,
+    "adsponserid": 4,
+    "teamid": 110329,
+    "isapproved": 1,
+    "dynamicimageid": 296
+  },
+  {
+    "artificialkey": 544,
+    "adsponserid": 6,
+    "teamid": 110329,
+    "isapproved": 1,
+    "dynamicimageid": 295
+  },
+  {
+    "artificialkey": 545,
+    "adsponserid": 5,
+    "teamid": 110329,
+    "isapproved": 1,
+    "dynamicimageid": 297
+  },
+  {
+    "artificialkey": 546,
+    "adsponserid": 7,
+    "teamid": 110329,
+    "isapproved": 1,
+    "dynamicimageid": 298
+  },
+  {
+    "artificialkey": 547,
+    "adsponserid": 16,
+    "teamid": 110329,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 548,
+    "adsponserid": 8,
+    "teamid": 110329,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "artificialkey": 549,
+    "adsponserid": 6,
+    "teamid": 110502,
+    "isapproved": 1,
+    "dynamicimageid": 309
+  },
+  {
+    "artificialkey": 550,
+    "adsponserid": 4,
+    "teamid": 110502,
+    "isapproved": 1,
+    "dynamicimageid": 310
+  },
+  {
+    "artificialkey": 551,
+    "adsponserid": 6,
+    "teamid": 110502,
+    "isapproved": 1,
+    "dynamicimageid": 311
+  },
+  {
+    "artificialkey": 552,
+    "adsponserid": 5,
+    "teamid": 110502,
+    "isapproved": 1,
+    "dynamicimageid": 312
+  },
+  {
+    "artificialkey": 553,
+    "adsponserid": 6,
+    "teamid": 110502,
+    "isapproved": 1,
+    "dynamicimageid": 313
+  },
+  {
+    "artificialkey": 554,
+    "adsponserid": 6,
+    "teamid": 110502,
+    "isapproved": 1,
+    "dynamicimageid": 314
+  },
+  {
+    "artificialkey": 555,
+    "adsponserid": 4,
+    "teamid": 110502,
+    "isapproved": 1,
+    "dynamicimageid": 315
+  },
+  {
+    "artificialkey": 556,
+    "adsponserid": 5,
+    "teamid": 110502,
+    "isapproved": 1,
+    "dynamicimageid": 296
+  },
+  {
+    "artificialkey": 557,
+    "adsponserid": 24,
+    "teamid": 110502,
+    "isapproved": 1,
+    "dynamicimageid": 212
+  },
+  {
+    "artificialkey": 558,
+    "adsponserid": 8,
+    "teamid": 110502,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "artificialkey": 559,
+    "adsponserid": 5,
+    "teamid": 110636,
+    "isapproved": 1,
+    "dynamicimageid": 163
+  },
+  {
+    "artificialkey": 560,
+    "adsponserid": 5,
+    "teamid": 110636,
+    "isapproved": 1,
+    "dynamicimageid": 161
+  },
+  {
+    "artificialkey": 561,
+    "adsponserid": 5,
+    "teamid": 110636,
+    "isapproved": 1,
+    "dynamicimageid": 84
+  },
+  {
+    "artificialkey": 562,
+    "adsponserid": 6,
+    "teamid": 110636,
+    "isapproved": 1,
+    "dynamicimageid": 1
+  },
+  {
+    "artificialkey": 563,
+    "adsponserid": 6,
+    "teamid": 110636,
+    "isapproved": 1,
+    "dynamicimageid": 49
+  },
+  {
+    "artificialkey": 564,
+    "adsponserid": 6,
+    "teamid": 110636,
+    "isapproved": 1,
+    "dynamicimageid": 53
+  },
+  {
+    "artificialkey": 565,
+    "adsponserid": 4,
+    "teamid": 110636,
+    "isapproved": 1,
+    "dynamicimageid": 5
+  },
+  {
+    "artificialkey": 566,
+    "adsponserid": 5,
+    "teamid": 110636,
+    "isapproved": 1,
+    "dynamicimageid": 95
+  },
+  {
+    "artificialkey": 567,
+    "adsponserid": 16,
+    "teamid": 110636,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 568,
+    "adsponserid": 8,
+    "teamid": 110636,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "artificialkey": 569,
+    "adsponserid": 5,
+    "teamid": 111235,
+    "isapproved": 1,
+    "dynamicimageid": 123
+  },
+  {
+    "artificialkey": 570,
+    "adsponserid": 4,
+    "teamid": 111235,
+    "isapproved": 1,
+    "dynamicimageid": 124
+  },
+  {
+    "artificialkey": 571,
+    "adsponserid": 7,
+    "teamid": 111235,
+    "isapproved": 1,
+    "dynamicimageid": 125
+  },
+  {
+    "artificialkey": 572,
+    "adsponserid": 5,
+    "teamid": 111235,
+    "isapproved": 1,
+    "dynamicimageid": 123
+  },
+  {
+    "artificialkey": 573,
+    "adsponserid": 7,
+    "teamid": 111235,
+    "isapproved": 1,
+    "dynamicimageid": 126
+  },
+  {
+    "artificialkey": 574,
+    "adsponserid": 4,
+    "teamid": 111235,
+    "isapproved": 1,
+    "dynamicimageid": 124
+  },
+  {
+    "artificialkey": 575,
+    "adsponserid": 7,
+    "teamid": 111235,
+    "isapproved": 1,
+    "dynamicimageid": 127
+  },
+  {
+    "artificialkey": 576,
+    "adsponserid": 5,
+    "teamid": 111235,
+    "isapproved": 1,
+    "dynamicimageid": 123
+  },
+  {
+    "artificialkey": 577,
+    "adsponserid": 24,
+    "teamid": 111235,
+    "isapproved": 1,
+    "dynamicimageid": 212
+  },
+  {
+    "artificialkey": 578,
+    "adsponserid": 8,
+    "teamid": 111235,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "artificialkey": 579,
+    "adsponserid": 4,
+    "teamid": 112172,
+    "isapproved": 1,
+    "dynamicimageid": 169
+  },
+  {
+    "artificialkey": 580,
+    "adsponserid": 6,
+    "teamid": 112172,
+    "isapproved": 1,
+    "dynamicimageid": 110
+  },
+  {
+    "artificialkey": 581,
+    "adsponserid": 13,
+    "teamid": 112172,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 582,
+    "adsponserid": 4,
+    "teamid": 112172,
+    "isapproved": 1,
+    "dynamicimageid": 169
+  },
+  {
+    "artificialkey": 583,
+    "adsponserid": 5,
+    "teamid": 112172,
+    "isapproved": 1,
+    "dynamicimageid": 222
+  },
+  {
+    "artificialkey": 584,
+    "adsponserid": 7,
+    "teamid": 112172,
+    "isapproved": 1,
+    "dynamicimageid": 170
+  },
+  {
+    "artificialkey": 585,
+    "adsponserid": 6,
+    "teamid": 112172,
+    "isapproved": 1,
+    "dynamicimageid": 172
+  },
+  {
+    "artificialkey": 586,
+    "adsponserid": 4,
+    "teamid": 112172,
+    "isapproved": 1,
+    "dynamicimageid": 171
+  },
+  {
+    "artificialkey": 587,
+    "adsponserid": 16,
+    "teamid": 112172,
+    "isapproved": 1,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 588,
+    "adsponserid": 8,
+    "teamid": 112172,
+    "isapproved": 1,
+    "dynamicimageid": 27
+  },
+  {
+    "artificialkey": 589,
+    "adsponserid": 0,
+    "teamid": -2,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 590,
+    "adsponserid": 0,
+    "teamid": -2,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 591,
+    "adsponserid": 0,
+    "teamid": -2,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 592,
+    "adsponserid": 0,
+    "teamid": -2,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 593,
+    "adsponserid": 0,
+    "teamid": -2,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 594,
+    "adsponserid": 0,
+    "teamid": -2,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 595,
+    "adsponserid": 0,
+    "teamid": -2,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 596,
+    "adsponserid": 0,
+    "teamid": -2,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 597,
+    "adsponserid": 0,
+    "teamid": -2,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 598,
+    "adsponserid": 0,
+    "teamid": -2,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 599,
+    "adsponserid": 0,
+    "teamid": -2,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 600,
+    "adsponserid": 0,
+    "teamid": -2,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 601,
+    "adsponserid": 0,
+    "teamid": -2,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 602,
+    "adsponserid": 0,
+    "teamid": -2,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 603,
+    "adsponserid": 0,
+    "teamid": -2,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 604,
+    "adsponserid": 0,
+    "teamid": -2,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 605,
+    "adsponserid": 0,
+    "teamid": -2,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 606,
+    "adsponserid": 0,
+    "teamid": -2,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 607,
+    "adsponserid": 0,
+    "teamid": -2,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 608,
+    "adsponserid": 0,
+    "teamid": -2,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  },
+  {
+    "artificialkey": 609,
+    "adsponserid": 0,
+    "teamid": -2,
+    "isapproved": 0,
+    "dynamicimageid": 0
+  }
+]

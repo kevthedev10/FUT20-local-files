@@ -1,0 +1,974 @@
+[
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 0,
+    "hastifo": 0,
+    "playertechid": 1025,
+    "teamtechid": 234,
+    "isnew": 0
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 0,
+    "hastifo": 0,
+    "playertechid": 1025,
+    "teamtechid": 1354,
+    "isnew": 0
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 0,
+    "hastifo": 0,
+    "playertechid": 1025,
+    "teamtechid": 110374,
+    "isnew": 0
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 0,
+    "hastifo": 1,
+    "playertechid": 1040,
+    "teamtechid": 243,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 1,
+    "hastifo": 1,
+    "playertechid": 1040,
+    "teamtechid": 1370,
+    "isnew": 0
+  },
+  {
+    "legend": 1,
+    "hasbanner": 0,
+    "useinfut": 0,
+    "hastifo": 1,
+    "playertechid": 1041,
+    "teamtechid": 44,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 0,
+    "useinfut": 1,
+    "hastifo": 1,
+    "playertechid": 1041,
+    "teamtechid": 1369,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 1,
+    "hastifo": 1,
+    "playertechid": 1075,
+    "teamtechid": 1343,
+    "isnew": 0
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 0,
+    "hastifo": 0,
+    "playertechid": 1088,
+    "teamtechid": 46,
+    "isnew": 0
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 0,
+    "hastifo": 0,
+    "playertechid": 1088,
+    "teamtechid": 47,
+    "isnew": 0
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 0,
+    "hastifo": 0,
+    "playertechid": 1088,
+    "teamtechid": 1343,
+    "isnew": 0
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 0,
+    "hastifo": 1,
+    "playertechid": 1109,
+    "teamtechid": 47,
+    "isnew": 0
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 1,
+    "hastifo": 1,
+    "playertechid": 1109,
+    "teamtechid": 1343,
+    "isnew": 0
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 0,
+    "hastifo": 0,
+    "playertechid": 1201,
+    "teamtechid": 5,
+    "isnew": 0
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 0,
+    "hastifo": 0,
+    "playertechid": 1201,
+    "teamtechid": 48,
+    "isnew": 0
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 0,
+    "hastifo": 0,
+    "playertechid": 1201,
+    "teamtechid": 50,
+    "isnew": 0
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 0,
+    "hastifo": 0,
+    "playertechid": 1201,
+    "teamtechid": 1343,
+    "isnew": 0
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 0,
+    "hastifo": 0,
+    "playertechid": 1201,
+    "teamtechid": 1842,
+    "isnew": 0
+  },
+  {
+    "legend": 1,
+    "hasbanner": 0,
+    "useinfut": 0,
+    "hastifo": 1,
+    "playertechid": 1256,
+    "teamtechid": 47,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 0,
+    "useinfut": 1,
+    "hastifo": 1,
+    "playertechid": 1256,
+    "teamtechid": 105035,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 0,
+    "useinfut": 1,
+    "hastifo": 1,
+    "playertechid": 1397,
+    "teamtechid": 243,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 0,
+    "useinfut": 0,
+    "hastifo": 1,
+    "playertechid": 1397,
+    "teamtechid": 1335,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 0,
+    "useinfut": 0,
+    "hastifo": 1,
+    "playertechid": 1419,
+    "teamtechid": 1,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 1,
+    "hastifo": 1,
+    "playertechid": 1419,
+    "teamtechid": 1335,
+    "isnew": 0
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 0,
+    "hastifo": 0,
+    "playertechid": 1620,
+    "teamtechid": 69,
+    "isnew": 0
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 0,
+    "hastifo": 0,
+    "playertechid": 1620,
+    "teamtechid": 1335,
+    "isnew": 0
+  },
+  {
+    "legend": 1,
+    "hasbanner": 0,
+    "useinfut": 0,
+    "hastifo": 1,
+    "playertechid": 1625,
+    "teamtechid": 1,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 1,
+    "hastifo": 1,
+    "playertechid": 1625,
+    "teamtechid": 689,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 0,
+    "hastifo": 0,
+    "playertechid": 1625,
+    "teamtechid": 1335,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 0,
+    "useinfut": 0,
+    "hastifo": 1,
+    "playertechid": 1668,
+    "teamtechid": 5,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 0,
+    "useinfut": 1,
+    "hastifo": 1,
+    "playertechid": 1668,
+    "teamtechid": 1335,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 0,
+    "hastifo": 0,
+    "playertechid": 4000,
+    "teamtechid": 245,
+    "isnew": 0
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 0,
+    "hastifo": 0,
+    "playertechid": 4000,
+    "teamtechid": 105035,
+    "isnew": 0
+  },
+  {
+    "legend": 1,
+    "hasbanner": 0,
+    "useinfut": 1,
+    "hastifo": 1,
+    "playertechid": 4231,
+    "teamtechid": 1370,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 0,
+    "useinfut": 0,
+    "hastifo": 1,
+    "playertechid": 5471,
+    "teamtechid": 5,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 0,
+    "useinfut": 1,
+    "hastifo": 1,
+    "playertechid": 5471,
+    "teamtechid": 1318,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 0,
+    "hastifo": 0,
+    "playertechid": 5589,
+    "teamtechid": 237,
+    "isnew": 0
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 0,
+    "hastifo": 1,
+    "playertechid": 5589,
+    "teamtechid": 243,
+    "isnew": 0
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 1,
+    "hastifo": 1,
+    "playertechid": 5589,
+    "teamtechid": 1354,
+    "isnew": 0
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 0,
+    "hastifo": 0,
+    "playertechid": 5680,
+    "teamtechid": 245,
+    "isnew": 0
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 0,
+    "hastifo": 0,
+    "playertechid": 5680,
+    "teamtechid": 105035,
+    "isnew": 0
+  },
+  {
+    "legend": 1,
+    "hasbanner": 0,
+    "useinfut": 0,
+    "hastifo": 1,
+    "playertechid": 7289,
+    "teamtechid": 11,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 1,
+    "hastifo": 1,
+    "playertechid": 7289,
+    "teamtechid": 1318,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 0,
+    "hastifo": 0,
+    "playertechid": 7512,
+    "teamtechid": 46,
+    "isnew": 0
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 0,
+    "hastifo": 0,
+    "playertechid": 7512,
+    "teamtechid": 50,
+    "isnew": 0
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 0,
+    "hastifo": 0,
+    "playertechid": 7512,
+    "teamtechid": 1369,
+    "isnew": 0
+  },
+  {
+    "legend": 1,
+    "hasbanner": 0,
+    "useinfut": 1,
+    "hastifo": 1,
+    "playertechid": 7518,
+    "teamtechid": 1369,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 0,
+    "useinfut": 0,
+    "hastifo": 1,
+    "playertechid": 7763,
+    "teamtechid": 47,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 0,
+    "useinfut": 1,
+    "hastifo": 1,
+    "playertechid": 7763,
+    "teamtechid": 1343,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 0,
+    "hastifo": 0,
+    "playertechid": 13038,
+    "teamtechid": 1362,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 0,
+    "useinfut": 0,
+    "hastifo": 1,
+    "playertechid": 13743,
+    "teamtechid": 9,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 0,
+    "useinfut": 1,
+    "hastifo": 1,
+    "playertechid": 13743,
+    "teamtechid": 1318,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 0,
+    "hastifo": 1,
+    "playertechid": 28130,
+    "teamtechid": 47,
+    "isnew": 0
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 0,
+    "hastifo": 0,
+    "playertechid": 28130,
+    "teamtechid": 73,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 1,
+    "hastifo": 1,
+    "playertechid": 28130,
+    "teamtechid": 1370,
+    "isnew": 0
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 0,
+    "hastifo": 0,
+    "playertechid": 28130,
+    "teamtechid": 1629,
+    "isnew": 0
+  },
+  {
+    "legend": 1,
+    "hasbanner": 0,
+    "useinfut": 0,
+    "hastifo": 1,
+    "playertechid": 31432,
+    "teamtechid": 5,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 0,
+    "useinfut": 1,
+    "hastifo": 1,
+    "playertechid": 31432,
+    "teamtechid": 111112,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 0,
+    "hastifo": 1,
+    "playertechid": 37576,
+    "teamtechid": 44,
+    "isnew": 0
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 1,
+    "hastifo": 1,
+    "playertechid": 37576,
+    "teamtechid": 1370,
+    "isnew": 0
+  },
+  {
+    "legend": 1,
+    "hasbanner": 0,
+    "useinfut": 0,
+    "hastifo": 1,
+    "playertechid": 45661,
+    "teamtechid": 243,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 0,
+    "useinfut": 1,
+    "hastifo": 1,
+    "playertechid": 45661,
+    "teamtechid": 1362,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 0,
+    "useinfut": 1,
+    "hastifo": 1,
+    "playertechid": 45674,
+    "teamtechid": 5,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 0,
+    "useinfut": 0,
+    "hastifo": 1,
+    "playertechid": 138449,
+    "teamtechid": 47,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 0,
+    "useinfut": 1,
+    "hastifo": 1,
+    "playertechid": 138449,
+    "teamtechid": 1370,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 0,
+    "hastifo": 0,
+    "playertechid": 156353,
+    "teamtechid": 1386,
+    "isnew": 0
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 0,
+    "hastifo": 0,
+    "playertechid": 161840,
+    "teamtechid": 243,
+    "isnew": 0
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 0,
+    "hastifo": 0,
+    "playertechid": 161840,
+    "teamtechid": 1362,
+    "isnew": 0
+  },
+  {
+    "legend": 1,
+    "hasbanner": 0,
+    "useinfut": 0,
+    "hastifo": 1,
+    "playertechid": 166149,
+    "teamtechid": 243,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 0,
+    "useinfut": 1,
+    "hastifo": 1,
+    "playertechid": 166149,
+    "teamtechid": 1386,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 0,
+    "useinfut": 1,
+    "hastifo": 1,
+    "playertechid": 167135,
+    "teamtechid": 1370,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 0,
+    "useinfut": 1,
+    "hastifo": 1,
+    "playertechid": 167680,
+    "teamtechid": 105035,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 0,
+    "hastifo": 1,
+    "playertechid": 190042,
+    "teamtechid": 48,
+    "isnew": 0
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 1,
+    "hastifo": 1,
+    "playertechid": 190042,
+    "teamtechid": 1369,
+    "isnew": 0
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 1,
+    "hastifo": 1,
+    "playertechid": 190043,
+    "teamtechid": 1370,
+    "isnew": 0
+  },
+  {
+    "legend": 1,
+    "hasbanner": 0,
+    "useinfut": 0,
+    "hastifo": 1,
+    "playertechid": 190045,
+    "teamtechid": 245,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 0,
+    "useinfut": 1,
+    "hastifo": 1,
+    "playertechid": 190045,
+    "teamtechid": 105035,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 0,
+    "useinfut": 1,
+    "hastifo": 1,
+    "playertechid": 190046,
+    "teamtechid": 1370,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 0,
+    "useinfut": 0,
+    "hastifo": 1,
+    "playertechid": 190049,
+    "teamtechid": 234,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 0,
+    "useinfut": 1,
+    "hastifo": 1,
+    "playertechid": 190049,
+    "teamtechid": 1354,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 0,
+    "hastifo": 0,
+    "playertechid": 190053,
+    "teamtechid": 1331,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 0,
+    "hastifo": 1,
+    "playertechid": 191189,
+    "teamtechid": 23,
+    "isnew": 0
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 1,
+    "hastifo": 1,
+    "playertechid": 191189,
+    "teamtechid": 1337,
+    "isnew": 0
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 0,
+    "hastifo": 1,
+    "playertechid": 192181,
+    "teamtechid": 47,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 0,
+    "hastifo": 0,
+    "playertechid": 192181,
+    "teamtechid": 245,
+    "isnew": 0
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 1,
+    "hastifo": 1,
+    "playertechid": 192181,
+    "teamtechid": 105035,
+    "isnew": 0
+  },
+  {
+    "legend": 0,
+    "hasbanner": 1,
+    "useinfut": 1,
+    "hastifo": 0,
+    "playertechid": 211110,
+    "teamtechid": 45,
+    "isnew": 0
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 0,
+    "hastifo": 1,
+    "playertechid": 214100,
+    "teamtechid": 47,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 1,
+    "hastifo": 1,
+    "playertechid": 214100,
+    "teamtechid": 105035,
+    "isnew": 0
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 0,
+    "hastifo": 0,
+    "playertechid": 222000,
+    "teamtechid": 269,
+    "isnew": 0
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 0,
+    "hastifo": 0,
+    "playertechid": 222000,
+    "teamtechid": 1331,
+    "isnew": 0
+  },
+  {
+    "legend": 1,
+    "hasbanner": 0,
+    "useinfut": 0,
+    "hastifo": 1,
+    "playertechid": 226764,
+    "teamtechid": 11,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 0,
+    "useinfut": 1,
+    "hastifo": 1,
+    "playertechid": 226764,
+    "teamtechid": 110081,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 0,
+    "hastifo": 0,
+    "playertechid": 238193,
+    "teamtechid": 312,
+    "isnew": 0
+  },
+  {
+    "legend": 1,
+    "hasbanner": 1,
+    "useinfut": 0,
+    "hastifo": 0,
+    "playertechid": 238193,
+    "teamtechid": 1357,
+    "isnew": 0
+  },
+  {
+    "legend": 1,
+    "hasbanner": 0,
+    "useinfut": 1,
+    "hastifo": 1,
+    "playertechid": 238380,
+    "teamtechid": 1357,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 0,
+    "useinfut": 0,
+    "hastifo": 1,
+    "playertechid": 238388,
+    "teamtechid": 1,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 0,
+    "useinfut": 1,
+    "hastifo": 1,
+    "playertechid": 238388,
+    "teamtechid": 105035,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 0,
+    "useinfut": 0,
+    "hastifo": 1,
+    "playertechid": 243029,
+    "teamtechid": 1,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 0,
+    "useinfut": 1,
+    "hastifo": 1,
+    "playertechid": 243029,
+    "teamtechid": 1318,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 0,
+    "useinfut": 0,
+    "hastifo": 1,
+    "playertechid": 247515,
+    "teamtechid": 9,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 0,
+    "useinfut": 1,
+    "hastifo": 1,
+    "playertechid": 247515,
+    "teamtechid": 1318,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 0,
+    "useinfut": 1,
+    "hastifo": 1,
+    "playertechid": 247553,
+    "teamtechid": 1370,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 0,
+    "useinfut": 0,
+    "hastifo": 1,
+    "playertechid": 247699,
+    "teamtechid": 9,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 0,
+    "useinfut": 1,
+    "hastifo": 1,
+    "playertechid": 247699,
+    "teamtechid": 1359,
+    "isnew": 0
+  },
+  {
+    "legend": 1,
+    "hasbanner": 0,
+    "useinfut": 0,
+    "hastifo": 1,
+    "playertechid": 248146,
+    "teamtechid": 1,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 0,
+    "useinfut": 1,
+    "hastifo": 1,
+    "playertechid": 248146,
+    "teamtechid": 1318,
+    "isnew": 1
+  },
+  {
+    "legend": 1,
+    "hasbanner": 0,
+    "useinfut": 0,
+    "hastifo": 1,
+    "playertechid": 248154,
+    "teamtechid": 1799,
+    "isnew": 1
+  }
+]

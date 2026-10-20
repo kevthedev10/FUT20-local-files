@@ -1,0 +1,1106 @@
+[
+  {
+    "ballid": 0,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 1,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 2,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 3,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 4,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 5,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 6,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 7,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 8,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 9,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 10,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 11,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 12,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 13,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 14,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 15,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 16,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 17,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 18,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 19,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 20,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 21,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 22,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 23,
+    "balltype": 1,
+    "powid": 913,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 24,
+    "balltype": 1,
+    "powid": 914,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 25,
+    "balltype": 1,
+    "powid": 915,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 26,
+    "balltype": 1,
+    "powid": 916,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 27,
+    "balltype": 1,
+    "powid": 858,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 28,
+    "balltype": 1,
+    "powid": 865,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 29,
+    "balltype": 1,
+    "powid": 923,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 30,
+    "balltype": 1,
+    "powid": 924,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 31,
+    "balltype": 1,
+    "powid": 859,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 32,
+    "balltype": 1,
+    "powid": 860,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 33,
+    "balltype": 1,
+    "powid": 861,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 34,
+    "balltype": 1,
+    "powid": 862,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 35,
+    "balltype": 1,
+    "powid": 863,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 36,
+    "balltype": 7,
+    "powid": 905,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 37,
+    "balltype": 1,
+    "powid": 864,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 40,
+    "balltype": 7,
+    "powid": 866,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 41,
+    "balltype": 1,
+    "powid": 906,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 42,
+    "balltype": 1,
+    "powid": 867,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 43,
+    "balltype": 7,
+    "powid": 868,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 44,
+    "balltype": 7,
+    "powid": 869,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 47,
+    "balltype": 1,
+    "powid": 871,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 48,
+    "balltype": 1,
+    "powid": 872,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 49,
+    "balltype": 1,
+    "powid": 907,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 50,
+    "balltype": 1,
+    "powid": 908,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 52,
+    "balltype": 1,
+    "powid": 925,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 55,
+    "balltype": 1,
+    "powid": 875,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 57,
+    "balltype": 1,
+    "powid": 876,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 58,
+    "balltype": 1,
+    "powid": 877,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 59,
+    "balltype": 1,
+    "powid": 909,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 60,
+    "balltype": 1,
+    "powid": 910,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 61,
+    "balltype": 1,
+    "powid": 878,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 62,
+    "balltype": 7,
+    "powid": 911,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 63,
+    "balltype": 1,
+    "powid": 912,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 66,
+    "balltype": 1,
+    "powid": 879,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 67,
+    "balltype": 1,
+    "powid": 880,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 68,
+    "balltype": 1,
+    "powid": 881,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 69,
+    "balltype": 7,
+    "powid": 882,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 70,
+    "balltype": 1,
+    "powid": 926,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 73,
+    "balltype": 1,
+    "powid": 927,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 76,
+    "balltype": 3,
+    "powid": 928,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 77,
+    "balltype": 1,
+    "powid": 929,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 80,
+    "balltype": 1,
+    "powid": 937,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 82,
+    "balltype": 6,
+    "powid": -1,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 83,
+    "balltype": 7,
+    "powid": 935,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 84,
+    "balltype": 7,
+    "powid": 930,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 97,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 102,
+    "balltype": 1,
+    "powid": 693,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 103,
+    "balltype": 7,
+    "powid": 710,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 104,
+    "balltype": 7,
+    "powid": 711,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 105,
+    "balltype": 7,
+    "powid": 712,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 106,
+    "balltype": 7,
+    "powid": 713,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 107,
+    "balltype": 1,
+    "powid": 694,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 108,
+    "balltype": 1,
+    "powid": 695,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 109,
+    "balltype": 7,
+    "powid": -1,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 110,
+    "balltype": 7,
+    "powid": -1,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 111,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 114,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 115,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 116,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 117,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 118,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 119,
+    "balltype": 7,
+    "powid": -1,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 120,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 122,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 124,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 125,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 126,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 127,
+    "balltype": 7,
+    "powid": -1,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 128,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 130,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 132,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 133,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 134,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 139,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 140,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 141,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 142,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 143,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 144,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 145,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 146,
+    "balltype": 7,
+    "powid": -1,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 147,
+    "balltype": 7,
+    "powid": -1,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 148,
+    "balltype": 7,
+    "powid": -1,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 149,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 150,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 151,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 152,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 153,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 154,
+    "balltype": 7,
+    "powid": -1,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 155,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 156,
+    "balltype": 7,
+    "powid": -1,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 1
+  },
+  {
+    "ballid": 158,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 159,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 1,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 200,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 201,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 202,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 203,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 204,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 205,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 206,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 207,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 208,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 209,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 210,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 211,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 212,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 213,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 214,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 215,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 216,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 217,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 218,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 219,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 220,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  },
+  {
+    "ballid": 221,
+    "balltype": 1,
+    "powid": -1,
+    "islicensed": 0,
+    "isembargoed": 0,
+    "isavailableinstore": 0
+  }
+]

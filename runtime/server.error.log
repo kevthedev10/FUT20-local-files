@@ -1,0 +1,22 @@
+2026-10-20 07:39:18,791 INFO [Config] Loaded config from D:\backups\! downloads c backup\fifa20-complete\fifa20-complete\launcher-settings.json
+2026-10-20 07:39:18,794 INFO [DB] SQLite path D:\backups\! downloads c backup\fifa20-complete\fifa20-complete\runtime\data\localfut20.sqlite3
+2026-10-20 07:39:18,795 INFO [FUT] Loaded 24268 FIFA 20 player definitions
+2026-10-20 07:39:18,795 INFO [FUT] Loaded 184 FUT manager definitions
+2026-10-20 07:39:18,808 INFO [FUT] Special rarity pools: {3: 786, 4: 23, 5: 12, 6: 1, 8: 101, 12: 269, 21: 28, 22: 31, 24: 40, 25: 12, 28: 5, 30: 37, 32: 31, 42: 11, 43: 10, 45: 40, 46: 19, 47: 181, 48: 350, 49: 18, 50: 31, 51: 55, 52: 523, 53: 486, 54: 12, 56: 31, 58: 123, 60: 33, 61: 71, 64: 56, 65: 12, 66: 280, 67: 2, 68: 4, 70: 23, 71: 33, 72: 16, 73: 6, 79: 5, 81: 20, 84: 89, 85: 10, 86: 6, 90: 37, 91: 47, 92: 24, 93: 6, 95: 35, 97: 32}
+2026-10-20 07:39:18,812 INFO Enriched 11 existing FUT player items and migrated legacy Icon IDs
+2026-10-20 07:39:18,814 INFO [FIFA20] State: START component=FIFA20 session=- detail=runtime imported
+2026-10-20 07:39:18,832 INFO Bound REQUIRED FUT on 127.0.0.1:8080
+2026-10-20 07:39:18,832 INFO Bound REQUIRED Blaze on 127.0.0.1:44321
+2026-10-20 07:39:18,833 INFO Bound optional FUT-compat on 127.0.0.1:8081
+2026-10-20 07:39:18,834 INFO Bound optional Cleartext-redirector-debug on 127.0.0.1:42231
+2026-10-20 07:39:18,834 INFO Bound optional QoS on 127.0.0.1:17502
+2026-10-20 07:39:18,835 INFO Bound optional EASW on 127.0.0.1:42232
+2026-10-20 07:39:18,835 INFO Bound optional Origin-LSX on 127.0.0.1:3216
+D:\backups\! downloads c backup\fifa20-complete\fifa20-complete\localfut20\server.py:15201: DeprecationWarning: ssl.TLSVersion.TLSv1 is deprecated
+  ctx.minimum_version = ssl.TLSVersion.TLSv1
+2026-10-20 07:39:18,843 INFO Bound optional FUT-TLS on 127.0.0.1:443 cert=spring18-cert.pem
+2026-10-20 07:39:18,845 INFO [FIFA20] State: LOCAL_SERVICES_READY component=FIFA20 session=- detail=Blaze 127.0.0.1:44321 FUT 127.0.0.1:8080
+2026-10-20 07:39:18,846 INFO [FIFA20] Required localhost services ready; FUT READY is not reported until /ut/game/fifa20/hub is reached
+2026-10-20 07:39:18,846 INFO [FIX22] Retail hand-off after ACCOUNT is /connect/auth?response_type=code, then POST /ut/auth
+2026-10-20 07:39:18,847 INFO [FIX22] After ACCOUNT watch for: [FUT-HANDOFF], /ut/auth, /ut/game/fifa20/hub, or TLS handshake lines
+2026-10-20 07:39:18,847 INFO [FIX18] FUT-TLS listening on 443 — post-accountinfo HTTPS auth should appear here if client uses utas.* hosts

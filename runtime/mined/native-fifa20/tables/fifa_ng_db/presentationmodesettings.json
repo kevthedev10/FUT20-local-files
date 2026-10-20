@@ -1,0 +1,282 @@
+[
+  {
+    "modetypestr": "DEFAULT",
+    "isuniqueadboardsmodeenabled": 0,
+    "isgoallinetechforceenabled": 0,
+    "iscompetitionspecificboardsmodeenabled": 0,
+    "modeid": -1
+  },
+  {
+    "modetypestr": "MATCHTYPE_FRIENDLY",
+    "isuniqueadboardsmodeenabled": 1,
+    "isgoallinetechforceenabled": 0,
+    "iscompetitionspecificboardsmodeenabled": 0,
+    "modeid": 1
+  },
+  {
+    "modetypestr": "MATCHTYPE_BEAPRO",
+    "isuniqueadboardsmodeenabled": 0,
+    "isgoallinetechforceenabled": 0,
+    "iscompetitionspecificboardsmodeenabled": 0,
+    "modeid": 2
+  },
+  {
+    "modetypestr": "MATCHTYPE_BEAPROSEASON",
+    "isuniqueadboardsmodeenabled": 0,
+    "isgoallinetechforceenabled": 0,
+    "iscompetitionspecificboardsmodeenabled": 0,
+    "modeid": 3
+  },
+  {
+    "modetypestr": "MATCHTYPE_BAG",
+    "isuniqueadboardsmodeenabled": 0,
+    "isgoallinetechforceenabled": 0,
+    "iscompetitionspecificboardsmodeenabled": 0,
+    "modeid": 4
+  },
+  {
+    "modetypestr": "MATCHTYPE_ONLINE",
+    "isuniqueadboardsmodeenabled": 0,
+    "isgoallinetechforceenabled": 0,
+    "iscompetitionspecificboardsmodeenabled": 0,
+    "modeid": 5
+  },
+  {
+    "modetypestr": "MATCHTYPE_SEASON",
+    "isuniqueadboardsmodeenabled": 1,
+    "isgoallinetechforceenabled": 0,
+    "iscompetitionspecificboardsmodeenabled": 0,
+    "modeid": 6
+  },
+  {
+    "modetypestr": "MATCHTYPE_CUP",
+    "isuniqueadboardsmodeenabled": 0,
+    "isgoallinetechforceenabled": 0,
+    "iscompetitionspecificboardsmodeenabled": 0,
+    "modeid": 7
+  },
+  {
+    "modetypestr": "MATCHTYPE_TOURNAMENT",
+    "isuniqueadboardsmodeenabled": 1,
+    "isgoallinetechforceenabled": 0,
+    "iscompetitionspecificboardsmodeenabled": 1,
+    "modeid": 8
+  },
+  {
+    "modetypestr": "MATCHTYPE_CAREERMODE",
+    "isuniqueadboardsmodeenabled": 1,
+    "isgoallinetechforceenabled": 0,
+    "iscompetitionspecificboardsmodeenabled": 1,
+    "modeid": 9
+  },
+  {
+    "modetypestr": "MATCHTYPE_FUTSEASON",
+    "isuniqueadboardsmodeenabled": 0,
+    "isgoallinetechforceenabled": 1,
+    "iscompetitionspecificboardsmodeenabled": 0,
+    "modeid": 10
+  },
+  {
+    "modetypestr": "MATCHTYPE_FUTTOURNAMENT",
+    "isuniqueadboardsmodeenabled": 0,
+    "isgoallinetechforceenabled": 1,
+    "iscompetitionspecificboardsmodeenabled": 0,
+    "modeid": 11
+  },
+  {
+    "modetypestr": "MATCHTYPE_ONLINE_SEASON",
+    "isuniqueadboardsmodeenabled": 0,
+    "isgoallinetechforceenabled": 0,
+    "iscompetitionspecificboardsmodeenabled": 0,
+    "modeid": 12
+  },
+  {
+    "modetypestr": "MATCHTYPE_ONLINE_SEASON_CUP",
+    "isuniqueadboardsmodeenabled": 0,
+    "isgoallinetechforceenabled": 0,
+    "iscompetitionspecificboardsmodeenabled": 0,
+    "modeid": 13
+  },
+  {
+    "modetypestr": "MATCHTYPE_ONLINE_COOP_SEASON",
+    "isuniqueadboardsmodeenabled": 0,
+    "isgoallinetechforceenabled": 0,
+    "iscompetitionspecificboardsmodeenabled": 0,
+    "modeid": 14
+  },
+  {
+    "modetypestr": "MATCHTYPE_ONLINE_COOP_SEASON_CUP",
+    "isuniqueadboardsmodeenabled": 0,
+    "isgoallinetechforceenabled": 0,
+    "iscompetitionspecificboardsmodeenabled": 0,
+    "modeid": 15
+  },
+  {
+    "modetypestr": "MATCHTYPE_ONLINE_SPONSORED_EVENT",
+    "isuniqueadboardsmodeenabled": 1,
+    "isgoallinetechforceenabled": 0,
+    "iscompetitionspecificboardsmodeenabled": 1,
+    "modeid": 16
+  },
+  {
+    "modetypestr": "MATCHTYPE_ONLINE_FRIENDLY",
+    "isuniqueadboardsmodeenabled": 1,
+    "isgoallinetechforceenabled": 0,
+    "iscompetitionspecificboardsmodeenabled": 1,
+    "modeid": 17
+  },
+  {
+    "modetypestr": "MATCHTYPE_ONLINE_CLUB",
+    "isuniqueadboardsmodeenabled": 0,
+    "isgoallinetechforceenabled": 0,
+    "iscompetitionspecificboardsmodeenabled": 0,
+    "modeid": 18
+  },
+  {
+    "modetypestr": "MATCHTYPE_ONLINE_CLUB_CUP",
+    "isuniqueadboardsmodeenabled": 0,
+    "isgoallinetechforceenabled": 0,
+    "iscompetitionspecificboardsmodeenabled": 0,
+    "modeid": 19
+  },
+  {
+    "modetypestr": "MATCHTYPE_ONLINE_DROP_IN_MATCH",
+    "isuniqueadboardsmodeenabled": 0,
+    "isgoallinetechforceenabled": 0,
+    "iscompetitionspecificboardsmodeenabled": 0,
+    "modeid": 20
+  },
+  {
+    "modetypestr": "MATCHTYPE_ONLINE_OTP_QUICK_MATCH",
+    "isuniqueadboardsmodeenabled": 0,
+    "isgoallinetechforceenabled": 0,
+    "iscompetitionspecificboardsmodeenabled": 0,
+    "modeid": 21
+  },
+  {
+    "modetypestr": "MATCHTYPE_ONLINE_H2H_UNRANKED",
+    "isuniqueadboardsmodeenabled": 0,
+    "isgoallinetechforceenabled": 0,
+    "iscompetitionspecificboardsmodeenabled": 0,
+    "modeid": 22
+  },
+  {
+    "modetypestr": "MATCHTYPE_ONLINE_OTP_UNRANKED",
+    "isuniqueadboardsmodeenabled": 0,
+    "isgoallinetechforceenabled": 0,
+    "iscompetitionspecificboardsmodeenabled": 0,
+    "modeid": 23
+  },
+  {
+    "modetypestr": "MATCHTYPE_FUTTOTW",
+    "isuniqueadboardsmodeenabled": 0,
+    "isgoallinetechforceenabled": 1,
+    "iscompetitionspecificboardsmodeenabled": 0,
+    "modeid": 24
+  },
+  {
+    "modetypestr": "MATCHTYPE_FUTFRIENDLY",
+    "isuniqueadboardsmodeenabled": 0,
+    "isgoallinetechforceenabled": 1,
+    "iscompetitionspecificboardsmodeenabled": 0,
+    "modeid": 25
+  },
+  {
+    "modetypestr": "MATCHTYPE_FUTONLINE_H2H",
+    "isuniqueadboardsmodeenabled": 0,
+    "isgoallinetechforceenabled": 1,
+    "iscompetitionspecificboardsmodeenabled": 0,
+    "modeid": 26
+  },
+  {
+    "modetypestr": "MATCHTYPE_FUTFRIENDLY_SEASON",
+    "isuniqueadboardsmodeenabled": 0,
+    "isgoallinetechforceenabled": 1,
+    "iscompetitionspecificboardsmodeenabled": 0,
+    "modeid": 27
+  },
+  {
+    "modetypestr": "MATCHTYPE_FUTDRAFT",
+    "isuniqueadboardsmodeenabled": 0,
+    "isgoallinetechforceenabled": 1,
+    "iscompetitionspecificboardsmodeenabled": 0,
+    "modeid": 28
+  },
+  {
+    "modetypestr": "MATCHTYPE_STORYMODE",
+    "isuniqueadboardsmodeenabled": 1,
+    "isgoallinetechforceenabled": 0,
+    "iscompetitionspecificboardsmodeenabled": 1,
+    "modeid": 29
+  },
+  {
+    "modetypestr": "MATCHTYPE_FUTCHAMPIONS",
+    "isuniqueadboardsmodeenabled": 0,
+    "isgoallinetechforceenabled": 1,
+    "iscompetitionspecificboardsmodeenabled": 0,
+    "modeid": 30
+  },
+  {
+    "modetypestr": "MATCHTYPE_SQUADBATTLE",
+    "isuniqueadboardsmodeenabled": 0,
+    "isgoallinetechforceenabled": 1,
+    "iscompetitionspecificboardsmodeenabled": 0,
+    "modeid": 31
+  },
+  {
+    "modetypestr": "MATCHTYPE_STORYMODE_TRAINING",
+    "isuniqueadboardsmodeenabled": 0,
+    "isgoallinetechforceenabled": 0,
+    "iscompetitionspecificboardsmodeenabled": 0,
+    "modeid": 32
+  },
+  {
+    "modetypestr": "MATCHTYPE_FUTSAVEDINPUT",
+    "isuniqueadboardsmodeenabled": 0,
+    "isgoallinetechforceenabled": 0,
+    "iscompetitionspecificboardsmodeenabled": 0,
+    "modeid": 33
+  },
+  {
+    "modetypestr": "MATCHTYPE_ONLINE_RIVALS",
+    "isuniqueadboardsmodeenabled": 0,
+    "isgoallinetechforceenabled": 1,
+    "iscompetitionspecificboardsmodeenabled": 0,
+    "modeid": 34
+  },
+  {
+    "modetypestr": "MATCHTYPE_ADVANCE_EPP",
+    "isuniqueadboardsmodeenabled": 0,
+    "isgoallinetechforceenabled": 0,
+    "iscompetitionspecificboardsmodeenabled": 0,
+    "modeid": 35
+  },
+  {
+    "modetypestr": "MATCHTYPE_WORLD_TOUR",
+    "isuniqueadboardsmodeenabled": 0,
+    "isgoallinetechforceenabled": 0,
+    "iscompetitionspecificboardsmodeenabled": 0,
+    "modeid": 36
+  },
+  {
+    "modetypestr": "MATCHTYPE_SSF_SEASONS",
+    "isuniqueadboardsmodeenabled": 0,
+    "isgoallinetechforceenabled": 0,
+    "iscompetitionspecificboardsmodeenabled": 0,
+    "modeid": 37
+  },
+  {
+    "modetypestr": "MATCHTYPE_ONLINE_ORGANIZED_TOURNAMENT",
+    "isuniqueadboardsmodeenabled": 0,
+    "isgoallinetechforceenabled": 0,
+    "iscompetitionspecificboardsmodeenabled": 0,
+    "modeid": 38
+  },
+  {
+    "modetypestr": "MATCHTYPE_FUTFRIENDLY_COMPETITIVE",
+    "isuniqueadboardsmodeenabled": 0,
+    "isgoallinetechforceenabled": 0,
+    "iscompetitionspecificboardsmodeenabled": 0,
+    "modeid": 39
+  }
+]

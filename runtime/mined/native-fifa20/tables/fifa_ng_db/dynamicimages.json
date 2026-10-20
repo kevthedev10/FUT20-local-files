@@ -1,0 +1,1852 @@
+[
+  {
+    "basecolour": "0xE1131C",
+    "name": "F95_1",
+    "dynamicimageid": 1
+  },
+  {
+    "basecolour": "0x18345E",
+    "name": "Hyundai",
+    "dynamicimageid": 2
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "center_3000",
+    "dynamicimageid": 3
+  },
+  {
+    "basecolour": "0x022D96",
+    "name": "HerthaBSCeSport",
+    "dynamicimageid": 4
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "F95_2",
+    "dynamicimageid": 5
+  },
+  {
+    "basecolour": "0xE6E6E6",
+    "name": "SportsDirect",
+    "dynamicimageid": 6
+  },
+  {
+    "basecolour": "0x005B9B",
+    "name": "center_1",
+    "dynamicimageid": 7
+  },
+  {
+    "basecolour": "0xE21F26",
+    "name": "Bayer3",
+    "dynamicimageid": 8
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "center_3001",
+    "dynamicimageid": 9
+  },
+  {
+    "basecolour": "0x022D96",
+    "name": "DZGB",
+    "dynamicimageid": 10
+  },
+  {
+    "basecolour": "0x369E55",
+    "name": "AOK",
+    "dynamicimageid": 11
+  },
+  {
+    "basecolour": "0xE20613",
+    "name": "BayerShop",
+    "dynamicimageid": 12
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "center_66",
+    "dynamicimageid": 13
+  },
+  {
+    "basecolour": "0x4B2885",
+    "name": "SCB",
+    "dynamicimageid": 14
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "center_223",
+    "dynamicimageid": 15
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "center_224",
+    "dynamicimageid": 16
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "center_232",
+    "dynamicimageid": 17
+  },
+  {
+    "basecolour": "0x004B9C",
+    "name": "FCSchalke01",
+    "dynamicimageid": 18
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "FohlenShop",
+    "dynamicimageid": 19
+  },
+  {
+    "basecolour": "0x003561",
+    "name": "FCN_01",
+    "dynamicimageid": 20
+  },
+  {
+    "basecolour": "0xC20F2C",
+    "name": "FCN_02",
+    "dynamicimageid": 21
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "WerkB",
+    "dynamicimageid": 22
+  },
+  {
+    "basecolour": "0xC20F2C",
+    "name": "FCN_03",
+    "dynamicimageid": 23
+  },
+  {
+    "basecolour": "0xC20F2C",
+    "name": "FCN_04",
+    "dynamicimageid": 24
+  },
+  {
+    "basecolour": "0x000008",
+    "name": "Horluchs",
+    "dynamicimageid": 25
+  },
+  {
+    "basecolour": "0xC20F2C",
+    "name": "FCN_05",
+    "dynamicimageid": 26
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "Germany1",
+    "dynamicimageid": 27
+  },
+  {
+    "basecolour": "0xFFCC00",
+    "name": "DHL",
+    "dynamicimageid": 28
+  },
+  {
+    "basecolour": "0x121C4E",
+    "name": "PSG1",
+    "dynamicimageid": 29
+  },
+  {
+    "basecolour": "0xEC1846",
+    "name": "Netherlands1",
+    "dynamicimageid": 30
+  },
+  {
+    "basecolour": "0x09183C",
+    "name": "center_205",
+    "dynamicimageid": 31
+  },
+  {
+    "basecolour": "0x004B9C",
+    "name": "FCSchalke02",
+    "dynamicimageid": 32
+  },
+  {
+    "basecolour": "0x6D6E71",
+    "name": "VFLO8",
+    "dynamicimageid": 33
+  },
+  {
+    "basecolour": "0x132345",
+    "name": "center_217",
+    "dynamicimageid": 34
+  },
+  {
+    "basecolour": "0x00529C",
+    "name": "EvertonDirect",
+    "dynamicimageid": 35
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "Puma",
+    "dynamicimageid": 36
+  },
+  {
+    "basecolour": "0x034EA2",
+    "name": "LeicesterKingPower",
+    "dynamicimageid": 37
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "PumaForeverFaster",
+    "dynamicimageid": 38
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "BurnleyOak",
+    "dynamicimageid": 39
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "BHAFC_Membership",
+    "dynamicimageid": 40
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "center_207",
+    "dynamicimageid": 41
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "tournament_207",
+    "dynamicimageid": 42
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "center_990",
+    "dynamicimageid": 43
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "KiaWC",
+    "dynamicimageid": 44
+  },
+  {
+    "basecolour": "0x035CB5",
+    "name": "BHAFC_Social",
+    "dynamicimageid": 45
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "Eintracht",
+    "dynamicimageid": 46
+  },
+  {
+    "basecolour": "0x71BF4F",
+    "name": "center_233",
+    "dynamicimageid": 47
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "BurnleyJames",
+    "dynamicimageid": 48
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "F95_3",
+    "dynamicimageid": 49
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "BurnleyClarets",
+    "dynamicimageid": 50
+  },
+  {
+    "basecolour": "0x231F20",
+    "name": "USA1",
+    "dynamicimageid": 51
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "BHAFC_Community",
+    "dynamicimageid": 52
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "F95_4",
+    "dynamicimageid": 53
+  },
+  {
+    "basecolour": "0x2E3233",
+    "name": "BayerBiofruit",
+    "dynamicimageid": 54
+  },
+  {
+    "basecolour": "0x1D1D1B",
+    "name": "Portugal1",
+    "dynamicimageid": 55
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "VisitRwanda",
+    "dynamicimageid": 56
+  },
+  {
+    "basecolour": "0x0054A6",
+    "name": "BHAFC_DotCom",
+    "dynamicimageid": 57
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "Japan1",
+    "dynamicimageid": 58
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "Japan2",
+    "dynamicimageid": 59
+  },
+  {
+    "basecolour": "0x008973",
+    "name": "Japan3",
+    "dynamicimageid": 60
+  },
+  {
+    "basecolour": "0x153C6B",
+    "name": "Mexico1",
+    "dynamicimageid": 61
+  },
+  {
+    "basecolour": "0x2A2557",
+    "name": "Mexico2",
+    "dynamicimageid": 62
+  },
+  {
+    "basecolour": "0xD7DF21",
+    "name": "center_16",
+    "dynamicimageid": 63
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "center_17",
+    "dynamicimageid": 64
+  },
+  {
+    "basecolour": "0x009EE0",
+    "name": "Bayer4",
+    "dynamicimageid": 65
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "teamAsOne",
+    "dynamicimageid": 66
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "Spain1",
+    "dynamicimageid": 67
+  },
+  {
+    "basecolour": "0xF4D5DD",
+    "name": "Italy1",
+    "dynamicimageid": 68
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "UNUSED_69",
+    "dynamicimageid": 69
+  },
+  {
+    "basecolour": "0x00529B",
+    "name": "Argentina1",
+    "dynamicimageid": 70
+  },
+  {
+    "basecolour": "0x008D4A",
+    "name": "center_206",
+    "dynamicimageid": 71
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "Spain2",
+    "dynamicimageid": 72
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "Spain3",
+    "dynamicimageid": 73
+  },
+  {
+    "basecolour": "0xCB2231",
+    "name": "Chile1",
+    "dynamicimageid": 74
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "center_2076",
+    "dynamicimageid": 75
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "France1",
+    "dynamicimageid": 76
+  },
+  {
+    "basecolour": "0x110B19",
+    "name": "France2",
+    "dynamicimageid": 77
+  },
+  {
+    "basecolour": "0x1F579E",
+    "name": "LcfcCom",
+    "dynamicimageid": 78
+  },
+  {
+    "basecolour": "0x9F141E",
+    "name": "center_335",
+    "dynamicimageid": 79
+  },
+  {
+    "basecolour": "0x144865",
+    "name": "Colombia1",
+    "dynamicimageid": 80
+  },
+  {
+    "basecolour": "0x3966A3",
+    "name": "SCP1",
+    "dynamicimageid": 81
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "SCP2",
+    "dynamicimageid": 82
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "Spain4",
+    "dynamicimageid": 83
+  },
+  {
+    "basecolour": "0xD73E7A",
+    "name": "FujiInstax",
+    "dynamicimageid": 84
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "FohlenApp",
+    "dynamicimageid": 85
+  },
+  {
+    "basecolour": "0xE20074",
+    "name": "Telekom",
+    "dynamicimageid": 86
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "SAP",
+    "dynamicimageid": 87
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "England1",
+    "dynamicimageid": 88
+  },
+  {
+    "basecolour": "0x2A317D",
+    "name": "England2",
+    "dynamicimageid": 89
+  },
+  {
+    "basecolour": "0x231F20",
+    "name": "Newcastle1",
+    "dynamicimageid": 90
+  },
+  {
+    "basecolour": "0x231F20",
+    "name": "Newcastle2",
+    "dynamicimageid": 91
+  },
+  {
+    "basecolour": "0x231F20",
+    "name": "Newcastle3",
+    "dynamicimageid": 92
+  },
+  {
+    "basecolour": "0x231F20",
+    "name": "Newcastle4",
+    "dynamicimageid": 93
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "Newcastle5",
+    "dynamicimageid": 94
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "F95_5",
+    "dynamicimageid": 95
+  },
+  {
+    "basecolour": "0x00315C",
+    "name": "TSGClaim",
+    "dynamicimageid": 96
+  },
+  {
+    "basecolour": "0x00315C",
+    "name": "TSGURL",
+    "dynamicimageid": 97
+  },
+  {
+    "basecolour": "0xFFCD00",
+    "name": "Postbank",
+    "dynamicimageid": 98
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "Rosbacher",
+    "dynamicimageid": 99
+  },
+  {
+    "basecolour": "0xE51C1C",
+    "name": "SCP3",
+    "dynamicimageid": 100
+  },
+  {
+    "basecolour": "0xFF3030",
+    "name": "EmiratesRM",
+    "dynamicimageid": 101
+  },
+  {
+    "basecolour": "0x1F4396",
+    "name": "DeutscheBank",
+    "dynamicimageid": 102
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "Kaspersky",
+    "dynamicimageid": 103
+  },
+  {
+    "basecolour": "0x00559E",
+    "name": "Fraport",
+    "dynamicimageid": 104
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "UNUSED_105",
+    "dynamicimageid": 105
+  },
+  {
+    "basecolour": "0x000002",
+    "name": "indeed",
+    "dynamicimageid": 106
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "NikeFootball2",
+    "dynamicimageid": 107
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "shopeintrachtde",
+    "dynamicimageid": 108
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "WWKVersicherungen",
+    "dynamicimageid": 109
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "NikeFootball",
+    "dynamicimageid": 110
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "PCIFurBauProfis",
+    "dynamicimageid": 111
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "PitztalDadDachTirols",
+    "dynamicimageid": 112
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "Heinz",
+    "dynamicimageid": 113
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "Everton_Eitc",
+    "dynamicimageid": 114
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "Niemals",
+    "dynamicimageid": 115
+  },
+  {
+    "basecolour": "0x009E3D",
+    "name": "Hannover1896",
+    "dynamicimageid": 116
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "H96Plus",
+    "dynamicimageid": 117
+  },
+  {
+    "basecolour": "0xC8C8C8",
+    "name": "tournament_970",
+    "dynamicimageid": 118
+  },
+  {
+    "basecolour": "0xE6E6E6",
+    "name": "tournament_980",
+    "dynamicimageid": 119
+  },
+  {
+    "basecolour": "0xB9B9B9",
+    "name": "tournament_999",
+    "dynamicimageid": 120
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "H96Esports",
+    "dynamicimageid": 121
+  },
+  {
+    "basecolour": "0xD71920",
+    "name": "Emirates",
+    "dynamicimageid": 122
+  },
+  {
+    "basecolour": "0xB61118",
+    "name": "FCHHW",
+    "dynamicimageid": 123
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "FCHVoith",
+    "dynamicimageid": 124
+  },
+  {
+    "basecolour": "0x2D3F70",
+    "name": "FCHFacebook",
+    "dynamicimageid": 125
+  },
+  {
+    "basecolour": "0x2D3F70",
+    "name": "FCHInstagram",
+    "dynamicimageid": 126
+  },
+  {
+    "basecolour": "0x2D3F70",
+    "name": "FCHTwitter",
+    "dynamicimageid": 127
+  },
+  {
+    "basecolour": "0xCC2228",
+    "name": "FCKoln1",
+    "dynamicimageid": 128
+  },
+  {
+    "basecolour": "0x0064CC",
+    "name": "FCKoln2",
+    "dynamicimageid": 129
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "FCKoln3",
+    "dynamicimageid": 130
+  },
+  {
+    "basecolour": "0x226E13",
+    "name": "Fussballschule",
+    "dynamicimageid": 131
+  },
+  {
+    "basecolour": "0x0D253F",
+    "name": "FCA_Baramundi",
+    "dynamicimageid": 132
+  },
+  {
+    "basecolour": "0xBC0022",
+    "name": "VfBYoutube",
+    "dynamicimageid": 133
+  },
+  {
+    "basecolour": "0x231F20",
+    "name": "FujiFilm",
+    "dynamicimageid": 134
+  },
+  {
+    "basecolour": "0x008AC9",
+    "name": "JAKO",
+    "dynamicimageid": 135
+  },
+  {
+    "basecolour": "0xCB0026",
+    "name": "shopvfbde",
+    "dynamicimageid": 136
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "fischer",
+    "dynamicimageid": 137
+  },
+  {
+    "basecolour": "0xBC0022",
+    "name": "VfBeSports",
+    "dynamicimageid": 138
+  },
+  {
+    "basecolour": "0xBB0025",
+    "name": "VfBAkademie",
+    "dynamicimageid": 139
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "VfBFMBA",
+    "dynamicimageid": 140
+  },
+  {
+    "basecolour": "0x5C2E91",
+    "name": "PSG2",
+    "dynamicimageid": 141
+  },
+  {
+    "basecolour": "0xFEE600",
+    "name": "BVP1",
+    "dynamicimageid": 142
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "BVP2",
+    "dynamicimageid": 143
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "BVP3",
+    "dynamicimageid": 144
+  },
+  {
+    "basecolour": "0xD6171F",
+    "name": "SaintsTwitter",
+    "dynamicimageid": 145
+  },
+  {
+    "basecolour": "0xD6171F",
+    "name": "SaintsFacebook",
+    "dynamicimageid": 146
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "BVP4",
+    "dynamicimageid": 147
+  },
+  {
+    "basecolour": "0x1080C2",
+    "name": "BVP5",
+    "dynamicimageid": 148
+  },
+  {
+    "basecolour": "0xEC671A",
+    "name": "BVP6",
+    "dynamicimageid": 149
+  },
+  {
+    "basecolour": "0xFEE600",
+    "name": "BVP7",
+    "dynamicimageid": 150
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "FohlenTv",
+    "dynamicimageid": 151
+  },
+  {
+    "basecolour": "0x762319",
+    "name": "FCA_01",
+    "dynamicimageid": 152
+  },
+  {
+    "basecolour": "0x5A7B59",
+    "name": "FCA_02",
+    "dynamicimageid": 153
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "FCA_Thomsit",
+    "dynamicimageid": 154
+  },
+  {
+    "basecolour": "0x77251B",
+    "name": "FCA_03",
+    "dynamicimageid": 155
+  },
+  {
+    "basecolour": "0x074F9B",
+    "name": "EuropaPark",
+    "dynamicimageid": 156
+  },
+  {
+    "basecolour": "0xE40521",
+    "name": "SCFreiburg",
+    "dynamicimageid": 157
+  },
+  {
+    "basecolour": "0xE40521",
+    "name": "SCF_Social",
+    "dynamicimageid": 158
+  },
+  {
+    "basecolour": "0x00963F",
+    "name": "HerthaAOK",
+    "dynamicimageid": 159
+  },
+  {
+    "basecolour": "0x333333",
+    "name": "Germany2",
+    "dynamicimageid": 160
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "ToyoTires",
+    "dynamicimageid": 161
+  },
+  {
+    "basecolour": "0x5E21C6",
+    "name": "FAHeadsUp",
+    "dynamicimageid": 162
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "Henkel",
+    "dynamicimageid": 163
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "WatfordWebsite",
+    "dynamicimageid": 164
+  },
+  {
+    "basecolour": "0x022D96",
+    "name": "HerthaTicketsDe",
+    "dynamicimageid": 165
+  },
+  {
+    "basecolour": "0x007BC3",
+    "name": "TEDi",
+    "dynamicimageid": 166
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "Mainz1",
+    "dynamicimageid": 167
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "Mainz2",
+    "dynamicimageid": 168
+  },
+  {
+    "basecolour": "0xABB3C1",
+    "name": "RedBull",
+    "dynamicimageid": 169
+  },
+  {
+    "basecolour": "0x36802A",
+    "name": "Rauch",
+    "dynamicimageid": 170
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "QCells",
+    "dynamicimageid": 171
+  },
+  {
+    "basecolour": "0xCE345C",
+    "name": "RBLApp",
+    "dynamicimageid": 172
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "wurth",
+    "dynamicimageid": 173
+  },
+  {
+    "basecolour": "0x1C7648",
+    "name": "WerderBremen01",
+    "dynamicimageid": 174
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "WerderStrom",
+    "dynamicimageid": 175
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "Conblu",
+    "dynamicimageid": 176
+  },
+  {
+    "basecolour": "0x1C7648",
+    "name": "WerderBremen02",
+    "dynamicimageid": 177
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "Wiesenhof",
+    "dynamicimageid": 178
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "Wohninvest",
+    "dynamicimageid": 179
+  },
+  {
+    "basecolour": "0x1C7648",
+    "name": "WerderBremen03",
+    "dynamicimageid": 180
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "VW",
+    "dynamicimageid": 181
+  },
+  {
+    "basecolour": "0x242C48",
+    "name": "Autostadt",
+    "dynamicimageid": 182
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "Linglong",
+    "dynamicimageid": 183
+  },
+  {
+    "basecolour": "0xA81E27",
+    "name": "Outlets",
+    "dynamicimageid": 184
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "UPS",
+    "dynamicimageid": 185
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "Wolfsburg01",
+    "dynamicimageid": 186
+  },
+  {
+    "basecolour": "0x62BB46",
+    "name": "Wolfsburg02",
+    "dynamicimageid": 187
+  },
+  {
+    "basecolour": "0xD24809",
+    "name": "Invitational",
+    "dynamicimageid": 188
+  },
+  {
+    "basecolour": "0x21407F",
+    "name": "Champions",
+    "dynamicimageid": 189
+  },
+  {
+    "basecolour": "0x7F87BE",
+    "name": "EuroInternational",
+    "dynamicimageid": 190
+  },
+  {
+    "basecolour": "0xBA082F",
+    "name": "NaAllstars",
+    "dynamicimageid": 191
+  },
+  {
+    "basecolour": "0x002F86",
+    "name": "LaAllstars",
+    "dynamicimageid": 192
+  },
+  {
+    "basecolour": "0xCD9325",
+    "name": "AsianElite",
+    "dynamicimageid": 193
+  },
+  {
+    "basecolour": "0x09758A",
+    "name": "EuroContinental",
+    "dynamicimageid": 194
+  },
+  {
+    "basecolour": "0x034084",
+    "name": "AmericanChallenge",
+    "dynamicimageid": 195
+  },
+  {
+    "basecolour": "0x00318C",
+    "name": "SaContinental",
+    "dynamicimageid": 196
+  },
+  {
+    "basecolour": "0x1F579E",
+    "name": "LcfcMedia",
+    "dynamicimageid": 197
+  },
+  {
+    "basecolour": "0x008C5A",
+    "name": "Spain5",
+    "dynamicimageid": 198
+  },
+  {
+    "basecolour": "0xE30A18",
+    "name": "LaLiga",
+    "dynamicimageid": 199
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "center_1007",
+    "dynamicimageid": 200
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "center_349",
+    "dynamicimageid": 201
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "center_3005",
+    "dynamicimageid": 202
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "Argentina2",
+    "dynamicimageid": 203
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "Chile2",
+    "dynamicimageid": 204
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "Italy2",
+    "dynamicimageid": 205
+  },
+  {
+    "basecolour": "0x1A1A1A",
+    "name": "Mexico3",
+    "dynamicimageid": 206
+  },
+  {
+    "basecolour": "0x0000FF",
+    "name": "Netherlands2",
+    "dynamicimageid": 207
+  },
+  {
+    "basecolour": "0xF7CC00",
+    "name": "Netherlands3",
+    "dynamicimageid": 208
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "PSG3",
+    "dynamicimageid": 209
+  },
+  {
+    "basecolour": "0xED1846",
+    "name": "England3",
+    "dynamicimageid": 210
+  },
+  {
+    "basecolour": "0x333333",
+    "name": "center_21",
+    "dynamicimageid": 211
+  },
+  {
+    "basecolour": "0xE9EBED",
+    "name": "Germany3",
+    "dynamicimageid": 212
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "Wolverhampton1",
+    "dynamicimageid": 213
+  },
+  {
+    "basecolour": "0xFDB813",
+    "name": "Wolverhampton2",
+    "dynamicimageid": 214
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "Wolverhampton3",
+    "dynamicimageid": 215
+  },
+  {
+    "basecolour": "0xFDB813",
+    "name": "Wolverhampton4",
+    "dynamicimageid": 216
+  },
+  {
+    "basecolour": "0xFDB813",
+    "name": "Wolverhampton5",
+    "dynamicimageid": 217
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "Wolverhampton6",
+    "dynamicimageid": 218
+  },
+  {
+    "basecolour": "0xFDB813",
+    "name": "Wolverhampton7",
+    "dynamicimageid": 219
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "Wolverhampton8",
+    "dynamicimageid": 220
+  },
+  {
+    "basecolour": "0x9C151B",
+    "name": "center_2136",
+    "dynamicimageid": 221
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "Fenger",
+    "dynamicimageid": 222
+  },
+  {
+    "basecolour": "0x2E2F2F",
+    "name": "GreenFarmCoffee",
+    "dynamicimageid": 223
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "Fosters",
+    "dynamicimageid": 224
+  },
+  {
+    "basecolour": "0x00CDBE",
+    "name": "Deliveroo",
+    "dynamicimageid": 225
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "Mazda",
+    "dynamicimageid": 226
+  },
+  {
+    "basecolour": "0x005193",
+    "name": "ABdomain",
+    "dynamicimageid": 227
+  },
+  {
+    "basecolour": "0x005193",
+    "name": "ABeSports",
+    "dynamicimageid": 228
+  },
+  {
+    "basecolour": "0x005193",
+    "name": "ABinstagram",
+    "dynamicimageid": 229
+  },
+  {
+    "basecolour": "0x005193",
+    "name": "ABLogo",
+    "dynamicimageid": 230
+  },
+  {
+    "basecolour": "0x005193",
+    "name": "ABshop",
+    "dynamicimageid": 231
+  },
+  {
+    "basecolour": "0x005193",
+    "name": "ABtwitch",
+    "dynamicimageid": 232
+  },
+  {
+    "basecolour": "0x301451",
+    "name": "Erzgebirge1",
+    "dynamicimageid": 233
+  },
+  {
+    "basecolour": "0x8BCBED",
+    "name": "Erzgebirge2",
+    "dynamicimageid": 234
+  },
+  {
+    "basecolour": "0x1C7CB3",
+    "name": "Erzgebirge3",
+    "dynamicimageid": 235
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "Erzgebirge4",
+    "dynamicimageid": 236
+  },
+  {
+    "basecolour": "0x000096",
+    "name": "Erzgebirge5",
+    "dynamicimageid": 237
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "Erzgebirge6",
+    "dynamicimageid": 238
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "Erzgebirge7",
+    "dynamicimageid": 239
+  },
+  {
+    "basecolour": "0x7AB752",
+    "name": "Erzgebirge8",
+    "dynamicimageid": 240
+  },
+  {
+    "basecolour": "0xFFE500",
+    "name": "Jahn1",
+    "dynamicimageid": 241
+  },
+  {
+    "basecolour": "0x183B72",
+    "name": "Jahn2",
+    "dynamicimageid": 242
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "Jahn3",
+    "dynamicimageid": 243
+  },
+  {
+    "basecolour": "0x0067B2",
+    "name": "Jahn4",
+    "dynamicimageid": 244
+  },
+  {
+    "basecolour": "0x56993D",
+    "name": "Jahn5",
+    "dynamicimageid": 245
+  },
+  {
+    "basecolour": "0xE3000F",
+    "name": "Jahn6",
+    "dynamicimageid": 246
+  },
+  {
+    "basecolour": "0xE3000F",
+    "name": "Jahn7",
+    "dynamicimageid": 247
+  },
+  {
+    "basecolour": "0xE3000F",
+    "name": "Jahn8",
+    "dynamicimageid": 248
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "VFLO1",
+    "dynamicimageid": 249
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "VFLO2",
+    "dynamicimageid": 250
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "VFLO3",
+    "dynamicimageid": 251
+  },
+  {
+    "basecolour": "0x6D6E71",
+    "name": "VFLO4",
+    "dynamicimageid": 252
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "VFLO5",
+    "dynamicimageid": 253
+  },
+  {
+    "basecolour": "0x6D6E71",
+    "name": "VFLO6",
+    "dynamicimageid": 254
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "VFLO7",
+    "dynamicimageid": 255
+  },
+  {
+    "basecolour": "0x009B3C",
+    "name": "SpVgg1",
+    "dynamicimageid": 256
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "SpVgg2",
+    "dynamicimageid": 257
+  },
+  {
+    "basecolour": "0x009B3C",
+    "name": "SpVgg3",
+    "dynamicimageid": 258
+  },
+  {
+    "basecolour": "0x007FB5",
+    "name": "SpVgg4",
+    "dynamicimageid": 259
+  },
+  {
+    "basecolour": "0x009B3C",
+    "name": "SpVgg5",
+    "dynamicimageid": 260
+  },
+  {
+    "basecolour": "0x009B3C",
+    "name": "SpVgg6",
+    "dynamicimageid": 261
+  },
+  {
+    "basecolour": "0x013B69",
+    "name": "VfL1",
+    "dynamicimageid": 262
+  },
+  {
+    "basecolour": "0x005A72",
+    "name": "VfL2",
+    "dynamicimageid": 263
+  },
+  {
+    "basecolour": "0x222221",
+    "name": "VfL3",
+    "dynamicimageid": 264
+  },
+  {
+    "basecolour": "0x013B69",
+    "name": "VfL4",
+    "dynamicimageid": 265
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "VfL5",
+    "dynamicimageid": 266
+  },
+  {
+    "basecolour": "0x013B69",
+    "name": "VfL6",
+    "dynamicimageid": 267
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "Sandhausen1",
+    "dynamicimageid": 268
+  },
+  {
+    "basecolour": "0x6B787E",
+    "name": "Sandhausen2",
+    "dynamicimageid": 269
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "Sandhausen3",
+    "dynamicimageid": 270
+  },
+  {
+    "basecolour": "0x6B787E",
+    "name": "Sandhausen4",
+    "dynamicimageid": 271
+  },
+  {
+    "basecolour": "0x6B787E",
+    "name": "Sandhausen5",
+    "dynamicimageid": 272
+  },
+  {
+    "basecolour": "0xC51011",
+    "name": "UnionBerlin1",
+    "dynamicimageid": 273
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "UnionBerlin2",
+    "dynamicimageid": 274
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "UnionBerlin3",
+    "dynamicimageid": 275
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "UnionBerlin4",
+    "dynamicimageid": 276
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "UnionBerlin5",
+    "dynamicimageid": 277
+  },
+  {
+    "basecolour": "0x294A96",
+    "name": "Hamburger1",
+    "dynamicimageid": 278
+  },
+  {
+    "basecolour": "0x294A96",
+    "name": "Hamburger2",
+    "dynamicimageid": 279
+  },
+  {
+    "basecolour": "0x294A96",
+    "name": "Hamburger3",
+    "dynamicimageid": 280
+  },
+  {
+    "basecolour": "0x294A96",
+    "name": "Hamburger4",
+    "dynamicimageid": 281
+  },
+  {
+    "basecolour": "0xCC2228",
+    "name": "LoveDynamo",
+    "dynamicimageid": 282
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "FANtastisch",
+    "dynamicimageid": 283
+  },
+  {
+    "basecolour": "0x7E1D47",
+    "name": "AstonKappa",
+    "dynamicimageid": 284
+  },
+  {
+    "basecolour": "0x670E36",
+    "name": "AstonAVFC",
+    "dynamicimageid": 285
+  },
+  {
+    "basecolour": "0x95BFE5",
+    "name": "AstonStore",
+    "dynamicimageid": 286
+  },
+  {
+    "basecolour": "0x670E36",
+    "name": "AstonOfficial",
+    "dynamicimageid": 287
+  },
+  {
+    "basecolour": "0x670E36",
+    "name": "AstonPOTP",
+    "dynamicimageid": 288
+  },
+  {
+    "basecolour": "0x95BFE5",
+    "name": "AstonShop",
+    "dynamicimageid": 289
+  },
+  {
+    "basecolour": "0x670E36",
+    "name": "AstonFoundation",
+    "dynamicimageid": 290
+  },
+  {
+    "basecolour": "0x670E36",
+    "name": "AstonSupport",
+    "dynamicimageid": 291
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "PauliHey",
+    "dynamicimageid": 292
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "PauliRegenbogen",
+    "dynamicimageid": 293
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "PauliUnd",
+    "dynamicimageid": 294
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "PauliLevis",
+    "dynamicimageid": 295
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "PauliRowe",
+    "dynamicimageid": 296
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "PauliTV",
+    "dynamicimageid": 297
+  },
+  {
+    "basecolour": "0xDAD9DC",
+    "name": "Rabauken",
+    "dynamicimageid": 298
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "KSC1",
+    "dynamicimageid": 299
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "KSC2",
+    "dynamicimageid": 300
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "KSC3",
+    "dynamicimageid": 301
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "KSC4",
+    "dynamicimageid": 302
+  },
+  {
+    "basecolour": "0x0D163A",
+    "name": "Wehen1",
+    "dynamicimageid": 303
+  },
+  {
+    "basecolour": "0x960000",
+    "name": "Wehen2",
+    "dynamicimageid": 304
+  },
+  {
+    "basecolour": "0x960000",
+    "name": "Wehen3",
+    "dynamicimageid": 305
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "Wehen4",
+    "dynamicimageid": 306
+  },
+  {
+    "basecolour": "0xB62822",
+    "name": "Mainz3",
+    "dynamicimageid": 307
+  },
+  {
+    "basecolour": "0xB62822",
+    "name": "Mainz4",
+    "dynamicimageid": 308
+  },
+  {
+    "basecolour": "0xB90E7E",
+    "name": "Darmstadt1",
+    "dynamicimageid": 309
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "Darmstadt2",
+    "dynamicimageid": 310
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "Darmstadt3",
+    "dynamicimageid": 311
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "Darmstadt4",
+    "dynamicimageid": 312
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "Darmstadt5",
+    "dynamicimageid": 313
+  },
+  {
+    "basecolour": "0x004E9E",
+    "name": "Darmstadt6",
+    "dynamicimageid": 314
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "Darmstadt7",
+    "dynamicimageid": 315
+  },
+  {
+    "basecolour": "0x182670",
+    "name": "Falken",
+    "dynamicimageid": 316
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "Retail",
+    "dynamicimageid": 317
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "SteelPhalt",
+    "dynamicimageid": 318
+  },
+  {
+    "basecolour": "0xF2EADF",
+    "name": "SUFCDirect",
+    "dynamicimageid": 319
+  },
+  {
+    "basecolour": "0x811810",
+    "name": "FollowSU",
+    "dynamicimageid": 320
+  },
+  {
+    "basecolour": "0x162159",
+    "name": "FeWCCenter",
+    "dynamicimageid": 321
+  },
+  {
+    "basecolour": "0xED1B24",
+    "name": "LaLiga2",
+    "dynamicimageid": 322
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "Holstein1",
+    "dynamicimageid": 323
+  },
+  {
+    "basecolour": "0x272727",
+    "name": "Holstein2",
+    "dynamicimageid": 324
+  },
+  {
+    "basecolour": "0xE00614",
+    "name": "Holstein3",
+    "dynamicimageid": 325
+  },
+  {
+    "basecolour": "0x003F82",
+    "name": "Holstein4",
+    "dynamicimageid": 326
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "Holstein5",
+    "dynamicimageid": 327
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "Holstein6",
+    "dynamicimageid": 328
+  },
+  {
+    "basecolour": "0xFFFFFF",
+    "name": "Holstein7",
+    "dynamicimageid": 329
+  },
+  {
+    "basecolour": "0x000000",
+    "name": "Holstein8",
+    "dynamicimageid": 330
+  },
+  {
+    "basecolour": "",
+    "name": "None",
+    "dynamicimageid": 331
+  },
+  {
+    "basecolour": "",
+    "name": "None",
+    "dynamicimageid": 332
+  },
+  {
+    "basecolour": "",
+    "name": "None",
+    "dynamicimageid": 333
+  },
+  {
+    "basecolour": "",
+    "name": "None",
+    "dynamicimageid": 334
+  },
+  {
+    "basecolour": "",
+    "name": "None",
+    "dynamicimageid": 335
+  },
+  {
+    "basecolour": "",
+    "name": "None",
+    "dynamicimageid": 336
+  },
+  {
+    "basecolour": "",
+    "name": "None",
+    "dynamicimageid": 337
+  },
+  {
+    "basecolour": "",
+    "name": "None",
+    "dynamicimageid": 338
+  },
+  {
+    "basecolour": "",
+    "name": "None",
+    "dynamicimageid": 339
+  },
+  {
+    "basecolour": "",
+    "name": "None",
+    "dynamicimageid": 340
+  },
+  {
+    "basecolour": "",
+    "name": "None",
+    "dynamicimageid": 341
+  },
+  {
+    "basecolour": "",
+    "name": "None",
+    "dynamicimageid": 342
+  },
+  {
+    "basecolour": "",
+    "name": "None",
+    "dynamicimageid": 343
+  },
+  {
+    "basecolour": "",
+    "name": "None",
+    "dynamicimageid": 344
+  },
+  {
+    "basecolour": "",
+    "name": "None",
+    "dynamicimageid": 345
+  },
+  {
+    "basecolour": "",
+    "name": "None",
+    "dynamicimageid": 346
+  },
+  {
+    "basecolour": "",
+    "name": "None",
+    "dynamicimageid": 347
+  },
+  {
+    "basecolour": "",
+    "name": "None",
+    "dynamicimageid": 348
+  },
+  {
+    "basecolour": "",
+    "name": "None",
+    "dynamicimageid": 349
+  },
+  {
+    "basecolour": "",
+    "name": "None",
+    "dynamicimageid": 350
+  },
+  {
+    "basecolour": "",
+    "name": "None",
+    "dynamicimageid": 351
+  },
+  {
+    "basecolour": "",
+    "name": "None",
+    "dynamicimageid": 352
+  },
+  {
+    "basecolour": "",
+    "name": "None",
+    "dynamicimageid": 353
+  },
+  {
+    "basecolour": "",
+    "name": "None",
+    "dynamicimageid": 354
+  },
+  {
+    "basecolour": "",
+    "name": "None",
+    "dynamicimageid": 355
+  },
+  {
+    "basecolour": "",
+    "name": "None",
+    "dynamicimageid": 356
+  },
+  {
+    "basecolour": "",
+    "name": "None",
+    "dynamicimageid": 357
+  },
+  {
+    "basecolour": "",
+    "name": "None",
+    "dynamicimageid": 358
+  },
+  {
+    "basecolour": "",
+    "name": "None",
+    "dynamicimageid": 359
+  },
+  {
+    "basecolour": "",
+    "name": "None",
+    "dynamicimageid": 360
+  },
+  {
+    "basecolour": "",
+    "name": "None",
+    "dynamicimageid": 361
+  },
+  {
+    "basecolour": "",
+    "name": "None",
+    "dynamicimageid": 362
+  },
+  {
+    "basecolour": "",
+    "name": "None",
+    "dynamicimageid": 363
+  },
+  {
+    "basecolour": "",
+    "name": "None",
+    "dynamicimageid": 364
+  },
+  {
+    "basecolour": "",
+    "name": "None",
+    "dynamicimageid": 365
+  },
+  {
+    "basecolour": "",
+    "name": "None",
+    "dynamicimageid": 366
+  },
+  {
+    "basecolour": "",
+    "name": "None",
+    "dynamicimageid": 367
+  },
+  {
+    "basecolour": "",
+    "name": "None",
+    "dynamicimageid": 368
+  },
+  {
+    "basecolour": "",
+    "name": "None",
+    "dynamicimageid": 369
+  },
+  {
+    "basecolour": "",
+    "name": "None",
+    "dynamicimageid": 370
+  }
+]

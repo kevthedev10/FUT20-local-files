@@ -1,0 +1,371 @@
+[
+  {
+    "maxvariationspos": 0,
+    "maxvariationsstd": 30,
+    "maxvariationsneg": 0,
+    "crestweight": 40,
+    "teamweight": 0,
+    "teamid": 0,
+    "genericweight": 60
+  },
+  {
+    "maxvariationspos": 6,
+    "maxvariationsstd": 7,
+    "maxvariationsneg": 1,
+    "crestweight": 20,
+    "teamweight": 65,
+    "teamid": 1,
+    "genericweight": 15
+  },
+  {
+    "maxvariationspos": 5,
+    "maxvariationsstd": 6,
+    "maxvariationsneg": 4,
+    "crestweight": 20,
+    "teamweight": 70,
+    "teamid": 2,
+    "genericweight": 10
+  },
+  {
+    "maxvariationspos": 6,
+    "maxvariationsstd": 4,
+    "maxvariationsneg": 5,
+    "crestweight": 20,
+    "teamweight": 70,
+    "teamid": 5,
+    "genericweight": 10
+  },
+  {
+    "maxvariationspos": 4,
+    "maxvariationsstd": 6,
+    "maxvariationsneg": 4,
+    "crestweight": 20,
+    "teamweight": 65,
+    "teamid": 7,
+    "genericweight": 15
+  },
+  {
+    "maxvariationspos": 7,
+    "maxvariationsstd": 6,
+    "maxvariationsneg": 1,
+    "crestweight": 20,
+    "teamweight": 65,
+    "teamid": 9,
+    "genericweight": 15
+  },
+  {
+    "maxvariationspos": 5,
+    "maxvariationsstd": 6,
+    "maxvariationsneg": 3,
+    "crestweight": 20,
+    "teamweight": 65,
+    "teamid": 10,
+    "genericweight": 15
+  },
+  {
+    "maxvariationspos": 7,
+    "maxvariationsstd": 4,
+    "maxvariationsneg": 2,
+    "crestweight": 25,
+    "teamweight": 60,
+    "teamid": 11,
+    "genericweight": 15
+  },
+  {
+    "maxvariationspos": 5,
+    "maxvariationsstd": 6,
+    "maxvariationsneg": 1,
+    "crestweight": 25,
+    "teamweight": 60,
+    "teamid": 13,
+    "genericweight": 15
+  },
+  {
+    "maxvariationspos": 5,
+    "maxvariationsstd": 5,
+    "maxvariationsneg": 0,
+    "crestweight": 25,
+    "teamweight": 55,
+    "teamid": 17,
+    "genericweight": 20
+  },
+  {
+    "maxvariationspos": 5,
+    "maxvariationsstd": 3,
+    "maxvariationsneg": 3,
+    "crestweight": 25,
+    "teamweight": 55,
+    "teamid": 18,
+    "genericweight": 20
+  },
+  {
+    "maxvariationspos": 5,
+    "maxvariationsstd": 4,
+    "maxvariationsneg": 2,
+    "crestweight": 25,
+    "teamweight": 55,
+    "teamid": 19,
+    "genericweight": 20
+  },
+  {
+    "maxvariationspos": 4,
+    "maxvariationsstd": 3,
+    "maxvariationsneg": 3,
+    "crestweight": 25,
+    "teamweight": 50,
+    "teamid": 21,
+    "genericweight": 25
+  },
+  {
+    "maxvariationspos": 4,
+    "maxvariationsstd": 3,
+    "maxvariationsneg": 3,
+    "crestweight": 25,
+    "teamweight": 50,
+    "teamid": 22,
+    "genericweight": 25
+  },
+  {
+    "maxvariationspos": 3,
+    "maxvariationsstd": 4,
+    "maxvariationsneg": 2,
+    "crestweight": 30,
+    "teamweight": 45,
+    "teamid": 32,
+    "genericweight": 25
+  },
+  {
+    "maxvariationspos": 3,
+    "maxvariationsstd": 3,
+    "maxvariationsneg": 3,
+    "crestweight": 30,
+    "teamweight": 40,
+    "teamid": 34,
+    "genericweight": 30
+  },
+  {
+    "maxvariationspos": 4,
+    "maxvariationsstd": 3,
+    "maxvariationsneg": 3,
+    "crestweight": 30,
+    "teamweight": 40,
+    "teamid": 44,
+    "genericweight": 30
+  },
+  {
+    "maxvariationspos": 3,
+    "maxvariationsstd": 3,
+    "maxvariationsneg": 3,
+    "crestweight": 30,
+    "teamweight": 40,
+    "teamid": 45,
+    "genericweight": 30
+  },
+  {
+    "maxvariationspos": 5,
+    "maxvariationsstd": 3,
+    "maxvariationsneg": 3,
+    "crestweight": 25,
+    "teamweight": 50,
+    "teamid": 47,
+    "genericweight": 25
+  },
+  {
+    "maxvariationspos": 3,
+    "maxvariationsstd": 3,
+    "maxvariationsneg": 3,
+    "crestweight": 30,
+    "teamweight": 40,
+    "teamid": 48,
+    "genericweight": 30
+  },
+  {
+    "maxvariationspos": 4,
+    "maxvariationsstd": 5,
+    "maxvariationsneg": 3,
+    "crestweight": 25,
+    "teamweight": 55,
+    "teamid": 52,
+    "genericweight": 20
+  },
+  {
+    "maxvariationspos": 3,
+    "maxvariationsstd": 4,
+    "maxvariationsneg": 3,
+    "crestweight": 30,
+    "teamweight": 45,
+    "teamid": 65,
+    "genericweight": 25
+  },
+  {
+    "maxvariationspos": 2,
+    "maxvariationsstd": 7,
+    "maxvariationsneg": 0,
+    "crestweight": 40,
+    "teamweight": 30,
+    "teamid": 66,
+    "genericweight": 30
+  },
+  {
+    "maxvariationspos": 4,
+    "maxvariationsstd": 7,
+    "maxvariationsneg": 1,
+    "crestweight": 25,
+    "teamweight": 50,
+    "teamid": 69,
+    "genericweight": 25
+  },
+  {
+    "maxvariationspos": 3,
+    "maxvariationsstd": 6,
+    "maxvariationsneg": 0,
+    "crestweight": 30,
+    "teamweight": 40,
+    "teamid": 73,
+    "genericweight": 30
+  },
+  {
+    "maxvariationspos": 5,
+    "maxvariationsstd": 5,
+    "maxvariationsneg": 4,
+    "crestweight": 20,
+    "teamweight": 65,
+    "teamid": 95,
+    "genericweight": 15
+  },
+  {
+    "maxvariationspos": 4,
+    "maxvariationsstd": 4,
+    "maxvariationsneg": 2,
+    "crestweight": 25,
+    "teamweight": 50,
+    "teamid": 106,
+    "genericweight": 25
+  },
+  {
+    "maxvariationspos": 5,
+    "maxvariationsstd": 10,
+    "maxvariationsneg": 0,
+    "crestweight": 20,
+    "teamweight": 65,
+    "teamid": 109,
+    "genericweight": 15
+  },
+  {
+    "maxvariationspos": 4,
+    "maxvariationsstd": 3,
+    "maxvariationsneg": 3,
+    "crestweight": 30,
+    "teamweight": 45,
+    "teamid": 175,
+    "genericweight": 25
+  },
+  {
+    "maxvariationspos": 3,
+    "maxvariationsstd": 9,
+    "maxvariationsneg": 0,
+    "crestweight": 25,
+    "teamweight": 55,
+    "teamid": 219,
+    "genericweight": 20
+  },
+  {
+    "maxvariationspos": 6,
+    "maxvariationsstd": 8,
+    "maxvariationsneg": 0,
+    "crestweight": 20,
+    "teamweight": 65,
+    "teamid": 240,
+    "genericweight": 15
+  },
+  {
+    "maxvariationspos": 5,
+    "maxvariationsstd": 9,
+    "maxvariationsneg": 0,
+    "crestweight": 20,
+    "teamweight": 65,
+    "teamid": 241,
+    "genericweight": 15
+  },
+  {
+    "maxvariationspos": 7,
+    "maxvariationsstd": 4,
+    "maxvariationsneg": 3,
+    "crestweight": 20,
+    "teamweight": 65,
+    "teamid": 243,
+    "genericweight": 15
+  },
+  {
+    "maxvariationspos": 5,
+    "maxvariationsstd": 3,
+    "maxvariationsneg": 1,
+    "crestweight": 30,
+    "teamweight": 45,
+    "teamid": 461,
+    "genericweight": 25
+  },
+  {
+    "maxvariationspos": 4,
+    "maxvariationsstd": 7,
+    "maxvariationsneg": 0,
+    "crestweight": 25,
+    "teamweight": 50,
+    "teamid": 481,
+    "genericweight": 25
+  },
+  {
+    "maxvariationspos": 4,
+    "maxvariationsstd": 4,
+    "maxvariationsneg": 2,
+    "crestweight": 30,
+    "teamweight": 45,
+    "teamid": 1792,
+    "genericweight": 25
+  },
+  {
+    "maxvariationspos": 4,
+    "maxvariationsstd": 5,
+    "maxvariationsneg": 1,
+    "crestweight": 30,
+    "teamweight": 45,
+    "teamid": 1795,
+    "genericweight": 25
+  },
+  {
+    "maxvariationspos": 4,
+    "maxvariationsstd": 9,
+    "maxvariationsneg": 0,
+    "crestweight": 20,
+    "teamweight": 65,
+    "teamid": 1799,
+    "genericweight": 15
+  },
+  {
+    "maxvariationspos": 6,
+    "maxvariationsstd": 6,
+    "maxvariationsneg": 0,
+    "crestweight": 25,
+    "teamweight": 60,
+    "teamid": 1806,
+    "genericweight": 15
+  },
+  {
+    "maxvariationspos": 6,
+    "maxvariationsstd": 5,
+    "maxvariationsneg": 0,
+    "crestweight": 25,
+    "teamweight": 50,
+    "teamid": 1943,
+    "genericweight": 25
+  },
+  {
+    "maxvariationspos": 4,
+    "maxvariationsstd": 5,
+    "maxvariationsneg": 2,
+    "crestweight": 25,
+    "teamweight": 50,
+    "teamid": 1960,
+    "genericweight": 25
+  }
+]

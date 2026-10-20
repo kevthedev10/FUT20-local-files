@@ -1,0 +1,454 @@
+[
+  {
+    "teamid": 1,
+    "fanboost": 6000
+  },
+  {
+    "teamid": 5,
+    "fanboost": 6000
+  },
+  {
+    "teamid": 7,
+    "fanboost": 4500
+  },
+  {
+    "teamid": 9,
+    "fanboost": 6000
+  },
+  {
+    "teamid": 10,
+    "fanboost": 6000
+  },
+  {
+    "teamid": 11,
+    "fanboost": 6000
+  },
+  {
+    "teamid": 13,
+    "fanboost": 3000
+  },
+  {
+    "teamid": 17,
+    "fanboost": 3500
+  },
+  {
+    "teamid": 18,
+    "fanboost": 5000
+  },
+  {
+    "teamid": 19,
+    "fanboost": 4500
+  },
+  {
+    "teamid": 21,
+    "fanboost": 5000
+  },
+  {
+    "teamid": 22,
+    "fanboost": 4500
+  },
+  {
+    "teamid": 23,
+    "fanboost": 3000
+  },
+  {
+    "teamid": 25,
+    "fanboost": 2500
+  },
+  {
+    "teamid": 28,
+    "fanboost": 3500
+  },
+  {
+    "teamid": 31,
+    "fanboost": 3500
+  },
+  {
+    "teamid": 32,
+    "fanboost": 3000
+  },
+  {
+    "teamid": 34,
+    "fanboost": 3500
+  },
+  {
+    "teamid": 36,
+    "fanboost": 3000
+  },
+  {
+    "teamid": 38,
+    "fanboost": 3000
+  },
+  {
+    "teamid": 59,
+    "fanboost": 2000
+  },
+  {
+    "teamid": 62,
+    "fanboost": 1500
+  },
+  {
+    "teamid": 65,
+    "fanboost": 3000
+  },
+  {
+    "teamid": 66,
+    "fanboost": 4000
+  },
+  {
+    "teamid": 68,
+    "fanboost": 1500
+  },
+  {
+    "teamid": 69,
+    "fanboost": 4000
+  },
+  {
+    "teamid": 70,
+    "fanboost": 2000
+  },
+  {
+    "teamid": 71,
+    "fanboost": 2500
+  },
+  {
+    "teamid": 72,
+    "fanboost": 2000
+  },
+  {
+    "teamid": 73,
+    "fanboost": 5000
+  },
+  {
+    "teamid": 74,
+    "fanboost": 2000
+  },
+  {
+    "teamid": 76,
+    "fanboost": 1000
+  },
+  {
+    "teamid": 95,
+    "fanboost": 4500
+  },
+  {
+    "teamid": 110,
+    "fanboost": 3500
+  },
+  {
+    "teamid": 144,
+    "fanboost": 3500
+  },
+  {
+    "teamid": 166,
+    "fanboost": 2500
+  },
+  {
+    "teamid": 169,
+    "fanboost": 2000
+  },
+  {
+    "teamid": 175,
+    "fanboost": 2500
+  },
+  {
+    "teamid": 210,
+    "fanboost": 1500
+  },
+  {
+    "teamid": 219,
+    "fanboost": 4500
+  },
+  {
+    "teamid": 240,
+    "fanboost": 5000
+  },
+  {
+    "teamid": 241,
+    "fanboost": 7000
+  },
+  {
+    "teamid": 242,
+    "fanboost": 2000
+  },
+  {
+    "teamid": 243,
+    "fanboost": 7000
+  },
+  {
+    "teamid": 294,
+    "fanboost": 1000
+  },
+  {
+    "teamid": 448,
+    "fanboost": 4000
+  },
+  {
+    "teamid": 449,
+    "fanboost": 3500
+  },
+  {
+    "teamid": 450,
+    "fanboost": 2500
+  },
+  {
+    "teamid": 452,
+    "fanboost": 2500
+  },
+  {
+    "teamid": 457,
+    "fanboost": 3500
+  },
+  {
+    "teamid": 461,
+    "fanboost": 4500
+  },
+  {
+    "teamid": 463,
+    "fanboost": 1500
+  },
+  {
+    "teamid": 467,
+    "fanboost": 1500
+  },
+  {
+    "teamid": 472,
+    "fanboost": 2000
+  },
+  {
+    "teamid": 481,
+    "fanboost": 4500
+  },
+  {
+    "teamid": 483,
+    "fanboost": 2500
+  },
+  {
+    "teamid": 485,
+    "fanboost": 2500
+  },
+  {
+    "teamid": 573,
+    "fanboost": 3500
+  },
+  {
+    "teamid": 687,
+    "fanboost": 1500
+  },
+  {
+    "teamid": 688,
+    "fanboost": 1500
+  },
+  {
+    "teamid": 689,
+    "fanboost": 1500
+  },
+  {
+    "teamid": 691,
+    "fanboost": 1000
+  },
+  {
+    "teamid": 693,
+    "fanboost": 1500
+  },
+  {
+    "teamid": 694,
+    "fanboost": 1000
+  },
+  {
+    "teamid": 695,
+    "fanboost": 1500
+  },
+  {
+    "teamid": 696,
+    "fanboost": 2500
+  },
+  {
+    "teamid": 697,
+    "fanboost": 3000
+  },
+  {
+    "teamid": 698,
+    "fanboost": 2500
+  },
+  {
+    "teamid": 1530,
+    "fanboost": 1000
+  },
+  {
+    "teamid": 1795,
+    "fanboost": 3500
+  },
+  {
+    "teamid": 1796,
+    "fanboost": 2000
+  },
+  {
+    "teamid": 1799,
+    "fanboost": 5000
+  },
+  {
+    "teamid": 1808,
+    "fanboost": 2000
+  },
+  {
+    "teamid": 1809,
+    "fanboost": 3000
+  },
+  {
+    "teamid": 1816,
+    "fanboost": 500
+  },
+  {
+    "teamid": 1819,
+    "fanboost": 3500
+  },
+  {
+    "teamid": 1824,
+    "fanboost": 3000
+  },
+  {
+    "teamid": 1853,
+    "fanboost": 2000
+  },
+  {
+    "teamid": 1860,
+    "fanboost": 1000
+  },
+  {
+    "teamid": 1939,
+    "fanboost": 2000
+  },
+  {
+    "teamid": 1943,
+    "fanboost": 3500
+  },
+  {
+    "teamid": 1961,
+    "fanboost": 3500
+  },
+  {
+    "teamid": 10029,
+    "fanboost": 2000
+  },
+  {
+    "teamid": 100409,
+    "fanboost": 2000
+  },
+  {
+    "teamid": 100888,
+    "fanboost": 1500
+  },
+  {
+    "teamid": 101112,
+    "fanboost": 2500
+  },
+  {
+    "teamid": 110062,
+    "fanboost": 1500
+  },
+  {
+    "teamid": 110569,
+    "fanboost": 1000
+  },
+  {
+    "teamid": 111065,
+    "fanboost": 1500
+  },
+  {
+    "teamid": 111138,
+    "fanboost": 1000
+  },
+  {
+    "teamid": 111139,
+    "fanboost": 2000
+  },
+  {
+    "teamid": 111140,
+    "fanboost": 2000
+  },
+  {
+    "teamid": 111144,
+    "fanboost": 3000
+  },
+  {
+    "teamid": 111651,
+    "fanboost": 2000
+  },
+  {
+    "teamid": 111928,
+    "fanboost": 2000
+  },
+  {
+    "teamid": 112134,
+    "fanboost": 1500
+  },
+  {
+    "teamid": 112172,
+    "fanboost": 2500
+  },
+  {
+    "teamid": 112606,
+    "fanboost": 3000
+  },
+  {
+    "teamid": 112828,
+    "fanboost": 2500
+  },
+  {
+    "teamid": 112885,
+    "fanboost": 3500
+  },
+  {
+    "teamid": 112998,
+    "fanboost": 5000
+  },
+  {
+    "teamid": 112999,
+    "fanboost": 5000
+  },
+  {
+    "teamid": 113000,
+    "fanboost": 5000
+  },
+  {
+    "teamid": 113001,
+    "fanboost": 5000
+  },
+  {
+    "teamid": 113002,
+    "fanboost": 5000
+  },
+  {
+    "teamid": 113003,
+    "fanboost": 5000
+  },
+  {
+    "teamid": 113004,
+    "fanboost": 5000
+  },
+  {
+    "teamid": 113005,
+    "fanboost": 5000
+  },
+  {
+    "teamid": 113007,
+    "fanboost": 5000
+  },
+  {
+    "teamid": 113008,
+    "fanboost": 5000
+  },
+  {
+    "teamid": 113010,
+    "fanboost": 5000
+  },
+  {
+    "teamid": 113011,
+    "fanboost": 5000
+  },
+  {
+    "teamid": 113012,
+    "fanboost": 5000
+  }
+]

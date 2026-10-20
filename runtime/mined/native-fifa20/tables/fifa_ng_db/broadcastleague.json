@@ -1,0 +1,4466 @@
+[
+  {
+    "leagueid": 1,
+    "artificialkey": 0,
+    "teamid": 269,
+    "nationid": 13
+  },
+  {
+    "leagueid": 1,
+    "artificialkey": 1,
+    "teamid": 270,
+    "nationid": 13
+  },
+  {
+    "leagueid": 1,
+    "artificialkey": 2,
+    "teamid": 271,
+    "nationid": 13
+  },
+  {
+    "leagueid": 1,
+    "artificialkey": 3,
+    "teamid": 272,
+    "nationid": 13
+  },
+  {
+    "leagueid": 1,
+    "artificialkey": 4,
+    "teamid": 819,
+    "nationid": 13
+  },
+  {
+    "leagueid": 1,
+    "artificialkey": 5,
+    "teamid": 820,
+    "nationid": 13
+  },
+  {
+    "leagueid": 1,
+    "artificialkey": 6,
+    "teamid": 1445,
+    "nationid": 13
+  },
+  {
+    "leagueid": 1,
+    "artificialkey": 7,
+    "teamid": 1446,
+    "nationid": 13
+  },
+  {
+    "leagueid": 1,
+    "artificialkey": 8,
+    "teamid": 1447,
+    "nationid": 13
+  },
+  {
+    "leagueid": 1,
+    "artificialkey": 9,
+    "teamid": 1516,
+    "nationid": 13
+  },
+  {
+    "leagueid": 1,
+    "artificialkey": 10,
+    "teamid": 1786,
+    "nationid": 13
+  },
+  {
+    "leagueid": 1,
+    "artificialkey": 11,
+    "teamid": 1788,
+    "nationid": 13
+  },
+  {
+    "leagueid": 1,
+    "artificialkey": 12,
+    "teamid": 15001,
+    "nationid": 13
+  },
+  {
+    "leagueid": 1,
+    "artificialkey": 13,
+    "teamid": 112425,
+    "nationid": 13
+  },
+  {
+    "leagueid": 4,
+    "artificialkey": 14,
+    "teamid": 229,
+    "nationid": 7
+  },
+  {
+    "leagueid": 4,
+    "artificialkey": 15,
+    "teamid": 230,
+    "nationid": 7
+  },
+  {
+    "leagueid": 4,
+    "artificialkey": 16,
+    "teamid": 231,
+    "nationid": 7
+  },
+  {
+    "leagueid": 4,
+    "artificialkey": 17,
+    "teamid": 232,
+    "nationid": 7
+  },
+  {
+    "leagueid": 4,
+    "artificialkey": 18,
+    "teamid": 670,
+    "nationid": 7
+  },
+  {
+    "leagueid": 4,
+    "artificialkey": 19,
+    "teamid": 673,
+    "nationid": 7
+  },
+  {
+    "leagueid": 4,
+    "artificialkey": 20,
+    "teamid": 674,
+    "nationid": 7
+  },
+  {
+    "leagueid": 4,
+    "artificialkey": 21,
+    "teamid": 680,
+    "nationid": 7
+  },
+  {
+    "leagueid": 4,
+    "artificialkey": 22,
+    "teamid": 682,
+    "nationid": 7
+  },
+  {
+    "leagueid": 4,
+    "artificialkey": 23,
+    "teamid": 1750,
+    "nationid": 7
+  },
+  {
+    "leagueid": 4,
+    "artificialkey": 24,
+    "teamid": 2013,
+    "nationid": 7
+  },
+  {
+    "leagueid": 4,
+    "artificialkey": 25,
+    "teamid": 15005,
+    "nationid": 7
+  },
+  {
+    "leagueid": 4,
+    "artificialkey": 26,
+    "teamid": 100081,
+    "nationid": 7
+  },
+  {
+    "leagueid": 4,
+    "artificialkey": 27,
+    "teamid": 110724,
+    "nationid": 7
+  },
+  {
+    "leagueid": 4,
+    "artificialkey": 28,
+    "teamid": 110913,
+    "nationid": 7
+  },
+  {
+    "leagueid": 4,
+    "artificialkey": 29,
+    "teamid": 111560,
+    "nationid": 7
+  },
+  {
+    "leagueid": 7,
+    "artificialkey": 30,
+    "teamid": 517,
+    "nationid": 54
+  },
+  {
+    "leagueid": 7,
+    "artificialkey": 31,
+    "teamid": 567,
+    "nationid": 54
+  },
+  {
+    "leagueid": 7,
+    "artificialkey": 32,
+    "teamid": 568,
+    "nationid": 54
+  },
+  {
+    "leagueid": 7,
+    "artificialkey": 33,
+    "teamid": 1035,
+    "nationid": 54
+  },
+  {
+    "leagueid": 7,
+    "artificialkey": 34,
+    "teamid": 1039,
+    "nationid": 54
+  },
+  {
+    "leagueid": 7,
+    "artificialkey": 35,
+    "teamid": 1048,
+    "nationid": 54
+  },
+  {
+    "leagueid": 7,
+    "artificialkey": 36,
+    "teamid": 1053,
+    "nationid": 54
+  },
+  {
+    "leagueid": 7,
+    "artificialkey": 37,
+    "teamid": 1598,
+    "nationid": 54
+  },
+  {
+    "leagueid": 7,
+    "artificialkey": 38,
+    "teamid": 1629,
+    "nationid": 54
+  },
+  {
+    "leagueid": 7,
+    "artificialkey": 39,
+    "teamid": 111042,
+    "nationid": 54
+  },
+  {
+    "leagueid": 7,
+    "artificialkey": 40,
+    "teamid": 111052,
+    "nationid": 54
+  },
+  {
+    "leagueid": 7,
+    "artificialkey": 41,
+    "teamid": 111059,
+    "nationid": 54
+  },
+  {
+    "leagueid": 7,
+    "artificialkey": 42,
+    "teamid": 111976,
+    "nationid": 54
+  },
+  {
+    "leagueid": 7,
+    "artificialkey": 43,
+    "teamid": 112476,
+    "nationid": 54
+  },
+  {
+    "leagueid": 7,
+    "artificialkey": 44,
+    "teamid": 113677,
+    "nationid": 54
+  },
+  {
+    "leagueid": 10,
+    "artificialkey": 45,
+    "teamid": 245,
+    "nationid": 34
+  },
+  {
+    "leagueid": 10,
+    "artificialkey": 46,
+    "teamid": 246,
+    "nationid": 34
+  },
+  {
+    "leagueid": 10,
+    "artificialkey": 47,
+    "teamid": 247,
+    "nationid": 34
+  },
+  {
+    "leagueid": 10,
+    "artificialkey": 48,
+    "teamid": 634,
+    "nationid": 34
+  },
+  {
+    "leagueid": 10,
+    "artificialkey": 49,
+    "teamid": 650,
+    "nationid": 34
+  },
+  {
+    "leagueid": 10,
+    "artificialkey": 50,
+    "teamid": 1903,
+    "nationid": 34
+  },
+  {
+    "leagueid": 10,
+    "artificialkey": 51,
+    "teamid": 1905,
+    "nationid": 34
+  },
+  {
+    "leagueid": 10,
+    "artificialkey": 52,
+    "teamid": 1906,
+    "nationid": 34
+  },
+  {
+    "leagueid": 10,
+    "artificialkey": 53,
+    "teamid": 1907,
+    "nationid": 34
+  },
+  {
+    "leagueid": 10,
+    "artificialkey": 54,
+    "teamid": 1908,
+    "nationid": 34
+  },
+  {
+    "leagueid": 10,
+    "artificialkey": 55,
+    "teamid": 1909,
+    "nationid": 34
+  },
+  {
+    "leagueid": 10,
+    "artificialkey": 56,
+    "teamid": 1913,
+    "nationid": 34
+  },
+  {
+    "leagueid": 10,
+    "artificialkey": 57,
+    "teamid": 1914,
+    "nationid": 34
+  },
+  {
+    "leagueid": 10,
+    "artificialkey": 58,
+    "teamid": 1915,
+    "nationid": 34
+  },
+  {
+    "leagueid": 10,
+    "artificialkey": 59,
+    "teamid": 100628,
+    "nationid": 34
+  },
+  {
+    "leagueid": 10,
+    "artificialkey": 60,
+    "teamid": 100634,
+    "nationid": 34
+  },
+  {
+    "leagueid": 10,
+    "artificialkey": 61,
+    "teamid": 100646,
+    "nationid": 34
+  },
+  {
+    "leagueid": 10,
+    "artificialkey": 62,
+    "teamid": 100651,
+    "nationid": 34
+  },
+  {
+    "leagueid": 13,
+    "artificialkey": 63,
+    "teamid": 1,
+    "nationid": 14
+  },
+  {
+    "leagueid": 13,
+    "artificialkey": 64,
+    "teamid": 2,
+    "nationid": 14
+  },
+  {
+    "leagueid": 13,
+    "artificialkey": 65,
+    "teamid": 5,
+    "nationid": 14
+  },
+  {
+    "leagueid": 13,
+    "artificialkey": 66,
+    "teamid": 7,
+    "nationid": 14
+  },
+  {
+    "leagueid": 13,
+    "artificialkey": 67,
+    "teamid": 9,
+    "nationid": 14
+  },
+  {
+    "leagueid": 13,
+    "artificialkey": 68,
+    "teamid": 10,
+    "nationid": 14
+  },
+  {
+    "leagueid": 13,
+    "artificialkey": 69,
+    "teamid": 11,
+    "nationid": 14
+  },
+  {
+    "leagueid": 13,
+    "artificialkey": 70,
+    "teamid": 13,
+    "nationid": 14
+  },
+  {
+    "leagueid": 13,
+    "artificialkey": 71,
+    "teamid": 17,
+    "nationid": 14
+  },
+  {
+    "leagueid": 13,
+    "artificialkey": 72,
+    "teamid": 18,
+    "nationid": 14
+  },
+  {
+    "leagueid": 13,
+    "artificialkey": 73,
+    "teamid": 19,
+    "nationid": 14
+  },
+  {
+    "leagueid": 13,
+    "artificialkey": 74,
+    "teamid": 95,
+    "nationid": 14
+  },
+  {
+    "leagueid": 13,
+    "artificialkey": 75,
+    "teamid": 110,
+    "nationid": 14
+  },
+  {
+    "leagueid": 13,
+    "artificialkey": 76,
+    "teamid": 1792,
+    "nationid": 14
+  },
+  {
+    "leagueid": 13,
+    "artificialkey": 77,
+    "teamid": 1794,
+    "nationid": 14
+  },
+  {
+    "leagueid": 13,
+    "artificialkey": 78,
+    "teamid": 1795,
+    "nationid": 14
+  },
+  {
+    "leagueid": 13,
+    "artificialkey": 79,
+    "teamid": 1796,
+    "nationid": 14
+  },
+  {
+    "leagueid": 13,
+    "artificialkey": 80,
+    "teamid": 1799,
+    "nationid": 14
+  },
+  {
+    "leagueid": 13,
+    "artificialkey": 81,
+    "teamid": 1808,
+    "nationid": 14
+  },
+  {
+    "leagueid": 13,
+    "artificialkey": 82,
+    "teamid": 1943,
+    "nationid": 14
+  },
+  {
+    "leagueid": 14,
+    "artificialkey": 83,
+    "teamid": 3,
+    "nationid": 14
+  },
+  {
+    "leagueid": 14,
+    "artificialkey": 84,
+    "teamid": 8,
+    "nationid": 14
+  },
+  {
+    "leagueid": 14,
+    "artificialkey": 85,
+    "teamid": 12,
+    "nationid": 14
+  },
+  {
+    "leagueid": 14,
+    "artificialkey": 86,
+    "teamid": 14,
+    "nationid": 14
+  },
+  {
+    "leagueid": 14,
+    "artificialkey": 87,
+    "teamid": 15,
+    "nationid": 14
+  },
+  {
+    "leagueid": 14,
+    "artificialkey": 88,
+    "teamid": 88,
+    "nationid": 14
+  },
+  {
+    "leagueid": 14,
+    "artificialkey": 89,
+    "teamid": 89,
+    "nationid": 14
+  },
+  {
+    "leagueid": 14,
+    "artificialkey": 90,
+    "teamid": 91,
+    "nationid": 14
+  },
+  {
+    "leagueid": 14,
+    "artificialkey": 91,
+    "teamid": 97,
+    "nationid": 14
+  },
+  {
+    "leagueid": 14,
+    "artificialkey": 92,
+    "teamid": 109,
+    "nationid": 14
+  },
+  {
+    "leagueid": 14,
+    "artificialkey": 93,
+    "teamid": 144,
+    "nationid": 14
+  },
+  {
+    "leagueid": 14,
+    "artificialkey": 94,
+    "teamid": 1793,
+    "nationid": 14
+  },
+  {
+    "leagueid": 14,
+    "artificialkey": 95,
+    "teamid": 1801,
+    "nationid": 14
+  },
+  {
+    "leagueid": 14,
+    "artificialkey": 96,
+    "teamid": 1806,
+    "nationid": 14
+  },
+  {
+    "leagueid": 14,
+    "artificialkey": 97,
+    "teamid": 1807,
+    "nationid": 14
+  },
+  {
+    "leagueid": 14,
+    "artificialkey": 98,
+    "teamid": 1917,
+    "nationid": 14
+  },
+  {
+    "leagueid": 14,
+    "artificialkey": 99,
+    "teamid": 1919,
+    "nationid": 14
+  },
+  {
+    "leagueid": 14,
+    "artificialkey": 100,
+    "teamid": 1923,
+    "nationid": 14
+  },
+  {
+    "leagueid": 14,
+    "artificialkey": 101,
+    "teamid": 1925,
+    "nationid": 14
+  },
+  {
+    "leagueid": 14,
+    "artificialkey": 102,
+    "teamid": 1932,
+    "nationid": 14
+  },
+  {
+    "leagueid": 14,
+    "artificialkey": 103,
+    "teamid": 1939,
+    "nationid": 14
+  },
+  {
+    "leagueid": 14,
+    "artificialkey": 104,
+    "teamid": 1952,
+    "nationid": 14
+  },
+  {
+    "leagueid": 14,
+    "artificialkey": 105,
+    "teamid": 1960,
+    "nationid": 14
+  },
+  {
+    "leagueid": 14,
+    "artificialkey": 106,
+    "teamid": 1961,
+    "nationid": 14
+  },
+  {
+    "leagueid": 16,
+    "artificialkey": 107,
+    "teamid": 59,
+    "nationid": 18
+  },
+  {
+    "leagueid": 16,
+    "artificialkey": 108,
+    "teamid": 65,
+    "nationid": 18
+  },
+  {
+    "leagueid": 16,
+    "artificialkey": 109,
+    "teamid": 66,
+    "nationid": 18
+  },
+  {
+    "leagueid": 16,
+    "artificialkey": 110,
+    "teamid": 68,
+    "nationid": 18
+  },
+  {
+    "leagueid": 16,
+    "artificialkey": 111,
+    "teamid": 69,
+    "nationid": 18
+  },
+  {
+    "leagueid": 16,
+    "artificialkey": 112,
+    "teamid": 70,
+    "nationid": 18
+  },
+  {
+    "leagueid": 16,
+    "artificialkey": 113,
+    "teamid": 71,
+    "nationid": 18
+  },
+  {
+    "leagueid": 16,
+    "artificialkey": 114,
+    "teamid": 72,
+    "nationid": 18
+  },
+  {
+    "leagueid": 16,
+    "artificialkey": 115,
+    "teamid": 73,
+    "nationid": 18
+  },
+  {
+    "leagueid": 16,
+    "artificialkey": 116,
+    "teamid": 74,
+    "nationid": 18
+  },
+  {
+    "leagueid": 16,
+    "artificialkey": 117,
+    "teamid": 76,
+    "nationid": 18
+  },
+  {
+    "leagueid": 16,
+    "artificialkey": 118,
+    "teamid": 219,
+    "nationid": 18
+  },
+  {
+    "leagueid": 16,
+    "artificialkey": 119,
+    "teamid": 224,
+    "nationid": 18
+  },
+  {
+    "leagueid": 16,
+    "artificialkey": 120,
+    "teamid": 378,
+    "nationid": 18
+  },
+  {
+    "leagueid": 16,
+    "artificialkey": 121,
+    "teamid": 379,
+    "nationid": 18
+  },
+  {
+    "leagueid": 16,
+    "artificialkey": 122,
+    "teamid": 1530,
+    "nationid": 18
+  },
+  {
+    "leagueid": 16,
+    "artificialkey": 123,
+    "teamid": 1809,
+    "nationid": 18
+  },
+  {
+    "leagueid": 16,
+    "artificialkey": 124,
+    "teamid": 1816,
+    "nationid": 18
+  },
+  {
+    "leagueid": 16,
+    "artificialkey": 125,
+    "teamid": 1819,
+    "nationid": 18
+  },
+  {
+    "leagueid": 16,
+    "artificialkey": 126,
+    "teamid": 110569,
+    "nationid": 18
+  },
+  {
+    "leagueid": 17,
+    "artificialkey": 127,
+    "teamid": 57,
+    "nationid": 18
+  },
+  {
+    "leagueid": 17,
+    "artificialkey": 128,
+    "teamid": 62,
+    "nationid": 18
+  },
+  {
+    "leagueid": 17,
+    "artificialkey": 129,
+    "teamid": 64,
+    "nationid": 18
+  },
+  {
+    "leagueid": 17,
+    "artificialkey": 130,
+    "teamid": 210,
+    "nationid": 18
+  },
+  {
+    "leagueid": 17,
+    "artificialkey": 131,
+    "teamid": 212,
+    "nationid": 18
+  },
+  {
+    "leagueid": 17,
+    "artificialkey": 132,
+    "teamid": 217,
+    "nationid": 18
+  },
+  {
+    "leagueid": 17,
+    "artificialkey": 133,
+    "teamid": 226,
+    "nationid": 18
+  },
+  {
+    "leagueid": 17,
+    "artificialkey": 134,
+    "teamid": 294,
+    "nationid": 18
+  },
+  {
+    "leagueid": 17,
+    "artificialkey": 135,
+    "teamid": 614,
+    "nationid": 18
+  },
+  {
+    "leagueid": 17,
+    "artificialkey": 136,
+    "teamid": 1738,
+    "nationid": 18
+  },
+  {
+    "leagueid": 17,
+    "artificialkey": 137,
+    "teamid": 1739,
+    "nationid": 18
+  },
+  {
+    "leagueid": 17,
+    "artificialkey": 138,
+    "teamid": 1805,
+    "nationid": 18
+  },
+  {
+    "leagueid": 17,
+    "artificialkey": 139,
+    "teamid": 1813,
+    "nationid": 18
+  },
+  {
+    "leagueid": 17,
+    "artificialkey": 140,
+    "teamid": 1815,
+    "nationid": 18
+  },
+  {
+    "leagueid": 17,
+    "artificialkey": 141,
+    "teamid": 1823,
+    "nationid": 18
+  },
+  {
+    "leagueid": 17,
+    "artificialkey": 142,
+    "teamid": 110456,
+    "nationid": 18
+  },
+  {
+    "leagueid": 17,
+    "artificialkey": 143,
+    "teamid": 111659,
+    "nationid": 18
+  },
+  {
+    "leagueid": 17,
+    "artificialkey": 144,
+    "teamid": 111817,
+    "nationid": 18
+  },
+  {
+    "leagueid": 17,
+    "artificialkey": 145,
+    "teamid": 112276,
+    "nationid": 18
+  },
+  {
+    "leagueid": 17,
+    "artificialkey": 146,
+    "teamid": 112627,
+    "nationid": 18
+  },
+  {
+    "leagueid": 19,
+    "artificialkey": 147,
+    "teamid": 21,
+    "nationid": 21
+  },
+  {
+    "leagueid": 19,
+    "artificialkey": 148,
+    "teamid": 22,
+    "nationid": 21
+  },
+  {
+    "leagueid": 19,
+    "artificialkey": 149,
+    "teamid": 23,
+    "nationid": 21
+  },
+  {
+    "leagueid": 19,
+    "artificialkey": 150,
+    "teamid": 25,
+    "nationid": 21
+  },
+  {
+    "leagueid": 19,
+    "artificialkey": 151,
+    "teamid": 31,
+    "nationid": 21
+  },
+  {
+    "leagueid": 19,
+    "artificialkey": 152,
+    "teamid": 32,
+    "nationid": 21
+  },
+  {
+    "leagueid": 19,
+    "artificialkey": 153,
+    "teamid": 34,
+    "nationid": 21
+  },
+  {
+    "leagueid": 19,
+    "artificialkey": 154,
+    "teamid": 38,
+    "nationid": 21
+  },
+  {
+    "leagueid": 19,
+    "artificialkey": 155,
+    "teamid": 166,
+    "nationid": 21
+  },
+  {
+    "leagueid": 19,
+    "artificialkey": 156,
+    "teamid": 169,
+    "nationid": 21
+  },
+  {
+    "leagueid": 19,
+    "artificialkey": 157,
+    "teamid": 175,
+    "nationid": 21
+  },
+  {
+    "leagueid": 19,
+    "artificialkey": 158,
+    "teamid": 1824,
+    "nationid": 21
+  },
+  {
+    "leagueid": 19,
+    "artificialkey": 159,
+    "teamid": 1831,
+    "nationid": 21
+  },
+  {
+    "leagueid": 19,
+    "artificialkey": 160,
+    "teamid": 10029,
+    "nationid": 21
+  },
+  {
+    "leagueid": 19,
+    "artificialkey": 161,
+    "teamid": 10030,
+    "nationid": 21
+  },
+  {
+    "leagueid": 19,
+    "artificialkey": 162,
+    "teamid": 100409,
+    "nationid": 21
+  },
+  {
+    "leagueid": 19,
+    "artificialkey": 163,
+    "teamid": 110636,
+    "nationid": 21
+  },
+  {
+    "leagueid": 19,
+    "artificialkey": 164,
+    "teamid": 112172,
+    "nationid": 21
+  },
+  {
+    "leagueid": 20,
+    "artificialkey": 165,
+    "teamid": 28,
+    "nationid": 21
+  },
+  {
+    "leagueid": 20,
+    "artificialkey": 166,
+    "teamid": 36,
+    "nationid": 21
+  },
+  {
+    "leagueid": 20,
+    "artificialkey": 167,
+    "teamid": 159,
+    "nationid": 21
+  },
+  {
+    "leagueid": 20,
+    "artificialkey": 168,
+    "teamid": 160,
+    "nationid": 21
+  },
+  {
+    "leagueid": 20,
+    "artificialkey": 169,
+    "teamid": 165,
+    "nationid": 21
+  },
+  {
+    "leagueid": 20,
+    "artificialkey": 170,
+    "teamid": 171,
+    "nationid": 21
+  },
+  {
+    "leagueid": 20,
+    "artificialkey": 171,
+    "teamid": 485,
+    "nationid": 21
+  },
+  {
+    "leagueid": 20,
+    "artificialkey": 172,
+    "teamid": 487,
+    "nationid": 21
+  },
+  {
+    "leagueid": 20,
+    "artificialkey": 173,
+    "teamid": 492,
+    "nationid": 21
+  },
+  {
+    "leagueid": 20,
+    "artificialkey": 174,
+    "teamid": 503,
+    "nationid": 21
+  },
+  {
+    "leagueid": 20,
+    "artificialkey": 175,
+    "teamid": 506,
+    "nationid": 21
+  },
+  {
+    "leagueid": 20,
+    "artificialkey": 176,
+    "teamid": 543,
+    "nationid": 21
+  },
+  {
+    "leagueid": 20,
+    "artificialkey": 177,
+    "teamid": 576,
+    "nationid": 21
+  },
+  {
+    "leagueid": 20,
+    "artificialkey": 178,
+    "teamid": 1832,
+    "nationid": 21
+  },
+  {
+    "leagueid": 20,
+    "artificialkey": 179,
+    "teamid": 110178,
+    "nationid": 21
+  },
+  {
+    "leagueid": 20,
+    "artificialkey": 180,
+    "teamid": 110329,
+    "nationid": 21
+  },
+  {
+    "leagueid": 20,
+    "artificialkey": 181,
+    "teamid": 110502,
+    "nationid": 21
+  },
+  {
+    "leagueid": 20,
+    "artificialkey": 182,
+    "teamid": 111235,
+    "nationid": 21
+  },
+  {
+    "leagueid": 31,
+    "artificialkey": 183,
+    "teamid": 39,
+    "nationid": 27
+  },
+  {
+    "leagueid": 31,
+    "artificialkey": 184,
+    "teamid": 44,
+    "nationid": 27
+  },
+  {
+    "leagueid": 31,
+    "artificialkey": 185,
+    "teamid": 46,
+    "nationid": 27
+  },
+  {
+    "leagueid": 31,
+    "artificialkey": 186,
+    "teamid": 47,
+    "nationid": 27
+  },
+  {
+    "leagueid": 31,
+    "artificialkey": 187,
+    "teamid": 48,
+    "nationid": 27
+  },
+  {
+    "leagueid": 31,
+    "artificialkey": 188,
+    "teamid": 50,
+    "nationid": 27
+  },
+  {
+    "leagueid": 31,
+    "artificialkey": 189,
+    "teamid": 52,
+    "nationid": 27
+  },
+  {
+    "leagueid": 31,
+    "artificialkey": 190,
+    "teamid": 54,
+    "nationid": 27
+  },
+  {
+    "leagueid": 31,
+    "artificialkey": 191,
+    "teamid": 55,
+    "nationid": 27
+  },
+  {
+    "leagueid": 31,
+    "artificialkey": 192,
+    "teamid": 189,
+    "nationid": 27
+  },
+  {
+    "leagueid": 31,
+    "artificialkey": 193,
+    "teamid": 190,
+    "nationid": 27
+  },
+  {
+    "leagueid": 31,
+    "artificialkey": 194,
+    "teamid": 206,
+    "nationid": 27
+  },
+  {
+    "leagueid": 31,
+    "artificialkey": 195,
+    "teamid": 347,
+    "nationid": 27
+  },
+  {
+    "leagueid": 31,
+    "artificialkey": 196,
+    "teamid": 1837,
+    "nationid": 27
+  },
+  {
+    "leagueid": 31,
+    "artificialkey": 197,
+    "teamid": 1842,
+    "nationid": 27
+  },
+  {
+    "leagueid": 31,
+    "artificialkey": 198,
+    "teamid": 110374,
+    "nationid": 27
+  },
+  {
+    "leagueid": 31,
+    "artificialkey": 199,
+    "teamid": 110556,
+    "nationid": 27
+  },
+  {
+    "leagueid": 31,
+    "artificialkey": 200,
+    "teamid": 111974,
+    "nationid": 27
+  },
+  {
+    "leagueid": 31,
+    "artificialkey": 201,
+    "teamid": 112791,
+    "nationid": 27
+  },
+  {
+    "leagueid": 31,
+    "artificialkey": 202,
+    "teamid": 114153,
+    "nationid": 27
+  },
+  {
+    "leagueid": 32,
+    "artificialkey": 203,
+    "teamid": 192,
+    "nationid": 27
+  },
+  {
+    "leagueid": 32,
+    "artificialkey": 204,
+    "teamid": 199,
+    "nationid": 27
+  },
+  {
+    "leagueid": 32,
+    "artificialkey": 205,
+    "teamid": 200,
+    "nationid": 27
+  },
+  {
+    "leagueid": 32,
+    "artificialkey": 206,
+    "teamid": 205,
+    "nationid": 27
+  },
+  {
+    "leagueid": 32,
+    "artificialkey": 207,
+    "teamid": 1746,
+    "nationid": 27
+  },
+  {
+    "leagueid": 32,
+    "artificialkey": 208,
+    "teamid": 1844,
+    "nationid": 27
+  },
+  {
+    "leagueid": 32,
+    "artificialkey": 209,
+    "teamid": 1847,
+    "nationid": 27
+  },
+  {
+    "leagueid": 32,
+    "artificialkey": 210,
+    "teamid": 110373,
+    "nationid": 27
+  },
+  {
+    "leagueid": 32,
+    "artificialkey": 211,
+    "teamid": 110734,
+    "nationid": 27
+  },
+  {
+    "leagueid": 32,
+    "artificialkey": 212,
+    "teamid": 110738,
+    "nationid": 27
+  },
+  {
+    "leagueid": 32,
+    "artificialkey": 213,
+    "teamid": 110741,
+    "nationid": 27
+  },
+  {
+    "leagueid": 32,
+    "artificialkey": 214,
+    "teamid": 111434,
+    "nationid": 27
+  },
+  {
+    "leagueid": 32,
+    "artificialkey": 215,
+    "teamid": 111657,
+    "nationid": 27
+  },
+  {
+    "leagueid": 32,
+    "artificialkey": 216,
+    "teamid": 111993,
+    "nationid": 27
+  },
+  {
+    "leagueid": 32,
+    "artificialkey": 217,
+    "teamid": 112026,
+    "nationid": 27
+  },
+  {
+    "leagueid": 32,
+    "artificialkey": 218,
+    "teamid": 112124,
+    "nationid": 27
+  },
+  {
+    "leagueid": 32,
+    "artificialkey": 219,
+    "teamid": 112168,
+    "nationid": 27
+  },
+  {
+    "leagueid": 32,
+    "artificialkey": 220,
+    "teamid": 112410,
+    "nationid": 27
+  },
+  {
+    "leagueid": 32,
+    "artificialkey": 221,
+    "teamid": 113147,
+    "nationid": 27
+  },
+  {
+    "leagueid": 32,
+    "artificialkey": 222,
+    "teamid": 113958,
+    "nationid": 27
+  },
+  {
+    "leagueid": 39,
+    "artificialkey": 223,
+    "teamid": 687,
+    "nationid": 95
+  },
+  {
+    "leagueid": 39,
+    "artificialkey": 224,
+    "teamid": 688,
+    "nationid": 95
+  },
+  {
+    "leagueid": 39,
+    "artificialkey": 225,
+    "teamid": 689,
+    "nationid": 95
+  },
+  {
+    "leagueid": 39,
+    "artificialkey": 226,
+    "teamid": 691,
+    "nationid": 95
+  },
+  {
+    "leagueid": 39,
+    "artificialkey": 227,
+    "teamid": 693,
+    "nationid": 95
+  },
+  {
+    "leagueid": 39,
+    "artificialkey": 228,
+    "teamid": 694,
+    "nationid": 95
+  },
+  {
+    "leagueid": 39,
+    "artificialkey": 229,
+    "teamid": 695,
+    "nationid": 95
+  },
+  {
+    "leagueid": 39,
+    "artificialkey": 230,
+    "teamid": 696,
+    "nationid": 95
+  },
+  {
+    "leagueid": 39,
+    "artificialkey": 231,
+    "teamid": 697,
+    "nationid": 95
+  },
+  {
+    "leagueid": 39,
+    "artificialkey": 232,
+    "teamid": 698,
+    "nationid": 95
+  },
+  {
+    "leagueid": 39,
+    "artificialkey": 233,
+    "teamid": 101112,
+    "nationid": 95
+  },
+  {
+    "leagueid": 39,
+    "artificialkey": 234,
+    "teamid": 111065,
+    "nationid": 95
+  },
+  {
+    "leagueid": 39,
+    "artificialkey": 235,
+    "teamid": 111138,
+    "nationid": 95
+  },
+  {
+    "leagueid": 39,
+    "artificialkey": 236,
+    "teamid": 111139,
+    "nationid": 95
+  },
+  {
+    "leagueid": 39,
+    "artificialkey": 237,
+    "teamid": 111140,
+    "nationid": 95
+  },
+  {
+    "leagueid": 39,
+    "artificialkey": 238,
+    "teamid": 111144,
+    "nationid": 95
+  },
+  {
+    "leagueid": 39,
+    "artificialkey": 239,
+    "teamid": 111651,
+    "nationid": 95
+  },
+  {
+    "leagueid": 39,
+    "artificialkey": 240,
+    "teamid": 111928,
+    "nationid": 95
+  },
+  {
+    "leagueid": 39,
+    "artificialkey": 241,
+    "teamid": 112134,
+    "nationid": 95
+  },
+  {
+    "leagueid": 39,
+    "artificialkey": 242,
+    "teamid": 112606,
+    "nationid": 95
+  },
+  {
+    "leagueid": 39,
+    "artificialkey": 243,
+    "teamid": 112828,
+    "nationid": 95
+  },
+  {
+    "leagueid": 39,
+    "artificialkey": 244,
+    "teamid": 112885,
+    "nationid": 95
+  },
+  {
+    "leagueid": 39,
+    "artificialkey": 245,
+    "teamid": 112996,
+    "nationid": 95
+  },
+  {
+    "leagueid": 39,
+    "artificialkey": 246,
+    "teamid": 113149,
+    "nationid": 95
+  },
+  {
+    "leagueid": 41,
+    "artificialkey": 247,
+    "teamid": 298,
+    "nationid": 36
+  },
+  {
+    "leagueid": 41,
+    "artificialkey": 248,
+    "teamid": 299,
+    "nationid": 36
+  },
+  {
+    "leagueid": 41,
+    "artificialkey": 249,
+    "teamid": 300,
+    "nationid": 36
+  },
+  {
+    "leagueid": 41,
+    "artificialkey": 250,
+    "teamid": 417,
+    "nationid": 36
+  },
+  {
+    "leagueid": 41,
+    "artificialkey": 251,
+    "teamid": 418,
+    "nationid": 36
+  },
+  {
+    "leagueid": 41,
+    "artificialkey": 252,
+    "teamid": 917,
+    "nationid": 36
+  },
+  {
+    "leagueid": 41,
+    "artificialkey": 253,
+    "teamid": 918,
+    "nationid": 36
+  },
+  {
+    "leagueid": 41,
+    "artificialkey": 254,
+    "teamid": 919,
+    "nationid": 36
+  },
+  {
+    "leagueid": 41,
+    "artificialkey": 255,
+    "teamid": 920,
+    "nationid": 36
+  },
+  {
+    "leagueid": 41,
+    "artificialkey": 256,
+    "teamid": 922,
+    "nationid": 36
+  },
+  {
+    "leagueid": 41,
+    "artificialkey": 257,
+    "teamid": 1456,
+    "nationid": 36
+  },
+  {
+    "leagueid": 41,
+    "artificialkey": 258,
+    "teamid": 1463,
+    "nationid": 36
+  },
+  {
+    "leagueid": 41,
+    "artificialkey": 259,
+    "teamid": 112199,
+    "nationid": 36
+  },
+  {
+    "leagueid": 41,
+    "artificialkey": 260,
+    "teamid": 112200,
+    "nationid": 36
+  },
+  {
+    "leagueid": 41,
+    "artificialkey": 261,
+    "teamid": 112420,
+    "nationid": 36
+  },
+  {
+    "leagueid": 41,
+    "artificialkey": 262,
+    "teamid": 113459,
+    "nationid": 36
+  },
+  {
+    "leagueid": 50,
+    "artificialkey": 263,
+    "teamid": 77,
+    "nationid": 42
+  },
+  {
+    "leagueid": 50,
+    "artificialkey": 264,
+    "teamid": 78,
+    "nationid": 42
+  },
+  {
+    "leagueid": 50,
+    "artificialkey": 265,
+    "teamid": 80,
+    "nationid": 42
+  },
+  {
+    "leagueid": 50,
+    "artificialkey": 266,
+    "teamid": 81,
+    "nationid": 42
+  },
+  {
+    "leagueid": 50,
+    "artificialkey": 267,
+    "teamid": 82,
+    "nationid": 42
+  },
+  {
+    "leagueid": 50,
+    "artificialkey": 268,
+    "teamid": 83,
+    "nationid": 42
+  },
+  {
+    "leagueid": 50,
+    "artificialkey": 269,
+    "teamid": 86,
+    "nationid": 42
+  },
+  {
+    "leagueid": 50,
+    "artificialkey": 270,
+    "teamid": 184,
+    "nationid": 42
+  },
+  {
+    "leagueid": 50,
+    "artificialkey": 271,
+    "teamid": 621,
+    "nationid": 42
+  },
+  {
+    "leagueid": 50,
+    "artificialkey": 272,
+    "teamid": 631,
+    "nationid": 42
+  },
+  {
+    "leagueid": 50,
+    "artificialkey": 273,
+    "teamid": 100804,
+    "nationid": 42
+  },
+  {
+    "leagueid": 50,
+    "artificialkey": 274,
+    "teamid": 100805,
+    "nationid": 42
+  },
+  {
+    "leagueid": 53,
+    "artificialkey": 275,
+    "teamid": 240,
+    "nationid": 45
+  },
+  {
+    "leagueid": 53,
+    "artificialkey": 276,
+    "teamid": 241,
+    "nationid": 45
+  },
+  {
+    "leagueid": 53,
+    "artificialkey": 277,
+    "teamid": 243,
+    "nationid": 45
+  },
+  {
+    "leagueid": 53,
+    "artificialkey": 278,
+    "teamid": 448,
+    "nationid": 45
+  },
+  {
+    "leagueid": 53,
+    "artificialkey": 279,
+    "teamid": 449,
+    "nationid": 45
+  },
+  {
+    "leagueid": 53,
+    "artificialkey": 280,
+    "teamid": 450,
+    "nationid": 45
+  },
+  {
+    "leagueid": 53,
+    "artificialkey": 281,
+    "teamid": 452,
+    "nationid": 45
+  },
+  {
+    "leagueid": 53,
+    "artificialkey": 282,
+    "teamid": 453,
+    "nationid": 45
+  },
+  {
+    "leagueid": 53,
+    "artificialkey": 283,
+    "teamid": 457,
+    "nationid": 45
+  },
+  {
+    "leagueid": 53,
+    "artificialkey": 284,
+    "teamid": 461,
+    "nationid": 45
+  },
+  {
+    "leagueid": 53,
+    "artificialkey": 285,
+    "teamid": 462,
+    "nationid": 45
+  },
+  {
+    "leagueid": 53,
+    "artificialkey": 286,
+    "teamid": 463,
+    "nationid": 45
+  },
+  {
+    "leagueid": 53,
+    "artificialkey": 287,
+    "teamid": 467,
+    "nationid": 45
+  },
+  {
+    "leagueid": 53,
+    "artificialkey": 288,
+    "teamid": 479,
+    "nationid": 45
+  },
+  {
+    "leagueid": 53,
+    "artificialkey": 289,
+    "teamid": 481,
+    "nationid": 45
+  },
+  {
+    "leagueid": 53,
+    "artificialkey": 290,
+    "teamid": 483,
+    "nationid": 45
+  },
+  {
+    "leagueid": 53,
+    "artificialkey": 291,
+    "teamid": 1853,
+    "nationid": 45
+  },
+  {
+    "leagueid": 53,
+    "artificialkey": 292,
+    "teamid": 1860,
+    "nationid": 45
+  },
+  {
+    "leagueid": 53,
+    "artificialkey": 293,
+    "teamid": 100888,
+    "nationid": 45
+  },
+  {
+    "leagueid": 53,
+    "artificialkey": 294,
+    "teamid": 110832,
+    "nationid": 45
+  },
+  {
+    "leagueid": 54,
+    "artificialkey": 295,
+    "teamid": 242,
+    "nationid": 45
+  },
+  {
+    "leagueid": 54,
+    "artificialkey": 296,
+    "teamid": 244,
+    "nationid": 45
+  },
+  {
+    "leagueid": 54,
+    "artificialkey": 297,
+    "teamid": 260,
+    "nationid": 45
+  },
+  {
+    "leagueid": 54,
+    "artificialkey": 298,
+    "teamid": 456,
+    "nationid": 45
+  },
+  {
+    "leagueid": 54,
+    "artificialkey": 299,
+    "teamid": 459,
+    "nationid": 45
+  },
+  {
+    "leagueid": 54,
+    "artificialkey": 300,
+    "teamid": 468,
+    "nationid": 45
+  },
+  {
+    "leagueid": 54,
+    "artificialkey": 301,
+    "teamid": 469,
+    "nationid": 45
+  },
+  {
+    "leagueid": 54,
+    "artificialkey": 302,
+    "teamid": 472,
+    "nationid": 45
+  },
+  {
+    "leagueid": 54,
+    "artificialkey": 303,
+    "teamid": 477,
+    "nationid": 45
+  },
+  {
+    "leagueid": 54,
+    "artificialkey": 304,
+    "teamid": 480,
+    "nationid": 45
+  },
+  {
+    "leagueid": 54,
+    "artificialkey": 305,
+    "teamid": 573,
+    "nationid": 45
+  },
+  {
+    "leagueid": 54,
+    "artificialkey": 306,
+    "teamid": 1854,
+    "nationid": 45
+  },
+  {
+    "leagueid": 54,
+    "artificialkey": 307,
+    "teamid": 1861,
+    "nationid": 45
+  },
+  {
+    "leagueid": 54,
+    "artificialkey": 308,
+    "teamid": 1968,
+    "nationid": 45
+  },
+  {
+    "leagueid": 54,
+    "artificialkey": 309,
+    "teamid": 2023,
+    "nationid": 45
+  },
+  {
+    "leagueid": 54,
+    "artificialkey": 310,
+    "teamid": 100831,
+    "nationid": 45
+  },
+  {
+    "leagueid": 54,
+    "artificialkey": 311,
+    "teamid": 110062,
+    "nationid": 45
+  },
+  {
+    "leagueid": 54,
+    "artificialkey": 312,
+    "teamid": 110065,
+    "nationid": 45
+  },
+  {
+    "leagueid": 54,
+    "artificialkey": 313,
+    "teamid": 110069,
+    "nationid": 45
+  },
+  {
+    "leagueid": 54,
+    "artificialkey": 314,
+    "teamid": 110827,
+    "nationid": 45
+  },
+  {
+    "leagueid": 54,
+    "artificialkey": 315,
+    "teamid": 110831,
+    "nationid": 45
+  },
+  {
+    "leagueid": 54,
+    "artificialkey": 316,
+    "teamid": 110839,
+    "nationid": 45
+  },
+  {
+    "leagueid": 56,
+    "artificialkey": 317,
+    "teamid": 319,
+    "nationid": 46
+  },
+  {
+    "leagueid": 56,
+    "artificialkey": 318,
+    "teamid": 320,
+    "nationid": 46
+  },
+  {
+    "leagueid": 56,
+    "artificialkey": 319,
+    "teamid": 432,
+    "nationid": 46
+  },
+  {
+    "leagueid": 56,
+    "artificialkey": 320,
+    "teamid": 433,
+    "nationid": 46
+  },
+  {
+    "leagueid": 56,
+    "artificialkey": 321,
+    "teamid": 700,
+    "nationid": 46
+  },
+  {
+    "leagueid": 56,
+    "artificialkey": 322,
+    "teamid": 702,
+    "nationid": 46
+  },
+  {
+    "leagueid": 56,
+    "artificialkey": 323,
+    "teamid": 705,
+    "nationid": 46
+  },
+  {
+    "leagueid": 56,
+    "artificialkey": 324,
+    "teamid": 708,
+    "nationid": 46
+  },
+  {
+    "leagueid": 56,
+    "artificialkey": 325,
+    "teamid": 710,
+    "nationid": 46
+  },
+  {
+    "leagueid": 56,
+    "artificialkey": 326,
+    "teamid": 711,
+    "nationid": 46
+  },
+  {
+    "leagueid": 56,
+    "artificialkey": 327,
+    "teamid": 1439,
+    "nationid": 46
+  },
+  {
+    "leagueid": 56,
+    "artificialkey": 328,
+    "teamid": 1596,
+    "nationid": 46
+  },
+  {
+    "leagueid": 56,
+    "artificialkey": 329,
+    "teamid": 112169,
+    "nationid": 46
+  },
+  {
+    "leagueid": 56,
+    "artificialkey": 330,
+    "teamid": 112171,
+    "nationid": 46
+  },
+  {
+    "leagueid": 56,
+    "artificialkey": 331,
+    "teamid": 113173,
+    "nationid": 46
+  },
+  {
+    "leagueid": 56,
+    "artificialkey": 332,
+    "teamid": 113458,
+    "nationid": 46
+  },
+  {
+    "leagueid": 60,
+    "artificialkey": 333,
+    "teamid": 4,
+    "nationid": 14
+  },
+  {
+    "leagueid": 60,
+    "artificialkey": 334,
+    "teamid": 94,
+    "nationid": 14
+  },
+  {
+    "leagueid": 60,
+    "artificialkey": 335,
+    "teamid": 106,
+    "nationid": 14
+  },
+  {
+    "leagueid": 60,
+    "artificialkey": 336,
+    "teamid": 127,
+    "nationid": 14
+  },
+  {
+    "leagueid": 60,
+    "artificialkey": 337,
+    "teamid": 142,
+    "nationid": 14
+  },
+  {
+    "leagueid": 60,
+    "artificialkey": 338,
+    "teamid": 149,
+    "nationid": 14
+  },
+  {
+    "leagueid": 60,
+    "artificialkey": 339,
+    "teamid": 1790,
+    "nationid": 14
+  },
+  {
+    "leagueid": 60,
+    "artificialkey": 340,
+    "teamid": 1797,
+    "nationid": 14
+  },
+  {
+    "leagueid": 60,
+    "artificialkey": 341,
+    "teamid": 1798,
+    "nationid": 14
+  },
+  {
+    "leagueid": 60,
+    "artificialkey": 342,
+    "teamid": 1800,
+    "nationid": 14
+  },
+  {
+    "leagueid": 60,
+    "artificialkey": 343,
+    "teamid": 1802,
+    "nationid": 14
+  },
+  {
+    "leagueid": 60,
+    "artificialkey": 344,
+    "teamid": 1926,
+    "nationid": 14
+  },
+  {
+    "leagueid": 60,
+    "artificialkey": 345,
+    "teamid": 1933,
+    "nationid": 14
+  },
+  {
+    "leagueid": 60,
+    "artificialkey": 346,
+    "teamid": 1938,
+    "nationid": 14
+  },
+  {
+    "leagueid": 60,
+    "artificialkey": 347,
+    "teamid": 1945,
+    "nationid": 14
+  },
+  {
+    "leagueid": 60,
+    "artificialkey": 348,
+    "teamid": 1951,
+    "nationid": 14
+  },
+  {
+    "leagueid": 60,
+    "artificialkey": 349,
+    "teamid": 1954,
+    "nationid": 14
+  },
+  {
+    "leagueid": 60,
+    "artificialkey": 350,
+    "teamid": 1955,
+    "nationid": 14
+  },
+  {
+    "leagueid": 60,
+    "artificialkey": 351,
+    "teamid": 1962,
+    "nationid": 14
+  },
+  {
+    "leagueid": 60,
+    "artificialkey": 352,
+    "teamid": 15015,
+    "nationid": 14
+  },
+  {
+    "leagueid": 60,
+    "artificialkey": 353,
+    "teamid": 15048,
+    "nationid": 14
+  },
+  {
+    "leagueid": 60,
+    "artificialkey": 354,
+    "teamid": 110313,
+    "nationid": 14
+  },
+  {
+    "leagueid": 60,
+    "artificialkey": 355,
+    "teamid": 112259,
+    "nationid": 14
+  },
+  {
+    "leagueid": 60,
+    "artificialkey": 356,
+    "teamid": 112260,
+    "nationid": 14
+  },
+  {
+    "leagueid": 61,
+    "artificialkey": 357,
+    "teamid": 92,
+    "nationid": 14
+  },
+  {
+    "leagueid": 61,
+    "artificialkey": 358,
+    "teamid": 121,
+    "nationid": 14
+  },
+  {
+    "leagueid": 61,
+    "artificialkey": 359,
+    "teamid": 143,
+    "nationid": 14
+  },
+  {
+    "leagueid": 61,
+    "artificialkey": 360,
+    "teamid": 357,
+    "nationid": 14
+  },
+  {
+    "leagueid": 61,
+    "artificialkey": 361,
+    "teamid": 361,
+    "nationid": 14
+  },
+  {
+    "leagueid": 61,
+    "artificialkey": 362,
+    "teamid": 561,
+    "nationid": 14
+  },
+  {
+    "leagueid": 61,
+    "artificialkey": 363,
+    "teamid": 1480,
+    "nationid": 14
+  },
+  {
+    "leagueid": 61,
+    "artificialkey": 364,
+    "teamid": 1803,
+    "nationid": 14
+  },
+  {
+    "leagueid": 61,
+    "artificialkey": 365,
+    "teamid": 1804,
+    "nationid": 14
+  },
+  {
+    "leagueid": 61,
+    "artificialkey": 366,
+    "teamid": 1920,
+    "nationid": 14
+  },
+  {
+    "leagueid": 61,
+    "artificialkey": 367,
+    "teamid": 1928,
+    "nationid": 14
+  },
+  {
+    "leagueid": 61,
+    "artificialkey": 368,
+    "teamid": 1929,
+    "nationid": 14
+  },
+  {
+    "leagueid": 61,
+    "artificialkey": 369,
+    "teamid": 1930,
+    "nationid": 14
+  },
+  {
+    "leagueid": 61,
+    "artificialkey": 370,
+    "teamid": 1934,
+    "nationid": 14
+  },
+  {
+    "leagueid": 61,
+    "artificialkey": 371,
+    "teamid": 1935,
+    "nationid": 14
+  },
+  {
+    "leagueid": 61,
+    "artificialkey": 372,
+    "teamid": 1936,
+    "nationid": 14
+  },
+  {
+    "leagueid": 61,
+    "artificialkey": 373,
+    "teamid": 1940,
+    "nationid": 14
+  },
+  {
+    "leagueid": 61,
+    "artificialkey": 374,
+    "teamid": 1944,
+    "nationid": 14
+  },
+  {
+    "leagueid": 61,
+    "artificialkey": 375,
+    "teamid": 1949,
+    "nationid": 14
+  },
+  {
+    "leagueid": 61,
+    "artificialkey": 376,
+    "teamid": 1958,
+    "nationid": 14
+  },
+  {
+    "leagueid": 61,
+    "artificialkey": 377,
+    "teamid": 1959,
+    "nationid": 14
+  },
+  {
+    "leagueid": 61,
+    "artificialkey": 378,
+    "teamid": 110890,
+    "nationid": 14
+  },
+  {
+    "leagueid": 61,
+    "artificialkey": 379,
+    "teamid": 112254,
+    "nationid": 14
+  },
+  {
+    "leagueid": 61,
+    "artificialkey": 380,
+    "teamid": 113926,
+    "nationid": 14
+  },
+  {
+    "leagueid": 65,
+    "artificialkey": 381,
+    "teamid": 305,
+    "nationid": 25
+  },
+  {
+    "leagueid": 65,
+    "artificialkey": 382,
+    "teamid": 306,
+    "nationid": 25
+  },
+  {
+    "leagueid": 65,
+    "artificialkey": 383,
+    "teamid": 422,
+    "nationid": 25
+  },
+  {
+    "leagueid": 65,
+    "artificialkey": 384,
+    "teamid": 423,
+    "nationid": 25
+  },
+  {
+    "leagueid": 65,
+    "artificialkey": 385,
+    "teamid": 445,
+    "nationid": 25
+  },
+  {
+    "leagueid": 65,
+    "artificialkey": 386,
+    "teamid": 563,
+    "nationid": 25
+  },
+  {
+    "leagueid": 65,
+    "artificialkey": 387,
+    "teamid": 753,
+    "nationid": 25
+  },
+  {
+    "leagueid": 65,
+    "artificialkey": 388,
+    "teamid": 837,
+    "nationid": 25
+  },
+  {
+    "leagueid": 65,
+    "artificialkey": 389,
+    "teamid": 111131,
+    "nationid": 25
+  },
+  {
+    "leagueid": 65,
+    "artificialkey": 390,
+    "teamid": 111132,
+    "nationid": 25
+  },
+  {
+    "leagueid": 66,
+    "artificialkey": 391,
+    "teamid": 420,
+    "nationid": 37
+  },
+  {
+    "leagueid": 66,
+    "artificialkey": 392,
+    "teamid": 873,
+    "nationid": 37
+  },
+  {
+    "leagueid": 66,
+    "artificialkey": 393,
+    "teamid": 1569,
+    "nationid": 37
+  },
+  {
+    "leagueid": 66,
+    "artificialkey": 394,
+    "teamid": 1871,
+    "nationid": 37
+  },
+  {
+    "leagueid": 66,
+    "artificialkey": 395,
+    "teamid": 1873,
+    "nationid": 37
+  },
+  {
+    "leagueid": 66,
+    "artificialkey": 396,
+    "teamid": 110745,
+    "nationid": 37
+  },
+  {
+    "leagueid": 66,
+    "artificialkey": 397,
+    "teamid": 110746,
+    "nationid": 37
+  },
+  {
+    "leagueid": 66,
+    "artificialkey": 398,
+    "teamid": 110747,
+    "nationid": 37
+  },
+  {
+    "leagueid": 66,
+    "artificialkey": 399,
+    "teamid": 110749,
+    "nationid": 37
+  },
+  {
+    "leagueid": 66,
+    "artificialkey": 400,
+    "teamid": 111082,
+    "nationid": 37
+  },
+  {
+    "leagueid": 66,
+    "artificialkey": 401,
+    "teamid": 111083,
+    "nationid": 37
+  },
+  {
+    "leagueid": 66,
+    "artificialkey": 402,
+    "teamid": 111085,
+    "nationid": 37
+  },
+  {
+    "leagueid": 66,
+    "artificialkey": 403,
+    "teamid": 111086,
+    "nationid": 37
+  },
+  {
+    "leagueid": 66,
+    "artificialkey": 404,
+    "teamid": 111091,
+    "nationid": 37
+  },
+  {
+    "leagueid": 66,
+    "artificialkey": 405,
+    "teamid": 111092,
+    "nationid": 37
+  },
+  {
+    "leagueid": 66,
+    "artificialkey": 406,
+    "teamid": 114326,
+    "nationid": 37
+  },
+  {
+    "leagueid": 68,
+    "artificialkey": 407,
+    "teamid": 325,
+    "nationid": 48
+  },
+  {
+    "leagueid": 68,
+    "artificialkey": 408,
+    "teamid": 326,
+    "nationid": 48
+  },
+  {
+    "leagueid": 68,
+    "artificialkey": 409,
+    "teamid": 327,
+    "nationid": 48
+  },
+  {
+    "leagueid": 68,
+    "artificialkey": 410,
+    "teamid": 436,
+    "nationid": 48
+  },
+  {
+    "leagueid": 68,
+    "artificialkey": 411,
+    "teamid": 741,
+    "nationid": 48
+  },
+  {
+    "leagueid": 68,
+    "artificialkey": 412,
+    "teamid": 1457,
+    "nationid": 48
+  },
+  {
+    "leagueid": 68,
+    "artificialkey": 413,
+    "teamid": 101007,
+    "nationid": 48
+  },
+  {
+    "leagueid": 68,
+    "artificialkey": 414,
+    "teamid": 101014,
+    "nationid": 48
+  },
+  {
+    "leagueid": 68,
+    "artificialkey": 415,
+    "teamid": 101020,
+    "nationid": 48
+  },
+  {
+    "leagueid": 68,
+    "artificialkey": 416,
+    "teamid": 101025,
+    "nationid": 48
+  },
+  {
+    "leagueid": 68,
+    "artificialkey": 417,
+    "teamid": 101026,
+    "nationid": 48
+  },
+  {
+    "leagueid": 68,
+    "artificialkey": 418,
+    "teamid": 101033,
+    "nationid": 48
+  },
+  {
+    "leagueid": 68,
+    "artificialkey": 419,
+    "teamid": 101037,
+    "nationid": 48
+  },
+  {
+    "leagueid": 68,
+    "artificialkey": 420,
+    "teamid": 101041,
+    "nationid": 48
+  },
+  {
+    "leagueid": 68,
+    "artificialkey": 421,
+    "teamid": 110776,
+    "nationid": 48
+  },
+  {
+    "leagueid": 68,
+    "artificialkey": 422,
+    "teamid": 111339,
+    "nationid": 48
+  },
+  {
+    "leagueid": 68,
+    "artificialkey": 423,
+    "teamid": 113142,
+    "nationid": 48
+  },
+  {
+    "leagueid": 68,
+    "artificialkey": 424,
+    "teamid": 113259,
+    "nationid": 48
+  },
+  {
+    "leagueid": 76,
+    "artificialkey": 425,
+    "teamid": 211,
+    "nationid": 211
+  },
+  {
+    "leagueid": 76,
+    "artificialkey": 426,
+    "teamid": 266,
+    "nationid": 211
+  },
+  {
+    "leagueid": 76,
+    "artificialkey": 427,
+    "teamid": 267,
+    "nationid": 211
+  },
+  {
+    "leagueid": 76,
+    "artificialkey": 428,
+    "teamid": 278,
+    "nationid": 211
+  },
+  {
+    "leagueid": 76,
+    "artificialkey": 429,
+    "teamid": 280,
+    "nationid": 211
+  },
+  {
+    "leagueid": 76,
+    "artificialkey": 430,
+    "teamid": 315,
+    "nationid": 211
+  },
+  {
+    "leagueid": 76,
+    "artificialkey": 431,
+    "teamid": 393,
+    "nationid": 211
+  },
+  {
+    "leagueid": 76,
+    "artificialkey": 432,
+    "teamid": 1884,
+    "nationid": 211
+  },
+  {
+    "leagueid": 76,
+    "artificialkey": 433,
+    "teamid": 100325,
+    "nationid": 211
+  },
+  {
+    "leagueid": 76,
+    "artificialkey": 434,
+    "teamid": 100765,
+    "nationid": 211
+  },
+  {
+    "leagueid": 76,
+    "artificialkey": 435,
+    "teamid": 100767,
+    "nationid": 211
+  },
+  {
+    "leagueid": 76,
+    "artificialkey": 436,
+    "teamid": 101047,
+    "nationid": 211
+  },
+  {
+    "leagueid": 76,
+    "artificialkey": 437,
+    "teamid": 101059,
+    "nationid": 211
+  },
+  {
+    "leagueid": 76,
+    "artificialkey": 438,
+    "teamid": 110468,
+    "nationid": 211
+  },
+  {
+    "leagueid": 76,
+    "artificialkey": 439,
+    "teamid": 110929,
+    "nationid": 211
+  },
+  {
+    "leagueid": 76,
+    "artificialkey": 440,
+    "teamid": 110930,
+    "nationid": 211
+  },
+  {
+    "leagueid": 76,
+    "artificialkey": 441,
+    "teamid": 111596,
+    "nationid": 211
+  },
+  {
+    "leagueid": 76,
+    "artificialkey": 442,
+    "teamid": 111701,
+    "nationid": 211
+  },
+  {
+    "leagueid": 76,
+    "artificialkey": 443,
+    "teamid": 112190,
+    "nationid": 211
+  },
+  {
+    "leagueid": 78,
+    "artificialkey": 444,
+    "teamid": 1318,
+    "nationid": 75
+  },
+  {
+    "leagueid": 78,
+    "artificialkey": 445,
+    "teamid": 1322,
+    "nationid": 75
+  },
+  {
+    "leagueid": 78,
+    "artificialkey": 446,
+    "teamid": 1325,
+    "nationid": 75
+  },
+  {
+    "leagueid": 78,
+    "artificialkey": 447,
+    "teamid": 1327,
+    "nationid": 75
+  },
+  {
+    "leagueid": 78,
+    "artificialkey": 448,
+    "teamid": 1330,
+    "nationid": 75
+  },
+  {
+    "leagueid": 78,
+    "artificialkey": 449,
+    "teamid": 1331,
+    "nationid": 75
+  },
+  {
+    "leagueid": 78,
+    "artificialkey": 450,
+    "teamid": 1334,
+    "nationid": 75
+  },
+  {
+    "leagueid": 78,
+    "artificialkey": 451,
+    "teamid": 1335,
+    "nationid": 75
+  },
+  {
+    "leagueid": 78,
+    "artificialkey": 452,
+    "teamid": 1337,
+    "nationid": 75
+  },
+  {
+    "leagueid": 78,
+    "artificialkey": 453,
+    "teamid": 1338,
+    "nationid": 75
+  },
+  {
+    "leagueid": 78,
+    "artificialkey": 454,
+    "teamid": 1341,
+    "nationid": 75
+  },
+  {
+    "leagueid": 78,
+    "artificialkey": 455,
+    "teamid": 1343,
+    "nationid": 75
+  },
+  {
+    "leagueid": 78,
+    "artificialkey": 456,
+    "teamid": 1352,
+    "nationid": 75
+  },
+  {
+    "leagueid": 78,
+    "artificialkey": 457,
+    "teamid": 1353,
+    "nationid": 75
+  },
+  {
+    "leagueid": 78,
+    "artificialkey": 458,
+    "teamid": 1354,
+    "nationid": 75
+  },
+  {
+    "leagueid": 78,
+    "artificialkey": 459,
+    "teamid": 1355,
+    "nationid": 75
+  },
+  {
+    "leagueid": 78,
+    "artificialkey": 460,
+    "teamid": 1356,
+    "nationid": 75
+  },
+  {
+    "leagueid": 78,
+    "artificialkey": 461,
+    "teamid": 1357,
+    "nationid": 75
+  },
+  {
+    "leagueid": 78,
+    "artificialkey": 462,
+    "teamid": 1359,
+    "nationid": 75
+  },
+  {
+    "leagueid": 78,
+    "artificialkey": 463,
+    "teamid": 1361,
+    "nationid": 75
+  },
+  {
+    "leagueid": 78,
+    "artificialkey": 464,
+    "teamid": 1362,
+    "nationid": 75
+  },
+  {
+    "leagueid": 78,
+    "artificialkey": 465,
+    "teamid": 1363,
+    "nationid": 75
+  },
+  {
+    "leagueid": 78,
+    "artificialkey": 466,
+    "teamid": 1364,
+    "nationid": 75
+  },
+  {
+    "leagueid": 78,
+    "artificialkey": 467,
+    "teamid": 1365,
+    "nationid": 75
+  },
+  {
+    "leagueid": 78,
+    "artificialkey": 468,
+    "teamid": 1367,
+    "nationid": 75
+  },
+  {
+    "leagueid": 78,
+    "artificialkey": 469,
+    "teamid": 1369,
+    "nationid": 75
+  },
+  {
+    "leagueid": 78,
+    "artificialkey": 470,
+    "teamid": 1370,
+    "nationid": 75
+  },
+  {
+    "leagueid": 78,
+    "artificialkey": 471,
+    "teamid": 1375,
+    "nationid": 75
+  },
+  {
+    "leagueid": 78,
+    "artificialkey": 472,
+    "teamid": 1377,
+    "nationid": 75
+  },
+  {
+    "leagueid": 78,
+    "artificialkey": 473,
+    "teamid": 1386,
+    "nationid": 75
+  },
+  {
+    "leagueid": 78,
+    "artificialkey": 474,
+    "teamid": 1387,
+    "nationid": 75
+  },
+  {
+    "leagueid": 78,
+    "artificialkey": 475,
+    "teamid": 1395,
+    "nationid": 75
+  },
+  {
+    "leagueid": 78,
+    "artificialkey": 476,
+    "teamid": 1413,
+    "nationid": 75
+  },
+  {
+    "leagueid": 78,
+    "artificialkey": 477,
+    "teamid": 1415,
+    "nationid": 75
+  },
+  {
+    "leagueid": 78,
+    "artificialkey": 478,
+    "teamid": 1886,
+    "nationid": 75
+  },
+  {
+    "leagueid": 78,
+    "artificialkey": 479,
+    "teamid": 105035,
+    "nationid": 75
+  },
+  {
+    "leagueid": 78,
+    "artificialkey": 480,
+    "teamid": 110081,
+    "nationid": 75
+  },
+  {
+    "leagueid": 78,
+    "artificialkey": 481,
+    "teamid": 111099,
+    "nationid": 75
+  },
+  {
+    "leagueid": 78,
+    "artificialkey": 482,
+    "teamid": 111108,
+    "nationid": 75
+  },
+  {
+    "leagueid": 78,
+    "artificialkey": 483,
+    "teamid": 111109,
+    "nationid": 75
+  },
+  {
+    "leagueid": 78,
+    "artificialkey": 484,
+    "teamid": 111112,
+    "nationid": 75
+  },
+  {
+    "leagueid": 78,
+    "artificialkey": 485,
+    "teamid": 111130,
+    "nationid": 75
+  },
+  {
+    "leagueid": 78,
+    "artificialkey": 486,
+    "teamid": 111451,
+    "nationid": 75
+  },
+  {
+    "leagueid": 78,
+    "artificialkey": 487,
+    "teamid": 111455,
+    "nationid": 75
+  },
+  {
+    "leagueid": 78,
+    "artificialkey": 488,
+    "teamid": 111459,
+    "nationid": 75
+  },
+  {
+    "leagueid": 78,
+    "artificialkey": 489,
+    "teamid": 111465,
+    "nationid": 75
+  },
+  {
+    "leagueid": 78,
+    "artificialkey": 490,
+    "teamid": 111466,
+    "nationid": 75
+  },
+  {
+    "leagueid": 78,
+    "artificialkey": 491,
+    "teamid": 111473,
+    "nationid": 75
+  },
+  {
+    "leagueid": 78,
+    "artificialkey": 492,
+    "teamid": 111487,
+    "nationid": 75
+  },
+  {
+    "leagueid": 80,
+    "artificialkey": 493,
+    "teamid": 191,
+    "nationid": 4
+  },
+  {
+    "leagueid": 80,
+    "artificialkey": 494,
+    "teamid": 209,
+    "nationid": 4
+  },
+  {
+    "leagueid": 80,
+    "artificialkey": 495,
+    "teamid": 252,
+    "nationid": 4
+  },
+  {
+    "leagueid": 80,
+    "artificialkey": 496,
+    "teamid": 254,
+    "nationid": 4
+  },
+  {
+    "leagueid": 80,
+    "artificialkey": 497,
+    "teamid": 256,
+    "nationid": 4
+  },
+  {
+    "leagueid": 80,
+    "artificialkey": 498,
+    "teamid": 1785,
+    "nationid": 4
+  },
+  {
+    "leagueid": 80,
+    "artificialkey": 499,
+    "teamid": 2017,
+    "nationid": 4
+  },
+  {
+    "leagueid": 80,
+    "artificialkey": 500,
+    "teamid": 15009,
+    "nationid": 4
+  },
+  {
+    "leagueid": 80,
+    "artificialkey": 501,
+    "teamid": 15040,
+    "nationid": 4
+  },
+  {
+    "leagueid": 80,
+    "artificialkey": 502,
+    "teamid": 111821,
+    "nationid": 4
+  },
+  {
+    "leagueid": 80,
+    "artificialkey": 503,
+    "teamid": 111822,
+    "nationid": 4
+  },
+  {
+    "leagueid": 80,
+    "artificialkey": 504,
+    "teamid": 112075,
+    "nationid": 4
+  },
+  {
+    "leagueid": 83,
+    "artificialkey": 505,
+    "teamid": 981,
+    "nationid": 167
+  },
+  {
+    "leagueid": 83,
+    "artificialkey": 506,
+    "teamid": 982,
+    "nationid": 167
+  },
+  {
+    "leagueid": 83,
+    "artificialkey": 507,
+    "teamid": 983,
+    "nationid": 167
+  },
+  {
+    "leagueid": 83,
+    "artificialkey": 508,
+    "teamid": 1473,
+    "nationid": 167
+  },
+  {
+    "leagueid": 83,
+    "artificialkey": 509,
+    "teamid": 1474,
+    "nationid": 167
+  },
+  {
+    "leagueid": 83,
+    "artificialkey": 510,
+    "teamid": 1477,
+    "nationid": 167
+  },
+  {
+    "leagueid": 83,
+    "artificialkey": 511,
+    "teamid": 1478,
+    "nationid": 167
+  },
+  {
+    "leagueid": 83,
+    "artificialkey": 512,
+    "teamid": 2055,
+    "nationid": 167
+  },
+  {
+    "leagueid": 83,
+    "artificialkey": 513,
+    "teamid": 2056,
+    "nationid": 167
+  },
+  {
+    "leagueid": 83,
+    "artificialkey": 514,
+    "teamid": 110765,
+    "nationid": 167
+  },
+  {
+    "leagueid": 83,
+    "artificialkey": 515,
+    "teamid": 111588,
+    "nationid": 167
+  },
+  {
+    "leagueid": 83,
+    "artificialkey": 516,
+    "teamid": 112115,
+    "nationid": 167
+  },
+  {
+    "leagueid": 111,
+    "artificialkey": 517,
+    "teamid": 111,
+    "nationid": 0
+  },
+  {
+    "leagueid": 111,
+    "artificialkey": 518,
+    "teamid": 112,
+    "nationid": 0
+  },
+  {
+    "leagueid": 189,
+    "artificialkey": 519,
+    "teamid": 324,
+    "nationid": 47
+  },
+  {
+    "leagueid": 189,
+    "artificialkey": 520,
+    "teamid": 435,
+    "nationid": 47
+  },
+  {
+    "leagueid": 189,
+    "artificialkey": 521,
+    "teamid": 894,
+    "nationid": 47
+  },
+  {
+    "leagueid": 189,
+    "artificialkey": 522,
+    "teamid": 896,
+    "nationid": 47
+  },
+  {
+    "leagueid": 189,
+    "artificialkey": 523,
+    "teamid": 897,
+    "nationid": 47
+  },
+  {
+    "leagueid": 189,
+    "artificialkey": 524,
+    "teamid": 898,
+    "nationid": 47
+  },
+  {
+    "leagueid": 189,
+    "artificialkey": 525,
+    "teamid": 900,
+    "nationid": 47
+  },
+  {
+    "leagueid": 189,
+    "artificialkey": 526,
+    "teamid": 1715,
+    "nationid": 47
+  },
+  {
+    "leagueid": 189,
+    "artificialkey": 527,
+    "teamid": 10032,
+    "nationid": 47
+  },
+  {
+    "leagueid": 189,
+    "artificialkey": 528,
+    "teamid": 110770,
+    "nationid": 47
+  },
+  {
+    "leagueid": 308,
+    "artificialkey": 529,
+    "teamid": 234,
+    "nationid": 38
+  },
+  {
+    "leagueid": 308,
+    "artificialkey": 530,
+    "teamid": 236,
+    "nationid": 38
+  },
+  {
+    "leagueid": 308,
+    "artificialkey": 531,
+    "teamid": 237,
+    "nationid": 38
+  },
+  {
+    "leagueid": 308,
+    "artificialkey": 532,
+    "teamid": 665,
+    "nationid": 38
+  },
+  {
+    "leagueid": 308,
+    "artificialkey": 533,
+    "teamid": 666,
+    "nationid": 38
+  },
+  {
+    "leagueid": 308,
+    "artificialkey": 534,
+    "teamid": 744,
+    "nationid": 38
+  },
+  {
+    "leagueid": 308,
+    "artificialkey": 535,
+    "teamid": 1438,
+    "nationid": 38
+  },
+  {
+    "leagueid": 308,
+    "artificialkey": 536,
+    "teamid": 1887,
+    "nationid": 38
+  },
+  {
+    "leagueid": 308,
+    "artificialkey": 537,
+    "teamid": 1888,
+    "nationid": 38
+  },
+  {
+    "leagueid": 308,
+    "artificialkey": 538,
+    "teamid": 1889,
+    "nationid": 38
+  },
+  {
+    "leagueid": 308,
+    "artificialkey": 539,
+    "teamid": 1892,
+    "nationid": 38
+  },
+  {
+    "leagueid": 308,
+    "artificialkey": 540,
+    "teamid": 1893,
+    "nationid": 38
+  },
+  {
+    "leagueid": 308,
+    "artificialkey": 541,
+    "teamid": 1896,
+    "nationid": 38
+  },
+  {
+    "leagueid": 308,
+    "artificialkey": 542,
+    "teamid": 1898,
+    "nationid": 38
+  },
+  {
+    "leagueid": 308,
+    "artificialkey": 543,
+    "teamid": 1900,
+    "nationid": 38
+  },
+  {
+    "leagueid": 308,
+    "artificialkey": 544,
+    "teamid": 10031,
+    "nationid": 38
+  },
+  {
+    "leagueid": 308,
+    "artificialkey": 545,
+    "teamid": 112516,
+    "nationid": 38
+  },
+  {
+    "leagueid": 308,
+    "artificialkey": 546,
+    "teamid": 112809,
+    "nationid": 38
+  },
+  {
+    "leagueid": 330,
+    "artificialkey": 547,
+    "teamid": 308,
+    "nationid": 39
+  },
+  {
+    "leagueid": 330,
+    "artificialkey": 548,
+    "teamid": 100757,
+    "nationid": 39
+  },
+  {
+    "leagueid": 330,
+    "artificialkey": 549,
+    "teamid": 100761,
+    "nationid": 39
+  },
+  {
+    "leagueid": 330,
+    "artificialkey": 550,
+    "teamid": 110752,
+    "nationid": 39
+  },
+  {
+    "leagueid": 330,
+    "artificialkey": 551,
+    "teamid": 110815,
+    "nationid": 39
+  },
+  {
+    "leagueid": 330,
+    "artificialkey": 552,
+    "teamid": 112637,
+    "nationid": 39
+  },
+  {
+    "leagueid": 330,
+    "artificialkey": 553,
+    "teamid": 112847,
+    "nationid": 39
+  },
+  {
+    "leagueid": 330,
+    "artificialkey": 554,
+    "teamid": 113180,
+    "nationid": 39
+  },
+  {
+    "leagueid": 330,
+    "artificialkey": 555,
+    "teamid": 113182,
+    "nationid": 39
+  },
+  {
+    "leagueid": 330,
+    "artificialkey": 556,
+    "teamid": 113378,
+    "nationid": 39
+  },
+  {
+    "leagueid": 330,
+    "artificialkey": 557,
+    "teamid": 113387,
+    "nationid": 39
+  },
+  {
+    "leagueid": 330,
+    "artificialkey": 558,
+    "teamid": 113391,
+    "nationid": 39
+  },
+  {
+    "leagueid": 330,
+    "artificialkey": 559,
+    "teamid": 114147,
+    "nationid": 39
+  },
+  {
+    "leagueid": 330,
+    "artificialkey": 560,
+    "teamid": 114385,
+    "nationid": 39
+  },
+  {
+    "leagueid": 335,
+    "artificialkey": 561,
+    "teamid": 101097,
+    "nationid": 55
+  },
+  {
+    "leagueid": 335,
+    "artificialkey": 562,
+    "teamid": 110975,
+    "nationid": 55
+  },
+  {
+    "leagueid": 335,
+    "artificialkey": 563,
+    "teamid": 110977,
+    "nationid": 55
+  },
+  {
+    "leagueid": 335,
+    "artificialkey": 564,
+    "teamid": 110978,
+    "nationid": 55
+  },
+  {
+    "leagueid": 335,
+    "artificialkey": 565,
+    "teamid": 111327,
+    "nationid": 55
+  },
+  {
+    "leagueid": 335,
+    "artificialkey": 566,
+    "teamid": 111328,
+    "nationid": 55
+  },
+  {
+    "leagueid": 335,
+    "artificialkey": 567,
+    "teamid": 112116,
+    "nationid": 55
+  },
+  {
+    "leagueid": 335,
+    "artificialkey": 568,
+    "teamid": 112531,
+    "nationid": 55
+  },
+  {
+    "leagueid": 335,
+    "artificialkey": 569,
+    "teamid": 112533,
+    "nationid": 55
+  },
+  {
+    "leagueid": 335,
+    "artificialkey": 570,
+    "teamid": 112534,
+    "nationid": 55
+  },
+  {
+    "leagueid": 335,
+    "artificialkey": 571,
+    "teamid": 112535,
+    "nationid": 55
+  },
+  {
+    "leagueid": 335,
+    "artificialkey": 572,
+    "teamid": 112584,
+    "nationid": 55
+  },
+  {
+    "leagueid": 335,
+    "artificialkey": 573,
+    "teamid": 112655,
+    "nationid": 55
+  },
+  {
+    "leagueid": 335,
+    "artificialkey": 574,
+    "teamid": 112705,
+    "nationid": 55
+  },
+  {
+    "leagueid": 335,
+    "artificialkey": 575,
+    "teamid": 113826,
+    "nationid": 55
+  },
+  {
+    "leagueid": 335,
+    "artificialkey": 576,
+    "teamid": 114145,
+    "nationid": 55
+  },
+  {
+    "leagueid": 336,
+    "artificialkey": 577,
+    "teamid": 101099,
+    "nationid": 56
+  },
+  {
+    "leagueid": 336,
+    "artificialkey": 578,
+    "teamid": 101100,
+    "nationid": 56
+  },
+  {
+    "leagueid": 336,
+    "artificialkey": 579,
+    "teamid": 101101,
+    "nationid": 56
+  },
+  {
+    "leagueid": 336,
+    "artificialkey": 580,
+    "teamid": 101102,
+    "nationid": 56
+  },
+  {
+    "leagueid": 336,
+    "artificialkey": 581,
+    "teamid": 101103,
+    "nationid": 56
+  },
+  {
+    "leagueid": 336,
+    "artificialkey": 582,
+    "teamid": 101104,
+    "nationid": 56
+  },
+  {
+    "leagueid": 336,
+    "artificialkey": 583,
+    "teamid": 101105,
+    "nationid": 56
+  },
+  {
+    "leagueid": 336,
+    "artificialkey": 584,
+    "teamid": 101106,
+    "nationid": 56
+  },
+  {
+    "leagueid": 336,
+    "artificialkey": 585,
+    "teamid": 111721,
+    "nationid": 56
+  },
+  {
+    "leagueid": 336,
+    "artificialkey": 586,
+    "teamid": 111722,
+    "nationid": 56
+  },
+  {
+    "leagueid": 336,
+    "artificialkey": 587,
+    "teamid": 111723,
+    "nationid": 56
+  },
+  {
+    "leagueid": 336,
+    "artificialkey": 588,
+    "teamid": 112523,
+    "nationid": 56
+  },
+  {
+    "leagueid": 336,
+    "artificialkey": 589,
+    "teamid": 112526,
+    "nationid": 56
+  },
+  {
+    "leagueid": 336,
+    "artificialkey": 590,
+    "teamid": 112527,
+    "nationid": 56
+  },
+  {
+    "leagueid": 336,
+    "artificialkey": 591,
+    "teamid": 112528,
+    "nationid": 56
+  },
+  {
+    "leagueid": 336,
+    "artificialkey": 592,
+    "teamid": 112578,
+    "nationid": 56
+  },
+  {
+    "leagueid": 336,
+    "artificialkey": 593,
+    "teamid": 112579,
+    "nationid": 56
+  },
+  {
+    "leagueid": 336,
+    "artificialkey": 594,
+    "teamid": 112715,
+    "nationid": 56
+  },
+  {
+    "leagueid": 336,
+    "artificialkey": 595,
+    "teamid": 112903,
+    "nationid": 56
+  },
+  {
+    "leagueid": 336,
+    "artificialkey": 596,
+    "teamid": 112992,
+    "nationid": 56
+  },
+  {
+    "leagueid": 341,
+    "artificialkey": 597,
+    "teamid": 1028,
+    "nationid": 83
+  },
+  {
+    "leagueid": 341,
+    "artificialkey": 598,
+    "teamid": 1032,
+    "nationid": 83
+  },
+  {
+    "leagueid": 341,
+    "artificialkey": 599,
+    "teamid": 1878,
+    "nationid": 83
+  },
+  {
+    "leagueid": 341,
+    "artificialkey": 600,
+    "teamid": 1879,
+    "nationid": 83
+  },
+  {
+    "leagueid": 341,
+    "artificialkey": 601,
+    "teamid": 1880,
+    "nationid": 83
+  },
+  {
+    "leagueid": 341,
+    "artificialkey": 602,
+    "teamid": 1881,
+    "nationid": 83
+  },
+  {
+    "leagueid": 341,
+    "artificialkey": 603,
+    "teamid": 1882,
+    "nationid": 83
+  },
+  {
+    "leagueid": 341,
+    "artificialkey": 604,
+    "teamid": 1970,
+    "nationid": 83
+  },
+  {
+    "leagueid": 341,
+    "artificialkey": 605,
+    "teamid": 101114,
+    "nationid": 83
+  },
+  {
+    "leagueid": 341,
+    "artificialkey": 606,
+    "teamid": 101121,
+    "nationid": 83
+  },
+  {
+    "leagueid": 341,
+    "artificialkey": 607,
+    "teamid": 110144,
+    "nationid": 83
+  },
+  {
+    "leagueid": 341,
+    "artificialkey": 608,
+    "teamid": 110145,
+    "nationid": 83
+  },
+  {
+    "leagueid": 341,
+    "artificialkey": 609,
+    "teamid": 110147,
+    "nationid": 83
+  },
+  {
+    "leagueid": 341,
+    "artificialkey": 610,
+    "teamid": 110150,
+    "nationid": 83
+  },
+  {
+    "leagueid": 341,
+    "artificialkey": 611,
+    "teamid": 110152,
+    "nationid": 83
+  },
+  {
+    "leagueid": 341,
+    "artificialkey": 612,
+    "teamid": 110781,
+    "nationid": 83
+  },
+  {
+    "leagueid": 341,
+    "artificialkey": 613,
+    "teamid": 111678,
+    "nationid": 83
+  },
+  {
+    "leagueid": 341,
+    "artificialkey": 614,
+    "teamid": 112678,
+    "nationid": 83
+  },
+  {
+    "leagueid": 341,
+    "artificialkey": 615,
+    "teamid": 113134,
+    "nationid": 83
+  },
+  {
+    "leagueid": 349,
+    "artificialkey": 616,
+    "teamid": 101144,
+    "nationid": 163
+  },
+  {
+    "leagueid": 349,
+    "artificialkey": 617,
+    "teamid": 101146,
+    "nationid": 163
+  },
+  {
+    "leagueid": 349,
+    "artificialkey": 618,
+    "teamid": 101147,
+    "nationid": 163
+  },
+  {
+    "leagueid": 349,
+    "artificialkey": 619,
+    "teamid": 101148,
+    "nationid": 163
+  },
+  {
+    "leagueid": 349,
+    "artificialkey": 620,
+    "teamid": 101149,
+    "nationid": 163
+  },
+  {
+    "leagueid": 349,
+    "artificialkey": 621,
+    "teamid": 101150,
+    "nationid": 163
+  },
+  {
+    "leagueid": 349,
+    "artificialkey": 622,
+    "teamid": 101151,
+    "nationid": 163
+  },
+  {
+    "leagueid": 349,
+    "artificialkey": 623,
+    "teamid": 111575,
+    "nationid": 163
+  },
+  {
+    "leagueid": 349,
+    "artificialkey": 624,
+    "teamid": 111730,
+    "nationid": 163
+  },
+  {
+    "leagueid": 349,
+    "artificialkey": 625,
+    "teamid": 112092,
+    "nationid": 163
+  },
+  {
+    "leagueid": 349,
+    "artificialkey": 626,
+    "teamid": 112093,
+    "nationid": 163
+  },
+  {
+    "leagueid": 349,
+    "artificialkey": 627,
+    "teamid": 112444,
+    "nationid": 163
+  },
+  {
+    "leagueid": 349,
+    "artificialkey": 628,
+    "teamid": 112836,
+    "nationid": 163
+  },
+  {
+    "leagueid": 349,
+    "artificialkey": 629,
+    "teamid": 113157,
+    "nationid": 163
+  },
+  {
+    "leagueid": 349,
+    "artificialkey": 630,
+    "teamid": 113158,
+    "nationid": 163
+  },
+  {
+    "leagueid": 349,
+    "artificialkey": 631,
+    "teamid": 113160,
+    "nationid": 163
+  },
+  {
+    "leagueid": 349,
+    "artificialkey": 632,
+    "teamid": 113161,
+    "nationid": 163
+  },
+  {
+    "leagueid": 349,
+    "artificialkey": 633,
+    "teamid": 113183,
+    "nationid": 163
+  },
+  {
+    "leagueid": 350,
+    "artificialkey": 634,
+    "teamid": 605,
+    "nationid": 183
+  },
+  {
+    "leagueid": 350,
+    "artificialkey": 635,
+    "teamid": 607,
+    "nationid": 183
+  },
+  {
+    "leagueid": 350,
+    "artificialkey": 636,
+    "teamid": 111674,
+    "nationid": 183
+  },
+  {
+    "leagueid": 350,
+    "artificialkey": 637,
+    "teamid": 112096,
+    "nationid": 183
+  },
+  {
+    "leagueid": 350,
+    "artificialkey": 638,
+    "teamid": 112139,
+    "nationid": 183
+  },
+  {
+    "leagueid": 350,
+    "artificialkey": 639,
+    "teamid": 112387,
+    "nationid": 183
+  },
+  {
+    "leagueid": 350,
+    "artificialkey": 640,
+    "teamid": 112389,
+    "nationid": 183
+  },
+  {
+    "leagueid": 350,
+    "artificialkey": 641,
+    "teamid": 112390,
+    "nationid": 183
+  },
+  {
+    "leagueid": 350,
+    "artificialkey": 642,
+    "teamid": 112392,
+    "nationid": 183
+  },
+  {
+    "leagueid": 350,
+    "artificialkey": 643,
+    "teamid": 112393,
+    "nationid": 183
+  },
+  {
+    "leagueid": 350,
+    "artificialkey": 644,
+    "teamid": 112408,
+    "nationid": 183
+  },
+  {
+    "leagueid": 350,
+    "artificialkey": 645,
+    "teamid": 113057,
+    "nationid": 183
+  },
+  {
+    "leagueid": 350,
+    "artificialkey": 646,
+    "teamid": 113058,
+    "nationid": 183
+  },
+  {
+    "leagueid": 350,
+    "artificialkey": 647,
+    "teamid": 113217,
+    "nationid": 183
+  },
+  {
+    "leagueid": 350,
+    "artificialkey": 648,
+    "teamid": 113222,
+    "nationid": 183
+  },
+  {
+    "leagueid": 350,
+    "artificialkey": 649,
+    "teamid": 113345,
+    "nationid": 183
+  },
+  {
+    "leagueid": 351,
+    "artificialkey": 650,
+    "teamid": 111393,
+    "nationid": 195
+  },
+  {
+    "leagueid": 351,
+    "artificialkey": 651,
+    "teamid": 111395,
+    "nationid": 195
+  },
+  {
+    "leagueid": 351,
+    "artificialkey": 652,
+    "teamid": 111396,
+    "nationid": 195
+  },
+  {
+    "leagueid": 351,
+    "artificialkey": 653,
+    "teamid": 111397,
+    "nationid": 195
+  },
+  {
+    "leagueid": 351,
+    "artificialkey": 654,
+    "teamid": 111398,
+    "nationid": 195
+  },
+  {
+    "leagueid": 351,
+    "artificialkey": 655,
+    "teamid": 111399,
+    "nationid": 195
+  },
+  {
+    "leagueid": 351,
+    "artificialkey": 656,
+    "teamid": 111400,
+    "nationid": 195
+  },
+  {
+    "leagueid": 351,
+    "artificialkey": 657,
+    "teamid": 111766,
+    "nationid": 195
+  },
+  {
+    "leagueid": 351,
+    "artificialkey": 658,
+    "teamid": 112224,
+    "nationid": 195
+  },
+  {
+    "leagueid": 351,
+    "artificialkey": 659,
+    "teamid": 112427,
+    "nationid": 195
+  },
+  {
+    "leagueid": 351,
+    "artificialkey": 660,
+    "teamid": 114023,
+    "nationid": 195
+  },
+  {
+    "leagueid": 353,
+    "artificialkey": 661,
+    "teamid": 1013,
+    "nationid": 52
+  },
+  {
+    "leagueid": 353,
+    "artificialkey": 662,
+    "teamid": 101083,
+    "nationid": 52
+  },
+  {
+    "leagueid": 353,
+    "artificialkey": 663,
+    "teamid": 101084,
+    "nationid": 52
+  },
+  {
+    "leagueid": 353,
+    "artificialkey": 664,
+    "teamid": 101085,
+    "nationid": 52
+  },
+  {
+    "leagueid": 353,
+    "artificialkey": 665,
+    "teamid": 101088,
+    "nationid": 52
+  },
+  {
+    "leagueid": 353,
+    "artificialkey": 666,
+    "teamid": 110093,
+    "nationid": 52
+  },
+  {
+    "leagueid": 353,
+    "artificialkey": 667,
+    "teamid": 110394,
+    "nationid": 52
+  },
+  {
+    "leagueid": 353,
+    "artificialkey": 668,
+    "teamid": 110395,
+    "nationid": 52
+  },
+  {
+    "leagueid": 353,
+    "artificialkey": 669,
+    "teamid": 110396,
+    "nationid": 52
+  },
+  {
+    "leagueid": 353,
+    "artificialkey": 670,
+    "teamid": 110404,
+    "nationid": 52
+  },
+  {
+    "leagueid": 353,
+    "artificialkey": 671,
+    "teamid": 110406,
+    "nationid": 52
+  },
+  {
+    "leagueid": 353,
+    "artificialkey": 672,
+    "teamid": 110580,
+    "nationid": 52
+  },
+  {
+    "leagueid": 353,
+    "artificialkey": 673,
+    "teamid": 110581,
+    "nationid": 52
+  },
+  {
+    "leagueid": 353,
+    "artificialkey": 674,
+    "teamid": 111019,
+    "nationid": 52
+  },
+  {
+    "leagueid": 353,
+    "artificialkey": 675,
+    "teamid": 111706,
+    "nationid": 52
+  },
+  {
+    "leagueid": 353,
+    "artificialkey": 676,
+    "teamid": 111707,
+    "nationid": 52
+  },
+  {
+    "leagueid": 353,
+    "artificialkey": 677,
+    "teamid": 111708,
+    "nationid": 52
+  },
+  {
+    "leagueid": 353,
+    "artificialkey": 678,
+    "teamid": 111710,
+    "nationid": 52
+  },
+  {
+    "leagueid": 353,
+    "artificialkey": 679,
+    "teamid": 111711,
+    "nationid": 52
+  },
+  {
+    "leagueid": 353,
+    "artificialkey": 680,
+    "teamid": 111716,
+    "nationid": 52
+  },
+  {
+    "leagueid": 353,
+    "artificialkey": 681,
+    "teamid": 112670,
+    "nationid": 52
+  },
+  {
+    "leagueid": 353,
+    "artificialkey": 682,
+    "teamid": 112965,
+    "nationid": 52
+  },
+  {
+    "leagueid": 353,
+    "artificialkey": 683,
+    "teamid": 114144,
+    "nationid": 52
+  },
+  {
+    "leagueid": 353,
+    "artificialkey": 684,
+    "teamid": 114149,
+    "nationid": 52
+  },
+  {
+    "leagueid": 382,
+    "artificialkey": 685,
+    "teamid": 111592,
+    "nationid": 210
+  },
+  {
+    "leagueid": 2012,
+    "artificialkey": 686,
+    "teamid": 110955,
+    "nationid": 155
+  },
+  {
+    "leagueid": 2012,
+    "artificialkey": 687,
+    "teamid": 111724,
+    "nationid": 155
+  },
+  {
+    "leagueid": 2012,
+    "artificialkey": 688,
+    "teamid": 111768,
+    "nationid": 155
+  },
+  {
+    "leagueid": 2012,
+    "artificialkey": 689,
+    "teamid": 111773,
+    "nationid": 155
+  },
+  {
+    "leagueid": 2012,
+    "artificialkey": 690,
+    "teamid": 111774,
+    "nationid": 155
+  },
+  {
+    "leagueid": 2012,
+    "artificialkey": 691,
+    "teamid": 111779,
+    "nationid": 155
+  },
+  {
+    "leagueid": 2012,
+    "artificialkey": 692,
+    "teamid": 111839,
+    "nationid": 155
+  },
+  {
+    "leagueid": 2012,
+    "artificialkey": 693,
+    "teamid": 112162,
+    "nationid": 155
+  },
+  {
+    "leagueid": 2012,
+    "artificialkey": 694,
+    "teamid": 112165,
+    "nationid": 155
+  },
+  {
+    "leagueid": 2012,
+    "artificialkey": 695,
+    "teamid": 112378,
+    "nationid": 155
+  },
+  {
+    "leagueid": 2012,
+    "artificialkey": 696,
+    "teamid": 112429,
+    "nationid": 155
+  },
+  {
+    "leagueid": 2012,
+    "artificialkey": 697,
+    "teamid": 112537,
+    "nationid": 155
+  },
+  {
+    "leagueid": 2012,
+    "artificialkey": 698,
+    "teamid": 112540,
+    "nationid": 155
+  },
+  {
+    "leagueid": 2012,
+    "artificialkey": 699,
+    "teamid": 112541,
+    "nationid": 155
+  },
+  {
+    "leagueid": 2012,
+    "artificialkey": 700,
+    "teamid": 112978,
+    "nationid": 155
+  },
+  {
+    "leagueid": 2012,
+    "artificialkey": 701,
+    "teamid": 112983,
+    "nationid": 155
+  },
+  {
+    "leagueid": 2028,
+    "artificialkey": 702,
+    "teamid": 112264,
+    "nationid": 0
+  },
+  {
+    "leagueid": 2076,
+    "artificialkey": 703,
+    "teamid": 27,
+    "nationid": 21
+  },
+  {
+    "leagueid": 2076,
+    "artificialkey": 704,
+    "teamid": 29,
+    "nationid": 21
+  },
+  {
+    "leagueid": 2076,
+    "artificialkey": 705,
+    "teamid": 33,
+    "nationid": 21
+  },
+  {
+    "leagueid": 2076,
+    "artificialkey": 706,
+    "teamid": 167,
+    "nationid": 21
+  },
+  {
+    "leagueid": 2076,
+    "artificialkey": 707,
+    "teamid": 172,
+    "nationid": 21
+  },
+  {
+    "leagueid": 2076,
+    "artificialkey": 708,
+    "teamid": 507,
+    "nationid": 21
+  },
+  {
+    "leagueid": 2076,
+    "artificialkey": 709,
+    "teamid": 531,
+    "nationid": 21
+  },
+  {
+    "leagueid": 2076,
+    "artificialkey": 710,
+    "teamid": 1825,
+    "nationid": 21
+  },
+  {
+    "leagueid": 2076,
+    "artificialkey": 711,
+    "teamid": 110197,
+    "nationid": 21
+  },
+  {
+    "leagueid": 2076,
+    "artificialkey": 712,
+    "teamid": 110482,
+    "nationid": 21
+  },
+  {
+    "leagueid": 2076,
+    "artificialkey": 713,
+    "teamid": 110500,
+    "nationid": 21
+  },
+  {
+    "leagueid": 2076,
+    "artificialkey": 714,
+    "teamid": 110532,
+    "nationid": 21
+  },
+  {
+    "leagueid": 2076,
+    "artificialkey": 715,
+    "teamid": 110588,
+    "nationid": 21
+  },
+  {
+    "leagueid": 2076,
+    "artificialkey": 716,
+    "teamid": 110591,
+    "nationid": 21
+  },
+  {
+    "leagueid": 2076,
+    "artificialkey": 717,
+    "teamid": 110592,
+    "nationid": 21
+  },
+  {
+    "leagueid": 2076,
+    "artificialkey": 718,
+    "teamid": 110597,
+    "nationid": 21
+  },
+  {
+    "leagueid": 2076,
+    "artificialkey": 719,
+    "teamid": 110645,
+    "nationid": 21
+  },
+  {
+    "leagueid": 2076,
+    "artificialkey": 720,
+    "teamid": 110679,
+    "nationid": 21
+  },
+  {
+    "leagueid": 2076,
+    "artificialkey": 721,
+    "teamid": 111239,
+    "nationid": 21
+  },
+  {
+    "leagueid": 2076,
+    "artificialkey": 722,
+    "teamid": 111379,
+    "nationid": 21
+  },
+  {
+    "leagueid": 2092,
+    "artificialkey": 723,
+    "teamid": 112288,
+    "nationid": 210
+  },
+  {
+    "leagueid": 2092,
+    "artificialkey": 724,
+    "teamid": 112301,
+    "nationid": 210
+  },
+  {
+    "leagueid": 2092,
+    "artificialkey": 725,
+    "teamid": 112303,
+    "nationid": 210
+  },
+  {
+    "leagueid": 2092,
+    "artificialkey": 726,
+    "teamid": 112304,
+    "nationid": 210
+  },
+  {
+    "leagueid": 2092,
+    "artificialkey": 727,
+    "teamid": 114019,
+    "nationid": 210
+  },
+  {
+    "leagueid": 2136,
+    "artificialkey": 728,
+    "teamid": 112998,
+    "nationid": 222
+  },
+  {
+    "leagueid": 2136,
+    "artificialkey": 729,
+    "teamid": 112999,
+    "nationid": 222
+  },
+  {
+    "leagueid": 2136,
+    "artificialkey": 730,
+    "teamid": 113000,
+    "nationid": 222
+  },
+  {
+    "leagueid": 2136,
+    "artificialkey": 731,
+    "teamid": 113001,
+    "nationid": 222
+  },
+  {
+    "leagueid": 2136,
+    "artificialkey": 732,
+    "teamid": 113002,
+    "nationid": 222
+  },
+  {
+    "leagueid": 2136,
+    "artificialkey": 733,
+    "teamid": 113003,
+    "nationid": 222
+  },
+  {
+    "leagueid": 2136,
+    "artificialkey": 734,
+    "teamid": 113004,
+    "nationid": 222
+  },
+  {
+    "leagueid": 2136,
+    "artificialkey": 735,
+    "teamid": 113006,
+    "nationid": 222
+  },
+  {
+    "leagueid": 2136,
+    "artificialkey": 736,
+    "teamid": 113007,
+    "nationid": 222
+  },
+  {
+    "leagueid": 2136,
+    "artificialkey": 737,
+    "teamid": 113008,
+    "nationid": 222
+  },
+  {
+    "leagueid": 2136,
+    "artificialkey": 738,
+    "teamid": 113009,
+    "nationid": 222
+  },
+  {
+    "leagueid": 2136,
+    "artificialkey": 739,
+    "teamid": 113010,
+    "nationid": 222
+  },
+  {
+    "leagueid": 2136,
+    "artificialkey": 740,
+    "teamid": 113011,
+    "nationid": 222
+  },
+  {
+    "leagueid": 2136,
+    "artificialkey": 741,
+    "teamid": 113012,
+    "nationid": 222
+  },
+  {
+    "leagueid": 2136,
+    "artificialkey": 742,
+    "teamid": 113258,
+    "nationid": 222
+  },
+  {
+    "leagueid": 2136,
+    "artificialkey": 743,
+    "teamid": 113984,
+    "nationid": 222
+  }
+]

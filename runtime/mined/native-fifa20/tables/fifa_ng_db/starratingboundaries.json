@@ -1,0 +1,57 @@
+[
+  {
+    "stars": 0,
+    "starratingfrom": 0,
+    "starratingto": 1
+  },
+  {
+    "stars": 0.5,
+    "starratingfrom": 2,
+    "starratingto": 59
+  },
+  {
+    "stars": 1,
+    "starratingfrom": 60,
+    "starratingto": 62
+  },
+  {
+    "stars": 1.5,
+    "starratingfrom": 63,
+    "starratingto": 64
+  },
+  {
+    "stars": 2,
+    "starratingfrom": 65,
+    "starratingto": 66
+  },
+  {
+    "stars": 2.5,
+    "starratingfrom": 67,
+    "starratingto": 68
+  },
+  {
+    "stars": 3,
+    "starratingfrom": 69,
+    "starratingto": 70
+  },
+  {
+    "stars": 3.5,
+    "starratingfrom": 71,
+    "starratingto": 74
+  },
+  {
+    "stars": 4,
+    "starratingfrom": 75,
+    "starratingto": 78
+  },
+  {
+    "stars": 4.5,
+    "starratingfrom": 79,
+    "starratingto": 82
+  },
+  {
+    "stars": 5,
+    "starratingfrom": 83,
+    "starratingto": 99
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "artificialkey": 0,
+    "squadtype": 1,
+    "turf": 0
+  },
+  {
+    "artificialkey": 1,
+    "squadtype": 2,
+    "turf": 0
+  },
+  {
+    "artificialkey": 2,
+    "squadtype": 3,
+    "turf": 0
+  },
+  {
+    "artificialkey": 3,
+    "squadtype": 4,
+    "turf": 0
+  },
+  {
+    "artificialkey": 4,
+    "squadtype": 5,
+    "turf": 0
+  },
+  {
+    "artificialkey": 5,
+    "squadtype": 6,
+    "turf": 0
+  },
+  {
+    "artificialkey": 6,
+    "squadtype": 1,
+    "turf": 1
+  },
+  {
+    "artificialkey": 7,
+    "squadtype": 2,
+    "turf": 1
+  },
+  {
+    "artificialkey": 8,
+    "squadtype": 3,
+    "turf": 1
+  },
+  {
+    "artificialkey": 9,
+    "squadtype": 4,
+    "turf": 1
+  },
+  {
+    "artificialkey": 10,
+    "squadtype": 5,
+    "turf": 1
+  },
+  {
+    "artificialkey": 11,
+    "squadtype": 6,
+    "turf": 1
+  },
+  {
+    "artificialkey": 12,
+    "squadtype": 5,
+    "turf": 2
+  },
+  {
+    "artificialkey": 13,
+    "squadtype": 6,
+    "turf": 2
+  },
+  {
+    "artificialkey": 14,
+    "squadtype": 5,
+    "turf": 3
+  },
+  {
+    "artificialkey": 15,
+    "squadtype": 6,
+    "turf": 3
+  },
+  {
+    "artificialkey": 16,
+    "squadtype": 3,
+    "turf": 4
+  },
+  {
+    "artificialkey": 17,
+    "squadtype": 4,
+    "turf": 4
+  },
+  {
+    "artificialkey": 18,
+    "squadtype": 5,
+    "turf": 4
+  },
+  {
+    "artificialkey": 19,
+    "squadtype": 6,
+    "turf": 4
+  },
+  {
+    "artificialkey": 20,
+    "squadtype": 3,
+    "turf": 5
+  },
+  {
+    "artificialkey": 21,
+    "squadtype": 4,
+    "turf": 5
+  },
+  {
+    "artificialkey": 22,
+    "squadtype": 5,
+    "turf": 5
+  },
+  {
+    "artificialkey": 23,
+    "squadtype": 6,
+    "turf": 5
+  },
+  {
+    "artificialkey": 24,
+    "squadtype": 1,
+    "turf": 6
+  },
+  {
+    "artificialkey": 25,
+    "squadtype": 2,
+    "turf": 6
+  },
+  {
+    "artificialkey": 26,
+    "squadtype": 3,
+    "turf": 6
+  },
+  {
+    "artificialkey": 27,
+    "squadtype": 4,
+    "turf": 6
+  },
+  {
+    "artificialkey": 28,
+    "squadtype": 5,
+    "turf": 6
+  },
+  {
+    "artificialkey": 29,
+    "squadtype": 6,
+    "turf": 6
+  }
+]
