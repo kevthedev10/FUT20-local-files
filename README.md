@@ -1,4 +1,5 @@
-# FIFA 20 Local FUT
+# Refut 20 Local FUT by kevin (antirevival)
+join discord for more info : https://discord.gg/ZqmwmpNUF3
 
 ### 1.0.32 Live Objective mapping + in-session refresh test
 
